@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-02-17
+
+----------------------------------------
+ARTICLE 1: California Braces for Major Winter Storm, Powered by AI
+Source: Coeur d'Alene Press
+URL: https://cdapress.com/news/2026/feb/16/california-braces-for-a-major-winter-storm-expected-to-bring-heavy-rain-and-snow/
+
+SUMMARY:
+A major winter storm is expected to hit California, bringing heavy rain and snow. Pacific Gas & Electric is utilizing artificial intelligence and machine-learning enhanced weather models to prepare for the storm. The storm is anticipated to progress in several phases, with multiple storm systems moving through the region, intensifying the risks from wind, rain, and snow. The National Weather Service is urging people to take precautions, and the utility company is strategically sending crews and equipment to areas of need. The storm's impact is expected to be significant, with treacherous thunderstorms, high winds, and heavy snow in mountain areas.
+
+SHORT-FORM SCRIPT:
+California is bracing for a major winter storm, with AI-powered weather models helping crews prepare. Heavy rain, snow, and high winds are expected, with multiple storm systems moving through the region.
+
+----------------------------------------
+ARTICLE 2: Revolutionizing Education: Meet SAIRA, the Humanoid Robot Teacher
+Source: Malayala Manorama
+URL: https://www.onmanorama.com/news/kerala/2026/02/15/ai-teacher-saira-humanoid-robot-assistant-education.html
+
+SUMMARY:
+A school in Kozhikode has introduced a humanoid robot named 'SAIRA' to make learning more engaging and fun for its students. Developed by the school authorities, SAIRA is designed to use technology to enhance the educational experience. The robotic teacher was inaugurated online and is expected to make a significant impact on student engagement. SAIRA is an example of how AI and robotics can be leveraged to improve education. This innovation has the potential to revolutionize the way we learn and teach.
+
+SHORT-FORM SCRIPT:
+Meet SAIRA, the humanoid robot teacher making waves in education. This AI-powered robotic assistant is designed to make learning fun and engaging for students.
+
+----------------------------------------
+ARTICLE 3: IIT Courses Without JEE Main Scores: A New Era in Education
+Source: The Indian Express
+URL: https://indianexpress.com/article/education/jee-main-2026-results-iit-courses-that-dont-require-jee-mains-advanced-scores-10529631/
+
+SUMMARY:
+The Indian Institute of Technology (IIT) offers various courses that don't require JEE Main scores, focusing on emerging technologies like data science, artificial intelligence, machine learning, and robotics. These courses equip learners with industry-ready skills, bypassing the traditional entrance exam route. IIT Kharagpur's Engineering Mathematics course is one such example, introducing foundational mathematical concepts for undergraduate science and engineering students. The courses are designed to be self-paced and taught by experienced professors. This shift in approach highlights the evolving nature of education and the increasing importance of skills-based learning.
+
+SHORT-FORM SCRIPT:
+Did you know that IIT offers courses without JEE Main scores? From data science to robotics, learn industry-ready skills and bypass traditional exams. Explore the future of education now!
+
+----------------------------------------
+ARTICLE 4: Walnut Coding Accelerates AI Education in China's Schools
+Source: The Manila Times
+URL: https://www.manilatimes.net/2026/02/13/tmt-newswire/pr-newswire/walnut-coding-brings-ai-education-to-schools-through-public-welfare-programming-courses/2277802
+
+SUMMARY:
+Walnut Coding, a leading online coding platform, is bringing AI education to primary and secondary schools across China through public welfare programming courses. The initiative has already reached approximately 140,000 students across 1,029 schools in Shanghai and has benefited over 50,000 teachers nationwide. The company provides structured curriculum materials, professional teacher training, and hands-on learning tools to facilitate the integration of AI education into classrooms. This effort aims to accelerate the adoption of AI education in schools, promoting systematic learning and development of AI skills among young learners. By doing so, Walnut Coding is contributing to the growth of the next generation of tech-savvy professionals in China.
+
+SHORT-FORM SCRIPT:
+Imagine a world where every student has access to AI education. Walnut Coding is making this a reality in China, with public welfare programming courses reaching over 140,000 students and 50,000 teachers. Let's explore how this initiative is shaping the future of tech education.
+
+----------------------------------------
+ARTICLE 5: India's Customs Department to Introduce AI-Powered Cargo Screening Scheme
+Source: NDTV Profit
+URL: https://www.ndtvprofit.com/economy/cbic-to-roll-out-eligible-manufacturer-importer-scheme-by-march-1-chairman-10996275
+
+SUMMARY:
+The Central Board of Indirect Taxes and Customs (CBIC) is set to introduce the Eligible Manufacturer-Importer scheme by March 1, aiming to reduce physical inspections and human intervention in cargo screening. The new system will leverage artificial intelligence and machine learning for risk assessment and data-driven decision-making. A draft framework will be released for stakeholder consultation within five to six days. This move is expected to increase efficiency and speed in cargo processing. The CBIC chairman announced the rollout plan, highlighting the importance of technology in modernizing customs procedures.
+
+SHORT-FORM SCRIPT:
+India's customs department is about to get a major tech boost. The CBIC is introducing a new scheme that uses AI and machine learning to screen cargo, reducing the need for physical inspections and human intervention.
+
