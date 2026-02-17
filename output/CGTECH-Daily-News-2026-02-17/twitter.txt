@@ -2,12 +2,12 @@
 Date: 2026-02-17
 
 ----------------------------------------
-ARTICLE 1: California Braces for Major Winter Storm, Powered by AI
+ARTICLE 1: California Storm: How AI is Helping Prepare for the Worst
 TWEET:
-California braces for major winter storm! AI-powered weather models are helping crews prepare for heavy rain, snow, and high winds. #AI #Weather #California
+California prepares for major winter storm! Pacific Gas & Electric is using AI to get ahead of the storm. What role will AI play in disaster management? #AI #DisasterManagement #CaliforniaStorm
 
 HASHTAGS:
-#AI #Weather #California
+#AI #CaliforniaStorm #DisasterManagement
 
 LINK:
 https://cdapress.com/news/2026/feb/16/california-braces-for-a-major-winter-storm-expected-to-bring-heavy-rain-and-snow/
@@ -15,43 +15,43 @@ https://cdapress.com/news/2026/feb/16/california-braces-for-a-major-winter-storm
 ----------------------------------------
 ARTICLE 2: Revolutionizing Education: Meet SAIRA, the Humanoid Robot Teacher
 TWEET:
-Meet SAIRA, the AI-powered humanoid robot teacher! This innovative robotic assistant is making learning fun and engaging for students. #AI #Education #Innovation
+Meet SAIRA, the humanoid robot teacher making waves in education! This AI-powered robotic assistant is making learning fun for students in Kozhikode. #AI #Education
 
 HASHTAGS:
-#AI #Education #Robotics #Innovation
+#AI #Education #Robotics
 
 LINK:
 https://www.onmanorama.com/news/kerala/2026/02/15/ai-teacher-saira-humanoid-robot-assistant-education.html
 
 ----------------------------------------
-ARTICLE 3: IIT Courses Without JEE Main Scores: A New Era in Education
+ARTICLE 3: IIT Courses Without JEE Main Score: A New Opportunity for Tech Aspirants
 TWEET:
-IIT courses without JEE Main scores? Yes, it's happening! From data science to robotics, learn industry-ready skills and bypass traditional exams. #AI #TechNews #IIT
+No JEE Main score? No problem! IIT now offers courses in data science, AI, machine learning, and more, without requiring a JEE Main score. #AI #Education #IIT
 
 HASHTAGS:
-#AI #TechNews #IIT #Education
+#AI #Education #IIT
 
 LINK:
 https://indianexpress.com/article/education/jee-main-2026-results-iit-courses-that-dont-require-jee-mains-advanced-scores-10529631/
 
 ----------------------------------------
-ARTICLE 4: Walnut Coding Accelerates AI Education in China's Schools
+ARTICLE 4: Walnut Coding Brings AI Education to Schools in China
 TWEET:
-Walnut Coding brings AI education to 140,000 students & 50,000 teachers in China! This initiative is accelerating the adoption of AI education in primary & secondary schools. Follow CGTECH for daily AI updates! #AI #Education
+Walnut Coding is revolutionizing AI education in China, reaching 140,000 students and training 50,000 teachers! #AI #Education #China
 
 HASHTAGS:
-#AI #Education #TechNews
+#AI #Education #China
 
 LINK:
 https://www.manilatimes.net/2026/02/13/tmt-newswire/pr-newswire/walnut-coding-brings-ai-education-to-schools-through-public-welfare-programming-courses/2277802
 
 ----------------------------------------
-ARTICLE 5: India's Customs Department to Introduce AI-Powered Cargo Screening Scheme
+ARTICLE 5: India to Roll Out AI-Powered Customs Clearance Scheme by March 1
 TWEET:
-India's customs department is getting a tech upgrade! The CBIC is introducing a new AI-powered scheme to screen cargo, reducing inspections and increasing efficiency. #AI #TechNews #India
+India's CBIC to roll out Eligible Manufacturer-Importer scheme by March 1, leveraging AI & ML for faster cargo screening! #AI #CustomsClearance
 
 HASHTAGS:
-#AI #TechNews #India
+#AI #CustomsClearance #India
 
 LINK:
 https://www.ndtvprofit.com/economy/cbic-to-roll-out-eligible-manufacturer-importer-scheme-by-march-1-chairman-10996275

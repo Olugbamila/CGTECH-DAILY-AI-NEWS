@@ -2,138 +2,138 @@
 Date: 2026-02-17
 
 ----------------------------------------
-ARTICLE 1: California Braces for Major Winter Storm, Powered by AI
+ARTICLE 1: California Storm: How AI is Helping Prepare for the Worst
 
 HOOK:
-A powerful winter storm is heading to California, but AI is helping to mitigate its impact. Find out how!
+A powerful winter storm is barreling down on California, but this time, artificial intelligence is on the front lines. Can AI help mitigate the impact of the storm?
 
 SCRIPT (SPOKEN):
-California is bracing for a major winter storm, with AI-powered weather models helping crews prepare. Heavy rain, snow, and high winds are expected, with multiple storm systems moving through the region.
+California is bracing for a major winter storm, with heavy rain and snow expected. Pacific Gas & Electric is using AI to prepare, but what does this mean for the future of disaster management?
 
 B-ROLL SUGGESTIONS:
 Scene 1:
-  Narration: A major winter storm is expected to hit California, bringing heavy rain and snow.
-  B-roll: Footage of stormy weather, rain, snow, and high winds in California.
+  Narration: The storm is expected to bring heavy rain and snow to California, causing power outages and disruptions.
+  B-roll: Footage of stormy weather, power lines, and utility crews preparing equipment.
 
 Scene 2:
-  Narration: Pacific Gas & Electric is utilizing artificial intelligence and machine-learning enhanced weather models to prepare for the storm.
-  B-roll: Footage of utility company crews and equipment, such as power poles and transformers, being deployed to areas of need.
-
-Scene 3:
-  Narration: The storm is anticipated to progress in several phases, with multiple storm systems moving through the region.
-  B-roll: Footage of weather maps and radar imagery, showing the progression of the storm systems.
+  Narration: Pacific Gas & Electric is using AI-enhanced weather models to determine where to send crews and equipment.
+  B-roll: Visuals of AI dashboards, weather maps, and utility company control rooms.
 
 HASHTAGS:
-#AI #AITools #Weather #California
+#AI #AITools #DisasterManagement #California
 
 CTA:
-Follow CGTECH for daily AI updates and insights.
+Follow CGTECH for daily AI updates.
 
 ----------------------------------------
 ARTICLE 2: Revolutionizing Education: Meet SAIRA, the Humanoid Robot Teacher
 
 HOOK:
-What if your teacher was a robot? Meet SAIRA, the humanoid robot teacher that's changing the face of education.
+What if your teacher was a robot? Meet SAIRA, the humanoid robot teacher changing the face of education.
 
 SCRIPT (SPOKEN):
-Meet SAIRA, the humanoid robot teacher making waves in education. This AI-powered robotic assistant is designed to make learning fun and engaging for students.
+Meet SAIRA, the humanoid robot teacher making learning fun for students in Kozhikode. With AI-powered interactive lessons, SAIRA is revolutionizing the classroom experience.
 
 B-ROLL SUGGESTIONS:
 Scene 1:
-  Narration: Meet SAIRA, the humanoid robot teacher
-  B-roll: Footage of SAIRA, the humanoid robot teacher, in a classroom setting
+  Narration: Meet SAIRA, the humanoid robot teacher making learning fun for students in Kozhikode.
+  B-roll: Footage of SAIRA in a classroom, interacting with students and teachers.
 
 Scene 2:
-  Narration: SAIRA is designed to make learning fun and engaging for students
-  B-roll: Footage of students interacting with SAIRA, looking engaged and interested
+  Narration: SAIRA is designed to assist teachers and make lessons more interactive through the use of artificial intelligence.
+  B-roll: Close-up shots of SAIRA's screen displaying interactive lessons and educational content.
 
 Scene 3:
-  Narration: The potential impact of AI on education is vast and exciting
-  B-roll: Footage of a futuristic classroom with robots and AI-powered tools
+  Narration: The introduction of SAIRA is a significant step towards integrating technology in education.
+  B-roll: Footage of students engaging with SAIRA, asking questions, and participating in lessons.
 
 HASHTAGS:
-#AI #Robotics #Education #Innovation #Tech
-
-CTA:
-Follow CGTECH for daily AI updates and insights on the latest tech trends.
-
-----------------------------------------
-ARTICLE 3: IIT Courses Without JEE Main Scores: A New Era in Education
-
-HOOK:
-Imagine a world where you can learn from IIT without needing a JEE Main score. This reality is now possible, with courses in data science, AI, and more!
-
-SCRIPT (SPOKEN):
-Did you know that IIT offers courses without JEE Main scores? From data science to robotics, learn industry-ready skills and bypass traditional exams. Explore the future of education now!
-
-B-ROLL SUGGESTIONS:
-Scene 1:
-  Narration: IIT is now offering courses that don't require JEE Main scores, focusing on emerging technologies like data science and artificial intelligence.
-  B-roll: Visuals of IIT campus, students working on laptops, data science and AI-related graphics
-
-Scene 2:
-  Narration: These self-paced courses are designed to equip learners with industry-ready skills, bypassing traditional exams.
-  B-roll: Footage of online learning platforms, students engaging with course materials, industry professionals working on projects
-
-Scene 3:
-  Narration: The Engineering Mathematics course from IIT Kharagpur is one such example, introducing foundational mathematical concepts to undergraduate students.
-  B-roll: Visuals of mathematical equations, graphs, and charts, students working on math problems, IIT Kharagpur campus
-
-HASHTAGS:
-#AI #AITools #IIT #Education #Innovation
+#AI #AITools #Robotics #Education
 
 CTA:
 Follow CGTECH for daily AI updates.
 
 ----------------------------------------
-ARTICLE 4: Walnut Coding Accelerates AI Education in China's Schools
+ARTICLE 3: IIT Courses Without JEE Main Score: A New Opportunity for Tech Aspirants
 
 HOOK:
-Imagine a future where every student has the skills to shape the world of artificial intelligence. Walnut Coding is making this a reality, one school at a time.
+Want to study at IIT without taking the JEE Main exam? Now you can! IIT is offering courses in data science, AI, and more, that don't require a JEE Main score.
 
 SCRIPT (SPOKEN):
-Imagine a world where every student has access to AI education. Walnut Coding is making this a reality in China, with public welfare programming courses reaching over 140,000 students and 50,000 teachers. Let's explore how this initiative is shaping the future of tech education.
+Want to study at IIT without taking the JEE Main exam? Now you can! IIT offers courses in data science, AI, machine learning, and more, that don't require a JEE Main score. Learn from renowned professors and gain industry-ready skills.
 
 B-ROLL SUGGESTIONS:
 Scene 1:
-  Narration: Walnut Coding is bringing AI education to primary and secondary schools across China.
-  B-roll: Footage of students in a classroom, working on computers and engaging with AI-related materials.
+  Narration: Introduction to IIT courses without JEE Main score
+  B-roll: Footage of IIT campus, students studying, and professors teaching
 
 Scene 2:
-  Narration: Their public welfare programming courses have already reached approximately 140,000 students and 50,000 teachers.
-  B-roll: Visuals of teachers attending training sessions, with screenshots of the curriculum materials and hands-on learning tools.
+  Narration: Benefits of studying at IIT
+  B-roll: Footage of students working on projects, collaborating with peers, and interacting with industry professionals
 
 Scene 3:
-  Narration: By providing structured curriculum materials, professional teacher training, and hands-on learning tools, Walnut Coding is facilitating the systematic integration of AI education into classrooms.
-  B-roll: Images of students working on AI-related projects, with footage of robots, dashboards, and other AI-powered technologies.
+  Narration: Overview of courses offered
+  B-roll: Footage of course materials, online lectures, and students engaging with course content
 
 HASHTAGS:
-#AI #AITools #Coding #Education
+#AI #AITools #IIT #TechEducation
 
 CTA:
 Follow CGTECH for daily AI updates.
 
 ----------------------------------------
-ARTICLE 5: India's Customs Department to Introduce AI-Powered Cargo Screening Scheme
+ARTICLE 4: Walnut Coding Brings AI Education to Schools in China
 
 HOOK:
-India's customs department is on the verge of a major technological transformation, one that could revolutionize the way cargo is screened and processed.
+What if every student had access to AI education? Walnut Coding is making that a reality, one school at a time.
 
 SCRIPT (SPOKEN):
-India's customs department is about to get a major tech boost. The CBIC is introducing a new scheme that uses AI and machine learning to screen cargo, reducing the need for physical inspections and human intervention.
+Imagine a world where every student has access to AI education. Walnut Coding is making that a reality, bringing AI education to schools in China through public welfare programming courses.
 
 B-ROLL SUGGESTIONS:
 Scene 1:
-  Narration: The Central Board of Indirect Taxes and Customs is set to introduce a new scheme that uses AI and machine learning to screen cargo.
-  B-roll: Footage of cargo ships, containers, and customs officers at work, with AI and machine learning-related visuals overlaid.
+  Narration: Walnut Coding is bringing AI education to schools in China through public welfare programming courses.
+  B-roll: Students in a classroom working on computers, with a teacher providing guidance.
 
 Scene 2:
-  Narration: This initiative aims to reduce physical inspections and human intervention, making the process faster and more efficient.
-  B-roll: Visuals of automated cargo screening systems, robots, and data analytics dashboards.
+  Narration: The initiative has already reached 140,000 students and provided training to over 50,000 teachers.
+  B-roll: A montage of teachers receiving training, with a voiceover highlighting the impact of the program.
+
+Scene 3:
+  Narration: By providing access to AI education, Walnut Coding is empowering the next generation of learners with the skills they need to succeed.
+  B-roll: A student working on a project, with a robot or other AI-related technology in the background.
 
 HASHTAGS:
-#AI #AITools #TechNews #Innovation
+#AI #AITools #Education #China
 
 CTA:
-Follow CGTECH for daily AI updates and analysis.
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 5: India to Roll Out AI-Powered Customs Clearance Scheme by March 1
+
+HOOK:
+India is about to revolutionize its customs clearance process with the power of AI! The CBIC is rolling out a new scheme that uses machine learning to speed up cargo screening.
+
+SCRIPT (SPOKEN):
+India's customs board is rolling out a new scheme that uses AI and machine learning to speed up cargo screening and reduce physical inspections. This could mean faster clearance times and less human intervention.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The Central Board of Indirect Taxes and Customs, or CBIC, is set to introduce the Eligible Manufacturer-Importer scheme by March 1.
+  B-roll: Footage of cargo ships, customs officials, and AI-powered screening technology
+
+Scene 2:
+  Narration: This new system uses artificial intelligence and machine learning to reduce physical inspections and human intervention.
+  B-roll: Visuals of AI algorithms, machine learning models, and data analytics dashboards
+
+Scene 3:
+  Narration: The goal is to enable faster, data-driven decision-making and increase efficiency in the customs clearance process.
+  B-roll: Footage of customs officials working with AI-powered systems, and cargo being cleared quickly and efficiently
+
+HASHTAGS:
+#AI #AITools #CustomsClearance #Trade
+
+CTA:
+Follow CGTECH for daily AI updates.
 

@@ -3,36 +3,36 @@ Date: 2026-02-17
 
 ----------------------------------------
 VIDEO TITLE:
-California Braces for Major Winter Storm, Powered by AI
+California Storm: How AI is Helping Prepare for the Worst
 
 SCRIPT (1–2 MINUTES):
-Introduction to the winter storm heading to California, and how Pacific Gas & Electric is using AI-powered weather models to prepare. The storm is expected to bring heavy rain, snow, and high winds, with multiple storm systems moving through the region. We'll take a closer look at the role of AI in disaster response and mitigation, and explore ways to apply similar technologies in other contexts.
+Welcome to our channel, where we explore the latest developments in AI and technology. Today, we're talking about the major winter storm headed to California and how Pacific Gas & Electric is using artificial intelligence to prepare. From AI-enhanced weather models to predictive maintenance, we'll dive into the ways technology is being used to mitigate the impact of the storm. We'll also discuss the broader implications of AI in disaster management and what this means for the future of our communities.
 
 REFERENCE LINK:
 https://cdapress.com/news/2026/feb/16/california-braces-for-a-major-winter-storm-expected-to-bring-heavy-rain-and-snow/
 
 CTA:
-Follow CGTECH for daily AI updates and insights.
+Follow CGTECH for daily AI updates.
 
 ----------------------------------------
 VIDEO TITLE:
 Revolutionizing Education: Meet SAIRA, the Humanoid Robot Teacher
 
 SCRIPT (1–2 MINUTES):
-Welcome to our channel, where we explore the latest innovations in tech and education. Today, we're excited to introduce you to SAIRA, the humanoid robot teacher that's making learning fun and engaging for students. Developed by the school authorities, SAIRA is an AI-powered robotic assistant designed to enhance the educational experience. In this video, we'll take a closer look at SAIRA's capabilities and explore the potential impact of AI on education.
+Welcome to our channel, where we explore the latest advancements in AI and education. Today, we're talking about SAIRA, the humanoid robot teacher that's making learning fun for students in Kozhikode. Developed by the school authorities, SAIRA is an AI-powered robotic assistant designed to assist teachers and make lessons more interactive. From its inauguration to its impact on students, we'll take a closer look at SAIRA and its potential to transform the education sector.
 
 REFERENCE LINK:
 https://www.onmanorama.com/news/kerala/2026/02/15/ai-teacher-saira-humanoid-robot-assistant-education.html
 
 CTA:
-Follow CGTECH for daily AI updates and insights on the latest tech trends.
+Follow CGTECH for daily AI updates.
 
 ----------------------------------------
 VIDEO TITLE:
-IIT Courses Without JEE Main Scores: A New Era in Education
+IIT Courses Without JEE Main Score: A New Opportunity for Tech Aspirants
 
 SCRIPT (1–2 MINUTES):
-Welcome to our channel, where we explore the latest developments in AI and education. Today, we're discussing IIT's innovative approach to learning, offering courses that don't require JEE Main scores. From data science to robotics, these courses are designed to equip students with industry-ready skills and bypass traditional exams. Let's dive into the details and examine the implications of this shift. We'll also be discussing the Engineering Mathematics course from IIT Kharagpur, and how it's introducing foundational mathematical concepts to undergraduate students.
+Introduction to IIT courses without JEE Main score. Are you interested in studying at IIT but didn't perform well in the JEE Main exam? Well, you're in luck! IIT is now offering courses in data science, AI, machine learning, and more, that don't require a JEE Main score. In this video, we'll take a closer look at these courses and what they have to offer. From the benefits of studying at IIT to the skills you'll gain, we'll cover it all. So, let's get started!
 
 REFERENCE LINK:
 https://indianexpress.com/article/education/jee-main-2026-results-iit-courses-that-dont-require-jee-mains-advanced-scores-10529631/
@@ -42,10 +42,10 @@ Follow CGTECH for daily AI updates.
 
 ----------------------------------------
 VIDEO TITLE:
-Walnut Coding Accelerates AI Education in China's Schools
+Walnut Coding Brings AI Education to Schools in China
 
 SCRIPT (1–2 MINUTES):
-Welcome to our channel, where we explore the latest developments in AI and tech education. Today, we're discussing Walnut Coding's initiative to bring AI education to primary and secondary schools across China. With their public welfare programming courses, they're reaching approximately 140,000 students and 50,000 teachers, promoting systematic learning and development of AI skills among young learners. Let's dive deeper into this initiative and examine its potential impact on the future of tech education. We'll also be discussing the importance of AI education and how it can prepare students for the job market of the future.
+Welcome to our channel, where we explore the latest developments in AI and education. Today, we're talking about Walnut Coding, a company that's making waves in the world of AI education. Their public welfare programming courses are bringing AI education to schools in China, reaching 140,000 students and providing training to over 50,000 teachers. But what does this mean for the future of education? And how can we ensure that every student has access to the skills they need to succeed in a rapidly changing world? Join us as we dive into the world of AI education and explore the innovative solutions that are changing the game.
 
 REFERENCE LINK:
 https://www.manilatimes.net/2026/02/13/tmt-newswire/pr-newswire/walnut-coding-brings-ai-education-to-schools-through-public-welfare-programming-courses/2277802
@@ -55,14 +55,14 @@ Follow CGTECH for daily AI updates.
 
 ----------------------------------------
 VIDEO TITLE:
-India's Customs Department to Introduce AI-Powered Cargo Screening Scheme
+India to Roll Out AI-Powered Customs Clearance Scheme by March 1
 
 SCRIPT (1–2 MINUTES):
-Hello and welcome to our channel. Today, we're discussing a significant development in India's customs department. The Central Board of Indirect Taxes and Customs, or CBIC, is introducing a new scheme that leverages artificial intelligence and machine learning to screen cargo. This initiative aims to reduce physical inspections and human intervention, making the process faster and more efficient. In this video, we'll delve into the details of the Eligible Manufacturer-Importer scheme, its potential benefits, and what it means for the logistics and trade industry in India.
+Welcome to our channel! Today, we're discussing the latest development in India's customs clearance process. The Central Board of Indirect Taxes and Customs, or CBIC, is set to introduce the Eligible Manufacturer-Importer scheme by March 1. This new system leverages artificial intelligence and machine learning to reduce physical inspections and human intervention, enabling faster and more data-driven decision-making. We'll break down what this means for trade and commerce, and how it could impact businesses in the region. Don't forget to like and subscribe for more content on AI and technology!
 
 REFERENCE LINK:
 https://www.ndtvprofit.com/economy/cbic-to-roll-out-eligible-manufacturer-importer-scheme-by-march-1-chairman-10996275
 
 CTA:
-Follow CGTECH for daily AI updates and analysis.
+Follow CGTECH for daily AI updates.
 
