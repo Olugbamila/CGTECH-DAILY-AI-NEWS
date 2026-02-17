@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-02-16
+
+----------------------------------------
+ARTICLE 1: Revolutionizing Education: Meet SAIRA, the AI-Powered Humanoid Robot Teacher
+Source: Malayala Manorama
+URL: https://www.onmanorama.com/news/kerala/2026/02/15/ai-teacher-saira-humanoid-robot-assistant-education.html
+
+SUMMARY:
+A school in Kozhikode has introduced a humanoid robot named 'SAIRA' to make learning more engaging and fun for its students. Developed by the school authorities, SAIRA is an AI-powered robotic teacher that aims to revolutionize the education system. The robot was inaugurated online and is expected to enhance student engagement and learning outcomes. With the integration of AI in education, schools are leveraging technology to create a more interactive and immersive learning experience. This innovative approach is poised to transform the future of education.
+
+SHORT-FORM SCRIPT:
+Meet SAIRA, the AI-powered humanoid robot that's changing the face of education. This robotic teacher is making learning fun and interactive for students in Kozhikode.
+
+----------------------------------------
+ARTICLE 2: IIT Courses Without JEE Main Score: A New Era in Tech Education
+Source: The Indian Express
+URL: https://indianexpress.com/article/education/jee-main-2026-results-iit-courses-that-dont-require-jee-mains-advanced-scores-10529631/
+
+SUMMARY:
+The Indian Institute of Technology (IIT) offers various courses that do not require a Joint Entrance Examination (JEE) Main score, providing alternative pathways for students to acquire industry-ready skills in fields like data science, artificial intelligence, and machine learning. These courses cover a range of topics, including engineering mathematics, robotics, and UX strategy. IIT Kharagpur, for instance, offers a self-paced course in engineering mathematics. By bypassing the traditional entrance exam route, students can still benefit from IIT's expertise and resources. This development is significant for students looking to pursue careers in technology and engineering without the need for a JEE Main score.
+
+SHORT-FORM SCRIPT:
+Want to study at IIT without a JEE Main score? Now you can, with courses in data science, AI, and more. Learn from the best and kickstart your career in tech.
+
+----------------------------------------
+ARTICLE 3: Walnut Coding Brings AI Education to Schools in China
+Source: The Manila Times
+URL: https://www.manilatimes.net/2026/02/13/tmt-newswire/pr-newswire/walnut-coding-brings-ai-education-to-schools-through-public-welfare-programming-courses/2277802
+
+SUMMARY:
+Walnut Coding, a leading online coding platform, is bringing AI education to primary and secondary schools in China through public welfare programming courses. The initiative has already reached 140,000 students across 1,029 schools in Shanghai and has provided teacher training to over 50,000 educators nationwide. The goal is to systematically integrate AI education into classrooms with structured curriculum materials, professional training, and hands-on learning tools. This effort aims to accelerate the adoption of AI education in schools. Walnut Coding's initiative is a significant step towards preparing the next generation for an AI-driven future.
+
+SHORT-FORM SCRIPT:
+Imagine a future where every student has access to AI education. Walnut Coding is making this a reality with their public welfare programming courses, reaching 140,000 students and 50,000 teachers in China. Let's dive into how they're doing it.
+
+----------------------------------------
+ARTICLE 4: India's CBIC to Introduce AI-Powered Eligible Manufacturer-Importer Scheme
+Source: NDTV Profit
+URL: https://www.ndtvprofit.com/economy/cbic-to-roll-out-eligible-manufacturer-importer-scheme-by-march-1-chairman-10996275
+
+SUMMARY:
+The Central Board of Indirect Taxes and Customs (CBIC) will introduce the Eligible Manufacturer-Importer scheme by March 1, aiming to reduce physical inspections and human intervention in cargo screening. This scheme will leverage artificial intelligence and machine learning for risk assessment and data-driven decision-making. A draft framework is expected to be released in the next five to six days for stakeholder consultation. The new system is designed to increase efficiency and speed in cargo processing. This development is a significant step towards modernizing India's customs and taxation procedures.
+
+SHORT-FORM SCRIPT:
+India's customs and taxation are getting a tech boost. The CBIC is introducing a new scheme that uses AI and machine learning to reduce physical inspections and speed up cargo processing.
+
+----------------------------------------
+ARTICLE 5: UK Supreme Court Rules on Patents and AI: A Boost for Innovation
+Source: The Star
+URL: https://www.thestar.com.my/tech/tech-news/2026/02/12/uk-supreme-court-ruling-on-patents-and-ai-is-boost-for-innovation-lawyers-say
+
+SUMMARY:
+The UK Supreme Court has ruled that artificial neural networks, a type of artificial intelligence, can be patented. This decision is seen as a boost for innovation and patenting AI innovations by lawyers. The ruling provides clarity on the patentability of AI-related inventions, which could lead to increased investment and development in the field. The court's decision is expected to have significant implications for the tech industry, particularly in the UK. This ruling could pave the way for more AI-related patents and innovations in the future.
+
+SHORT-FORM SCRIPT:
+Breaking news in the world of AI! The UK Supreme Court has ruled that artificial neural networks can be patented. What does this mean for innovation and the future of tech?
+
