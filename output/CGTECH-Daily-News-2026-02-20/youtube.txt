@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-02-20
+
+----------------------------------------
+VIDEO TITLE:
+Building the Future of Scalable AI: High-Performance Inference Orchestration Pipeline
+
+SCRIPT (1–2 MINUTES):
+Introduction to the challenges of deploying AI models at scale. As AI moves from experimentation to enterprise production, organizations are discovering that building machine learning models is only half the battle. The real challenge lies in deploying those models reliably at scale while maintaining performance, stability, and efficiency. Roshan Kakarla's high-performance inference orchestration pipeline is a solution to this problem. In this video, we'll explore the pipeline's architecture, its benefits, and how it can be applied in real-world scenarios.
+
+REFERENCE LINK:
+https://techbullion.com/building-the-future-of-scalable-ai-how-roshan-kakarla-engineered-a-high-performance-inference-orchestration-pipeline/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+MAHE Partners with OpenAI to Revolutionize Education
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel. Today, we're discussing the exciting partnership between Manipal Academy of Higher Education, or MAHE, and OpenAI. This collaboration aims to integrate advanced artificial intelligence tools across teaching, research, and academic administration. We'll be exploring the potential impact of this partnership on the education sector and what it means for the future of learning. From enhanced student experiences to improved research capabilities, we'll dive into the details of this innovative collaboration.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/mahe-partners-with-openai-to-integrate-artificial-intelligence-across-teaching-learning-and-research-2-2/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+MAHE Partners with OpenAI to Revolutionize Education with AI
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the exciting partnership between Manipal Academy of Higher Education and OpenAI. This collaboration marks a significant step forward in integrating artificial intelligence into education, with the goal of enhancing learning outcomes and preparing students for the future workforce. We'll dive into the details of this partnership and explore what it means for the future of education. From personalized learning to accelerated research productivity, we'll cover it all. So, let's get started!
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/mahe-partners-with-openai-to-integrate-artificial-intelligence-across-teaching-learning-and-research/
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+MAHE and OpenAI Partner to Revolutionize Education with AI
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing a groundbreaking partnership between Manipal Academy of Higher Education (MAHE) and OpenAI. This collaboration aims to integrate advanced AI tools across teaching, research, and academic administration. We'll explore the potential benefits and implications of this partnership, and what it means for the future of education. Join us as we dive into the world of AI-powered learning!
+
+REFERENCE LINK:
+https://www.thehindubusinessline.com/news/education/mahe-collaborates-with-openai-to-integrate-ai-across-teaching-learning-and-research/article70650497.ece
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Breakthrough: Predicting Safe and Effective Drug Combinations for Parasitic Diseases
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel. Today, we're talking about a major breakthrough in the fight against parasitic diseases. A new AI framework, MetaSynMT, has been developed to predict the effectiveness and potential side effects of drug combinations. This could be a game-changer for global health, and we're excited to dive in and explore the details. From the current state of parasitic disease treatment to the potential of MetaSynMT, we'll cover it all. So let's get started.
+
+REFERENCE LINK:
+https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0013991
+
+CTA:
+Follow CGTECH for daily AI updates.
+

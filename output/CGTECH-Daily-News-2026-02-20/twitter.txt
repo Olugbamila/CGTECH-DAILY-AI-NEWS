@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-02-20
+
+----------------------------------------
+ARTICLE 1: Building the Future of Scalable AI: High-Performance Inference Orchestration Pipeline
+TWEET:
+Revolutionizing AI deployment! Roshan Kakarla's high-performance inference orchestration pipeline enables scalable & efficient deployment of machine learning models. #AI #MachineLearning #Scalability
+
+HASHTAGS:
+#AI #MachineLearning #Scalability
+
+LINK:
+https://techbullion.com/building-the-future-of-scalable-ai-how-roshan-kakarla-engineered-a-high-performance-inference-orchestration-pipeline/
+
+----------------------------------------
+ARTICLE 2: MAHE Partners with OpenAI to Revolutionize Education
+TWEET:
+MAHE partners with OpenAI to integrate AI across teaching, research & admin! This collab is set to revolutionize the education sector. #AI #Education #Innovation
+
+HASHTAGS:
+#AI #Education #Innovation
+
+LINK:
+https://www.tribuneindia.com/news/business/mahe-partners-with-openai-to-integrate-artificial-intelligence-across-teaching-learning-and-research-2-2/
+
+----------------------------------------
+ARTICLE 3: MAHE Partners with OpenAI to Revolutionize Education with AI
+TWEET:
+MAHE partners with @OpenAI to integrate AI across teaching, learning, and research! This move is set to enhance learning outcomes and prepare students for the future workforce. #AI #Education #Innovation
+
+HASHTAGS:
+#AI #Education #Innovation
+
+LINK:
+https://www.tribuneindia.com/news/business/mahe-partners-with-openai-to-integrate-artificial-intelligence-across-teaching-learning-and-research/
+
+----------------------------------------
+ARTICLE 4: MAHE and OpenAI Partner to Revolutionize Education with AI
+TWEET:
+Revolution in education! MAHE partners with OpenAI to integrate AI across teaching, research, and admin. #AI #Education #Innovation
+
+HASHTAGS:
+#AI #Education #Innovation
+
+LINK:
+https://www.thehindubusinessline.com/news/education/mahe-collaborates-with-openai-to-integrate-ai-across-teaching-learning-and-research/article70650497.ece
+
+----------------------------------------
+ARTICLE 5: AI-Powered Breakthrough: Predicting Safe and Effective Drug Combinations for Parasitic Diseases
+TWEET:
+AI breakthrough: MetaSynMT framework predicts effective & safe drug combinations for parasitic diseases! Could this be the key to unlocking new treatments? #AI #ParasiticDiseases #GlobalHealth
+
+HASHTAGS:
+#AI #ParasiticDiseases #GlobalHealth #Innovation
+
+LINK:
+https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0013991
+
