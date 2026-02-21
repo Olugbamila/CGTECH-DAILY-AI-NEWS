@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-02-21
+
+----------------------------------------
+VIDEO TITLE:
+Building the Future of Scalable AI: High-Performance Inference Orchestration
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and tech. Today, we're discussing Roshan Kakarla's groundbreaking work on high-performance inference orchestration pipelines. As AI moves from experimentation to enterprise production, deploying machine learning models reliably at scale is a significant challenge. Roshan's pipeline is designed to handle unpredictable traffic spikes, GPU-intensive workloads, and strict latency requirements, making it a crucial innovation for the future of scalable AI.
+
+REFERENCE LINK:
+https://techbullion.com/building-the-future-of-scalable-ai-how-roshan-kakarla-engineered-a-high-performance-inference-orchestration-pipeline/
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+MAHE Partners with OpenAI to Revolutionize Education
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and their impact on various sectors. Today, we're discussing the partnership between Manipal Academy of Higher Education (MAHE) and OpenAI, which aims to integrate advanced AI tools across teaching, research, and academic administration. This collaboration has the potential to revolutionize the education sector, making it more efficient, effective, and accessible. In this video, we'll delve into the details of the partnership, its potential benefits, and what it means for the future of education. So, let's get started!
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/mahe-partners-with-openai-to-integrate-artificial-intelligence-across-teaching-learning-and-research-2-2/
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest developments in the field.
+
+----------------------------------------
+VIDEO TITLE:
+MAHE and OpenAI Partner to Revolutionize Education with AI
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and technology. Today, we're discussing the exciting partnership between Manipal Academy of Higher Education, or MAHE, and OpenAI. This collaboration aims to integrate artificial intelligence across teaching, learning, and research, with the goal of enhancing learning outcomes, accelerating research productivity, and equipping students and faculty with critical AI skills. We'll dive into the details of this partnership and what it means for the future of education. From personalized learning to ethical AI use, we'll cover it all.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/mahe-partners-with-openai-to-integrate-artificial-intelligence-across-teaching-learning-and-research/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+MAHE and OpenAI Partner to Bring AI to Education
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and their impact on various industries. Today, we're discussing the exciting partnership between Manipal Academy of Higher Education and OpenAI. This collaboration marks a significant milestone in the education sector, as AI is being integrated across teaching, research, and academic administration. We'll delve into the details of this partnership, its potential benefits, and what it means for the future of education.
+
+REFERENCE LINK:
+https://www.thehindubusinessline.com/news/education/mahe-collaborates-with-openai-to-integrate-ai-across-teaching-learning-and-research/article70650497.ece
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+AI Breakthrough: Predicting Safe and Effective Drug Combinations for Parasitic Diseases
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel. Today, we're talking about a breakthrough in the fight against parasitic diseases. Researchers have developed a new AI framework called MetaSynMT, which can predict safe and effective drug combinations. This is a huge step forward, as current treatments are often expensive, toxic, and increasingly less effective due to the rise of drug resistance. The MetaSynMT framework uses machine learning to identify synergistic combinations, and it's already been validated through laboratory experiments. One of the most promising combinations is a novel therapy that combines allicin and sodium stibogluconate, which has shown promise in treating echinococcosis.
+
+REFERENCE LINK:
+https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0013991
+
+CTA:
+Follow CGTECH for daily AI updates.
+
