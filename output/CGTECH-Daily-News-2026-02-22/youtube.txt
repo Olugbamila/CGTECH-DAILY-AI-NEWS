@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-02-22
+
+----------------------------------------
+VIDEO TITLE:
+Building the Future of Scalable AI: High-Performance Inference Orchestration
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the future of scalable AI and the challenges of deploying machine learning models at scale. Roshan Kakarla has engineered a high-performance inference orchestration pipeline to address these issues. In this video, we'll explore the pipeline's capabilities and what it means for the future of AI. From handling traffic spikes to rapid model updates, we'll dive into the details of this innovative solution.
+
+REFERENCE LINK:
+https://techbullion.com/building-the-future-of-scalable-ai-how-roshan-kakarla-engineered-a-high-performance-inference-orchestration-pipeline/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+MAHE Partners with OpenAI to Revolutionize Education with AI
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and their impact on various industries. Today, we're discussing the exciting partnership between Manipal Academy of Higher Education (MAHE) and OpenAI. This collaboration aims to integrate artificial intelligence across teaching, research, and academic administration, and we're here to break it down for you. From the potential benefits to the challenges that come with implementing AI in education, we'll cover it all. So, let's dive in and explore the future of AI in education.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/mahe-partners-with-openai-to-integrate-artificial-intelligence-across-teaching-learning-and-research-2-2/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+MAHE Partners with OpenAI to Revolutionize Education with AI
+
+SCRIPT (1–2 MINUTES):
+Introduction to the partnership between MAHE and OpenAI, and its potential impact on the education sector. The collaboration aims to integrate AI across teaching, learning, and research, enhancing learning outcomes and accelerating research productivity. We'll explore the benefits of this partnership, including personalized learning, improved critical thinking, and better preparation for the global workforce. We'll also discuss the potential challenges and limitations of implementing AI in education.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/mahe-partners-with-openai-to-integrate-artificial-intelligence-across-teaching-learning-and-research/
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+MAHE and OpenAI Partner to Revolutionize Education with AI
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the exciting partnership between Manipal Academy of Higher Education and OpenAI. This collaboration aims to integrate AI tools across teaching, research, and academic administration, and we're exploring what this means for the future of education. From enhanced learning experiences to improved research outcomes, we're diving into the potential benefits and challenges of this partnership. Join us as we explore the intersection of AI and education, and let us know your thoughts in the comments below.
+
+REFERENCE LINK:
+https://www.thehindubusinessline.com/news/education/mahe-collaborates-with-openai-to-integrate-ai-across-teaching-learning-and-research/article70650497.ece
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+AI Breakthrough in the Fight Against Parasitic Diseases
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and healthcare. Today, we're talking about a breakthrough in the fight against parasitic diseases. Researchers have developed a new AI framework called MetaSynMT that can predict safe and effective drug combinations. This has the potential to revolutionize the way we approach treatment and could lead to more accessible and effective therapies worldwide. Let's dive in and take a closer look at this exciting development.
+
+REFERENCE LINK:
+https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0013991
+
+CTA:
+Follow CGTECH for daily AI updates.
+
