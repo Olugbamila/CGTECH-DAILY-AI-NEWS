@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-02-23
+
+----------------------------------------
+VIDEO TITLE:
+Building the Future of Scalable AI: High-Performance Inference Orchestration Pipeline
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in artificial intelligence. Today, we're discussing the challenge of deploying machine learning models at scale. As AI moves from experimentation to enterprise production, organizations are facing a hard truth: building models is only half the battle. Deploying those models reliably at scale, while maintaining performance, stability, and efficiency, is the real engineering challenge. That's where Roshan Kakarla's high-performance inference orchestration pipeline comes in. In this video, we'll delve into the details of this innovative solution and explore its potential to revolutionize the field of scalable AI.
+
+REFERENCE LINK:
+https://techbullion.com/building-the-future-of-scalable-ai-how-roshan-kakarla-engineered-a-high-performance-inference-orchestration-pipeline/
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+MAHE and OpenAI Partner to Bring AI to Education
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the exciting partnership between Manipal Academy of Higher Education (MAHE) and OpenAI. This collaboration aims to integrate artificial intelligence across teaching, learning, and research, and we're exploring what this means for the future of education. From enhanced student experiences to improved research outcomes, we're diving into the potential benefits and implications of this partnership. Join us as we delve into the world of AI in education and discover what's next for this innovative field.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/mahe-partners-with-openai-to-integrate-artificial-intelligence-across-teaching-learning-and-research-2-2/
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+MAHE Partners with OpenAI to Revolutionize Education with AI
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and their impact on various industries. Today, we're discussing the recent partnership between Manipal Academy of Higher Education (MAHE) and OpenAI. This collaboration aims to integrate artificial intelligence across teaching, learning, and research, with the goal of enhancing learning outcomes, accelerating research productivity, and equipping students and faculty with critical AI skills. We'll delve into the details of this partnership and what it means for the future of education. From personalized learning to accelerated research, we'll examine the potential benefits and challenges of this innovative approach. Join us as we explore the intersection of AI and education, and discover how this partnership is set to revolutionize the learning experience.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/mahe-partners-with-openai-to-integrate-artificial-intelligence-across-teaching-learning-and-research/
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+MAHE Collaborates with OpenAI to Revolutionize Education
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, today we're discussing the exciting partnership between Manipal Academy of Higher Education and OpenAI. This collaboration aims to integrate advanced artificial intelligence tools across teaching, research, and academic administration. We'll be exploring the potential impact of this partnership on the academic community and what it means for the future of education. From enhanced learning experiences to improved research capabilities, we'll dive into the details of this innovative collaboration.
+
+REFERENCE LINK:
+https://www.thehindubusinessline.com/news/education/mahe-collaborates-with-openai-to-integrate-ai-across-teaching-learning-and-research/article70650497.ece
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Breakthrough in Treating Parasitic Diseases
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel! Today, we're talking about a major breakthrough in the treatment of parasitic diseases. Researchers have developed a new AI framework called MetaSynMT, which uses machine learning to identify safe and effective drug combinations. This innovation has the potential to accelerate the discovery of new treatments and make them more accessible to people around the world. In this video, we'll take a closer look at how MetaSynMT works and what this means for the future of healthcare.
+
+REFERENCE LINK:
+https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0013991
+
+CTA:
+Follow CGTECH for daily AI updates.
+

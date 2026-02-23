@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-02-23
+
+----------------------------------------
+ARTICLE 1: Building the Future of Scalable AI: High-Performance Inference Orchestration Pipeline
+Source: TechBullion
+URL: https://techbullion.com/building-the-future-of-scalable-ai-how-roshan-kakarla-engineered-a-high-performance-inference-orchestration-pipeline/
+
+SUMMARY:
+As AI moves to enterprise production, deploying machine learning models reliably at scale is a significant engineering challenge. Roshan Kakarla has engineered a high-performance inference orchestration pipeline to address this issue. The pipeline handles unpredictable traffic spikes, GPU-intensive workloads, and rapid model updates while maintaining performance, stability, and efficiency. This innovation is crucial for the future of scalable AI. Real-time inference systems require such pipelines to ensure reliable and efficient operation.
+
+SHORT-FORM SCRIPT:
+What if you could deploy AI models at scale without sacrificing performance? Roshan Kakarla's high-performance inference orchestration pipeline makes this possible. Learn how it handles traffic spikes and GPU-intensive workloads.
+
+----------------------------------------
+ARTICLE 2: MAHE and OpenAI Partner to Bring AI to Education
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/mahe-partners-with-openai-to-integrate-artificial-intelligence-across-teaching-learning-and-research-2-2/
+
+SUMMARY:
+Manipal Academy of Higher Education (MAHE) has partnered with OpenAI to integrate artificial intelligence across teaching, learning, and research. This collaboration aims to enhance the academic experience and improve research outcomes. The partnership will leverage OpenAI's advanced AI tools to support faculty and students. The integration of AI is expected to have a significant impact on the education sector. This move is a significant step towards embracing technology in education.
+
+SHORT-FORM SCRIPT:
+Imagine a future where AI enhances your learning experience. MAHE has partnered with OpenAI to make this a reality, integrating AI across teaching, research, and more.
+
+----------------------------------------
+ARTICLE 3: MAHE Partners with OpenAI to Revolutionize Education with AI
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/mahe-partners-with-openai-to-integrate-artificial-intelligence-across-teaching-learning-and-research/
+
+SUMMARY:
+Manipal Academy of Higher Education (MAHE) has partnered with OpenAI to integrate artificial intelligence across teaching, learning, and research. This collaboration aims to enhance learning outcomes, accelerate research productivity, and equip students and faculty with critical AI skills. MAHE will implement AI-powered tools and resources across its academic programs to support personalized learning and boost critical thinking. The partnership will also provide faculty with advanced AI tools for curriculum planning, research, and innovation. This move is expected to prepare students for a rapidly evolving global workforce.
+
+SHORT-FORM SCRIPT:
+Imagine a future where AI enhances your learning experience. MAHE has partnered with OpenAI to make this a reality, integrating AI across teaching, learning, and research.
+
+----------------------------------------
+ARTICLE 4: MAHE Collaborates with OpenAI to Revolutionize Education
+Source: The Hindu Business Line
+URL: https://www.thehindubusinessline.com/news/education/mahe-collaborates-with-openai-to-integrate-ai-across-teaching-learning-and-research/article70650497.ece
+
+SUMMARY:
+Manipal Academy of Higher Education (MAHE) has partnered with OpenAI to integrate advanced artificial intelligence (AI) tools across teaching, research, and academic administration. This collaboration aims to enhance the learning experience and improve research capabilities. The integration of AI will enable MAHE to stay at the forefront of educational innovation. The partnership is expected to have a significant impact on the academic community. MAHE's collaboration with OpenAI is a significant step towards embracing AI in education.
+
+SHORT-FORM SCRIPT:
+Imagine a future where AI enhances your learning experience. Manipal Academy of Higher Education has partnered with OpenAI to make this a reality. From teaching to research, AI is set to revolutionize education.
+
+----------------------------------------
+ARTICLE 5: AI-Powered Breakthrough in Treating Parasitic Diseases
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0013991
+
+SUMMARY:
+Researchers have developed a new AI framework called MetaSynMT to predict the effectiveness and potential side effects of drug combinations for parasitic diseases. This framework uses machine learning to identify safe and effective combinations, which could accelerate the discovery of new treatments. The model has been tested on large datasets and has suggested a novel therapy combining allicin with sodium stibogluconate, which has shown promising results in laboratory experiments. This breakthrough offers hope for more accessible and effective therapies worldwide. The study was published in the journal PLOS Neglected Tropical Diseases.
+
+SHORT-FORM SCRIPT:
+Imagine a world where we can treat parasitic diseases more effectively and safely. Researchers have developed an AI framework to predict the best drug combinations, and it's showing promising results.
+

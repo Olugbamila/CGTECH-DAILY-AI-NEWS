@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-02-23
+
+----------------------------------------
+ARTICLE 1: Building the Future of Scalable AI: High-Performance Inference Orchestration Pipeline
+TWEET:
+Deploying AI models at scale without sacrificing performance? Roshan Kakarla's high-performance inference orchestration pipeline makes it possible! #AI #TechNews #ScalableAI
+
+HASHTAGS:
+#AI #TechNews #ScalableAI
+
+LINK:
+https://techbullion.com/building-the-future-of-scalable-ai-how-roshan-kakarla-engineered-a-high-performance-inference-orchestration-pipeline/
+
+----------------------------------------
+ARTICLE 2: MAHE and OpenAI Partner to Bring AI to Education
+TWEET:
+MAHE partners with OpenAI to bring AI to teaching, learning, and research! This game-changing collaboration is set to revolutionize education. #AI #Education #Innovation
+
+HASHTAGS:
+#AI #Education #Innovation
+
+LINK:
+https://www.tribuneindia.com/news/business/mahe-partners-with-openai-to-integrate-artificial-intelligence-across-teaching-learning-and-research-2-2/
+
+----------------------------------------
+ARTICLE 3: MAHE Partners with OpenAI to Revolutionize Education with AI
+TWEET:
+MAHE partners with OpenAI to integrate AI across teaching, learning, and research! This move is set to enhance learning outcomes, accelerate research, and prepare students for a rapidly evolving global workforce. #AI #Education #Innovation
+
+HASHTAGS:
+#AI #Education #Innovation
+
+LINK:
+https://www.tribuneindia.com/news/business/mahe-partners-with-openai-to-integrate-artificial-intelligence-across-teaching-learning-and-research/
+
+----------------------------------------
+ARTICLE 4: MAHE Collaborates with OpenAI to Revolutionize Education
+TWEET:
+MAHE partners with OpenAI to integrate AI in teaching, research & admin! This collab is set to revolutionize education. #AI #Education #Innovation
+
+HASHTAGS:
+#AI #Education #Innovation
+
+LINK:
+https://www.thehindubusinessline.com/news/education/mahe-collaborates-with-openai-to-integrate-ai-across-teaching-learning-and-research/article70650497.ece
+
+----------------------------------------
+ARTICLE 5: AI-Powered Breakthrough in Treating Parasitic Diseases
+TWEET:
+Breakthrough in treating parasitic diseases! Researchers develop AI framework to predict effective & safe drug combinations. #AI #Healthcare #ParasiticDiseases
+
+HASHTAGS:
+#AI #Healthcare #ParasiticDiseases
+
+LINK:
+https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0013991
+
