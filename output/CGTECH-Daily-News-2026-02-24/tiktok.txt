@@ -1,0 +1,143 @@
+=== CGTECH — TIKTOK/IG/SHORTS PACK ===
+Date: 2026-02-24
+
+----------------------------------------
+ARTICLE 1: Revolutionizing Scalable AI: Roshan Kakarla's High-Performance Inference Orchestration Pipeline
+
+HOOK:
+What if you could deploy AI models at scale without sacrificing performance? Roshan Kakarla's breakthrough pipeline is making it possible.
+
+SCRIPT (SPOKEN):
+Meet Roshan Kakarla, the engineer behind a game-changing high-performance inference orchestration pipeline. He's tackling the toughest challenge in AI: deploying models at scale. Find out how he's making it happen.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: As AI moves to enterprise production, deploying machine learning models reliably at scale is a significant engineering challenge.
+  B-roll: Footage of data centers, servers, and AI models being developed
+
+Scene 2:
+  Narration: Roshan Kakarla has developed a high-performance inference orchestration pipeline to address this issue.
+  B-roll: Images of Roshan Kakarla, his team, and their work on the pipeline
+
+Scene 3:
+  Narration: The pipeline handles unpredictable traffic spikes, GPU-intensive workloads, and rapid model updates while maintaining performance and efficiency.
+  B-roll: Visuals of the pipeline in action, with animations and graphs illustrating its capabilities
+
+HASHTAGS:
+#AI #AITools #MachineLearning #TechInnovation
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 2: MAHE Partners with OpenAI to Revolutionize Education with AI
+
+HOOK:
+Imagine a classroom where AI enhances your learning experience. This is now a reality, thanks to the partnership between Manipal Academy of Higher Education and OpenAI.
+
+SCRIPT (SPOKEN):
+Imagine a future where AI enhances your learning experience. Manipal Academy of Higher Education has partnered with OpenAI to make this a reality. With AI-powered tools, students and researchers will have unparalleled opportunities for growth and discovery.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The partnership between MAHE and OpenAI is a significant step forward for AI adoption in education.
+  B-roll: Footage of students using AI-powered tools, professors teaching with AI-enhanced materials, and researchers working with AI-driven data analysis.
+
+Scene 2:
+  Narration: This collaboration will provide MAHE with access to advanced AI tools, enabling the institution to stay at the forefront of innovation.
+  B-roll: Visuals of OpenAI's technology, such as AI-powered chatbots, machine learning algorithms, and natural language processing tools.
+
+HASHTAGS:
+#AI #AITools #Education #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates and news.
+
+----------------------------------------
+ARTICLE 3: MAHE Partners with OpenAI to Revolutionize Education with AI
+
+HOOK:
+Imagine a future where AI revolutionizes the way we learn. This future is now, thanks to the partnership between Manipal Academy of Higher Education and OpenAI.
+
+SCRIPT (SPOKEN):
+Imagine a future where AI enhances your learning experience. Manipal Academy of Higher Education has partnered with OpenAI to make this a reality, integrating AI across teaching, learning, and research.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Manipal Academy of Higher Education has partnered with OpenAI to integrate AI across teaching, learning, and research.
+  B-roll: Footage of students using AI-powered tools, faculty accessing advanced AI resources, and dashboards displaying AI-driven insights.
+
+Scene 2:
+  Narration: This collaboration aims to enhance learning outcomes, accelerate research productivity, and equip students and faculty with critical AI skills.
+  B-roll: Visuals of students engaging in AI-powered learning experiences, researchers using AI tools, and faculty developing AI-infused curricula.
+
+HASHTAGS:
+#AI #AITools #Education #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 4: MAHE and OpenAI Collaborate to Revolutionize Education
+
+HOOK:
+Imagine a university where AI-powered tools enhance every aspect of education. Welcome to the future of learning, courtesy of MAHE and OpenAI.
+
+SCRIPT (SPOKEN):
+Imagine a university where AI-powered tools enhance teaching, learning, and research. MAHE has partnered with OpenAI to make this a reality, integrating advanced AI tools across its academic and administrative processes.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: MAHE has partnered with OpenAI to integrate AI across teaching, learning, and research.
+  B-roll: Footage of university campuses, students learning, and researchers working with AI tools.
+
+Scene 2:
+  Narration: This collaboration aims to enhance the educational experience and improve research capabilities.
+  B-roll: Visuals of AI-powered tools, such as chatbots, virtual assistants, and data analytics platforms.
+
+Scene 3:
+  Narration: The integration of AI tools is expected to have a significant impact on the institution's academic and administrative processes.
+  B-roll: Footage of university administrators, faculty members, and students interacting with AI-powered systems.
+
+HASHTAGS:
+#AI #AITools #EdTech #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 5: AI Breakthrough in Parasitic Disease Treatment
+
+HOOK:
+What if we could use AI to cure parasitic diseases? Thanks to a new breakthrough, we're one step closer to making that a reality.
+
+SCRIPT (SPOKEN):
+Imagine a world where parasitic diseases are a thing of the past. Thanks to a new AI framework, we're one step closer. MetaSynMT predicts safe and effective drug combinations, and lab tests are already showing promising results.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Parasitic diseases affect millions of people worldwide, causing widespread suffering and economic hardship.
+  B-roll: Footage of people in developing countries, with limited access to healthcare, suffering from parasitic diseases
+
+Scene 2:
+  Narration: Current treatments can be expensive, toxic, and increasingly less effective due to the rise of drug resistance.
+  B-roll: Footage of medication, hospitals, and healthcare professionals, with a sense of frustration and concern
+
+Scene 3:
+  Narration: But what if we could use AI to find new and safer treatments?
+  B-roll: Footage of researchers working on computers, with code and data visualizations on the screens
+
+Scene 4:
+  Narration: The MetaSynMT framework uses machine learning to identify synergistic drug pairs and predict potential side effects.
+  B-roll: Footage of the MetaSynMT framework in action, with animations and visualizations of the AI model
+
+Scene 5:
+  Narration: And laboratory experiments have already confirmed the effectiveness of one suggested combination.
+  B-roll: Footage of lab experiments, with scientists working with microscopes and test tubes, and footage of the parasite being treated
+
+HASHTAGS:
+#AI #Healthcare #ParasiticDiseases #TechForGood
+
+CTA:
+Follow CGTECH for daily AI updates
+
