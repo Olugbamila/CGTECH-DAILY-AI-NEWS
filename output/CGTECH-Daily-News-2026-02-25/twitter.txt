@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-02-25
+
+----------------------------------------
+ARTICLE 1: Machine Learning for Machines: How CEAT Tyres' Factory Is Revolutionizing Tyre Production
+TWEET:
+Tyre factory boosts efficiency with machine learning! CEAT Tyres' Chennai factory reduces defects, waste & energy use with AI, sensors & computer vision. #AI #MachineLearning #Sustainability
+
+HASHTAGS:
+#AI #MachineLearning #Sustainability #Innovation
+
+LINK:
+https://timesofindia.indiatimes.com/technology/times-techies/machine-learning-for-machines-this-tyre-factorys-efficiency-soars/articleshow/128767568.cms
+
+----------------------------------------
+ARTICLE 2: India's Sustainable Growth Model: A New Path for Emerging Economies
+TWEET:
+India proves emerging economies can grow sustainably! With a focus on equity, scale, and action, the country is balancing climate responsibility with development ambitions. #AI #Sustainability
+
+HASHTAGS:
+#AI #Sustainability #India
+
+LINK:
+https://www.moneycontrol.com/news/india/india-proves-emerging-economies-need-not-follow-carbon-intensive-path-says-environment-minister-13841942.html
+
+----------------------------------------
+ARTICLE 3: Policy Bazooka: Can It Save Us from an AI-Driven Jobless World?
+TWEET:
+Stock market in panic over AI job losses, but is it justified? A 'policy bazooka' could be the answer. Follow CGTECH for daily AI updates. #AI #JobMarket
+
+HASHTAGS:
+#AI #JobMarket #TechNews
+
+LINK:
+https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-02-24/
+
+----------------------------------------
+ARTICLE 4: Building the Future of Scalable AI: High-Performance Inference Orchestration Pipelines
+TWEET:
+Revolutionizing scalable AI! Roshan Kakarla's high-performance inference orchestration pipeline tackles traffic spikes, GPU-intensive workloads & rapid model updates. #AI #ScalableAI #TechInnovation
+
+HASHTAGS:
+#AI #ScalableAI #TechInnovation
+
+LINK:
+https://techbullion.com/building-the-future-of-scalable-ai-how-roshan-kakarla-engineered-a-high-performance-inference-orchestration-pipeline/
+
+----------------------------------------
+ARTICLE 5: MAHE and OpenAI Partner to Revolutionize Education with AI
+TWEET:
+MAHE partners with OpenAI to integrate AI across teaching, learning, and research! This game-changing collaboration is set to revolutionize education. #AI #Education #Innovation
+
+HASHTAGS:
+#AI #Education #Innovation
+
+LINK:
+https://www.tribuneindia.com/news/business/mahe-partners-with-openai-to-integrate-artificial-intelligence-across-teaching-learning-and-research-2-2/
+

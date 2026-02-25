@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-02-25
+
+----------------------------------------
+VIDEO TITLE:
+Machine Learning for Machines: How CEAT Tyres' Factory Is Revolutionizing Tyre Production
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and technology. Today, we're looking at a fascinating story of innovation in the manufacturing sector. CEAT Tyres' Chennai factory has integrated machine learning, sensors, and computer vision to enhance efficiency, reduce defects, waste, and energy consumption. Let's dive deeper into this story and examine the impact of this technology on the factory's operations and the broader community.
+
+REFERENCE LINK:
+https://timesofindia.indiatimes.com/technology/times-techies/machine-learning-for-machines-this-tyre-factorys-efficiency-soars/articleshow/128767568.cms
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+India's Sustainable Growth Model: A New Path for Emerging Economies
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel! Today, we're talking about India's remarkable approach to balancing climate responsibility with development ambitions. The country's Environment Minister, Bhupender Yadav, has stated that India is a prime example of how emerging economies can grow sustainably. We'll be exploring how India is making it work, from its focus on equity, scale, and action, to the role of technologies like data, machine learning, and AI in driving productivity and reducing carbon intensity. So let's dive in and take a closer look.
+
+REFERENCE LINK:
+https://www.moneycontrol.com/news/india/india-proves-emerging-economies-need-not-follow-carbon-intensive-path-says-environment-minister-13841942.html
+
+CTA:
+Follow CGTECH for daily AI updates and insights on sustainable development.
+
+----------------------------------------
+VIDEO TITLE:
+Policy Bazooka: Can It Save Us from an AI-Driven Jobless World?
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in artificial intelligence and their impact on society. Today, we're discussing the potential effects of AI on the job market and the concept of the 'lump of labour fallacy'. The stock market is in a panic, but is it justified? We'll delve into the numbers and explore the possibilities of a 'policy bazooka' to mitigate the negative effects of AI on employment. Join us as we navigate the complex world of AI and its implications for our future.
+
+REFERENCE LINK:
+https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-02-24/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Building the Future of Scalable AI: High-Performance Inference Orchestration Pipelines
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and tech. Today, we're talking about the future of scalable AI and the innovative work of Roshan Kakarla. As AI moves from experimentation to enterprise production, organizations are facing new challenges in deploying machine learning models reliably at scale. Roshan's high-performance inference orchestration pipeline is designed to tackle these challenges head-on, handling unpredictable traffic spikes, GPU-intensive workloads, and rapid model updates. But what does this mean for the future of AI? And how can organizations leverage this technology to unlock new possibilities? Let's dive in and find out.
+
+REFERENCE LINK:
+https://techbullion.com/building-the-future-of-scalable-ai-how-roshan-kakarla-engineered-a-high-performance-inference-orchestration-pipeline/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+MAHE and OpenAI Partner to Revolutionize Education with AI
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and their impact on various industries. Today, we're discussing the exciting partnership between Manipal Academy of Higher Education (MAHE) and OpenAI. This collaboration aims to integrate artificial intelligence across teaching, learning, and research, and we're eager to dive into the details. From enhanced student outcomes to improved research capabilities, we'll examine the potential benefits of this partnership and what it means for the future of education.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/mahe-partners-with-openai-to-integrate-artificial-intelligence-across-teaching-learning-and-research-2-2/
+
+CTA:
+Follow CGTECH for daily AI updates
+

@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-02-25
+
+----------------------------------------
+ARTICLE 1: Machine Learning for Machines: How CEAT Tyres' Factory Is Revolutionizing Tyre Production
+Source: Times of India
+URL: https://timesofindia.indiatimes.com/technology/times-techies/machine-learning-for-machines-this-tyre-factorys-efficiency-soars/articleshow/128767568.cms
+
+SUMMARY:
+CEAT Tyres' Chennai factory has successfully integrated machine learning, sensors, and computer vision models to enhance efficiency, reduce defects, waste, and energy consumption. This innovative approach has also made it easier to hire women, with 30% of the workforce now female. Automation and digitization have replaced manual labor in tasks such as tyre building, making the process less physically demanding. The use of artificial intelligence has led to significant improvements in the factory's overall performance. As a result, the factory has seen a notable reduction in waste and energy use.
+
+SHORT-FORM SCRIPT:
+Meet the tyre factory that's using machine learning to boost efficiency and reduce waste. With sensors, computer vision, and AI working together, CEAT Tyres' Chennai factory is revolutionizing the way tyres are made.
+
+----------------------------------------
+ARTICLE 2: India's Sustainable Growth Model: A New Path for Emerging Economies
+Source: Moneycontrol
+URL: https://www.moneycontrol.com/news/india/india-proves-emerging-economies-need-not-follow-carbon-intensive-path-says-environment-minister-13841942.html
+
+SUMMARY:
+India's Environment Minister, Bhupender Yadav, has stated that the country is a prime example of how emerging economies can balance climate responsibility with development ambitions. This approach is guided by equity, scale, and action, rather than rhetoric. Meanwhile, Amitabh Kant, former CEO of Niti Aayog, emphasized the significant role of data, machine learning, and artificial intelligence in driving the world's largest productivity rise. India's strategy serves as a model for other emerging economies to follow a sustainable path. The country's commitment to climate action is evident in its efforts to reduce carbon intensity while promoting economic growth.
+
+SHORT-FORM SCRIPT:
+India is showing the world that emerging economies can grow without harming the environment. With data, machine learning, and AI driving productivity, the country is balancing climate responsibility with development ambitions. Let's explore how India is making it work.
+
+----------------------------------------
+ARTICLE 3: Policy Bazooka: Can It Save Us from an AI-Driven Jobless World?
+Source: Reuters
+URL: https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-02-24/
+
+SUMMARY:
+The stock market is experiencing a decline due to fears that artificial intelligence will lead to significant job losses, with sectors that have rapidly adopted machine learning accounting for a third of unemployment since 2022. However, this pessimism may be overdone, and slow monetary and fiscal policy could exacerbate short-term pain. A 'policy bazooka' could potentially mitigate the negative effects of AI on the job market. The concept of the 'lump of labour fallacy' suggests that the impact of AI on employment may not be as severe as predicted. Effective policy measures can help ensure that the benefits of AI are shared by all.
+
+SHORT-FORM SCRIPT:
+Imagine a world where AI takes over jobs, but what if that's not the whole story? The stock market is panicking, but is it justified? Let's dive into the impact of AI on employment and what can be done to mitigate the negative effects.
+
+----------------------------------------
+ARTICLE 4: Building the Future of Scalable AI: High-Performance Inference Orchestration Pipelines
+Source: TechBullion
+URL: https://techbullion.com/building-the-future-of-scalable-ai-how-roshan-kakarla-engineered-a-high-performance-inference-orchestration-pipeline/
+
+SUMMARY:
+As AI moves from experimentation to enterprise production, deploying machine learning models reliably at scale while maintaining performance, stability, and efficiency is a significant engineering challenge. Roshan Kakarla has engineered a high-performance inference orchestration pipeline to tackle this issue. The pipeline is designed to handle unpredictable traffic spikes, GPU-intensive workloads, and rapid model updates. This innovation has the potential to revolutionize the field of scalable AI. By developing such pipelines, organizations can ensure their AI systems are efficient, stable, and reliable.
+
+SHORT-FORM SCRIPT:
+Imagine a future where AI systems can handle massive traffic spikes and intense workloads without breaking a sweat. Roshan Kakarla's high-performance inference orchestration pipeline is making that a reality. With the ability to handle rapid model updates and strict latency requirements, this innovation is a game-changer for scalable AI.
+
+----------------------------------------
+ARTICLE 5: MAHE and OpenAI Partner to Revolutionize Education with AI
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/mahe-partners-with-openai-to-integrate-artificial-intelligence-across-teaching-learning-and-research-2-2/
+
+SUMMARY:
+Manipal Academy of Higher Education (MAHE) has partnered with OpenAI to integrate artificial intelligence across teaching, learning, and research. This collaboration aims to enhance the academic experience by leveraging advanced AI tools. The partnership is expected to improve research capabilities, academic administration, and overall student outcomes. MAHE is an Institution of Eminence Deemed to be University, and this partnership marks a significant step in its efforts to embrace innovative technologies. The integration of AI is anticipated to have a profound impact on the education sector, transforming the way students learn and interact with academic content.
+
+SHORT-FORM SCRIPT:
+Imagine a future where AI enhances your learning experience. MAHE has partnered with OpenAI to make this a reality, integrating AI across teaching, research, and academic administration.
+

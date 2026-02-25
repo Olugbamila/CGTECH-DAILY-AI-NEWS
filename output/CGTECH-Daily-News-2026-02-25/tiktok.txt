@@ -1,0 +1,143 @@
+=== CGTECH — TIKTOK/IG/SHORTS PACK ===
+Date: 2026-02-25
+
+----------------------------------------
+ARTICLE 1: Machine Learning for Machines: How CEAT Tyres' Factory Is Revolutionizing Tyre Production
+
+HOOK:
+What if machines could learn to make your car tyres more efficiently? This tyre factory is making it happen with machine learning.
+
+SCRIPT (SPOKEN):
+Meet the tyre factory that's using machine learning to boost efficiency and reduce waste. With sensors, computer vision, and AI working together, CEAT Tyres' Chennai factory is revolutionizing the way tyres are made.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: CEAT Tyres' Chennai factory is using machine learning to boost efficiency and reduce waste.
+  B-roll: Footage of the factory floor, with machines and workers in operation, as well as sensors and computer vision models in use.
+
+Scene 2:
+  Narration: The integration of machine learning, sensors, and computer vision has led to a significant reduction in defects, waste, and energy consumption.
+  B-roll: Visuals of tyres being produced, with graphics overlay showing the reduction in waste and energy use.
+
+Scene 3:
+  Narration: The factory has also seen a positive impact on hiring women, with 30% of the workforce now female.
+  B-roll: Footage of female workers in the factory, highlighting their roles and contributions to the production process.
+
+HASHTAGS:
+#AI #AITools #MachineLearning #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: India's Sustainable Growth Model: A New Path for Emerging Economies
+
+HOOK:
+India is redefining the path to economic growth, proving that emerging economies don't have to choose between development and the environment. With the help of AI and other technologies, the country is driving productivity and reducing carbon intensity.
+
+SCRIPT (SPOKEN):
+India is showing the world that emerging economies can grow without harming the environment. With data, machine learning, and AI driving productivity, the country is balancing climate responsibility with development ambitions. Let's explore how India is making it work.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: India is showing the world that emerging economies can grow without harming the environment.
+  B-roll: Footage of Indian cities, renewable energy sources, and sustainable infrastructure
+
+Scene 2:
+  Narration: The country's approach is guided by equity, scale, and action, rather than rhetoric.
+  B-roll: Footage of Indian government officials, policymakers, and experts discussing sustainability
+
+Scene 3:
+  Narration: Data, machine learning, and AI are driving productivity and reducing carbon intensity in India.
+  B-roll: Footage of data centers, AI-powered factories, and other technology-driven industries
+
+HASHTAGS:
+#AI #AITools #Sustainability #EcoFriendly
+
+CTA:
+Follow CGTECH for daily AI updates and insights on sustainable development.
+
+----------------------------------------
+ARTICLE 3: Policy Bazooka: Can It Save Us from an AI-Driven Jobless World?
+
+HOOK:
+Imagine a world where AI takes over jobs, but what if that's not the whole story? The stock market is panicking, but is it justified?
+
+SCRIPT (SPOKEN):
+Imagine a world where AI takes over jobs, but what if that's not the whole story? The stock market is panicking, but is it justified? Let's dive into the impact of AI on employment and what can be done to mitigate the negative effects.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The stock market is in a panic about the impact of artificial intelligence on the job market.
+  B-roll: Stock market screens, financial news headlines, and graphs showing market trends.
+
+Scene 2:
+  Narration: The concept of the 'lump of labour fallacy' suggests that the impact of AI on employment may not be as severe as predicted.
+  B-roll: Animated explanations of the 'lump of labour fallacy', graphs showing employment trends, and AI-related visuals.
+
+Scene 3:
+  Narration: A 'policy bazooka' could potentially mitigate the negative effects of AI on the job market.
+  B-roll: Policymakers discussing AI, economists analyzing data, and visuals representing policy measures.
+
+HASHTAGS:
+#AI #AITools #FutureOfWork #JobMarket
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 4: Building the Future of Scalable AI: High-Performance Inference Orchestration Pipelines
+
+HOOK:
+What if AI systems could handle massive traffic spikes and intense workloads without breaking a sweat? The future of scalable AI is here, and it's more powerful than you think.
+
+SCRIPT (SPOKEN):
+Imagine a future where AI systems can handle massive traffic spikes and intense workloads without breaking a sweat. Roshan Kakarla's high-performance inference orchestration pipeline is making that a reality. With the ability to handle rapid model updates and strict latency requirements, this innovation is a game-changer for scalable AI.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: As AI moves from experimentation to enterprise production, organizations are facing new challenges in deploying machine learning models reliably at scale.
+  B-roll: Footage of data centers, server rooms, and cloud computing infrastructure.
+
+Scene 2:
+  Narration: Roshan Kakarla's high-performance inference orchestration pipeline is designed to tackle these challenges head-on.
+  B-roll: Visuals of code repositories, pipeline architectures, and data flow diagrams.
+
+Scene 3:
+  Narration: With the ability to handle unpredictable traffic spikes, GPU-intensive workloads, and rapid model updates, this technology has the potential to transform industries.
+  B-roll: Footage of industries such as healthcare, finance, and transportation, with AI-powered systems and machines in action.
+
+HASHTAGS:
+#AI #AITools #ScalableAI #MachineLearning
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 5: MAHE and OpenAI Partner to Revolutionize Education with AI
+
+HOOK:
+Imagine a future where AI-powered tools help you learn faster, better, and more efficiently. Welcome to the future of education, courtesy of MAHE and OpenAI.
+
+SCRIPT (SPOKEN):
+Imagine a future where AI enhances your learning experience. MAHE has partnered with OpenAI to make this a reality, integrating AI across teaching, research, and academic administration.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: MAHE has partnered with OpenAI to integrate AI across its academic ecosystem.
+  B-roll: Footage of students interacting with AI-powered tools, professors teaching with AI-enhanced materials, and researchers working with AI-driven data analysis.
+
+Scene 2:
+  Narration: This collaboration aims to enhance the academic experience by leveraging advanced AI tools.
+  B-roll: Visuals of AI-powered chatbots, virtual learning environments, and data analytics dashboards.
+
+Scene 3:
+  Narration: The partnership is expected to improve research capabilities, academic administration, and overall student outcomes.
+  B-roll: Footage of researchers working with AI-driven tools, administrators using AI-powered software, and students achieving better grades and outcomes.
+
+HASHTAGS:
+#AI #AITools #EdTech #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates
+
