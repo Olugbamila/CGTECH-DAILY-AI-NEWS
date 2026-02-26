@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-02-26
+
+----------------------------------------
+ARTICLE 1: Machine Learning for Machines: How CEAT Tyres' Factory is Revolutionizing Efficiency
+TWEET:
+Machine learning meets manufacturing! CEAT Tyres' Chennai factory is using AI to reduce defects, waste, and energy use. A great example of innovation in action #AI #MachineLearning #Sustainability
+
+HASHTAGS:
+#AI #MachineLearning #Sustainability
+
+LINK:
+https://timesofindia.indiatimes.com/technology/times-techies/machine-learning-for-machines-this-tyre-factorys-efficiency-soars/articleshow/128767568.cms
+
+----------------------------------------
+ARTICLE 2: Revolutionizing Healthcare Research: Human vs. Machine-Assisted Analysis
+TWEET:
+New study: Machine-assisted analysis can reduce time to analyze large healthcare datasets, but human input is still needed for expertise & nuance. The future of AI in healthcare is exciting! #AI #Healthcare #BigData
+
+HASHTAGS:
+#AI #Healthcare #BigData
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000576
+
+----------------------------------------
+ARTICLE 3: India Leads the Way in Sustainable Development
+TWEET:
+India proves emerging economies can balance climate responsibility & development ambition! With AI, ML & data driving productivity, India's approach is a model for others to follow. #AI #Sustainability
+
+HASHTAGS:
+#AI #Sustainability #ClimateAction
+
+LINK:
+https://www.moneycontrol.com/news/india/india-proves-emerging-economies-need-not-follow-carbon-intensive-path-says-environment-minister-13841942.html
+
+----------------------------------------
+ARTICLE 4: The AI Job Market Conundrum: Can Policy Interventions Save the Day?
+TWEET:
+Will AI lead to a jobless world? Not necessarily. New tech can create new opportunities. Let's talk policy interventions to mitigate the negative effects. #AI #JobMarket
+
+HASHTAGS:
+#AI #JobMarket #TechNews
+
+LINK:
+https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-02-24/
+
+----------------------------------------
+ARTICLE 5: Building the Future of Scalable AI: High-Performance Inference Orchestration Pipeline
+TWEET:
+Deploying AI models at scale without sacrificing performance? Roshan Kakarla's high-performance inference orchestration pipeline makes it possible! #AI #MachineLearning #Scalability
+
+HASHTAGS:
+#AI #MachineLearning #Scalability
+
+LINK:
+https://techbullion.com/building-the-future-of-scalable-ai-how-roshan-kakarla-engineered-a-high-performance-inference-orchestration-pipeline/
+

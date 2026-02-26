@@ -1,0 +1,139 @@
+=== CGTECH — TIKTOK/IG/SHORTS PACK ===
+Date: 2026-02-26
+
+----------------------------------------
+ARTICLE 1: Machine Learning for Machines: How CEAT Tyres' Factory is Revolutionizing Efficiency
+
+HOOK:
+Imagine a factory where machines can learn and adapt to improve efficiency and reduce waste. Welcome to the future of manufacturing, where machine learning is revolutionizing the way things are made.
+
+SCRIPT (SPOKEN):
+Meet the tyre factory that's using machine learning to reduce defects and boost efficiency. With sensors, computer vision, and AI, CEAT Tyres' Chennai factory is revolutionizing the way tyres are made. From automating manual tasks to reducing energy use, this factory is a prime example of innovation in action.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: CEAT Tyres' Chennai factory is using machine learning to reduce defects and boost efficiency.
+  B-roll: Footage of the factory floor, with machines and workers in action
+
+Scene 2:
+  Narration: The integration of automation and digitization has made it easier to hire women, with 30% of the workforce now female.
+  B-roll: Footage of female workers on the factory floor, with captions highlighting the benefits of automation
+
+Scene 3:
+  Narration: The factory is using sensors, computer vision, and AI to optimize its operations and reduce waste.
+  B-roll: Footage of sensors and computer vision systems in action, with animations highlighting the flow of data and insights
+
+HASHTAGS:
+#AI #AITools #MachineLearning #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+ARTICLE 2: Revolutionizing Healthcare Research: Human vs. Machine-Assisted Analysis
+
+HOOK:
+What if AI could help save lives by analyzing large amounts of healthcare data? A new study reveals the power of machine-assisted analysis in improving patient safety.
+
+SCRIPT (SPOKEN):
+What if AI could help analyze large amounts of healthcare data to improve patient safety? Researchers compared human and machine-assisted analysis and found that together, they can identify targeted interventions to enhance patient safety.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The use of Artificial intelligence in healthcare research has grown over recent years.
+  B-roll: Footage of healthcare professionals working with computers, medical equipment, and patients.
+
+Scene 2:
+  Narration: The study compared human and machine-assisted analysis for Big Qualitative Data Analysis.
+  B-roll: Visuals of researchers analyzing data, computers processing information, and graphs showing results.
+
+Scene 3:
+  Narration: The results show that machine-assisted analysis can significantly reduce analysis time, but human input is still necessary for expertise and nuance.
+  B-roll: Footage of researchers discussing results, looking at data, and working together.
+
+HASHTAGS:
+#AI #AITools #HealthcareTech #BigData
+
+CTA:
+Follow CGTECH for daily AI updates and learn more about the latest developments in AI and healthcare.
+
+----------------------------------------
+ARTICLE 3: India Leads the Way in Sustainable Development
+
+HOOK:
+Imagine a world where economic growth and climate responsibility go hand in hand. India is making this vision a reality, and it's a model for emerging economies everywhere.
+
+SCRIPT (SPOKEN):
+India's taking a different path to development, one that balances growth with climate responsibility. With data, machine learning, and AI driving productivity, India's approach is a model for emerging economies to follow.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: India's approach to climate responsibility and development ambition is guided by equity, scale, and action.
+  B-roll: Footage of Indian cities, renewable energy sources, and sustainable development projects.
+
+Scene 2:
+  Narration: With the power of data, machine learning, and AI, India is driving productivity and innovation in the sector.
+  B-roll: Footage of data centers, AI labs, and tech startups in India.
+
+HASHTAGS:
+#AI #AITools #Sustainability #ClimateChange
+
+CTA:
+Follow CGTECH for daily updates on AI and sustainability.
+
+----------------------------------------
+ARTICLE 4: The AI Job Market Conundrum: Can Policy Interventions Save the Day?
+
+HOOK:
+What if AI doesn't lead to a jobless world, but instead creates new opportunities? Let's explore the possibilities.
+
+SCRIPT (SPOKEN):
+Imagine a world where AI takes over jobs, but what if we're wrong about the impact? New tech can create new opportunities, let's explore how policy can help.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The stock market is in a panic about the impact of artificial intelligence on the job market.
+  B-roll: Stock market footage, headlines, and graphs showing market trends.
+
+Scene 2:
+  Narration: The concept of the 'lump of labour fallacy' suggests that new technologies can create new job opportunities.
+  B-roll: Footage of people working in various industries, robots and machines working alongside humans.
+
+Scene 3:
+  Narration: Effective policy interventions can help navigate the transition to an AI-driven economy.
+  B-roll: Footage of policymakers, industry leaders, and experts discussing AI and job market trends.
+
+HASHTAGS:
+#AI #AITools #JobMarket #Tech
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 5: Building the Future of Scalable AI: High-Performance Inference Orchestration Pipeline
+
+HOOK:
+What if you could deploy AI models at scale without sacrificing performance? The future of AI is here, and it's more scalable than you think.
+
+SCRIPT (SPOKEN):
+Imagine being able to deploy AI models at scale without worrying about performance or stability. Roshan Kakarla's high-performance inference orchestration pipeline makes this possible, handling traffic spikes and GPU-intensive workloads with ease.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: As AI moves from experimentation to enterprise production, organizations face the challenge of deploying machine learning models reliably at scale.
+  B-roll: Footage of data centers, server rooms, and cloud infrastructure
+
+Scene 2:
+  Narration: Roshan Kakarla's high-performance inference orchestration pipeline is designed to handle unpredictable traffic spikes and GPU-intensive workloads.
+  B-roll: Visuals of traffic spikes, GPU usage, and pipeline architecture
+
+Scene 3:
+  Narration: This innovative technology has the potential to revolutionize the field of AI by enabling scalable and efficient deployment of machine learning models.
+  B-roll: Footage of AI applications, such as self-driving cars, virtual assistants, and healthcare analytics
+
+HASHTAGS:
+#AI #AITools #MachineLearning #ScalableAI
+
+CTA:
+Follow CGTECH for daily AI updates.
+

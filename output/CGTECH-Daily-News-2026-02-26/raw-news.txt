@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-02-26
+
+----------------------------------------
+ARTICLE 1: Machine Learning for Machines: How CEAT Tyres' Factory is Revolutionizing Efficiency
+Source: Times of India
+URL: https://timesofindia.indiatimes.com/technology/times-techies/machine-learning-for-machines-this-tyre-factorys-efficiency-soars/articleshow/128767568.cms
+
+SUMMARY:
+CEAT Tyres' Chennai factory has implemented machine learning, sensors, and computer vision to reduce defects, waste, and energy use. The integration of automation and digitization has also made it easier to hire women, with 30% of the workforce now female. This technological advancement has replaced manual labor in tasks such as loading rubber compounds and handling heavy materials. As a result, the factory has seen a significant improvement in efficiency. The use of artificial intelligence has enabled the factory to optimize its operations and reduce waste.
+
+SHORT-FORM SCRIPT:
+Meet the tyre factory that's using machine learning to reduce defects and boost efficiency. With sensors, computer vision, and AI, CEAT Tyres' Chennai factory is revolutionizing the way tyres are made. From automating manual tasks to reducing energy use, this factory is a prime example of innovation in action.
+
+----------------------------------------
+ARTICLE 2: Revolutionizing Healthcare Research: Human vs. Machine-Assisted Analysis
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000576
+
+SUMMARY:
+Researchers compared human and machine-assisted analysis for Big Qualitative Data Analysis in a large UK-wide survey on peri-operative cardiac arrest. The study found that machine-assisted analysis significantly reduced analysis time, but required human input for expertise and nuance. The combination of human and machine analysis identified targeted interventions to enhance patient safety. This approach presents a new method for analyzing large qualitative datasets in healthcare research. The study highlights the potential of AI in improving patient outcomes.
+
+SHORT-FORM SCRIPT:
+What if AI could help analyze large amounts of healthcare data to improve patient safety? Researchers compared human and machine-assisted analysis and found that together, they can identify targeted interventions to enhance patient safety.
+
+----------------------------------------
+ARTICLE 3: India Leads the Way in Sustainable Development
+Source: Moneycontrol
+URL: https://www.moneycontrol.com/news/india/india-proves-emerging-economies-need-not-follow-carbon-intensive-path-says-environment-minister-13841942.html
+
+SUMMARY:
+India's Environment Minister, Bhupender Yadav, stated that the country has shown that emerging economies can balance climate responsibility with development ambitions without following a carbon-intensive path. This approach is guided by equity, scale, and action. Amitabh Kant, former CEO of Niti Aayog, also highlighted the significant impact of data, machine learning, and artificial intelligence on productivity. India's strategy serves as a model for other emerging economies to adopt sustainable development practices. The country's commitment to climate action is expected to drive growth and innovation in the sector.
+
+SHORT-FORM SCRIPT:
+India's taking a different path to development, one that balances growth with climate responsibility. With data, machine learning, and AI driving productivity, India's approach is a model for emerging economies to follow.
+
+----------------------------------------
+ARTICLE 4: The AI Job Market Conundrum: Can Policy Interventions Save the Day?
+Source: Reuters
+URL: https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-02-24/
+
+SUMMARY:
+The stock market is experiencing a decline due to fears that artificial intelligence will lead to significant job losses, with sectors that have rapidly adopted machine learning accounting for a third of unemployment since 2022. However, this pessimism may be overdone, and slow monetary and fiscal policy could exacerbate short-term pain. A 'policy bazooka' could potentially mitigate the negative effects of AI on the job market. The concept of the 'lump of labour fallacy' suggests that new technologies can create new job opportunities. Effective policy interventions can help navigate the transition to an AI-driven economy.
+
+SHORT-FORM SCRIPT:
+Imagine a world where AI takes over jobs, but what if we're wrong about the impact? New tech can create new opportunities, let's explore how policy can help.
+
+----------------------------------------
+ARTICLE 5: Building the Future of Scalable AI: High-Performance Inference Orchestration Pipeline
+Source: TechBullion
+URL: https://techbullion.com/building-the-future-of-scalable-ai-how-roshan-kakarla-engineered-a-high-performance-inference-orchestration-pipeline/
+
+SUMMARY:
+As AI moves from experimentation to enterprise production, organizations face the challenge of deploying machine learning models reliably at scale while maintaining performance, stability, and efficiency. Roshan Kakarla has engineered a high-performance inference orchestration pipeline to address this issue. The pipeline is designed to handle unpredictable traffic spikes, GPU-intensive workloads, and rapid model updates. This innovation has the potential to revolutionize the field of AI by enabling scalable and efficient deployment of machine learning models. By leveraging this technology, organizations can unlock the full potential of AI and drive business success.
+
+SHORT-FORM SCRIPT:
+Imagine being able to deploy AI models at scale without worrying about performance or stability. Roshan Kakarla's high-performance inference orchestration pipeline makes this possible, handling traffic spikes and GPU-intensive workloads with ease.
+
