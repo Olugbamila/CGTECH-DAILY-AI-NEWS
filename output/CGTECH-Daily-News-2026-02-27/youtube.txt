@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-02-27
+
+----------------------------------------
+VIDEO TITLE:
+Machine Learning for Machines: How CEAT Tyres' Factory Boosted Efficiency
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in technology and their impact on industries around the world. Today, we're taking a look at CEAT Tyres' Chennai factory, which has implemented machine learning, computer vision, and artificial intelligence to improve efficiency and reduce waste. With the help of sensors and AI models, the factory has been able to optimize production and reduce defects. But that's not all - the automation and digitization of processes have also enabled the hiring of more women, with 30% of the workforce now female. This is a great example of how technology can be used to drive positive change, and we're excited to share more stories like this in the future.
+
+REFERENCE LINK:
+https://timesofindia.indiatimes.com/technology/times-techies/machine-learning-for-machines-this-tyre-factorys-efficiency-soars/articleshow/128767568.cms
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Big Qualitative Data Analysis: Machine-Assisted Analysis in Healthcare
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and healthcare. Today, we're discussing a recent study on machine-assisted analysis for Big Qualitative Data Analysis. The study found that machine-assisted analysis can significantly reduce analysis time, but human input is still crucial for expertise and nuance. We'll dive into the details of the study, exploring the implications for public health and patient safety. From the potential of AI to enhance healthcare research to the importance of human input in machine-assisted analysis, we'll cover it all.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000576
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+India's Sustainable Path: A Model for Emerging Economies
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're talking about India's approach to sustainable development. The country's Environment Minister, Bhupender Yadav, says that India has consistently demonstrated that climate responsibility and development ambition can go hand in hand. We'll explore how India's approach is guided by equity, scale, and action, and how data, machine learning, and AI are driving productivity. Join us as we dive into the details and discuss what this means for the future of emerging economies.
+
+REFERENCE LINK:
+https://www.moneycontrol.com/news/india/india-proves-emerging-economies-need-not-follow-carbon-intensive-path-says-environment-minister-13841942.html
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+The AI Job Market Conundrum: Finding a Balance between Progress and Protection
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in artificial intelligence and their impact on the world. Today, we're discussing the potential consequences of AI on the job market. While some experts predict a jobless future, others argue that new technologies can create new opportunities. Let's dive into the complexities of this issue and examine the evidence. From the 'lump of labour fallacy' to the current state of the job market, we'll cover it all. So, let's get started.
+
+REFERENCE LINK:
+https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-02-24/
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Scalable AI: The High-Performance Inference Orchestration Pipeline
+
+SCRIPT (1–2 MINUTES):
+Introduction to the challenges of deploying machine learning models at scale. Overview of Roshan Kakarla's high-performance inference orchestration pipeline and its benefits. Explanation of how this innovation can transform the way organizations implement AI, with examples and use cases. Call to action to learn more about scalable AI and its applications.
+
+REFERENCE LINK:
+https://techbullion.com/building-the-future-of-scalable-ai-how-roshan-kakarla-engineered-a-high-performance-inference-orchestration-pipeline/
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
