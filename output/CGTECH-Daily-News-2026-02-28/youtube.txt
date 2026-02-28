@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-02-28
+
+----------------------------------------
+VIDEO TITLE:
+Jio Launches AI-Powered Finance App to Revolutionize Personal Finance
+
+SCRIPT (1–2 MINUTES):
+Welcome back to our channel! Today, we're talking about Jio's brand-new finance app, which is set to revolutionize the way we think about personal finance. With its AI-powered features, this app is going to provide users with personalized guidance and advice on managing their finances. But that's not all - it'll also build a 'financial score' for each user, giving them a clear picture of their financial health. In this video, we'll be exploring the features and implications of Jio's new finance app, and what it means for the future of banking and finance.
+
+REFERENCE LINK:
+https://economictimes.indiatimes.com/industry/banking/finance/jio-expands-finance-app-to-sell-third-party-products-to-advise-users-as-well/articleshow/128851701.cms
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Amazon's AI Push: Custom 'Trainium' Chips Revolutionize Machine Learning
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and tech. Today, we're talking about Amazon's bold move into AI with its custom 'Trainium' chips. From the company's history of innovation to its current efforts in machine learning, we'll dive into what this means for the future of tech and cloud computing. With billions of dollars being poured into AI research and development, the possibilities are endless. Join us as we break down the implications of Amazon's AI push and what it means for the industry as a whole.
+
+REFERENCE LINK:
+https://economictimes.indiatimes.com/tech/artificial-intelligence/texas-at-heart-of-amazons-ai-push-in-united-states/articleshow/128838396.cms
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Tyre Production with AI
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and machine learning. Today, we're looking at how CEAT Tyres' Chennai factory is using these technologies to revolutionize production. With the help of sensors, computer vision models, and AI, they're reducing defects, waste, and energy use. But what does this mean for the future of work, and how is automation changing the game for industries that were previously manual and labor-intensive? Let's dive in and find out.
+
+REFERENCE LINK:
+https://timesofindia.indiatimes.com/technology/times-techies/machine-learning-for-machines-this-tyre-factorys-efficiency-soars/articleshow/128767568.cms
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Big Qualitative Data Analysis: Human vs. Machine-Assisted Approach
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing a recent study that compared human vs. machine-assisted analysis for Big Qualitative Data Analysis in public health. The study used AI tools to analyze a large national survey on peri-operative cardiac arrest, and the results are impressive. With machine-assisted analysis, researchers can significantly reduce analysis time, but human input is still essential for providing topic expertise and nuance. This approach has important implications for informing targeted interventions and quality improvement initiatives to enhance patient safety. Let's dive into the details and explore what this means for the future of healthcare research.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000576
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+India Pioneers Sustainable Development Path
+
+SCRIPT (1–2 MINUTES):
+Hello everyone, welcome back to our channel! Today, we're talking about India's approach to sustainable development. The country's Environment Minister, Bhupender Yadav, has stated that India's shown that emerging economies can balance climate responsibility with development ambitions. This approach is guided by equity, scale, and action, rather than rhetoric. We'll be exploring what this means for the future of development and how technologies like AI and machine learning are driving this change.
+
+REFERENCE LINK:
+https://www.moneycontrol.com/news/india/india-proves-emerging-economies-need-not-follow-carbon-intensive-path-says-environment-minister-13841942.html
+
+CTA:
+Follow CGTECH for daily AI updates and insights on sustainable development.
+

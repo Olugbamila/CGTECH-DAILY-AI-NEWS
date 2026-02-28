@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-02-28
+
+----------------------------------------
+ARTICLE 1: Jio Launches AI-Powered Finance App to Revolutionize Personal Finance
+TWEET:
+Jio's new finance app is a game-changer! With AI-powered advice and a 'financial score' for users, it's set to disrupt the traditional banking and finance industry. #AI #Finance #Jio
+
+HASHTAGS:
+#AI #Finance #Jio
+
+LINK:
+https://economictimes.indiatimes.com/industry/banking/finance/jio-expands-finance-app-to-sell-third-party-products-to-advise-users-as-well/articleshow/128851701.cms
+
+----------------------------------------
+ARTICLE 2: Amazon's AI Push: Custom 'Trainium' Chips Revolutionize Machine Learning
+TWEET:
+Amazon steps up its AI game with custom 'Trainium' chips! What's next for the tech giant? #AI #TechNews
+
+HASHTAGS:
+#AI #TechNews #Amazon
+
+LINK:
+https://economictimes.indiatimes.com/tech/artificial-intelligence/texas-at-heart-of-amazons-ai-push-in-united-states/articleshow/128838396.cms
+
+----------------------------------------
+ARTICLE 3: Revolutionizing Tyre Production with AI
+TWEET:
+Tyre factory boosts efficiency with AI! CEAT Tyres' Chennai factory reduces defects, waste & energy use with machine learning & computer vision. #AI #MachineLearning #Sustainability
+
+HASHTAGS:
+#AI #MachineLearning #Sustainability
+
+LINK:
+https://timesofindia.indiatimes.com/technology/times-techies/machine-learning-for-machines-this-tyre-factorys-efficiency-soars/articleshow/128767568.cms
+
+----------------------------------------
+ARTICLE 4: Revolutionizing Big Qualitative Data Analysis: Human vs. Machine-Assisted Approach
+TWEET:
+New study: Machine-assisted analysis can revolutionize Big Qualitative Data Analysis in public health! Reduced analysis time, but human input still essential. #AI #Healthcare #BigData
+
+HASHTAGS:
+#AI #Healthcare #BigData #MachineLearning
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000576
+
+----------------------------------------
+ARTICLE 5: India Pioneers Sustainable Development Path
+TWEET:
+India's showing the world that emerging economies don't have to choose between development & climate responsibility! #AI #Sustainability #ClimateAction
+
+HASHTAGS:
+#AI #Sustainability #ClimateAction
+
+LINK:
+https://www.moneycontrol.com/news/india/india-proves-emerging-economies-need-not-follow-carbon-intensive-path-says-environment-minister-13841942.html
+
