@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-03-04
+
+----------------------------------------
+ARTICLE 1: Amazon's AI Push: Texas at the Forefront
+Source: Japan Today
+URL: https://japantoday.com/category/tech/texas-at-heart-of-amazon%27s-ai-push-in-united-states
+
+SUMMARY:
+Amazon is making a significant push into the AI market with its custom 'Trainium' chips, designed specifically for machine learning. The tech giant is investing billions of dollars into artificial intelligence and is working to step out of Nvidia's shadow. Amazon subsidiary Annapurna Labs in Austin, Texas, is playing a key role in the development of these chips. The company's efforts are expected to have a major impact on the AI industry. With Texas at the heart of Amazon's AI push, the state is poised to become a hub for AI innovation.
+
+SHORT-FORM SCRIPT:
+Amazon's making a big move in AI with its custom Trainium chips. Designed for machine learning, these chips are set to change the game. Texas is at the heart of it all, with Amazon's Annapurna Labs leading the charge.
+
+----------------------------------------
+ARTICLE 2: Amazon's AI Push: Custom Trainium Chips Take Center Stage
+Source: Japan Today
+URL: https://japantoday.com/category/tech/texas-at-heart-of-amazon's-ai-push-in-united-states
+
+SUMMARY:
+Amazon is making a significant push into the AI space with its custom 'Trainium' chips, designed specifically for machine learning. The tech giant is investing billions of dollars into AI research and development, with its subsidiary Annapurna Labs in Austin, Texas, playing a key role. This move is seen as an attempt to step out of Nvidia's shadow in the AI chip market. Amazon's efforts could potentially lead to breakthroughs in AI technology and further solidify its position in the industry. The company's focus on AI is expected to have a significant impact on the tech landscape.
+
+SHORT-FORM SCRIPT:
+Amazon is taking on Nvidia with its custom Trainium chips, designed for machine learning. Billions are being invested in AI research, with Annapurna Labs in Texas leading the charge. What does this mean for the future of AI?
+
+----------------------------------------
+ARTICLE 3: AI Literacy for All: India's Revolutionary Step Towards a Skilled Workforce
+Source: India Today
+URL: https://www.indiatoday.in/education-today/news/story/ai-literacy-for-all-why-it-matters-for-the-future-of-digital-learning-2875933-2026-02-28
+
+SUMMARY:
+The Indian government has launched a free online course, Yuva AI for All, to promote AI literacy among citizens. This initiative aims to equip individuals with foundational AI skills, emphasizing the importance of understanding and utilizing AI tools in various aspects of life. As AI transforms workplaces, experts stress that AI literacy is becoming as essential as basic computer skills. The course is designed to help citizens develop a workforce that can effectively use and question AI tools, driving the country's future growth. By doing so, India is taking a significant step towards preparing its population for the increasingly AI-driven world.
+
+SHORT-FORM SCRIPT:
+Imagine a world where AI is everywhere, from classrooms to hospitals. India's new course, Yuva AI for All, is making AI literacy accessible to all, helping citizens understand and utilize AI tools, and driving the country's next phase of growth.
+
+----------------------------------------
+ARTICLE 4: Jio Expands Finance App with AI-Powered Guidance
+Source: The Economic Times
+URL: https://economictimes.indiatimes.com/industry/banking/finance/jio-expands-finance-app-to-sell-third-party-products-to-advise-users-as-well/articleshow/128851701.cms
+
+SUMMARY:
+Jio has expanded its finance app to sell third-party products and will use AI, machine learning, and neural networks to advise users on managing their finances. The app will also build a 'financial score' for users, providing personalized guidance. This move marks a significant expansion of Jio's financial services offerings. The app aims to help users make informed financial decisions. Jio's use of AI and machine learning will enable the app to provide tailored advice to its users.
+
+SHORT-FORM SCRIPT:
+Jio's finance app just got a major upgrade. With AI and machine learning, it now sells third-party products and advises users on managing their finances. Get ready for a more personalized financial experience!
+
+----------------------------------------
+ARTICLE 5: Amazon's AI Push: Custom Chips and a New Era for Machine Learning
+Source: The Economic Times
+URL: https://economictimes.indiatimes.com/tech/artificial-intelligence/texas-at-heart-of-amazons-ai-push-in-united-states/articleshow/128838396.cms
+
+SUMMARY:
+Amazon is making a significant push into artificial intelligence (AI) in the United States, with a focus on Texas. The company is designing its own custom 'Trainium' chips for machine learning, moving away from relying on suppliers like Nvidia. This move is part of a larger effort by Amazon to invest billions of dollars in AI research and development. Amazon Web Services (AWS) cloud computing unit began designing its own chips after acquiring Israeli startup Annapurna Labs in 2015. This development is expected to have a major impact on the tech industry and AI advancements.
+
+SHORT-FORM SCRIPT:
+Amazon's making a big move in AI, designing its own custom chips for machine learning. This could change the game for the tech giant and the industry as a whole.
+
