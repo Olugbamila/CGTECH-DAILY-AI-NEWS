@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-03-05
+
+----------------------------------------
+ARTICLE 1: IIT Kharagpur Launches School of Digital Learning, Applied AI, and Machine Learning
+Source: Times of India
+URL: https://timesofindia.indiatimes.com/education/news/iit-kharagpur-announces-launch-of-school-of-digital-learning-applied-ai-machine-learning/articleshow/129003999.cms
+
+SUMMARY:
+The Indian Institute of Technology Kharagpur has launched a school of digital learning, applied artificial intelligence, and machine learning. This research-centric initiative aims to promote interdisciplinary research and education in the fields of AI and machine learning. The school will focus on developing innovative solutions to real-world problems. This launch is a significant step towards advancing India's capabilities in AI and digital technologies. The school is expected to collaborate with industry partners and other academic institutions to achieve its goals.
+
+SHORT-FORM SCRIPT:
+IIT Kharagpur just launched a school of digital learning, applied AI, and machine learning! This is a game-changer for India's tech scene. Imagine the innovative solutions that will come out of this research-centric initiative.
+
+----------------------------------------
+ARTICLE 2: Amazon's AI Push: Custom Trainium Chips Take Center Stage
+Source: Japan Today
+URL: https://japantoday.com/category/tech/texas-at-heart-of-amazon%27s-ai-push-in-united-states
+
+SUMMARY:
+Amazon is pushing forward with its AI ambitions in the US, with a focus on custom 'Trainium' chips designed for machine learning. The company's subsidiary, Annapurna Labs, in Austin, Texas, is at the heart of this effort. Billions of dollars are being invested in AI, and Amazon aims to step out of Nvidia's shadow. This development could have significant implications for the tech industry. Amazon's commitment to AI innovation is evident in its strategic investments and research initiatives.
+
+SHORT-FORM SCRIPT:
+Amazon's making a big push into AI with custom Trainium chips. What does this mean for the future of tech?
+
+----------------------------------------
+ARTICLE 3: Amazon's AI Push: Texas at the Forefront
+Source: Japan Today
+URL: https://japantoday.com/category/tech/texas-at-heart-of-amazon's-ai-push-in-united-states
+
+SUMMARY:
+Amazon is pushing forward with its AI endeavors in the US, with a focus on custom 'Trainium' chips designed for machine learning. The tech giant's subsidiary, Annapurna Labs, in Austin, Texas, is at the heart of this initiative. Billions of dollars are being invested in artificial intelligence, and Amazon aims to step out of Nvidia's shadow. This development could significantly impact the AI landscape. Amazon's efforts in Texas are a testament to the state's growing importance in the tech industry.
+
+SHORT-FORM SCRIPT:
+Amazon's making a big push into AI with custom Trainium chips. Their subsidiary in Texas is leading the charge, testing the limits of machine learning. What does this mean for the future of tech?
+
+----------------------------------------
+ARTICLE 4: India Launches Free Online Course to Boost AI Literacy
+Source: India Today
+URL: https://www.indiatoday.in/education-today/news/story/ai-literacy-for-all-why-it-matters-for-the-future-of-digital-learning-2875933-2026-02-28
+
+SUMMARY:
+The Indian government has launched a free online course, Yuva AI for All, to promote AI literacy among its citizens. This initiative aims to equip individuals with foundational AI skills, recognizing the increasing importance of AI in various sectors. As AI transforms workplaces, experts emphasize the need for a workforce that can effectively use and question AI tools. This move is expected to drive the country's next phase of growth. By fostering AI literacy, India is taking a significant step towards preparing its population for the future of digital learning.
+
+SHORT-FORM SCRIPT:
+India's taking a huge leap in AI education with a free online course, Yuva AI for All. This move is set to boost AI literacy and prepare the workforce for the future of digital learning.
+
+----------------------------------------
+ARTICLE 5: Jio Expands Finance App with AI-Powered Guidance and Third-Party Sales
+Source: The Economic Times
+URL: https://economictimes.indiatimes.com/industry/banking/finance/jio-expands-finance-app-to-sell-third-party-products-to-advise-users-as-well/articleshow/128851701.cms
+
+SUMMARY:
+Jio has expanded its finance app to sell third-party products and will use AI, machine learning, and neural networks to advise users on managing their finances. The app will also build a 'financial score' for users, providing personalized financial guidance. This move aims to make Jio a one-stop-shop for financial services. The new features are expected to enhance user experience and provide more comprehensive financial management tools. Jio's expansion into financial services is a significant development in the Indian fintech market.
+
+SHORT-FORM SCRIPT:
+Jio's finance app just got a major upgrade. With AI-powered financial guidance, users can now get personalized advice on managing their money. The app will also sell third-party products, making it a one-stop-shop for all financial needs.
+
