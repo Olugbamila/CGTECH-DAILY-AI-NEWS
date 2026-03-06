@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-03-06
+
+----------------------------------------
+VIDEO TITLE:
+Machine Learning Detects Early Brain Changes Linked to Alzheimer's Disease
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and their impact on society. Today, we're discussing a groundbreaking study that uses machine learning to detect Alzheimer's disease with remarkable accuracy. Researchers at Worcester Polytechnic Institute have achieved a 93% success rate in predicting the disease, which could have a significant impact on the medical field. We'll delve into the details of the study, examine the implications of this breakthrough, and discuss the potential applications of AI in healthcare. Join us as we navigate the fascinating world of AI and its role in shaping the future of medicine.
+
+REFERENCE LINK:
+https://www.news-medical.net/news/20260305/Machine-learning-detects-early-brain-changes-linked-to-Alzheimers-disease.aspx
+
+CTA:
+Follow CGTECH for daily AI updates and insights into the latest technological advancements.
+
+----------------------------------------
+VIDEO TITLE:
+How AI is Revolutionizing Finance
+
+SCRIPT (1–2 MINUTES):
+Introduction to the impact of AI on finance. The finance industry is one of the many sectors being transformed by artificial intelligence. In this video, we'll explore how AI technologies like machine learning, large language models, and natural language processing are revolutionizing the way markets operate. From processing vast amounts of data to making informed decisions, we'll dive into the details of how AI is changing the game in finance. Let's take a closer look.
+
+REFERENCE LINK:
+https://techbullion.com/how-applied-ai-is-reshaping-finance-jiazhao-shis-view-on-financial-intelligence-and-llm/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+IIT Kharagpur Launches School of Digital Learning, Applied AI, and Machine Learning
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel! Today, we're talking about the launch of IIT Kharagpur's school of digital learning, applied artificial intelligence, and machine learning. This is a significant development for India's AI and machine learning landscape, and we're excited to explore its implications. In this video, we'll be discussing the details of the launch, the focus areas of the school, and what this means for the future of AI and machine learning in India.
+
+REFERENCE LINK:
+https://timesofindia.indiatimes.com/education/news/iit-kharagpur-announces-launch-of-school-of-digital-learning-applied-ai-machine-learning/articleshow/129003999.cms
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Amazon's AI Push: Custom 'Trainium' Chips Take Center Stage
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel. Today, we're discussing Amazon's latest move in the AI space - the development of custom 'Trainium' chips designed for machine learning. With its subsidiary Annapurna Labs in Austin, Texas, leading the charge, Amazon is aiming to step out of Nvidia's shadow and make a significant impact in the world of AI. But what are the implications of this move, and how will it affect the broader AI industry? Let's dive in and explore the details.
+
+REFERENCE LINK:
+https://japantoday.com/category/tech/texas-at-heart-of-amazon%27s-ai-push-in-united-states
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Amazon's AI Push: Custom Trainium Chips Take Center Stage
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and tech. Today, we're talking about Amazon's big bet on AI with custom Trainium chips. From the company's subsidiary in Austin, Texas, to the potential implications for the industry, we'll dive into what this means for the future of tech. With billions of dollars being poured into AI research and development, it's an exciting time for innovation and discovery.
+
+REFERENCE LINK:
+https://japantoday.com/category/tech/texas-at-heart-of-amazon's-ai-push-in-united-states
+
+CTA:
+Follow CGTECH for daily AI updates.
+

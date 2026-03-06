@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-03-06
+
+----------------------------------------
+ARTICLE 1: Machine Learning Detects Early Brain Changes Linked to Alzheimer's Disease
+TWEET:
+Breakthrough alert! Machine learning can predict Alzheimer's disease with 93% accuracy. The future of healthcare just got a whole lot brighter! #AI #Healthcare #Alzheimers
+
+HASHTAGS:
+#AI #Alzheimers #HealthTech #MachineLearning
+
+LINK:
+https://www.news-medical.net/news/20260305/Machine-learning-detects-early-brain-changes-linked-to-Alzheimers-disease.aspx
+
+----------------------------------------
+ARTICLE 2: How AI is Revolutionizing Finance
+TWEET:
+AI is transforming finance! Machine learning, large language models, and NLP are revolutionizing the way markets operate. #AI #Finance #TechNews
+
+HASHTAGS:
+#AI #Finance #TechNews
+
+LINK:
+https://techbullion.com/how-applied-ai-is-reshaping-finance-jiazhao-shis-view-on-financial-intelligence-and-llm/
+
+----------------------------------------
+ARTICLE 3: IIT Kharagpur Launches School of Digital Learning, Applied AI, and Machine Learning
+TWEET:
+IIT Kharagpur launches school of digital learning, applied AI, & machine learning! A significant step forward for India's AI & machine learning landscape. #AI #MachineLearning #India
+
+HASHTAGS:
+#AI #MachineLearning #India
+
+LINK:
+https://timesofindia.indiatimes.com/education/news/iit-kharagpur-announces-launch-of-school-of-digital-learning-applied-ai-machine-learning/articleshow/129003999.cms
+
+----------------------------------------
+ARTICLE 4: Amazon's AI Push: Custom 'Trainium' Chips Take Center Stage
+TWEET:
+Amazon steps up its AI game with custom 'Trainium' chips! Designed for machine learning, these chips could be a game-changer. #AI #MachineLearning #Amazon
+
+HASHTAGS:
+#AI #MachineLearning #Amazon
+
+LINK:
+https://japantoday.com/category/tech/texas-at-heart-of-amazon%27s-ai-push-in-united-states
+
+----------------------------------------
+ARTICLE 5: Amazon's AI Push: Custom Trainium Chips Take Center Stage
+TWEET:
+Amazon's pushing into AI with custom Trainium chips! What does this mean for the future of tech? #AI #TechNews
+
+HASHTAGS:
+#AI #TechNews #Amazon
+
+LINK:
+https://japantoday.com/category/tech/texas-at-heart-of-amazon's-ai-push-in-united-states
+
