@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-03-07
+
+----------------------------------------
+VIDEO TITLE:
+The Rise of Explainable AI in Healthcare: Bridging Transparency and Innovation
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and their impact on various industries. Today, we're discussing the rise of explainable AI in healthcare. From medical imaging diagnostics to predictive disease modeling, AI is transforming the way healthcare professionals work. But as AI systems become more complex, it's essential to address the 'black box' problem. Explainable AI is emerging as a solution, enabling us to understand how AI models make their decisions. Let's dive into the world of explainable AI and learn more about the innovative work of researchers like MD Imran Kabir Joy.
+
+REFERENCE LINK:
+https://techbullion.com/the-rise-of-explainable-ai-in-healthcare-how-md-imran-kabir-joy-is-bridging-transparency-and-innovation/
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+Machine Learning Detects Early Brain Changes Linked to Alzheimer's Disease
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in technology and healthcare. Today, we're discussing a groundbreaking study that uses machine learning to predict Alzheimer's disease with nearly 93% accuracy. Researchers at Worcester Polytechnic Institute have made a significant breakthrough, analyzing anatomical changes in the brain to identify patterns associated with the disease. This innovative approach has the potential to revolutionize the field of neurodegenerative disease research. Let's dive deeper into the study and its implications for the future of healthcare.
+
+REFERENCE LINK:
+https://www.news-medical.net/news/20260305/Machine-learning-detects-early-brain-changes-linked-to-Alzheimers-disease.aspx
+
+CTA:
+Follow CGTECH for daily AI updates and breakthroughs in healthcare technology.
+
+----------------------------------------
+VIDEO TITLE:
+How Applied AI Is Reshaping Finance
+
+SCRIPT (1–2 MINUTES):
+Introduction to the role of AI in finance, discussing how machine learning, large language models, and natural language processing are transforming the industry. We'll delve into Jiazhao Shi's perspective on financial intelligence and the impact of LLMs, exploring the potential of AI to revolutionize financial decision-making and operations. As we navigate this new landscape, it's essential to consider the implications of AI on the future of finance and how institutions can leverage these technologies to stay competitive.
+
+REFERENCE LINK:
+https://techbullion.com/how-applied-ai-is-reshaping-finance-jiazhao-shis-view-on-financial-intelligence-and-llm/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+IIT Kharagpur Launches School of Digital Learning, Applied AI, and Machine Learning
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and technology. Today, we're talking about IIT Kharagpur's launch of a school of digital learning, applied artificial intelligence, and machine learning. This initiative is a significant milestone for the institution and the field of technology as a whole. In this video, we'll delve into the details of the school and its potential impact on education and innovation. From the potential applications of AI and machine learning to the challenges and opportunities that lie ahead, we'll cover it all.
+
+REFERENCE LINK:
+https://timesofindia.indiatimes.com/education/news/iit-kharagpur-announces-launch-of-school-of-digital-learning-applied-ai-machine-learning/articleshow/129003999.cms
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Amazon's AI Push: Custom Trainium Chips Take Center Stage
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and tech. Today, we're talking about Amazon's push into AI with custom Trainium chips. What are these chips, and how do they work? We'll dive into the details and explore what this means for the future of machine learning and the tech industry as a whole.
+
+REFERENCE LINK:
+https://japantoday.com/category/tech/texas-at-heart-of-amazon%27s-ai-push-in-united-states
+
+CTA:
+Follow CGTECH for daily AI updates.
+
