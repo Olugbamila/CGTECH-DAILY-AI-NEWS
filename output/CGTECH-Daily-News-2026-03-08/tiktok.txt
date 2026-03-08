@@ -1,0 +1,139 @@
+=== CGTECH — TIKTOK/IG/SHORTS PACK ===
+Date: 2026-03-08
+
+----------------------------------------
+ARTICLE 1: The AI Revolution in Digital Advertising: How Machine Learning Is Changing AdTech
+
+HOOK:
+Imagine a world where ads are tailored to your every interest and behavior. Welcome to the reality of AI-driven digital advertising.
+
+SCRIPT (SPOKEN):
+AI is revolutionizing digital advertising with machine learning. From bidding algorithms to fraud detection, AI is making ads more efficient and effective. But what does this mean for the future of advertising?
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Artificial intelligence has become a central component of digital advertising technology.
+  B-roll: Visuals of robots, dashboards, and headlines highlighting AI in AdTech
+
+Scene 2:
+  Narration: Machine learning is driving key functions like bidding algorithms and audience modeling.
+  B-roll: Animations of algorithms and data modeling, with screens displaying ads and user interactions
+
+Scene 3:
+  Narration: The use of AI in AdTech has also raised concerns about data privacy and security.
+  B-roll: Visuals of locks, secure servers, and people interacting with ads on their devices
+
+HASHTAGS:
+#AI #AITools #AdTech #DigitalMarketing
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+ARTICLE 2: The Rise of Explainable AI in Healthcare
+
+HOOK:
+What if your doctor's AI assistant could explain its decisions, not just make them? This is the promise of explainable AI in healthcare.
+
+SCRIPT (SPOKEN):
+Imagine AI that explains its decisions, not just makes them. Explainable AI is changing healthcare, and it's about to get a whole lot more transparent.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Artificial intelligence is transforming the healthcare industry at an unprecedented pace.
+  B-roll: Medical professionals working with AI systems, hospital settings, medical imaging equipment
+
+Scene 2:
+  Narration: Explainable AI is emerging as a solution to the 'black box' problem, aiming to bridge transparency and innovation in healthcare.
+  B-roll: Researchers working on XAI projects, code snippets, transparent AI models
+
+Scene 3:
+  Narration: Researchers like MD Imran Kabir Joy are working to develop more transparent AI systems, which could lead to better patient outcomes and more informed decision-making.
+  B-roll: Interviews with researchers, healthcare professionals using XAI, patients benefiting from XAI
+
+HASHTAGS:
+#AI #AITools #HealthcareInnovation
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 3: Machine Learning Detects Early Brain Changes Linked to Alzheimer's Disease
+
+HOOK:
+What if a simple scan could predict your risk of Alzheimer's disease years before symptoms appear? Researchers just made a groundbreaking discovery that could change everything.
+
+SCRIPT (SPOKEN):
+Imagine being able to detect Alzheimer's disease years before symptoms appear. Researchers just made a groundbreaking discovery using machine learning, predicting Alzheimer's with 93% accuracy. This could change everything!
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Researchers at Worcester Polytechnic Institute have made a groundbreaking discovery in the use of machine learning to detect Alzheimer's disease.
+  B-roll: Footage of brain scans, researchers working in a lab, and machine learning algorithms on a computer screen.
+
+Scene 2:
+  Narration: The study achieved a 93% accuracy rate in predicting the disease, which could enable early detection and intervention.
+  B-roll: Visuals of medical professionals discussing patient results, brain health graphics, and AI-powered medical equipment.
+
+HASHTAGS:
+#AI #AITools #Healthcare #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates and analysis.
+
+----------------------------------------
+ARTICLE 4: How Applied AI Is Reshaping Finance: Jiazhao Shi's View on Financial Intelligence and LLM
+
+HOOK:
+Imagine a world where financial decisions are made with precision and speed, thanks to the power of artificial intelligence. Welcome to the future of finance, where AI is revolutionizing the way institutions operate.
+
+SCRIPT (SPOKEN):
+AI is changing finance. Machine learning, large language models, and natural language processing are helping institutions process data and make informed decisions. Jiazhao Shi shares his insights on how applied AI is reshaping financial intelligence.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The finance industry is undergoing a significant transformation, thanks to the power of artificial intelligence.
+  B-roll: Visuals of financial institutions, stock markets, and data analytics dashboards.
+
+Scene 2:
+  Narration: Machine learning, large language models, and natural language processing are enabling institutions to process vast amounts of data and make more informed decisions.
+  B-roll: Visuals of robots, algorithms, and data processing systems.
+
+Scene 3:
+  Narration: Jiazhao Shi's insights on financial intelligence and LLMs offer a fascinating glimpse into the future of finance.
+  B-roll: Visuals of Jiazhao Shi speaking, or a graphic representation of his quotes.
+
+HASHTAGS:
+#AI #AITools #Finance #FinancialTechnology #LLM
+
+CTA:
+Follow CGTECH for daily AI updates and analysis.
+
+----------------------------------------
+ARTICLE 5: IIT Kharagpur Launches School of Digital Learning, Applied AI, and Machine Learning
+
+HOOK:
+Get ready to witness a revolution in India's AI landscape! IIT Kharagpur is launching a school of digital learning, applied AI, and machine learning.
+
+SCRIPT (SPOKEN):
+IIT Kharagpur is launching a school of digital learning, applied AI, and machine learning. This is a game-changer for India's AI landscape. Get ready for innovative solutions and cutting-edge research!
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The Indian Institute of Technology Kharagpur has announced the launch of a school of digital learning, applied artificial intelligence, and machine learning.
+  B-roll: Footage of the IIT Kharagpur campus, students working on AI projects, robots, and dashboards.
+
+Scene 2:
+  Narration: This research-centric initiative aims to transform the field of AI and machine learning.
+  B-roll: Footage of researchers working in labs, coding, and testing AI models.
+
+Scene 3:
+  Narration: The school will focus on developing innovative solutions and conducting cutting-edge research in these areas.
+  B-roll: Footage of students and researchers collaborating, brainstorming, and working on projects.
+
+HASHTAGS:
+#AI #AITools #MachineLearning #DigitalLearning
+
+CTA:
+Follow CGTECH for daily AI updates and news.
+

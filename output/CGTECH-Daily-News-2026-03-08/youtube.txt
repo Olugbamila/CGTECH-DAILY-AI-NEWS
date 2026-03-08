@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-03-08
+
+----------------------------------------
+VIDEO TITLE:
+The AI Revolution in Digital Advertising: How Machine Learning Is Changing AdTech
+
+SCRIPT (1–2 MINUTES):
+Welcome to our latest video on the future of digital advertising. Today, we're exploring the role of artificial intelligence in AdTech. From bidding algorithms to fraud detection, machine learning is driving a revolution in the industry. But what are the implications of this shift, and how will it shape the future of advertising? Let's take a closer look. With the help of AI, digital advertising has become more efficient and effective. However, this also raises concerns about data privacy and security. As we move forward, it's essential that we prioritize transparency and accountability in the use of AI in AdTech.
+
+REFERENCE LINK:
+https://techbullion.com/ai-targeting-adtech-machine-learning-digital-advertising/
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+The Rise of Explainable AI in Healthcare
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and their impact on various industries. Today, we're talking about the rise of explainable AI in healthcare. From medical imaging diagnostics to predictive disease modeling, AI systems are increasingly assisting physicians in clinical decision-making. However, the complexity of these models has created a 'black box' problem, making it difficult for physicians to trust AI-driven decisions. Explainable AI is emerging as a solution, aiming to bridge transparency and innovation in healthcare. Researchers like MD Imran Kabir Joy are working to develop more transparent AI systems, which could lead to better patient outcomes and more informed decision-making.
+
+REFERENCE LINK:
+https://techbullion.com/the-rise-of-explainable-ai-in-healthcare-how-md-imran-kabir-joy-is-bridging-transparency-and-innovation/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Machine Learning Detects Early Brain Changes Linked to Alzheimer's Disease
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and tech. Today, we're discussing a groundbreaking discovery in the use of machine learning to detect Alzheimer's disease. Researchers at Worcester Polytechnic Institute have achieved a 93% accuracy rate in predicting the disease, which could enable early detection and intervention. We'll dive into the details of this study, exploring the potential implications and possibilities of this technology. From the potential to improve patient outcomes to the broader applications of machine learning in healthcare, we'll cover it all.
+
+REFERENCE LINK:
+https://www.news-medical.net/news/20260305/Machine-learning-detects-early-brain-changes-linked-to-Alzheimers-disease.aspx
+
+CTA:
+Follow CGTECH for daily AI updates and analysis.
+
+----------------------------------------
+VIDEO TITLE:
+How Applied AI Is Reshaping Finance: Jiazhao Shi's View on Financial Intelligence and LLM
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and their impact on various industries. Today, we're discussing the transformative power of AI in finance. With the help of machine learning, large language models, and natural language processing, institutions can now process vast amounts of data and make more informed decisions. Jiazhao Shi's perspective on financial intelligence and LLMs highlights the significance of applied AI in this space. Let's dive deeper into the world of AI and finance, and examine the opportunities and challenges that lie ahead.
+
+REFERENCE LINK:
+https://techbullion.com/how-applied-ai-is-reshaping-finance-jiazhao-shis-view-on-financial-intelligence-and-llm/
+
+CTA:
+Follow CGTECH for daily AI updates and analysis.
+
+----------------------------------------
+VIDEO TITLE:
+IIT Kharagpur Launches School of Digital Learning, Applied AI, and Machine Learning
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the launch of IIT Kharagpur's school of digital learning, applied artificial intelligence, and machine learning. This is a major milestone for India's AI landscape, and we're excited to explore its implications. From the potential for innovative solutions to the opportunities for collaboration and knowledge-sharing, we'll dive into the details of this launch and what it means for the industry. Join us as we delve into the world of AI and machine learning.
+
+REFERENCE LINK:
+https://timesofindia.indiatimes.com/education/news/iit-kharagpur-announces-launch-of-school-of-digital-learning-applied-ai-machine-learning/articleshow/129003999.cms
+
+CTA:
+Follow CGTECH for daily AI updates and news.
+
