@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-03-10
+
+----------------------------------------
+VIDEO TITLE:
+The Power of AI-Powered Content Personalisation
+
+SCRIPT (1–2 MINUTES):
+Introduction to AI-powered content personalisation platforms and their impact on delivering tailored experiences to millions of users. We'll explore the technology behind modern personalisation engines, including machine learning models and vast datasets. As we dive into the world of predictive personalisation, we'll discuss the benefits and challenges of implementing these platforms. Join us as we examine the future of content personalisation and its potential to transform the way we interact with our favorite brands.
+
+REFERENCE LINK:
+https://techbullion.com/ai-powered-content-personalisation-platforms-scaling-relevance-across-millions-of-users/
+
+CTA:
+Follow CGTECH for daily AI updates and join the conversation on the future of content personalisation.
+
+----------------------------------------
+VIDEO TITLE:
+The AI Revolution in Digital Advertising: How Machine Learning is Changing the Game
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and AdTech. Today, we're talking about the impact of artificial intelligence on digital advertising. From bidding algorithms to audience modeling, AI is revolutionizing the way advertisers reach their target audience. With machine learning, advertisers can now target their audience with precision, leading to better returns on investment. But how does this work, and what are the implications for the future of digital advertising? Let's take a closer look.
+
+REFERENCE LINK:
+https://techbullion.com/ai-targeting-adtech-machine-learning-digital-advertising/
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest AdTech trends.
+
+----------------------------------------
+VIDEO TITLE:
+The Rise of Explainable AI in Healthcare: Bridging Transparency and Innovation
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and their impact on various industries. Today, we're going to talk about the rise of explainable AI in healthcare. From medical imaging diagnostics to predictive disease modeling, AI systems are increasingly assisting physicians in clinical decision-making. However, the complexity of these models has created a 'black box' problem, making it challenging for physicians to trust the decision-making process. Explainable AI is emerging as a solution, aiming to bridge transparency and innovation. Researchers like MD Imran Kabir Joy are working to develop more transparent AI systems, and their work has the potential to significantly enhance trust in AI-assisted clinical decision-making.
+
+REFERENCE LINK:
+https://techbullion.com/the-rise-of-explainable-ai-in-healthcare-how-md-imran-kabir-joy-is-bridging-transparency-and-innovation/
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+Machine Learning Breakthrough: Predicting Alzheimer's with 93% Accuracy
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and its applications. Today, we're discussing a groundbreaking study on using machine learning to predict Alzheimer's disease. Researchers at Worcester Polytechnic Institute have achieved nearly 93% accuracy in detecting brain changes associated with the disease. But what does this mean for patients and healthcare professionals? Let's dive into the details and examine the potential implications of this innovation.
+
+REFERENCE LINK:
+https://www.news-medical.net/news/20260305/Machine-learning-detects-early-brain-changes-linked-to-Alzheimers-disease.aspx
+
+CTA:
+Follow CGTECH for daily AI updates and in-depth analysis on the latest medical research breakthroughs.
+
+----------------------------------------
+VIDEO TITLE:
+How AI is Reshaping the Finance Industry
+
+SCRIPT (1–2 MINUTES):
+Introduction to the transformative power of AI in finance. The finance industry is on the cusp of a revolution, driven by the integration of artificial intelligence, machine learning, large language models, and natural language processing. In this video, we'll explore how these technologies are enhancing data processing capabilities, enabling institutions to make more informed decisions, and reshaping the financial landscape. We'll also delve into Jiazhao Shi's perspective on financial intelligence and LLMs, and what this means for the future of finance.
+
+REFERENCE LINK:
+https://techbullion.com/how-applied-ai-is-reshaping-finance-jiazhao-shis-view-on-financial-intelligence-and-llm/
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
