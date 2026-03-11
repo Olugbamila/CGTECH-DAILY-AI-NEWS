@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-03-11
+
+----------------------------------------
+VIDEO TITLE:
+India Leverages AI for Weather Forecasting: A New Era in Disaster Management
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel! Today, we're discussing the Indian government's decision to integrate AI into its weather forecasting systems. This move is expected to improve the accuracy and timeliness of early warnings for extreme weather events, which can have a significant impact on saving lives and reducing damage. In this video, we'll delve into the details of this development, exploring the potential benefits and challenges associated with using AI in this context. We'll also examine the broader implications of this technology and its potential applications in other areas. So, let's dive in and explore the exciting world of AI-powered weather forecasting!
+
+REFERENCE LINK:
+https://theprint.in/india/rapid-urbanisation-posing-unique-challenges-ai-integrated-for-forecasting-govt-in-lok-sabha/2875372/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+The Transformer Revolution: How a Single Architecture Changed the Face of AI
+
+SCRIPT (1–2 MINUTES):
+Welcome to our video on the Transformer architecture, the backbone of modern AI models. In this video, we'll delve into the history of the Transformer, its key components, and its impact on the field of AI. From its introduction by Google researchers in 2017 to its current dominance of generative AI, search, and automation, the Transformer has been a driving force behind AI innovation. We'll explore how the Transformer enables AI models to understand context, analyze large datasets, and predict words with precision, and discuss its applications in various industries. Whether you're an AI enthusiast or just curious about the technology, this video is for you.
+
+REFERENCE LINK:
+https://economictimes.indiatimes.com/news/international/us/what-is-a-transformer-in-artificial-intelligence-and-why-is-it-the-base-of-most-modern-ai-models/articleshow/129397230.cms
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Content Personalisation: Scaling Relevance Across Millions of Users
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and marketing innovation. Today, we're talking about AI-powered content personalisation platforms and how they're transforming the way organisations deliver tailored experiences to millions of users. From machine learning models to vast datasets, we'll dive into the technology behind modern personalisation engines and what this means for the future of marketing. So, let's get started!
+
+REFERENCE LINK:
+https://techbullion.com/ai-powered-content-personalisation-platforms-scaling-relevance-across-millions-of-users/
+
+CTA:
+Follow CGTECH for daily AI updates and insights into the latest marketing innovations.
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Digital Advertising: The Impact of AI on AdTech
+
+SCRIPT (1–2 MINUTES):
+Introduction to AI in AdTech. The advertising industry has undergone significant changes in recent years, and one of the key drivers of this transformation is artificial intelligence. In this video, we'll explore how machine learning is being used in AdTech to improve targeting, personalization, and campaign optimization. From bidding algorithms to fraud detection, we'll dive into the various applications of AI in digital advertising and discuss the opportunities and challenges that come with this technology.
+
+REFERENCE LINK:
+https://techbullion.com/ai-targeting-adtech-machine-learning-digital-advertising/
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest tech trends.
+
+----------------------------------------
+VIDEO TITLE:
+The Rise of Explainable AI in Healthcare
+
+SCRIPT (1–2 MINUTES):
+Introduction to explainable AI in healthcare, and how researchers like MD Imran Kabir Joy are working to increase transparency and trust in AI-driven decisions. We'll explore the current challenges and opportunities in this field, and what the future holds for explainable AI in healthcare. With the potential to transform the medical landscape, explainable AI is an exciting and rapidly evolving field that's worth keeping an eye on.
+
+REFERENCE LINK:
+https://techbullion.com/the-rise-of-explainable-ai-in-healthcare-how-md-imran-kabir-joy-is-bridging-transparency-and-innovation/
+
+CTA:
+Follow CGTECH for daily AI updates.
+

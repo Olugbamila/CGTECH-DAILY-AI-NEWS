@@ -1,0 +1,139 @@
+=== CGTECH — TIKTOK/IG/SHORTS PACK ===
+Date: 2026-03-11
+
+----------------------------------------
+ARTICLE 1: India Leverages AI for Weather Forecasting: A New Era in Disaster Management
+
+HOOK:
+Imagine having the power to predict and prepare for extreme weather events before they strike. India's government is making this a reality with AI.
+
+SCRIPT (SPOKEN):
+India's government is using AI to improve weather forecasts and warn citizens about extreme events. This tech can save lives and reduce damage.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The Indian government is using AI to improve weather forecasts and warn citizens about extreme events.
+  B-roll: Footage of weather forecasting systems, AI-powered dashboards, and government officials discussing the initiative.
+
+Scene 2:
+  Narration: This technology can save lives and reduce damage by providing more accurate and timely warnings.
+  B-roll: Images of natural disasters, such as floods and hurricanes, and people evacuating or seeking shelter.
+
+Scene 3:
+  Narration: The integration of AI and machine learning models is a significant step towards creating a more resilient environment.
+  B-roll: Visuals of AI-powered systems in action, such as predictive modeling and data analysis.
+
+HASHTAGS:
+#AI #AITools #WeatherForecasting #Sustainability
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: The Transformer Revolution: How a Single Architecture Changed the Face of AI
+
+HOOK:
+Imagine a technology that can understand and generate human-like language, powering applications from chatbots to language translation. This is the power of the Transformer architecture, and it's changing the face of AI.
+
+SCRIPT (SPOKEN):
+Imagine a technology that can understand context, analyze massive datasets, and predict words with precision. This is the power of the Transformer architecture, introduced by Google in 2017. It's the backbone of modern AI models, including ChatGPT, and has changed the game for machine learning.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The Transformer architecture was introduced by Google researchers in 2017, and it has since become the backbone of modern AI models.
+  B-roll: Footage of Google's headquarters, researchers working on AI projects, and lines of code on a screen.
+
+Scene 2:
+  Narration: The Transformer enables AI models to understand context, analyze massive datasets, and predict words with precision.
+  B-roll: Visuals of AI models processing data, graphs showing the growth of AI capabilities, and examples of AI-generated text.
+
+Scene 3:
+  Narration: The Transformer has far-reaching implications for industries like search, automation, and generative AI.
+  B-roll: Footage of self-driving cars, robots performing tasks, and examples of AI-generated content like images and videos.
+
+HASHTAGS:
+#AI #AITools #MachineLearning #Tech
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 3: AI-Powered Content Personalisation: Scaling Relevance Across Millions of Users
+
+HOOK:
+What if you could deliver personalised content to millions of users at the same time? With AI-powered platforms, this is now a reality.
+
+SCRIPT (SPOKEN):
+Imagine being able to deliver personalised content to millions of users at the same time. With AI-powered platforms, this is now a reality. Using machine learning models and vast datasets, marketers can serve dynamic, contextually relevant experiences that drive engagement and conversions.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: AI-powered content personalisation platforms have revolutionized the way organisations deliver tailored experiences to millions of users.
+  B-roll: Dashboard visuals of personalisation platforms, with data streaming in and content being served to users.
+
+Scene 2:
+  Narration: By leveraging machine learning models trained on vast datasets, these platforms enable marketers to serve dynamic, contextually relevant content in real-time.
+  B-roll: Footage of machine learning models being trained, with code snippets and data visualisations.
+
+Scene 3:
+  Narration: This shift has moved beyond basic rule-based segmentation, embracing predictive personalisation and driving engagement and conversions.
+  B-roll: Visuals of marketers using personalisation platforms, with graphs and charts showing increased engagement and conversions.
+
+HASHTAGS:
+#AI #AITools #MarketingHacks #Personalisation
+
+CTA:
+Follow CGTECH for daily AI updates and insights into the latest marketing innovations.
+
+----------------------------------------
+ARTICLE 4: Revolutionizing Digital Advertising: The Impact of AI on AdTech
+
+HOOK:
+Imagine being able to target your ideal audience with precision and accuracy. With AI in AdTech, this is now a reality.
+
+SCRIPT (SPOKEN):
+AI is revolutionizing digital advertising. With machine learning, AdTech platforms can now target audiences more effectively, personalize ads, and optimize campaigns like never before.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The advertising industry has undergone significant changes in recent years, and one of the key drivers of this transformation is artificial intelligence.
+  B-roll: Visuals of ads on mobile devices, laptops, and billboards, with animations of AI algorithms and machine learning models in the background.
+
+Scene 2:
+  Narration: With machine learning, AdTech platforms can now target audiences more effectively, personalize ads, and optimize campaigns like never before.
+  B-roll: Visuals of data analysts working on computers, with graphs and charts showing the effectiveness of AI-driven ad campaigns.
+
+Scene 3:
+  Narration: From bidding algorithms to fraud detection, AI is being used in various applications in AdTech to improve the efficiency and effectiveness of digital advertising.
+  B-roll: Visuals of robots and dashboards, with animations of AI-powered ad exchanges and real-time bidding platforms.
+
+HASHTAGS:
+#AI #AdTech #DigitalAdvertising #MachineLearning #Tech
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest tech trends.
+
+----------------------------------------
+ARTICLE 5: The Rise of Explainable AI in Healthcare
+
+HOOK:
+What if doctors could understand how AI makes life-saving decisions? Explainable AI is making that a reality.
+
+SCRIPT (SPOKEN):
+Imagine a future where AI helps doctors make life-saving decisions. But have you ever wondered how AI actually makes those decisions? Researchers like MD Imran Kabir Joy are working on explainable AI to increase transparency and trust in healthcare.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Artificial intelligence is transforming the healthcare industry at an unprecedented pace.
+  B-roll: Medical professionals working with AI systems, hospital settings, medical imaging equipment
+
+Scene 2:
+  Narration: Researchers like MD Imran Kabir Joy are working to develop explainable AI models that can bridge transparency and innovation in healthcare.
+  B-roll: Researchers working in labs, coding, data visualization, medical professionals discussing AI-driven decisions
+
+HASHTAGS:
+#AI #AITools #HealthcareTech #ExplainableAI
+
+CTA:
+Follow CGTECH for daily AI updates.
+

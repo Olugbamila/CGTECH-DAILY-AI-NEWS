@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-03-11
+
+----------------------------------------
+ARTICLE 1: India Leverages AI for Weather Forecasting: A New Era in Disaster Management
+TWEET:
+India's government is using #AI to improve weather forecasts & save lives! #TechForGood #WeatherForecasting
+
+HASHTAGS:
+#AI #TechForGood #WeatherForecasting
+
+LINK:
+https://theprint.in/india/rapid-urbanisation-posing-unique-challenges-ai-integrated-for-forecasting-govt-in-lok-sabha/2875372/
+
+----------------------------------------
+ARTICLE 2: The Transformer Revolution: How a Single Architecture Changed the Face of AI
+TWEET:
+Did you know the Transformer architecture powers 90% of modern AI models? Introduced by Google in 2017, it's the backbone of AI innovation, enabling models like ChatGPT to understand context & predict words with precision. #AI #MachineLearning
+
+HASHTAGS:
+#AI #MachineLearning #Transformer
+
+LINK:
+https://economictimes.indiatimes.com/news/international/us/what-is-a-transformer-in-artificial-intelligence-and-why-is-it-the-base-of-most-modern-ai-models/articleshow/129397230.cms
+
+----------------------------------------
+ARTICLE 3: AI-Powered Content Personalisation: Scaling Relevance Across Millions of Users
+TWEET:
+AI-powered content personalisation platforms are revolutionizing marketing! With machine learning and vast datasets, marketers can now serve dynamic, contextually relevant experiences to millions of users. #AI #MarketingInnovation
+
+HASHTAGS:
+#AI #MarketingInnovation #Personalisation
+
+LINK:
+https://techbullion.com/ai-powered-content-personalisation-platforms-scaling-relevance-across-millions-of-users/
+
+----------------------------------------
+ARTICLE 4: Revolutionizing Digital Advertising: The Impact of AI on AdTech
+TWEET:
+AI is transforming digital advertising! With machine learning, AdTech platforms can now target audiences more effectively & optimize campaigns like never before. #AI #AdTech #DigitalAdvertising
+
+HASHTAGS:
+#AI #AdTech #DigitalAdvertising #MachineLearning
+
+LINK:
+https://techbullion.com/ai-targeting-adtech-machine-learning-digital-advertising/
+
+----------------------------------------
+ARTICLE 5: The Rise of Explainable AI in Healthcare
+TWEET:
+Explainable AI is transforming healthcare! Researchers like MD Imran Kabir Joy are working to increase transparency and trust in AI-driven decisions. #AI #Healthcare #ExplainableAI
+
+HASHTAGS:
+#AI #Healthcare #ExplainableAI
+
+LINK:
+https://techbullion.com/the-rise-of-explainable-ai-in-healthcare-how-md-imran-kabir-joy-is-bridging-transparency-and-innovation/
+
