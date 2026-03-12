@@ -1,0 +1,139 @@
+=== CGTECH — TIKTOK/IG/SHORTS PACK ===
+Date: 2026-03-12
+
+----------------------------------------
+ARTICLE 1: The Hidden Cost of AI: Karnataka's Push for Sustainable Data Centres
+
+HOOK:
+The next time you interact with ChatGPT, remember: your conversation is having an environmental impact. Find out how Karnataka is tackling the issue of sustainable data centres.
+
+SCRIPT (SPOKEN):
+Did you know 5 questions on ChatGPT can use up half a litre of water? Karnataka Minister Priyank Kharge is calling for sustainable data centres to reduce the environmental impact of AI and machine learning.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The rapid growth of AI and machine learning is driving the demand for data centres.
+  B-roll: Footage of data centres, servers, and IT infrastructure
+
+Scene 2:
+  Narration: However, this growth comes with an environmental cost, including significant water consumption.
+  B-roll: Visuals of water usage, such as faucets, rivers, or water treatment plants
+
+Scene 3:
+  Narration: Karnataka Minister Priyank Kharge is calling for sustainable data centres to mitigate this impact.
+  B-roll: Clips of Priyank Kharge speaking, or images of sustainable data centre initiatives
+
+HASHTAGS:
+#AI #SustainableTech #EcoFriendly
+
+CTA:
+Follow CGTECH for daily AI updates and insights on sustainable tech.
+
+----------------------------------------
+ARTICLE 2: India Integrates AI into Weather Forecasting to Combat Extreme Weather Events
+
+HOOK:
+India's government is revolutionizing weather forecasting with AI! But what does this mean for the future of disaster preparedness?
+
+SCRIPT (SPOKEN):
+India's government is using AI to improve weather forecasts and warn people about extreme weather events. This is a big step in using technology to stay safe from natural disasters.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The Indian government is taking a significant step towards leveraging technology to mitigate the effects of climate change.
+  B-roll: Footage of Indian cities, weather forecasting systems, and AI-related visuals
+
+Scene 2:
+  Narration: By integrating AI into forecasting systems, the government aims to provide early warnings for extreme weather events.
+  B-roll: Visuals of natural disasters, such as floods and cyclones, and people preparing for emergencies
+
+HASHTAGS:
+#AI #AITools #WeatherForecasting #Sustainability
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 3: The Power of Transformer Architecture: The Backbone of Modern AI
+
+HOOK:
+Imagine a technology that can understand and generate human-like language. Sounds like science fiction, but it's a reality thanks to the Transformer architecture.
+
+SCRIPT (SPOKEN):
+Imagine a technology that can understand context, analyze massive datasets, and predict words with precision. This is the power of the Transformer architecture, introduced by Google in 2017. It's the backbone of modern AI models, including ChatGPT, and has changed the game for generative AI, search, and automation.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The Transformer architecture was introduced by Google researchers in 2017.
+  B-roll: Footage of Google headquarters, researchers working on computers, or a timeline of AI developments.
+
+Scene 2:
+  Narration: It enables AI models to understand context and analyze large datasets.
+  B-roll: Visuals of data centers, servers, or AI models processing information.
+
+Scene 3:
+  Narration: The Transformer is the foundation of large language models like ChatGPT.
+  B-roll: Footage of ChatGPT in action, people interacting with AI chatbots, or language models generating text.
+
+HASHTAGS:
+#AI #AITools #Transformer #Tech
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 4: AI-Powered Content Personalisation: Scaling Relevance Across Millions of Users
+
+HOOK:
+What if you could deliver personalised content to millions of users at the same time? With AI-powered personalisation platforms, this is now a reality.
+
+SCRIPT (SPOKEN):
+Imagine being able to deliver personalised content to millions of users at the same time. With AI-powered personalisation platforms, this is now a reality. These platforms use machine learning models to serve dynamic, contextually relevant experiences, taking personalisation to the next level.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: AI-powered personalisation platforms are revolutionising the way we deliver content.
+  B-roll: Suggested B-roll visuals: robots, dashboards, headlines, marketers working on computers
+
+Scene 2:
+  Narration: By leveraging machine learning models and vast datasets, these platforms enable predictive, real-time personalisation.
+  B-roll: Suggested B-roll visuals: data centres, machine learning algorithms, code on screens
+
+Scene 3:
+  Narration: This technology allows marketers to serve dynamic, contextually relevant content, enhancing user engagement and satisfaction.
+  B-roll: Suggested B-roll visuals: users interacting with personalised content on their devices, happy customers
+
+HASHTAGS:
+#AI #AITools #Personalisation
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 5: AI Targeting in AdTech: The Future of Digital Advertising
+
+HOOK:
+Imagine a world where ads are tailored to your exact interests and needs. This is the reality of AI-powered digital advertising, and it's changing the game in AdTech.
+
+SCRIPT (SPOKEN):
+AI is changing the game in digital advertising. From bidding algorithms to fraud detection, machine learning is making ads more targeted and effective. What does this mean for the future of AdTech?
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Artificial intelligence has become a central component of digital advertising technology.
+  B-roll: Visuals of robots, dashboards, and code screens to represent AI and machine learning.
+
+Scene 2:
+  Narration: Machine learning is driving advancements in areas such as bidding algorithms and audience modeling.
+  B-roll: Visuals of data analytics, charts, and graphs to represent machine learning and data-driven decision making.
+
+Scene 3:
+  Narration: The integration of AI has improved the efficiency and effectiveness of digital advertising.
+  B-roll: Visuals of ads being displayed on various devices, such as smartphones and laptops, to represent digital advertising.
+
+HASHTAGS:
+#AI #AITools #AdTech #DigitalMarketing
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest AdTech trends.
+

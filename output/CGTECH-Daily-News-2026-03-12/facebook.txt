@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-03-12
+
+----------------------------------------
+ARTICLE 1: The Hidden Cost of AI: Karnataka's Push for Sustainable Data Centres
+Source: The Indian Express
+Link: https://indianexpress.com/article/cities/bangalore/5-questions-on-chatgpt-will-use-up-half-a-litre-of-water-karnataka-minister-priyank-kharge-calls-for-sustainable-data-centres-10576852/
+
+POST:
+Have you ever stopped to think about the environmental impact of your online activities? From chatting with AI assistants like ChatGPT to storing data in cloud servers, our digital footprint is growing. Karnataka Minister Priyank Kharge recently highlighted the significant water consumption associated with data centre operations, emphasizing the need for sustainable practices. As we move forward in this tech-driven world, it's essential we prioritize eco-friendly solutions. Follow CGTECH for daily updates on AI and tech news, and let's work together towards a more sustainable future.
+
+CTA:
+Follow CGTECH for daily AI updates and insights on sustainable tech.
+
+----------------------------------------
+ARTICLE 2: India Integrates AI into Weather Forecasting to Combat Extreme Weather Events
+Source: ThePrint
+Link: https://theprint.in/india/rapid-urbanisation-posing-unique-challenges-ai-integrated-for-forecasting-govt-in-lok-sabha/2875372/
+
+POST:
+Have you heard about the Indian government's latest initiative to use artificial intelligence (AI) and machine learning to improve weather forecasts? This is a significant step towards leveraging technology to mitigate the effects of climate change. By integrating AI into forecasting systems, the government aims to provide early warnings for extreme weather events, enabling better preparedness and response. Let's talk about how AI can be used for the greater good! Follow CGTECH for daily AI updates.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 3: The Power of Transformer Architecture: The Backbone of Modern AI
+Source: The Economic Times
+Link: https://economictimes.indiatimes.com/news/international/us/what-is-a-transformer-in-artificial-intelligence-and-why-is-it-the-base-of-most-modern-ai-models/articleshow/129397230.cms
+
+POST:
+The Transformer architecture is a game-changer for AI. Introduced by Google researchers in 2017, it's enabled AI models to understand context, analyze massive datasets, and predict words with precision. This technology is the foundation of large language models like ChatGPT, which are revolutionizing generative AI, search, and automation. Want to stay up-to-date on the latest AI trends and insights? Follow CGTECH for daily updates and analysis.
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 4: AI-Powered Content Personalisation: Scaling Relevance Across Millions of Users
+Source: TechBullion
+Link: https://techbullion.com/ai-powered-content-personalisation-platforms-scaling-relevance-across-millions-of-users/
+
+POST:
+The way we consume content is changing, and AI-powered personalisation platforms are leading the charge. By using machine learning models and vast datasets, these platforms enable marketers to deliver dynamic, contextually relevant experiences to millions of users. This means that businesses can now create highly personalised content that resonates with their audiences, driving engagement and loyalty. Want to stay up-to-date on the latest AI trends? Follow CGTECH for daily updates!
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 5: AI Targeting in AdTech: The Future of Digital Advertising
+Source: TechBullion
+Link: https://techbullion.com/ai-targeting-adtech-machine-learning-digital-advertising/
+
+POST:
+The world of digital advertising is undergoing a significant transformation, thanks to the power of artificial intelligence. With AI-driven capabilities becoming the norm, we're seeing more efficient, effective, and personalized ad experiences. But what does this mean for the future of AdTech? Join the conversation and share your thoughts on the impact of AI in digital advertising. Follow CGTECH for daily updates on the latest AI trends and innovations.
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest AdTech trends.
+

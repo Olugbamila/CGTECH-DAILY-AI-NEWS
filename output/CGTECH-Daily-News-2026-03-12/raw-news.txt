@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-03-12
+
+----------------------------------------
+ARTICLE 1: The Hidden Cost of AI: Karnataka's Push for Sustainable Data Centres
+Source: The Indian Express
+URL: https://indianexpress.com/article/cities/bangalore/5-questions-on-chatgpt-will-use-up-half-a-litre-of-water-karnataka-minister-priyank-kharge-calls-for-sustainable-data-centres-10576852/
+
+SUMMARY:
+Karnataka Minister Priyank Kharge highlights the environmental impact of data centres, stating that 5 questions on ChatGPT can consume half a litre of water. He emphasizes the need for sustainable data centres, citing 32 private data centres already operational in the state. The minister's comments come as a response to a proposal for a data centre park near Doddaballapur. The focus on sustainability underscores the growing concern about the environmental footprint of AI and machine learning. As the demand for data storage and processing continues to rise, finding eco-friendly solutions is becoming increasingly important.
+
+SHORT-FORM SCRIPT:
+Did you know 5 questions on ChatGPT can use up half a litre of water? Karnataka Minister Priyank Kharge is calling for sustainable data centres to reduce the environmental impact of AI and machine learning.
+
+----------------------------------------
+ARTICLE 2: India Integrates AI into Weather Forecasting to Combat Extreme Weather Events
+Source: ThePrint
+URL: https://theprint.in/india/rapid-urbanisation-posing-unique-challenges-ai-integrated-for-forecasting-govt-in-lok-sabha/2875372/
+
+SUMMARY:
+The Indian government has integrated artificial intelligence (AI) and machine learning models into forecasting systems to improve early warnings for extreme weather events. This move aims to address the unique challenges posed by rapid urbanization. The integration is expected to enhance the accuracy of weather forecasts, enabling better preparedness and response to natural disasters. The government's initiative is a significant step towards leveraging technology to mitigate the effects of climate change. By harnessing the power of AI, the government hopes to save lives and reduce economic losses.
+
+SHORT-FORM SCRIPT:
+India's government is using AI to improve weather forecasts and warn people about extreme weather events. This is a big step in using technology to stay safe from natural disasters.
+
+----------------------------------------
+ARTICLE 3: The Power of Transformer Architecture: The Backbone of Modern AI
+Source: The Economic Times
+URL: https://economictimes.indiatimes.com/news/international/us/what-is-a-transformer-in-artificial-intelligence-and-why-is-it-the-base-of-most-modern-ai-models/articleshow/129397230.cms
+
+SUMMARY:
+The Transformer architecture, introduced by Google researchers in 2017, has revolutionized machine learning and powers over 90% of modern AI models. It enables AI models to understand context, analyze large datasets, and predict words using probability. This design is the foundation of large language models like ChatGPT, which dominate generative AI, search, and automation. The Transformer's impact is a result of its ability to train on trillions of text tokens and human feedback. As a result, Transformer-based models have become the standard in the AI industry.
+
+SHORT-FORM SCRIPT:
+Imagine a technology that can understand context, analyze massive datasets, and predict words with precision. This is the power of the Transformer architecture, introduced by Google in 2017. It's the backbone of modern AI models, including ChatGPT, and has changed the game for generative AI, search, and automation.
+
+----------------------------------------
+ARTICLE 4: AI-Powered Content Personalisation: Scaling Relevance Across Millions of Users
+Source: TechBullion
+URL: https://techbullion.com/ai-powered-content-personalisation-platforms-scaling-relevance-across-millions-of-users/
+
+SUMMARY:
+AI-powered content personalisation platforms have revolutionized the way organisations deliver tailored experiences to millions of users. By leveraging machine learning models and vast datasets, these platforms enable predictive, real-time personalisation, moving beyond basic rule-based segmentation. This technology allows marketers to serve dynamic, contextually relevant content, enhancing user engagement and satisfaction. The use of AI in personalisation has transformed the marketing landscape, enabling businesses to scale their efforts and improve customer interactions. As a result, organisations can now deliver highly relevant content to their audiences, driving meaningful connections and loyalty.
+
+SHORT-FORM SCRIPT:
+Imagine being able to deliver personalised content to millions of users at the same time. With AI-powered personalisation platforms, this is now a reality. These platforms use machine learning models to serve dynamic, contextually relevant experiences, taking personalisation to the next level.
+
+----------------------------------------
+ARTICLE 5: AI Targeting in AdTech: The Future of Digital Advertising
+Source: TechBullion
+URL: https://techbullion.com/ai-targeting-adtech-machine-learning-digital-advertising/
+
+SUMMARY:
+Artificial intelligence has become a central component of digital advertising technology, driving advancements in areas such as bidding algorithms, audience modeling, creative optimization, and fraud detection. This shift has transformed the industry, making AI-driven capabilities a baseline expectation for AdTech platforms. As a result, machine learning is revolutionizing the way digital advertising is targeted and delivered. The integration of AI has improved the efficiency and effectiveness of digital advertising, enabling more precise audience targeting and personalized ad experiences. The future of digital advertising will likely be shaped by continued advancements in AI and machine learning.
+
+SHORT-FORM SCRIPT:
+AI is changing the game in digital advertising. From bidding algorithms to fraud detection, machine learning is making ads more targeted and effective. What does this mean for the future of AdTech?
+

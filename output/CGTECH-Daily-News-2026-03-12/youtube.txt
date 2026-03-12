@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-03-12
+
+----------------------------------------
+VIDEO TITLE:
+The Hidden Cost of AI: Karnataka's Push for Sustainable Data Centres
+
+SCRIPT (1–2 MINUTES):
+Introduction: Welcome to our channel, where we explore the latest developments in AI and tech. Today, we're discussing the environmental impact of data centres and the call for sustainability. Segment 1: Karnataka Minister Priyank Kharge's statement about ChatGPT's water consumption serves as a wake-up call for the industry. Segment 2: We'll delve into the current state of data centres in Karnataka and the proposed solutions for reducing their environmental footprint. Conclusion: As we strive for innovation, we must also prioritize sustainability. Join us in the conversation and let's shape a more eco-friendly future for tech.
+
+REFERENCE LINK:
+https://indianexpress.com/article/cities/bangalore/5-questions-on-chatgpt-will-use-up-half-a-litre-of-water-karnataka-minister-priyank-kharge-calls-for-sustainable-data-centres-10576852/
+
+CTA:
+Follow CGTECH for daily AI updates and insights on sustainable tech.
+
+----------------------------------------
+VIDEO TITLE:
+India Integrates AI into Weather Forecasting to Combat Extreme Weather Events
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel! Today, we're discussing the Indian government's innovative approach to weather forecasting. By integrating artificial intelligence and machine learning models into forecasting systems, the government hopes to improve early warnings for extreme weather events. This move has the potential to save lives and reduce economic losses. In this video, we'll explore the details of this initiative and its potential impact on the environment. Stay tuned for more updates on AI and its applications!
+
+REFERENCE LINK:
+https://theprint.in/india/rapid-urbanisation-posing-unique-challenges-ai-integrated-for-forecasting-govt-in-lok-sabha/2875372/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+The Power of Transformer Architecture: The Backbone of Modern AI
+
+SCRIPT (1–2 MINUTES):
+Welcome to our video on the Transformer architecture, the technology that's powering the AI revolution. Introduced by Google researchers in 2017, the Transformer has enabled AI models to understand context, analyze large datasets, and predict words with precision. In this video, we'll explore the Transformer's history, its key components, and its impact on the AI industry. From large language models like ChatGPT to generative AI and search, we'll examine the Transformer's role in shaping the future of AI. So let's dive in and explore the world of Transformer architecture.
+
+REFERENCE LINK:
+https://economictimes.indiatimes.com/news/international/us/what-is-a-transformer-in-artificial-intelligence-and-why-is-it-the-base-of-most-modern-ai-models/articleshow/129397230.cms
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Content Personalisation: Scaling Relevance Across Millions of Users
+
+SCRIPT (1–2 MINUTES):
+Welcome to our video on AI-powered content personalisation platforms. In this video, we'll explore how these platforms are revolutionising the way organisations deliver tailored experiences to millions of users. We'll dive into the technology behind modern personalisation engines, including machine learning models and vast datasets. By the end of this video, you'll understand how AI-powered personalisation is transforming the marketing landscape and what this means for businesses and consumers alike.
+
+REFERENCE LINK:
+https://techbullion.com/ai-powered-content-personalisation-platforms-scaling-relevance-across-millions-of-users/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+AI Targeting in AdTech: The Future of Digital Advertising
+
+SCRIPT (1–2 MINUTES):
+Welcome to our video on the impact of AI in digital advertising. In this video, we'll explore how machine learning is changing the game in AdTech, from bidding algorithms to fraud detection. We'll discuss the benefits of AI-driven advertising, including improved efficiency and personalized ad experiences. And we'll examine the future of digital advertising, including the potential challenges and opportunities that lie ahead. Whether you're an industry professional or just interested in the latest AI trends, this video is for you.
+
+REFERENCE LINK:
+https://techbullion.com/ai-targeting-adtech-machine-learning-digital-advertising/
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest AdTech trends.
+

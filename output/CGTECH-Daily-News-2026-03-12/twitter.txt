@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-03-12
+
+----------------------------------------
+ARTICLE 1: The Hidden Cost of AI: Karnataka's Push for Sustainable Data Centres
+TWEET:
+5 ChatGPT questions = half a litre of water! Karnataka Minister Priyank Kharge calls for sustainable data centres. The future of AI depends on eco-friendly tech. #AI #Sustainability
+
+HASHTAGS:
+#AI #Sustainability #TechNews
+
+LINK:
+https://indianexpress.com/article/cities/bangalore/5-questions-on-chatgpt-will-use-up-half-a-litre-of-water-karnataka-minister-priyank-kharge-calls-for-sustainable-data-centres-10576852/
+
+----------------------------------------
+ARTICLE 2: India Integrates AI into Weather Forecasting to Combat Extreme Weather Events
+TWEET:
+India's government is using #AI to improve weather forecasts & warn people about extreme weather events! This is a big step in using tech to stay safe from natural disasters. #AIforGood
+
+HASHTAGS:
+#AI #AIforGood #WeatherForecasting
+
+LINK:
+https://theprint.in/india/rapid-urbanisation-posing-unique-challenges-ai-integrated-for-forecasting-govt-in-lok-sabha/2875372/
+
+----------------------------------------
+ARTICLE 3: The Power of Transformer Architecture: The Backbone of Modern AI
+TWEET:
+Did you know the Transformer architecture powers 90% of modern AI models? Introduced by Google in 2017, it's the backbone of ChatGPT and other large language models. #AI #MachineLearning #Transformer
+
+HASHTAGS:
+#AI #MachineLearning #Transformer
+
+LINK:
+https://economictimes.indiatimes.com/news/international/us/what-is-a-transformer-in-artificial-intelligence-and-why-is-it-the-base-of-most-modern-ai-models/articleshow/129397230.cms
+
+----------------------------------------
+ARTICLE 4: AI-Powered Content Personalisation: Scaling Relevance Across Millions of Users
+TWEET:
+AI-powered personalisation platforms are revolutionising the way we deliver content! With machine learning models & vast datasets, marketers can now serve dynamic, contextually relevant experiences to millions of users. #AI #Personalisation #Marketing
+
+HASHTAGS:
+#AI #Personalisation #Marketing
+
+LINK:
+https://techbullion.com/ai-powered-content-personalisation-platforms-scaling-relevance-across-millions-of-users/
+
+----------------------------------------
+ARTICLE 5: AI Targeting in AdTech: The Future of Digital Advertising
+TWEET:
+AI is revolutionizing digital advertising! From bidding algorithms to fraud detection, machine learning is making ads more targeted and effective. #AI #AdTech #DigitalAdvertising
+
+HASHTAGS:
+#AI #AdTech #DigitalAdvertising
+
+LINK:
+https://techbullion.com/ai-targeting-adtech-machine-learning-digital-advertising/
+
