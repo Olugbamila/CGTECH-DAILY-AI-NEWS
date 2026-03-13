@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-03-13
+
+----------------------------------------
+ARTICLE 1: Silvaco Reports Strong Q4 and Full-Year 2025 Financial Results, Driven by AI-Driven Machine Learning
+Source: The Manila Times
+URL: https://www.manilatimes.net/2026/03/13/tmt-newswire/globenewswire/silvaco-reports-fourth-quarter-and-full-year-2025-financial-results/2299239
+
+SUMMARY:
+Silvaco has reported its fourth quarter and full-year 2025 financial results, exceeding revenue expectations due to the securing of a second artificial intelligence-driven machine learning (AI/ML) FTCO customer. The company is also executing cost reduction strategies ahead of schedule, resulting in lower operating expenses. This news highlights the growing importance of AI/ML in driving business revenue and the need for companies to adapt to changing market conditions. Silvaco's success demonstrates the potential for AI-driven technologies to drive growth and innovation in various industries. The company's financial performance is a positive indicator of the increasing adoption of AI/ML solutions.
+
+SHORT-FORM SCRIPT:
+Silvaco just reported its Q4 and full-year 2025 financial results, and the numbers are looking good! They secured a second AI-driven machine learning customer, which drove revenue above expectations. This is a big win for the company and a testament to the power of AI in driving business growth.
+
+----------------------------------------
+ARTICLE 2: Delhi Technological University & TimesPro Launch Advanced Certificate Program in AI
+Source: NewsX
+URL: https://www.newsx.com/business-news/delhi-technological-university-timespro-announce-the-inaugural-advanced-certificate-program-in-artificial-intelligence-181718/
+
+SUMMARY:
+Delhi Technological University and TimesPro have launched an Advanced Certificate Program in Artificial Intelligence, a six-month program that combines machine learning, deep learning, and generative AI with hands-on projects and a three-day campus immersion. This program aims to equip professionals with the skills needed to thrive in an AI-driven world. The program is led by CTEL and is designed to provide a comprehensive understanding of AI concepts and their applications. The inaugural program is set to start soon, and it's a great opportunity for those looking to upskill in AI. The program's focus on hands-on projects and campus immersion will provide participants with a unique learning experience.
+
+SHORT-FORM SCRIPT:
+Introducing the Advanced Certificate Program in Artificial Intelligence by Delhi Technological University and TimesPro. This six-month program combines machine learning, deep learning, and generative AI with hands-on projects and a three-day campus immersion. Get ready to upskill in AI and thrive in a rapidly changing world.
+
+----------------------------------------
+ARTICLE 3: DTU Launches Advanced Certificate Programme in AI, Combining Machine Learning with Real-World Projects
+Source: Devdiscourse
+URL: https://www.devdiscourse.com/article/education/3835497-new-ai-program-at-dtu-marries-machine-learning-with-real-world-projects
+
+SUMMARY:
+Delhi Technological University (DTU) has launched an Advanced Certificate Programme in Artificial Intelligence in collaboration with TimesPro. The six-month course combines online learning, campus immersion, and practical projects in AI, ML, and DL. This program is designed for professionals to develop industry-ready skills for emerging AI roles. The initiative aims to bridge the gap between theoretical knowledge and real-world applications. By merging online sessions with hands-on projects, participants gain exposure to advanced AI concepts and practical experience.
+
+SHORT-FORM SCRIPT:
+Introducing DTU's new AI program, where machine learning meets real-world projects. This 6-month course combines online learning with hands-on experience, preparing professionals for emerging AI roles.
+
+----------------------------------------
+ARTICLE 4: Revolutionize Your Career with AI: Delhi Technological University & TimesPro Launch Advanced Certificate Program
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/delhi-technological-university-timespro-announce-the-inaugural-advanced-certificate-program-in-artificial-intelligence-2-2/
+
+SUMMARY:
+Delhi Technological University and TimesPro have launched an Advanced Certificate Program in Artificial Intelligence, a six-month program that combines machine learning, deep learning, and generative AI with hands-on projects and a three-day campus immersion. This program aims to equip professionals with the skills needed to thrive in an AI-driven world. The program is led by CTEL and is designed to help organizations build products, manage risk, serve customers, and run operations more efficiently. The program's focus on practical application and campus immersion sets it apart from other AI programs. As AI continues to reshape industries, this program is a significant step towards upskilling professionals.
+
+SHORT-FORM SCRIPT:
+Introducing the Advanced Certificate Program in Artificial Intelligence by Delhi Technological University and TimesPro. This six-month program combines machine learning, deep learning, and generative AI with hands-on projects and campus immersion.
+
+----------------------------------------
+ARTICLE 5: Top 5 Short-Term Courses for Class 12 Science Students
+Source: Times Now
+URL: https://www.timesnownews.com/education/top-5-short-term-courses-for-class-12-science-students-photo-gallery-153817499
+
+SUMMARY:
+After completing Class 12 in the science stream, students can explore several short-term courses to build practical skills and broaden their career opportunities. Top courses include clinical research, artificial intelligence and machine learning, robotics and IoT, renewable energy and sustainability, and data analytics. These courses provide valuable industry exposure, helping students develop technical knowledge, enhance employability, and prepare for careers in various fields. By pursuing these courses, students can gain a competitive edge in the job market. This can lead to a successful and fulfilling career in fields such as healthcare, technology, and environmental science.
+
+SHORT-FORM SCRIPT:
+Are you a Class 12 science student looking to boost your career prospects? Consider short-term courses like clinical research, AI and machine learning, or robotics and IoT to gain practical skills and industry exposure.
+
