@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-03-15
+
+----------------------------------------
+ARTICLE 1: AI-Powered Tools Identify Individuals at Risk for Intimate Partner Violence
+Source: News-Medical.net
+Link: https://www.news-medical.net/news/20260313/Using-machine-learning-to-identify-individuals-at-risk-for-intimate-partner-violence.aspx
+
+POST:
+Did you know that AI can now help identify individuals at risk for intimate partner violence? Researchers at Mass General Brigham have developed innovative AI tools that analyze electronic medical records to predict the risk of IPV. This technology has the potential to make a significant impact in preventing and addressing IPV. By leveraging machine learning, healthcare providers can identify high-risk individuals and provide targeted support. Follow CGTECH for daily AI updates and learn more about how technology is transforming our world.
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how technology is transforming our world.
+
+----------------------------------------
+ARTICLE 2: Silvaco Reports Strong Q4 and Full-Year 2025 Financial Results Driven by AI/ML
+Source: The Manila Times
+Link: https://www.manilatimes.net/2026/03/13/tmt-newswire/globenewswire/silvaco-reports-fourth-quarter-and-full-year-2025-financial-results/2299239
+
+POST:
+Silvaco has just released its Q4 and full-year 2025 financial results, and the news is exciting. The company has secured a second AI/ML customer, driving revenue above expectations. This is a significant win for Silvaco and a testament to the growing importance of AI/ML in business. As we look to the future, it's essential to consider how AI/ML can be leveraged to drive innovation and success. Follow CGTECH for daily AI updates and stay ahead of the curve.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 3: Delhi Technological University and TimesPro Launch Advanced Certificate Program in Artificial Intelligence
+Source: NewsX
+Link: https://www.newsx.com/business-news/delhi-technological-university-timespro-announce-the-inaugural-advanced-certificate-program-in-artificial-intelligence-181718/
+
+POST:
+Are you ready to take your career to the next level with artificial intelligence? Delhi Technological University and TimesPro have just launched a six-month Advanced Certificate Program in AI, covering machine learning, deep learning, and generative AI. With hands-on projects and a three-day campus immersion, this program is designed to provide you with the skills and knowledge you need to succeed in an AI-driven world. Follow CGTECH for daily AI updates and learn more about this exciting new program!
+
+CTA:
+Follow CGTECH for daily AI updates and learn more about this exciting new program!
+
+----------------------------------------
+ARTICLE 4: DTU Launches Advanced Certificate Programme in Artificial Intelligence
+Source: Devdiscourse
+Link: https://www.devdiscourse.com/article/education/3835497-new-ai-program-at-dtu-marries-machine-learning-with-real-world-projects
+
+POST:
+Exciting news for AI enthusiasts and professionals! Delhi Technological University, in partnership with TimesPro, has introduced an Advanced Certificate Programme in Artificial Intelligence. This comprehensive six-month program is designed to equip you with the skills and knowledge required to excel in emerging AI roles. Through a blend of online sessions, campus immersion, and practical projects, you'll gain hands-on experience in AI, ML, and DL. Whether you're looking to upskill or reskill, this program offers a unique opportunity to enhance your career prospects in the rapidly evolving tech landscape. Follow CGTECH for the latest AI updates and explore how you can leverage this program to future-proof your career.
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 5: Delhi Technological University and TimesPro Launch Advanced Certificate Program in Artificial Intelligence
+Source: The Tribune
+Link: https://www.tribuneindia.com/news/business/delhi-technological-university-timespro-announce-the-inaugural-advanced-certificate-program-in-artificial-intelligence-2-2/
+
+POST:
+Exciting news for AI enthusiasts! Delhi Technological University and TimesPro have launched an Advanced Certificate Program in Artificial Intelligence, a six-month program that combines machine learning, deep learning, and generative AI with hands-on projects and a three-day campus immersion. This program is designed to provide professionals with the skills needed to thrive in an AI-driven world. With the increasing adoption of AI in various industries, it's essential to have a comprehensive understanding of AI and its applications. Check out the program details and upskill in AI today! Follow CGTECH for daily AI updates.
+
+CTA:
+Follow CGTECH for daily AI updates.
+

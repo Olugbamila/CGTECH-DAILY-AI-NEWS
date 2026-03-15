@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-03-15
+
+----------------------------------------
+ARTICLE 1: AI-Powered Tools Identify Individuals at Risk for Intimate Partner Violence
+Source: News-Medical.net
+URL: https://www.news-medical.net/news/20260313/Using-machine-learning-to-identify-individuals-at-risk-for-intimate-partner-violence.aspx
+
+SUMMARY:
+Researchers at Mass General Brigham have developed AI tools that use machine learning to identify individuals at risk for intimate partner violence (IPV) using electronic medical records (EMRs). This innovative approach aims to provide early intervention and support for those who may be affected. The AI tools analyze various factors from EMRs to predict the risk of IPV. This technology has the potential to make a significant impact in preventing and addressing IPV. By leveraging machine learning, healthcare providers can identify high-risk individuals and provide targeted support.
+
+SHORT-FORM SCRIPT:
+Imagine if AI could help identify individuals at risk for intimate partner violence. Researchers at Mass General Brigham have made this a reality, using machine learning to analyze electronic medical records and provide early intervention.
+
+----------------------------------------
+ARTICLE 2: Silvaco Reports Strong Q4 and Full-Year 2025 Financial Results Driven by AI/ML
+Source: The Manila Times
+URL: https://www.manilatimes.net/2026/03/13/tmt-newswire/globenewswire/silvaco-reports-fourth-quarter-and-full-year-2025-financial-results/2299239
+
+SUMMARY:
+Silvaco has reported its fourth quarter and full-year 2025 financial results, exceeding revenue expectations due to the securing of a second artificial intelligence-driven machine learning (AI/ML) FTCO customer. The company is executing cost reduction strategies ahead of schedule, resulting in lower operating expenses. This news showcases the growing importance of AI/ML in driving business growth and revenue. Silvaco's success is a testament to the potential of AI/ML in various industries. The company's financial results demonstrate a strong finish to 2025.
+
+SHORT-FORM SCRIPT:
+Silvaco just reported its Q4 and full-year 2025 financial results, and the numbers are impressive. They secured a second AI/ML customer, driving revenue above expectations. This is a big win for the company and a testament to the power of AI/ML in business.
+
+----------------------------------------
+ARTICLE 3: Delhi Technological University and TimesPro Launch Advanced Certificate Program in Artificial Intelligence
+Source: NewsX
+URL: https://www.newsx.com/business-news/delhi-technological-university-timespro-announce-the-inaugural-advanced-certificate-program-in-artificial-intelligence-181718/
+
+SUMMARY:
+Delhi Technological University and TimesPro have launched a six-month Advanced Certificate Program in Artificial Intelligence, focusing on machine learning, deep learning, and generative AI. The program includes hands-on projects and a three-day campus immersion. This initiative aims to equip professionals with the skills needed to thrive in an AI-driven world. The program is led by CTEL and is designed to provide a comprehensive understanding of AI concepts and their applications. As AI continues to transform industries, this program is a significant step towards bridging the skill gap in the field.
+
+SHORT-FORM SCRIPT:
+Get ready to unlock the power of artificial intelligence with the new Advanced Certificate Program from Delhi Technological University and TimesPro. This six-month program covers machine learning, deep learning, and generative AI, with hands-on projects and a three-day campus immersion.
+
+----------------------------------------
+ARTICLE 4: DTU Launches Advanced Certificate Programme in Artificial Intelligence
+Source: Devdiscourse
+URL: https://www.devdiscourse.com/article/education/3835497-new-ai-program-at-dtu-marries-machine-learning-with-real-world-projects
+
+SUMMARY:
+Delhi Technological University (DTU) has launched an Advanced Certificate Programme in Artificial Intelligence in collaboration with TimesPro. The six-month course combines online learning, campus immersion, and practical projects in AI, ML, and DL, aiming to nurture industry-ready skills for emerging AI roles. This program is designed for professionals looking to upskill in the field of artificial intelligence. The initiative focuses on providing hands-on experience through real-world projects, making it an attractive option for those seeking to enhance their career prospects in AI. By merging academic knowledge with practical application, DTU and TimesPro aim to bridge the gap between theory and industry requirements.
+
+SHORT-FORM SCRIPT:
+Imagine having the skills to work on real-world AI projects. DTU and TimesPro just launched a six-month Advanced Certificate Programme in Artificial Intelligence, combining online learning with hands-on projects. Boost your career in AI with this innovative program!
+
+----------------------------------------
+ARTICLE 5: Delhi Technological University and TimesPro Launch Advanced Certificate Program in Artificial Intelligence
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/delhi-technological-university-timespro-announce-the-inaugural-advanced-certificate-program-in-artificial-intelligence-2-2/
+
+SUMMARY:
+Delhi Technological University and TimesPro have launched an Advanced Certificate Program in Artificial Intelligence, a six-month program that combines machine learning, deep learning, and generative AI with hands-on projects and a three-day campus immersion. This program aims to equip professionals with the skills needed to thrive in an AI-driven world. The program is led by CTEL and is designed to provide a comprehensive understanding of AI and its applications. With the increasing adoption of AI in various industries, this program is a significant step towards bridging the skills gap in the field. The program's curriculum includes hands-on projects and a three-day campus immersion, providing students with practical experience and networking opportunities.
+
+SHORT-FORM SCRIPT:
+Introducing the Advanced Certificate Program in Artificial Intelligence by Delhi Technological University and TimesPro. This six-month program combines machine learning, deep learning, and generative AI with hands-on projects and a three-day campus immersion. Stay ahead of the curve and upskill in AI.
+
