@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-03-16
+
+----------------------------------------
+ARTICLE 1: AI-Powered Tools Identify Individuals at Risk for Intimate Partner Violence
+TWEET:
+AI-powered tools can now identify individuals at risk for intimate partner violence! Researchers at Mass General Brigham are using machine learning to analyze electronic medical records and provide early interventions. #AI #IntimatePartnerViolence #MachineLearning
+
+HASHTAGS:
+#AI #IntimatePartnerViolence #MachineLearning
+
+LINK:
+https://www.news-medical.net/news/20260313/Using-machine-learning-to-identify-individuals-at-risk-for-intimate-partner-violence.aspx
+
+----------------------------------------
+ARTICLE 2: Silvaco Reports Strong Q4 & Full-Year 2025 Results, Driven by AI Growth
+TWEET:
+Silvaco reports strong Q4 & full-year 2025 results, driven by AI/ML growth! Secured 2nd FTCO customer, revenue up & costs down. What's next for AI in business? #AI #TechNews
+
+HASHTAGS:
+#AI #TechNews #Business
+
+LINK:
+https://www.manilatimes.net/2026/03/13/tmt-newswire/globenewswire/silvaco-reports-fourth-quarter-and-full-year-2025-financial-results/2299239
+
+----------------------------------------
+ARTICLE 3: Revolutionizing AI Education: Delhi Technological University & TimesPro Launch Advanced Certificate Program
+TWEET:
+Delhi Technological University & TimesPro launch 6-month Advanced Certificate Program in #AI! Combining machine learning, deep learning, & generative AI with hands-on projects. #AIeducation #TechNews
+
+HASHTAGS:
+#AI #AIeducation #TechNews
+
+LINK:
+https://www.newsx.com/business-news/delhi-technological-university-timespro-announce-the-inaugural-advanced-certificate-program-in-artificial-intelligence-181718/
+
+----------------------------------------
+ARTICLE 4: DTU Launches Advanced Certificate Programme in Artificial Intelligence
+TWEET:
+DTU launches 6-month Advanced Certificate Programme in AI! Combining online learning with hands-on projects, this course is a game-changer for professionals looking to upskill in AI, ML, and DL. #AI #MachineLearning
+
+HASHTAGS:
+#AI #MachineLearning #DL
+
+LINK:
+https://www.devdiscourse.com/article/education/3835497-new-ai-program-at-dtu-marries-machine-learning-with-real-world-projects
+
+----------------------------------------
+ARTICLE 5: Delhi Technological University and TimesPro Launch Advanced Certificate Program in Artificial Intelligence
+TWEET:
+Boost your career with the Advanced Certificate Program in Artificial Intelligence by Delhi Technological University and TimesPro! This 6-month program covers machine learning, deep learning, and generative AI. Apply now! #AI #TechNews
+
+HASHTAGS:
+#AI #TechNews #ArtificialIntelligence
+
+LINK:
+https://www.tribuneindia.com/news/business/delhi-technological-university-timespro-announce-the-inaugural-advanced-certificate-program-in-artificial-intelligence-2-2/
+
