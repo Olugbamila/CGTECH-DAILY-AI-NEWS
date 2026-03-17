@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-03-17
+
+----------------------------------------
+ARTICLE 1: Why AI Products Fail: The Importance of Design Discipline
+Source: TechBullion
+Link: https://techbullion.com/why-ai-products-fail-without-design-discipline-insights-from-product-leader-eugene-reuka/
+
+POST:
+Have you ever wondered why some AI products just don't seem to deliver on their promises? According to Eugene Reuka, an AI product design specialist, the lack of design discipline is a major factor in the failure of AI products. Reuka emphasizes the importance of considering user needs and experiences when designing AI products. By prioritizing design discipline, organizations can create more effective and user-friendly AI solutions that deliver real value to users. Follow CGTECH for daily AI updates and insights!
+
+CTA:
+Follow CGTECH for daily AI updates and insights!
+
+----------------------------------------
+ARTICLE 2: AI Tools Developed to Identify Individuals at Risk for Intimate Partner Violence
+Source: News-Medical.net
+Link: https://www.news-medical.net/news/20260313/Using-machine-learning-to-identify-individuals-at-risk-for-intimate-partner-violence.aspx
+
+POST:
+Groundbreaking research at Mass General Brigham is using AI to identify individuals at risk for intimate partner violence. By analyzing electronic medical records, these AI tools can help healthcare providers intervene early and provide critical support. This technology has the potential to significantly impact public health. Learn more about the latest advancements in AI and their applications. Follow CGTECH for daily AI updates.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 3: Silvaco Reports Strong Financial Results Driven by AI
+Source: The Manila Times
+Link: https://www.manilatimes.net/2026/03/13/tmt-newswire/globenewswire/silvaco-reports-fourth-quarter-and-full-year-2025-financial-results/2299239
+
+POST:
+Silvaco has just released its fourth quarter and full-year 2025 financial results, and the news is exciting. The company has secured a second artificial intelligence-driven machine learning customer, which has driven revenue above the high end of its guided range. But what does this mean for the future of AI in business? Join the conversation and let us know your thoughts. Follow CGTECH for daily AI updates and analysis.
+
+CTA:
+Follow CGTECH for daily AI updates and analysis.
+
+----------------------------------------
+ARTICLE 4: Unlock the Power of AI: Advanced Certificate Program Launched by Delhi Technological University and TimesPro
+Source: NewsX
+Link: https://www.newsx.com/business-news/delhi-technological-university-timespro-announce-the-inaugural-advanced-certificate-program-in-artificial-intelligence-181718/
+
+POST:
+Exciting news for AI enthusiasts! Delhi Technological University and TimesPro have launched the Advanced Certificate Program in Artificial Intelligence, a six-month program that combines machine learning, deep learning, and generative AI with hands-on projects and a three-day campus immersion. This program is perfect for professionals looking to upgrade their skills and stay ahead of the curve in the industry. Follow CGTECH for daily AI updates and insights, and let's discuss how this program can help you achieve your career goals.
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 5: DTU Launches Advanced Certificate Programme in Artificial Intelligence
+Source: Devdiscourse
+Link: https://www.devdiscourse.com/article/education/3835497-new-ai-program-at-dtu-marries-machine-learning-with-real-world-projects
+
+POST:
+Exciting news for AI enthusiasts! Delhi Technological University has partnered with TimesPro to launch an Advanced Certificate Programme in Artificial Intelligence. This comprehensive course is designed to provide professionals with the skills they need to succeed in emerging AI roles. With its unique blend of online learning, campus immersion, and practical projects, you'll gain hands-on experience with real-world projects and enhance your understanding of AI and its applications. Follow CGTECH for daily AI updates and learn more about this innovative program!
+
+CTA:
+Follow CGTECH for daily AI updates.
+

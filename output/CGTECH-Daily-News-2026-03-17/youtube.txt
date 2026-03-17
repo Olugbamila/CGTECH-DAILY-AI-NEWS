@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-03-17
+
+----------------------------------------
+VIDEO TITLE:
+Why AI Products Fail: The Importance of Design Discipline
+
+SCRIPT (1–2 MINUTES):
+Introduction: Artificial intelligence has the potential to transform industries and revolutionize the way we work and live. However, despite the enormous investment in AI technology, many AI-enabled products struggle to deliver meaningful outcomes for users. In this video, we'll explore the reasons behind the failure of AI products and discuss the importance of design discipline in AI development. According to Eugene Reuka, an AI product design specialist, the lack of design discipline is a key factor in the failure of AI products. We'll examine Reuka's insights and discuss how organizations can prioritize design discipline to create more effective and user-friendly AI solutions.
+
+REFERENCE LINK:
+https://techbullion.com/why-ai-products-fail-without-design-discipline-insights-from-product-leader-eugene-reuka/
+
+CTA:
+Follow CGTECH for daily AI updates and insights!
+
+----------------------------------------
+VIDEO TITLE:
+AI Tools Developed to Identify Individuals at Risk for Intimate Partner Violence
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI. Today, we're discussing the development of AI tools to identify individuals at risk for intimate partner violence. Researchers at Mass General Brigham have created machine learning tools that analyze electronic medical records to predict the risk of IPV. This innovative approach aims to improve early detection and intervention. Let's dive into the details of this technology and its potential impact on public health.
+
+REFERENCE LINK:
+https://www.news-medical.net/news/20260313/Using-machine-learning-to-identify-individuals-at-risk-for-intimate-partner-violence.aspx
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Silvaco Reports Strong Financial Results Driven by AI
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest news and trends in AI and technology. Today, we're discussing Silvaco's recent financial results, which highlight the growing importance of artificial intelligence and machine learning in driving business growth. With the securing of a second AI-driven customer, Silvaco's revenue has exceeded expectations, and their cost reduction strategies are paying off. But what are the implications of this news for the tech industry as a whole? Let's dive in and find out.
+
+REFERENCE LINK:
+https://www.manilatimes.net/2026/03/13/tmt-newswire/globenewswire/silvaco-reports-fourth-quarter-and-full-year-2025-financial-results/2299239
+
+CTA:
+Follow CGTECH for daily AI updates and analysis.
+
+----------------------------------------
+VIDEO TITLE:
+Unlock the Power of AI: Advanced Certificate Program Launched by Delhi Technological University and TimesPro
+
+SCRIPT (1–2 MINUTES):
+Introduction to the Advanced Certificate Program in Artificial Intelligence by Delhi Technological University and TimesPro. This program is designed to provide a comprehensive understanding of AI concepts and their applications, with a focus on machine learning, deep learning, and generative AI. The program's hands-on approach and campus immersion make it an attractive option for professionals looking to upskill and reskill in this rapidly evolving field. In this video, we'll explore the program's key features, its benefits, and how it can help you achieve your career goals.
+
+REFERENCE LINK:
+https://www.newsx.com/business-news/delhi-technological-university-timespro-announce-the-inaugural-advanced-certificate-program-in-artificial-intelligence-181718/
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+DTU Launches Advanced Certificate Programme in Artificial Intelligence
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel! Today, we're discussing the new Advanced Certificate Programme in Artificial Intelligence launched by Delhi Technological University in collaboration with TimesPro. This six-month course is a game-changer for professionals looking to upskill in AI, ML, and DL. With its unique blend of online learning, campus immersion, and practical projects, you'll gain industry-ready skills to stay ahead in the game. Let's dive deeper into the program and explore its features, benefits, and what it means for the future of AI.
+
+REFERENCE LINK:
+https://www.devdiscourse.com/article/education/3835497-new-ai-program-at-dtu-marries-machine-learning-with-real-world-projects
+
+CTA:
+Follow CGTECH for daily AI updates.
+

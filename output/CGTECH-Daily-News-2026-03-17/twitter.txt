@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-03-17
+
+----------------------------------------
+ARTICLE 1: Why AI Products Fail: The Importance of Design Discipline
+TWEET:
+Did you know that many AI products fail due to a lack of design discipline? Eugene Reuka shares his insights on why design matters in AI development. #AI #DesignMatters
+
+HASHTAGS:
+#AI #DesignMatters #TechNews
+
+LINK:
+https://techbullion.com/why-ai-products-fail-without-design-discipline-insights-from-product-leader-eugene-reuka/
+
+----------------------------------------
+ARTICLE 2: AI Tools Developed to Identify Individuals at Risk for Intimate Partner Violence
+TWEET:
+AI tools developed to identify individuals at risk for intimate partner violence using machine learning & electronic medical records! #AI #IntimatePartnerViolence #PublicHealth
+
+HASHTAGS:
+#AI #IntimatePartnerViolence #PublicHealth #MachineLearning
+
+LINK:
+https://www.news-medical.net/news/20260313/Using-machine-learning-to-identify-individuals-at-risk-for-intimate-partner-violence.aspx
+
+----------------------------------------
+ARTICLE 3: Silvaco Reports Strong Financial Results Driven by AI
+TWEET:
+Silvaco reports strong Q4 and full-year 2025 financial results, driven by AI-driven machine learning customer wins! What's next for AI in business? #AI #TechNews
+
+HASHTAGS:
+#AI #TechNews #Silvaco
+
+LINK:
+https://www.manilatimes.net/2026/03/13/tmt-newswire/globenewswire/silvaco-reports-fourth-quarter-and-full-year-2025-financial-results/2299239
+
+----------------------------------------
+ARTICLE 4: Unlock the Power of AI: Advanced Certificate Program Launched by Delhi Technological University and TimesPro
+TWEET:
+Boost your career with the Advanced Certificate Program in Artificial Intelligence by Delhi Technological University and TimesPro! This 6-month program covers machine learning, deep learning, and generative AI. #AI #ArtificialIntelligence #MachineLearning
+
+HASHTAGS:
+#AI #MachineLearning #ArtificialIntelligence
+
+LINK:
+https://www.newsx.com/business-news/delhi-technological-university-timespro-announce-the-inaugural-advanced-certificate-program-in-artificial-intelligence-181718/
+
+----------------------------------------
+ARTICLE 5: DTU Launches Advanced Certificate Programme in Artificial Intelligence
+TWEET:
+DTU launches new AI program with TimesPro! This 6-month course combines online learning, campus immersion, and practical projects in AI, ML, and DL. Perfect for professionals looking to upskill! #AI #MachineLearning #DL
+
+HASHTAGS:
+#AI #MachineLearning #DL #TechNews
+
+LINK:
+https://www.devdiscourse.com/article/education/3835497-new-ai-program-at-dtu-marries-machine-learning-with-real-world-projects
+

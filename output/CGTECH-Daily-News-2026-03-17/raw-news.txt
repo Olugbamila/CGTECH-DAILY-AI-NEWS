@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-03-17
+
+----------------------------------------
+ARTICLE 1: Why AI Products Fail: The Importance of Design Discipline
+Source: TechBullion
+URL: https://techbullion.com/why-ai-products-fail-without-design-discipline-insights-from-product-leader-eugene-reuka/
+
+SUMMARY:
+Artificial intelligence has become a crucial technology in modern enterprise software, with many organizations investing heavily in its adoption. However, despite this investment, many AI-enabled products struggle to deliver meaningful outcomes for users. According to AI product design specialist Eugene Reuka, the lack of design discipline is a key factor in the failure of AI products. Reuka emphasizes the importance of considering user needs and experiences when designing AI products. By prioritizing design discipline, organizations can create more effective and user-friendly AI solutions.
+
+SHORT-FORM SCRIPT:
+What if I told you that many AI products fail due to a lack of design discipline? Eugene Reuka, an AI product design specialist, shares his insights on why design matters in AI development.
+
+----------------------------------------
+ARTICLE 2: AI Tools Developed to Identify Individuals at Risk for Intimate Partner Violence
+Source: News-Medical.net
+URL: https://www.news-medical.net/news/20260313/Using-machine-learning-to-identify-individuals-at-risk-for-intimate-partner-violence.aspx
+
+SUMMARY:
+Researchers at Mass General Brigham have developed AI tools that use machine learning to identify individuals at risk for intimate partner violence (IPV) using electronic medical records (EMRs). This innovative approach aims to improve early detection and intervention. The AI tools analyze various factors in EMRs to predict the risk of IPV. This technology has the potential to significantly impact public health. By leveraging machine learning, healthcare providers can identify at-risk individuals and provide targeted support.
+
+SHORT-FORM SCRIPT:
+Imagine a world where AI helps prevent intimate partner violence. Researchers at Mass General Brigham are making this a reality with machine learning tools that analyze medical records to identify at-risk individuals.
+
+----------------------------------------
+ARTICLE 3: Silvaco Reports Strong Financial Results Driven by AI
+Source: The Manila Times
+URL: https://www.manilatimes.net/2026/03/13/tmt-newswire/globenewswire/silvaco-reports-fourth-quarter-and-full-year-2025-financial-results/2299239
+
+SUMMARY:
+Silvaco has reported its fourth quarter and full-year 2025 financial results, with revenue exceeding the high end of its guided range due to the securing of a second artificial intelligence-driven machine learning customer. The company is also executing cost reduction strategies ahead of expectations, resulting in lower operating expenses. This news highlights the growing importance of AI and machine learning in driving business growth. Silvaco's success demonstrates the potential for AI-driven solutions to boost revenue and improve operational efficiency. The company's financial performance is a positive indicator for the tech industry as a whole.
+
+SHORT-FORM SCRIPT:
+Silvaco just reported its Q4 and full-year 2025 financial results, and the numbers are impressive. They secured a second AI-driven machine learning customer, driving revenue above expectations. What does this mean for the future of AI in business?
+
+----------------------------------------
+ARTICLE 4: Unlock the Power of AI: Advanced Certificate Program Launched by Delhi Technological University and TimesPro
+Source: NewsX
+URL: https://www.newsx.com/business-news/delhi-technological-university-timespro-announce-the-inaugural-advanced-certificate-program-in-artificial-intelligence-181718/
+
+SUMMARY:
+Delhi Technological University and TimesPro have announced a six-month Advanced Certificate Program in Artificial Intelligence, blending machine learning, deep learning, and generative AI with hands-on projects and a three-day campus immersion. This program aims to equip professionals with the skills needed to thrive in an AI-driven world. The program is led by CTEL and is designed to provide a comprehensive understanding of AI concepts and their applications. The program's hands-on approach and campus immersion will provide participants with a unique learning experience. This initiative is a significant step towards addressing the growing demand for AI skills in the industry.
+
+SHORT-FORM SCRIPT:
+Introducing the Advanced Certificate Program in Artificial Intelligence by Delhi Technological University and TimesPro. This six-month program combines machine learning, deep learning, and generative AI with hands-on projects and a three-day campus immersion. Get ready to upgrade your skills and thrive in an AI-driven world.
+
+----------------------------------------
+ARTICLE 5: DTU Launches Advanced Certificate Programme in Artificial Intelligence
+Source: Devdiscourse
+URL: https://www.devdiscourse.com/article/education/3835497-new-ai-program-at-dtu-marries-machine-learning-with-real-world-projects
+
+SUMMARY:
+Delhi Technological University (DTU) has launched an Advanced Certificate Programme in Artificial Intelligence in collaboration with TimesPro. The six-month course combines online learning, campus immersion, and practical projects in AI, ML, and DL. This program aims to nurture industry-ready skills for emerging AI roles, targeting professionals. The initiative is designed to provide hands-on experience with real-world projects, enhancing the participants' understanding of AI and its applications. By merging theoretical knowledge with practical experience, DTU and TimesPro aim to bridge the gap between academia and industry.
+
+SHORT-FORM SCRIPT:
+Introducing DTU's new AI program, where machine learning meets real-world projects. This six-month course is perfect for professionals looking to upskill in AI, ML, and DL. With online learning, campus immersion, and practical projects, you'll gain industry-ready skills to stay ahead in the game.
+
