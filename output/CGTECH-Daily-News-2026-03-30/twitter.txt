@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-03-30
+
+----------------------------------------
+ARTICLE 1: College Students Are Using AI to Write, But Not in the Way You Think
+TWEET:
+New study: College students are using #AI to support their writing, not replace it. What does this mean for the future of education? #EdTech #AIinEducation
+
+HASHTAGS:
+#AI #EdTech #AIinEducation
+
+LINK:
+https://phys.org/news/2026-03-college-students-ai-theyre-simply.html
+
+----------------------------------------
+ARTICLE 2: ICITIIT'26: Global Experts Gather to Shape the Future of AI and Automation
+TWEET:
+ICITIIT'26 concludes at IIIT Kottayam! Global experts discuss latest trends in AI, automation, and data science. What's next for IT innovation? #AI #TechNews #ICITIIT26
+
+HASHTAGS:
+#AI #TechNews #ICITIIT26
+
+LINK:
+https://www.onmanorama.com/news/kerala/2026/03/28/icipit26-it-conference-kottayam-campus.html
+
+----------------------------------------
+ARTICLE 3: HCL GUVI Partners with Ramayan University to Launch AI & ML Training Programs
+TWEET:
+HCL GUVI partners with Ramayan University to launch AI & ML training programs in Ayodhya! This industry-academia collaboration is a game-changer for India's tech scene. #AI #ML #India
+
+HASHTAGS:
+#AI #ML #India #Tech
+
+LINK:
+https://www.tribuneindia.com/news/business/top-ai-business-analytics-courses-in-ayodhya-hcl-guvi-partners-with-ramayan-university-for-industry-oriented-training/
+
+----------------------------------------
+ARTICLE 4: AI-Powered Fraud Detection: The Future of Financial Security
+TWEET:
+AI is reducing financial fraud by up to 90%! With machine learning models analyzing billions of transactions in real-time, the future of fraud prevention is looking bright. #AI #FinTech #FraudPrevention
+
+HASHTAGS:
+#AI #FinTech #FraudPrevention
+
+LINK:
+https://techbullion.com/how-artificial-intelligence-is-reducing-financial-fraud-by-up-to-90/
+
+----------------------------------------
+ARTICLE 5: Power Utilities Turn to AI and ML Amid Rising Demand
+TWEET:
+Power utilities turn to #AI and #ML to meet rising electricity demand! With constrained generation capacity, these technologies are key to predicting energy demand, optimizing supply, and reducing waste. #EnergyEfficiency
+
+HASHTAGS:
+#AI #ML #EnergyEfficiency #TechNews
+
+LINK:
+https://www.thehitavada.com/Encyc/2026/3/24/power-utilities-turn-to-ai-ml-amid-rising-demand.html
+

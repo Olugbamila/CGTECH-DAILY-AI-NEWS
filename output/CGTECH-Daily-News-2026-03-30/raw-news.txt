@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-03-30
+
+----------------------------------------
+ARTICLE 1: College Students Are Using AI to Write, But Not in the Way You Think
+Source: Phys.org
+URL: https://phys.org/news/2026-03-college-students-ai-theyre-simply.html
+
+SUMMARY:
+A pilot study has found that college students are using AI tools to support their writing, but are not relying solely on them to complete assignments. The study suggests that students are using AI to enhance their learning, rather than simply letting it write for them. This challenges concerns about the potential negative impact of AI on critical thinking and engagement. The research highlights the potential benefits of AI in higher education, including improved writing skills and increased student engagement. However, it also notes that more research is needed to fully understand the impact of AI on student learning.
+
+SHORT-FORM SCRIPT:
+College students are using AI to write, but they're not letting it do all the work. A new study finds that students are using AI to support their learning, not replace it. What does this mean for the future of education?
+
+----------------------------------------
+ARTICLE 2: ICITIIT'26: Global Experts Gather to Shape the Future of AI and Automation
+Source: Malayala Manorama
+URL: https://www.onmanorama.com/news/kerala/2026/03/28/icipit26-it-conference-kottayam-campus.html
+
+SUMMARY:
+The 7th International Conference on Innovative Trends in Information Technology (ICITIIT'26) concluded at IIIT Kottayam, focusing on promoting academic collaboration and real-world applications of AI, automation, and data science. The conference covered various topics, including LLM research trends, AI in defense, and cybersecurity. With global participation, ICITIIT'26 aimed to encourage research and innovation in the field of IT. The event was a significant step towards fostering collaboration and knowledge sharing among experts and researchers. The conference's conclusion marked a new beginning for future research and development in the field.
+
+SHORT-FORM SCRIPT:
+Imagine a world where AI and automation come together to solve real-world problems. The ICITIIT'26 conference just concluded at IIIT Kottayam, bringing together global experts to discuss the latest trends and innovations in IT, AI, and data science.
+
+----------------------------------------
+ARTICLE 3: HCL GUVI Partners with Ramayan University to Launch AI & ML Training Programs
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/top-ai-business-analytics-courses-in-ayodhya-hcl-guvi-partners-with-ramayan-university-for-industry-oriented-training/
+
+SUMMARY:
+HCL GUVI has partnered with Maharishi Mahesh Yogi Ramayan University to launch industry-oriented training programs in Artificial Intelligence (AI) and Machine Learning (ML) in Ayodhya, Uttar Pradesh. This collaboration aims to strengthen industry-academia ties in India. The programs will provide students with hands-on experience and training in AI and ML, making them industry-ready. This partnership is a significant step towards upskilling the workforce in India. The training programs will focus on practical applications of AI and ML in various industries.
+
+SHORT-FORM SCRIPT:
+Imagine a future where AI and ML are transforming industries. HCL GUVI and Ramayan University are making this a reality with their new partnership, launching industry-oriented training programs in Ayodhya.
+
+----------------------------------------
+ARTICLE 4: AI-Powered Fraud Detection: The Future of Financial Security
+Source: TechBullion
+URL: https://techbullion.com/how-artificial-intelligence-is-reducing-financial-fraud-by-up-to-90/
+
+SUMMARY:
+Artificial intelligence is significantly reducing financial fraud, with some institutions experiencing a reduction of up to 90%. This is achieved through the use of advanced machine learning models that analyze billions of transactions in real-time. According to a 2024 report by Juniper Research, the implementation of AI-powered fraud detection systems has led to substantial decreases in financial fraud. The use of AI in fraud detection is becoming increasingly prevalent, with major institutions like Visa utilizing AI-powered systems. The effectiveness of these systems is a testament to the potential of AI in preventing financial fraud.
+
+SHORT-FORM SCRIPT:
+Artificial intelligence is changing the game in financial fraud detection, reducing instances by up to 90%. With AI-powered systems analyzing billions of transactions in real-time, the future of fraud prevention is looking brighter than ever.
+
+----------------------------------------
+ARTICLE 5: Power Utilities Turn to AI and ML Amid Rising Demand
+Source: The Hitavada
+URL: https://www.thehitavada.com/Encyc/2026/3/24/power-utilities-turn-to-ai-ml-amid-rising-demand.html
+
+SUMMARY:
+State power utilities are turning to Artificial Intelligence (AI) and Machine Learning (ML) to modernize load forecasting and meet rising electricity demand. This shift is driven by constrained generation capacity and the need for more efficient management. AI and ML technologies can help utilities predict energy demand, optimize supply, and reduce waste. The adoption of these technologies is expected to improve the overall efficiency of the power grid. By leveraging AI and ML, utilities can better manage the increasing demand for electricity and provide more reliable services to consumers.
+
+SHORT-FORM SCRIPT:
+Power utilities are turning to AI and ML to meet rising electricity demand. With constrained generation capacity, they're using these technologies to predict energy demand, optimize supply, and reduce waste.
+
