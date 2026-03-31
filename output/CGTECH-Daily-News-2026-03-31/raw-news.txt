@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-03-31
+
+----------------------------------------
+ARTICLE 1: AI-Powered Recovery: How Machine Learning is Revolutionizing Substance Use Treatment
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2026-03-ai-factors-positive-substance-outcomes.html
+
+SUMMARY:
+Researchers at the University of Hawaiʻi at Mānoa are utilizing artificial intelligence and machine learning to identify key factors that contribute to positive outcomes for individuals undergoing treatment for substance use disorders. The study aims to rank 10 factors tied to successful recovery, providing valuable insights for treatment programs. By leveraging AI and ML, the researchers hope to improve treatment efficacy and patient outcomes. The study's findings have been published in a recent journal article, highlighting the potential of AI in substance use recovery. This innovative approach could lead to more effective treatment strategies and better support for individuals struggling with substance use disorders.
+
+SHORT-FORM SCRIPT:
+AI is being used to rank the top factors that lead to successful substance use recovery. Researchers are leveraging machine learning to identify what works best for treatment programs, and the results are promising.
+
+----------------------------------------
+ARTICLE 2: The AI Writing Revolution: How College Students Are Using Generative AI to Support Their Learning
+Source: Phys.org
+URL: https://phys.org/news/2026-03-college-students-ai-theyre-simply.html
+
+SUMMARY:
+A recent pilot study examines how college students use generative AI for writing, revealing that they are not simply relying on AI to write for them. Instead, students are using AI as a tool to support their learning, raising questions about the potential benefits and drawbacks of AI in higher education. The study aimed to move beyond completed student papers and self-reported survey data to gain a more nuanced understanding of AI's role in student writing. Researchers found that students are using AI to generate ideas, outline, and even edit their work. However, concerns about overreliance, cheating, and the degradation of critical thinking and engagement still exist.
+
+SHORT-FORM SCRIPT:
+College students are using AI to write, but not in the way you think. They're not letting AI do all the work, instead, they're using it as a tool to generate ideas, outline, and edit. What does this mean for the future of education?
+
+----------------------------------------
+ARTICLE 3: ICITIIT'26: Global Experts Discuss AI, Automation, and Emerging Tech
+Source: Malayala Manorama
+URL: https://www.onmanorama.com/news/kerala/2026/03/28/icipit26-it-conference-kottayam-campus.html
+
+SUMMARY:
+The 7th edition of the International Conference on Innovative Trends in Information Technology (ICITIIT'26) concluded at IIIT Kottayam, featuring global participation and discussions on AI, automation, and emerging technologies. The conference aimed to promote academic collaboration and encourage research focused on real-world applications. Key topics included LLM research trends, AI in defense, machine learning innovations, and cybersecurity trends. The event highlighted the importance of IT and AI in driving innovation and solving real-world problems. The conference was a significant platform for experts and researchers to share knowledge and ideas.
+
+SHORT-FORM SCRIPT:
+Imagine a world where technology solves real-world problems. The ICITIIT'26 conference just concluded, featuring global experts discussing AI, automation, and emerging tech. What's next for IT and AI?
+
+----------------------------------------
+ARTICLE 4: HCL GUVI Partners with Ramayan University to Launch AI & Business Analytics Courses
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/top-ai-business-analytics-courses-in-ayodhya-hcl-guvi-partners-with-ramayan-university-for-industry-oriented-training/
+
+SUMMARY:
+HCL GUVI has partnered with Maharishi Mahesh Yogi Ramayan University to launch industry-oriented training programs in Artificial Intelligence (AI) and Machine Learning (ML) in Ayodhya, Uttar Pradesh. This collaboration aims to strengthen industry-academia ties in India. The training programs will focus on providing students with practical skills and knowledge in AI and business analytics. This partnership is expected to have a positive impact on the job market and the economy. The programs will be designed to meet the demands of the industry, providing students with a competitive edge.
+
+SHORT-FORM SCRIPT:
+Imagine a future where AI and business analytics come together to drive innovation. HCL GUVI and Ramayan University are making this a reality with their new partnership, offering industry-oriented training programs in Ayodhya.
+
+----------------------------------------
+ARTICLE 5: AI Reduces Financial Fraud by Up to 90%: A New Era in Financial Security
+Source: TechBullion
+URL: https://techbullion.com/how-artificial-intelligence-is-reducing-financial-fraud-by-up-to-90/
+
+SUMMARY:
+A recent report by Juniper Research found that artificial intelligence is reducing financial fraud by up to 90% at major institutions. This is achieved through machine learning models that analyze billions of transactions in real time. The use of AI-powered fraud detection systems, such as Visa's, has been instrumental in preventing fraudulent activities. As technology continues to advance, we can expect to see even more significant reductions in financial fraud. The impact of AI on financial security is a significant step forward in protecting consumers and institutions alike.
+
+SHORT-FORM SCRIPT:
+Artificial intelligence is changing the game in financial security, reducing fraud by up to 90%. With machine learning models analyzing billions of transactions in real time, institutions like Visa are leading the charge against fraudsters.
+
