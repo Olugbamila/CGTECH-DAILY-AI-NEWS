@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-04-01
+
+----------------------------------------
+ARTICLE 1: Federal Reserve Chair Jerome Powell: Learn AI, Don't Fear It
+TWEET:
+Federal Reserve Chair Jerome Powell: 'Stop worrying about AI, start learning!' He's right, the future belongs to those who adapt. #AI #FutureOfWork
+
+HASHTAGS:
+#AI #FutureOfWork #TechNews
+
+LINK:
+https://timesofindia.indiatimes.com/technology/tech-news/federal-reserve-chair-jerome-powell-to-students-stop-worrying-about-ai-and-start-learning-/articleshow/129931478.cms
+
+----------------------------------------
+ARTICLE 2: AI-Powered Predictions: Revolutionizing Post-Cancer Care
+TWEET:
+AI can help doctors predict health risks for childhood cancer survivors! A new study shows that more data = better predictions. #AI #Healthcare #CancerResearch
+
+HASHTAGS:
+#AI #Healthcare #CancerResearch
+
+LINK:
+https://www.news-medical.net/news/20260331/Using-machine-learning-to-scan-post-cancer-health-risks.aspx
+
+----------------------------------------
+ARTICLE 3: AI-Powered Recovery: Using Machine Learning to Improve Substance Use Disorder Treatment
+TWEET:
+AI is being used to improve recovery outcomes for substance use disorders! Researchers are leveraging machine learning to identify key factors for success. #AI #SubstanceUseDisorders #Healthcare
+
+HASHTAGS:
+#AI #SubstanceUseDisorders #Healthcare
+
+LINK:
+https://medicalxpress.com/news/2026-03-ai-factors-positive-substance-outcomes.html
+
+----------------------------------------
+ARTICLE 4: The AI Writing Paradox: How College Students Are Using AI to Support Their Learning
+TWEET:
+New study: College students are using AI to support their writing, not replace it! What does this mean for the future of education? #AI #EdTech #HigherEd
+
+HASHTAGS:
+#AI #EdTech #HigherEd
+
+LINK:
+https://phys.org/news/2026-03-college-students-ai-theyre-simply.html
+
+----------------------------------------
+ARTICLE 5: ICITIIT'26: Global Experts Gather to Shape the Future of AI and Automation
+TWEET:
+ICITIIT'26 concludes at IIIT Kottayam! Global experts discussed the latest trends in #AI, #Automation, and #DataScience. What's next for the IT sector? #TechNews #Innovation
+
+HASHTAGS:
+#AI #Automation #DataScience #TechNews
+
+LINK:
+https://www.onmanorama.com/news/kerala/2026/03/28/icipit26-it-conference-kottayam-campus.html
+

@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-04-01
+
+----------------------------------------
+VIDEO TITLE:
+Federal Reserve Chair Jerome Powell: Learn AI, Don't Fear It
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel. Today, we're discussing the recent comments from Federal Reserve Chair Jerome Powell, who advised students to focus on learning artificial intelligence tools rather than worrying about their impact on jobs. Powell's message is a timely reminder that our ability to adapt to the changing job market is crucial for success. In this video, we'll explore the implications of Powell's advice and what it means for your career. We'll also discuss the skills you need to develop to complement AI and stay ahead of the curve.
+
+REFERENCE LINK:
+https://timesofindia.indiatimes.com/technology/tech-news/federal-reserve-chair-jerome-powell-to-students-stop-worrying-about-ai-and-start-learning-/articleshow/129931478.cms
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Predictions: Revolutionizing Post-Cancer Care
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and technology. Today, we're discussing a groundbreaking study on the use of machine learning to scan post-cancer health risks. Researchers from St. Jude Children's Research Hospital have found that AI can help physicians determine if survivors of childhood cancer need extra support, with better performance when more information is included in AI prompting. This has significant implications for the future of patient care and outcomes. Let's dive deeper into the study and its findings, and explore the potential of AI in healthcare.
+
+REFERENCE LINK:
+https://www.news-medical.net/news/20260331/Using-machine-learning-to-scan-post-cancer-health-risks.aspx
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Recovery: Using Machine Learning to Improve Substance Use Disorder Treatment
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and healthcare. Today, we're discussing a recent study that uses AI to rank the top factors that lead to successful recovery from substance use disorders. Researchers at the University of Hawaiʻi at Mānoa are leveraging machine learning to analyze data and identify the most important factors for positive outcomes. This innovative approach has the potential to revolutionize the field of substance use disorder treatment. Let's dive in and take a closer look at the study's findings and what they mean for the future of healthcare.
+
+REFERENCE LINK:
+https://medicalxpress.com/news/2026-03-ai-factors-positive-substance-outcomes.html
+
+CTA:
+Follow CGTECH for daily AI updates and learn more about the latest advancements in AI and healthcare.
+
+----------------------------------------
+VIDEO TITLE:
+The AI Writing Paradox: How College Students Are Using AI to Support Their Learning
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and their impact on society. Today, we're discussing a recent study that found college students are using AI to support their writing, rather than letting it write for them. We'll dive into the findings and what they mean for the future of education. From the potential benefits of AI in learning to the concerns about overreliance, we'll cover it all. So, let's get started!
+
+REFERENCE LINK:
+https://phys.org/news/2026-03-college-students-ai-theyre-simply.html
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+ICITIIT'26: Global Experts Gather to Shape the Future of AI and Automation
+
+SCRIPT (1–2 MINUTES):
+Welcome to our video on the ICITIIT'26 conference, where we explore the latest trends and advancements in AI, automation, and data science. The conference, held at IIIT Kottayam, brought together global experts to discuss the future of innovation in the IT sector. From LLM research to cybersecurity, we'll take a closer look at the key topics and takeaways from the event. Join us as we dive into the world of emerging technologies and discover how they're shaping the industry.
+
+REFERENCE LINK:
+https://www.onmanorama.com/news/kerala/2026/03/28/icipit26-it-conference-kottayam-campus.html
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve.
+
