@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-04-02
+
+----------------------------------------
+ARTICLE 1: Federal Reserve Chair Jerome Powell: 'Stop Worrying About AI, Start Learning'
+Source: Times of India
+Link: https://timesofindia.indiatimes.com/technology/tech-news/federal-reserve-chair-jerome-powell-to-students-stop-worrying-about-ai-and-start-learning-/articleshow/129931478.cms
+
+POST:
+Have you been worrying about the impact of artificial intelligence (AI) on your job? Federal Reserve Chair Jerome Powell has some advice: stop worrying and start learning. Powell recently spoke to Harvard economics students, encouraging them to focus on developing skills that will be valuable in an AI-driven economy. By embracing AI and understanding its applications, we can unlock new opportunities and stay competitive. So, what can you do to start learning about AI today? Share your thoughts in the comments below. Follow CGTECH for daily AI updates and insights.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: AI Helps Doctors Predict Health Risks for Childhood Cancer Survivors
+Source: News-Medical.net
+Link: https://www.news-medical.net/news/20260331/Using-machine-learning-to-scan-post-cancer-health-risks.aspx
+
+POST:
+Did you know that artificial intelligence can help doctors predict health risks for childhood cancer survivors? A recent study published in Communications Medicine found that the more information included in AI prompting, the better its performance. This is a game-changer for the field of oncology, and it has the potential to improve patient care and outcomes. At CGTECH, we're excited to see how AI is transforming healthcare, and we'll continue to bring you the latest updates on this topic. Follow us for more news and insights on AI and healthcare! #AI #Healthcare #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates and insights on healthcare innovation.
+
+----------------------------------------
+ARTICLE 3: AI-Powered Recovery: How Machine Learning is Improving Substance Use Outcomes
+Source: Medical Xpress
+Link: https://medicalxpress.com/news/2026-03-ai-factors-positive-substance-outcomes.html
+
+POST:
+Have you heard about the latest study on using AI to improve substance use recovery outcomes? Researchers at the University of Hawaiʻi at Mānoa are using machine learning to analyze data and identify the top factors that contribute to positive recovery. This innovative approach has the potential to enhance treatment programs and improve patient care. At CGTECH, we're excited to see how AI is being used to drive positive change in the healthcare industry. Follow us for more updates on AI and tech trends!
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 4: The AI Writing Revolution: How College Students Are Using AI to Enhance Their Learning
+Source: Phys.org
+Link: https://phys.org/news/2026-03-college-students-ai-theyre-simply.html
+
+POST:
+Have you heard about the latest study on college students' use of AI in writing? The findings are pretty interesting - it seems that students are using AI tools to enhance their learning, rather than relying on them to produce work. This challenges some of the concerns that have been raised about the potential negative impact of AI on critical thinking and engagement. As AI continues to evolve, it's essential to consider its potential benefits and drawbacks in educational settings. What do you think about the use of AI in education? Share your thoughts in the comments. Follow CGTECH for daily AI updates.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 5: ICITIIT'26: Shaping the Future of AI, Automation, and Cybersecurity
+Source: Malayala Manorama
+Link: https://www.onmanorama.com/news/kerala/2026/03/28/icipit26-it-conference-kottayam-campus.html
+
+POST:
+The 7th International Conference on Innovative Trends in Information Technology (ICITIIT'26) has come to a close, but the impact of this event will be felt for a long time. With a focus on academic collaboration, real-world applications, and the latest trends in AI, automation, and cybersecurity, ICITIIT'26 provided a platform for experts to share knowledge and ideas. From LLM research to AI in defense, machine learning, and data science applications, the conference covered a wide range of topics that are shaping the future of technology. What are your thoughts on the future of these emerging technologies? Share with us in the comments! Follow CGTECH for daily AI updates and stay ahead of the curve.
+
+CTA:
+Follow CGTECH for daily AI updates.
+

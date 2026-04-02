@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-04-02
+
+----------------------------------------
+ARTICLE 1: Federal Reserve Chair Jerome Powell: 'Stop Worrying About AI, Start Learning'
+TWEET:
+Federal Reserve Chair Jerome Powell: 'Stop worrying about AI, start learning!' Powell urges students to develop skills for an AI-driven economy. #AI #TechNews #FutureOfWork
+
+HASHTAGS:
+#AI #TechNews #FutureOfWork
+
+LINK:
+https://timesofindia.indiatimes.com/technology/tech-news/federal-reserve-chair-jerome-powell-to-students-stop-worrying-about-ai-and-start-learning-/articleshow/129931478.cms
+
+----------------------------------------
+ARTICLE 2: AI Helps Doctors Predict Health Risks for Childhood Cancer Survivors
+TWEET:
+AI helps doctors predict health risks for childhood cancer survivors! More data = better performance. This breakthrough could revolutionize oncology. #AI #Healthcare #CancerResearch
+
+HASHTAGS:
+#AI #Healthcare #CancerResearch
+
+LINK:
+https://www.news-medical.net/news/20260331/Using-machine-learning-to-scan-post-cancer-health-risks.aspx
+
+----------------------------------------
+ARTICLE 3: AI-Powered Recovery: How Machine Learning is Improving Substance Use Outcomes
+TWEET:
+AI is helping to improve substance use recovery outcomes! Researchers at the University of Hawaiʻi at Mānoa used machine learning to rank 10 key factors that lead to positive recovery. #AI #SubstanceUseRecovery
+
+HASHTAGS:
+#AI #SubstanceUseRecovery #MachineLearning
+
+LINK:
+https://medicalxpress.com/news/2026-03-ai-factors-positive-substance-outcomes.html
+
+----------------------------------------
+ARTICLE 4: The AI Writing Revolution: How College Students Are Using AI to Enhance Their Learning
+TWEET:
+New study: College students are using AI to support their writing, not replace it. Challenges concerns about AI's impact on critical thinking and engagement. #AI #EdTech #HigherEd
+
+HASHTAGS:
+#AI #EdTech #HigherEd
+
+LINK:
+https://phys.org/news/2026-03-college-students-ai-theyre-simply.html
+
+----------------------------------------
+ARTICLE 5: ICITIIT'26: Shaping the Future of AI, Automation, and Cybersecurity
+TWEET:
+ICITIIT'26 concludes at IIIT Kottayam! Global experts gathered to discuss the latest in AI, automation, & cybersecurity. What's next for these emerging technologies? #AI #IT #Innovation
+
+HASHTAGS:
+#AI #IT #Innovation
+
+LINK:
+https://www.onmanorama.com/news/kerala/2026/03/28/icipit26-it-conference-kottayam-campus.html
+
