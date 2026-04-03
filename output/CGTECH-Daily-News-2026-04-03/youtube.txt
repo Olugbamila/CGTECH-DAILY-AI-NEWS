@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-04-03
+
+----------------------------------------
+VIDEO TITLE:
+Federal Reserve Chair Jerome Powell: Learn AI to Thrive in a Changing Job Market
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel. Today, we're discussing the recent remarks by Federal Reserve Chair Jerome Powell, who advised students to focus on learning artificial intelligence tools rather than worrying about their impact on jobs. Powell spoke to nearly 400 Harvard economics students, emphasizing the importance of adapting to the changing job market. He encouraged young people to develop skills that complement AI, enabling them to thrive in a rapidly evolving economy. In this video, we'll explore Powell's advice and its implications for the future of work. We'll also discuss the potential of AI to drive innovation and growth, and how you can harness its power to succeed in your career.
+
+REFERENCE LINK:
+https://timesofindia.indiatimes.com/technology/tech-news/federal-reserve-chair-jerome-powell-to-students-stop-worrying-about-ai-and-start-learning-/articleshow/129931478.cms
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how to harness its power.
+
+----------------------------------------
+VIDEO TITLE:
+AI Helps Doctors Predict Health Risks for Childhood Cancer Survivors
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and technology. Today, we're discussing a groundbreaking study published in Communications Medicine, which found that artificial intelligence can help physicians determine if survivors of childhood cancer need extra support. The researchers at St. Jude Children's Research Hospital used machine learning to scan post-cancer health risks, and their findings have significant implications for the future of patient care. In this video, we'll dive deeper into the study and what it means for the healthcare industry. From the potential benefits of AI in healthcare to the challenges of implementing this technology, we'll cover it all.
+
+REFERENCE LINK:
+https://www.news-medical.net/news/20260331/Using-machine-learning-to-scan-post-cancer-health-risks.aspx
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Breakthrough in Substance Use Disorder Treatment
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and its applications across various industries. Today, we're discussing a groundbreaking study that leverages artificial intelligence and machine learning to improve substance use disorder treatment outcomes. Researchers at the University of Hawaiʻi at Mānoa have made significant strides in identifying the top factors that contribute to positive recovery outcomes, and we're excited to dive into the details of their findings. From the methodology to the implications, we'll cover it all. So let's get started and examine how AI is transforming the field of substance use disorder treatment.
+
+REFERENCE LINK:
+https://medicalxpress.com/news/2026-03-ai-factors-positive-substance-outcomes.html
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+College Students are Writing with AI: What the Latest Research Reveals
+
+SCRIPT (1–2 MINUTES):
+Introduction: Welcome to our channel, where we explore the latest developments in AI and its applications in education. Today, we're discussing a recent pilot study that found college students are using AI to support their writing, rather than relying on it to produce work. Segment 1: The study's findings challenge common concerns that AI would lead to a decline in critical thinking and engagement. Segment 2: We'll examine the potential benefits of AI in higher education, including enhanced learning outcomes. Conclusion: As we continue to navigate the intersection of technology and education, it's essential to stay informed about the latest research and trends. Thanks for watching, and don't forget to follow CGTECH for daily AI updates!
+
+REFERENCE LINK:
+https://phys.org/news/2026-03-college-students-ai-theyre-simply.html
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+ICITIIT'26: Global Experts Gather to Discuss Future of AI and Automation
+
+SCRIPT (1–2 MINUTES):
+Welcome to our video on the ICITIIT'26 conference, where global experts gathered to discuss the latest trends and applications in AI, automation, and emerging technologies. In this video, we'll take a closer look at the key topics and takeaways from the event, and explore what they mean for the future of innovation. From LLM research trends to cybersecurity trends, we'll cover it all. So let's dive in and see what the experts have to say.
+
+REFERENCE LINK:
+https://www.onmanorama.com/news/kerala/2026/03/28/icipit26-it-conference-kottayam-campus.html
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+

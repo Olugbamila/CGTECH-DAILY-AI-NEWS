@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-04-03
+
+----------------------------------------
+ARTICLE 1: Federal Reserve Chair Jerome Powell: Learn AI to Thrive in a Changing Job Market
+Source: Times of India
+Link: https://timesofindia.indiatimes.com/technology/tech-news/federal-reserve-chair-jerome-powell-to-students-stop-worrying-about-ai-and-start-learning-/articleshow/129931478.cms
+
+POST:
+Federal Reserve Chair Jerome Powell recently shared some valuable advice with Harvard economics students. He encouraged them to stop worrying about the impact of artificial intelligence on jobs and instead focus on learning AI tools. By doing so, they can develop skills that complement AI and thrive in a rapidly evolving economy. This approach can help drive innovation and growth. At CGTECH, we believe in the potential of AI to transform industries and improve lives. Follow us for daily AI updates and insights on how to harness its power.
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how to harness its power.
+
+----------------------------------------
+ARTICLE 2: AI Helps Doctors Predict Health Risks for Childhood Cancer Survivors
+Source: News-Medical.net
+Link: https://www.news-medical.net/news/20260331/Using-machine-learning-to-scan-post-cancer-health-risks.aspx
+
+POST:
+Exciting news in the world of healthcare! Researchers at St. Jude Children's Research Hospital have discovered that artificial intelligence (AI) can help physicians determine if survivors of childhood cancer need extra support. The more information included in AI prompting, the better its performance. This could revolutionize the way we care for patients and provide more personalized support. What do you think about the potential of AI in healthcare? Share your thoughts and let's keep the conversation going! Follow CGTECH for daily AI updates.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 3: AI-Powered Breakthrough in Substance Use Disorder Treatment
+Source: Medical Xpress
+Link: https://medicalxpress.com/news/2026-03-ai-factors-positive-substance-outcomes.html
+
+POST:
+Have you heard about the latest breakthrough in substance use disorder treatment? Researchers at the University of Hawaiʻi at Mānoa are using artificial intelligence and machine learning to identify the key factors that contribute to successful recovery. By analyzing complex data sets, they've been able to uncover patterns and relationships that can inform more effective treatment strategies. This innovative approach has the potential to make a significant impact on the lives of individuals and families affected by substance use disorders. Follow CGTECH for daily AI updates and let's stay ahead of the curve on the latest advancements in healthcare technology!
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+ARTICLE 4: College Students are Writing with AI: What the Latest Research Reveals
+Source: Phys.org
+Link: https://phys.org/news/2026-03-college-students-ai-theyre-simply.html
+
+POST:
+Have you ever wondered how college students are using AI to support their learning? A recent pilot study found that students are using AI tools to improve their writing skills, rather than relying on them to do the work. This challenges common concerns that AI would lead to a decline in critical thinking and engagement. The study highlights the potential benefits of AI in higher education, including enhanced learning outcomes. At CGTECH, we're committed to staying at the forefront of AI research and its applications in education. Follow us for daily updates on the latest AI news and trends!
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 5: ICITIIT'26: Global Experts Gather to Discuss Future of AI and Automation
+Source: Malayala Manorama
+Link: https://www.onmanorama.com/news/kerala/2026/03/28/icipit26-it-conference-kottayam-campus.html
+
+POST:
+The ICITIIT'26 conference at IIIT Kottayam was a huge success, with experts from around the world coming together to discuss the latest trends and applications in AI, automation, and emerging technologies. From LLM research trends to cybersecurity trends, the event covered it all. But what does it all mean for the future of technology? Join the conversation and let's explore how we can harness the potential of technology to create a better world. Follow CGTECH for daily AI updates and insights!
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+

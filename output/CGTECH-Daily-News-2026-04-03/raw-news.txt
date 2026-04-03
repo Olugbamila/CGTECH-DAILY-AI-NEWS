@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-04-03
+
+----------------------------------------
+ARTICLE 1: Federal Reserve Chair Jerome Powell: Learn AI to Thrive in a Changing Job Market
+Source: Times of India
+URL: https://timesofindia.indiatimes.com/technology/tech-news/federal-reserve-chair-jerome-powell-to-students-stop-worrying-about-ai-and-start-learning-/articleshow/129931478.cms
+
+SUMMARY:
+Federal Reserve Chair Jerome Powell advised students to focus on learning artificial intelligence tools rather than worrying about their impact on jobs. Powell spoke to nearly 400 Harvard economics students, emphasizing the importance of adapting to the changing job market. He encouraged young people to develop skills that complement AI. This approach will enable them to thrive in a rapidly evolving economy. By doing so, they can harness the potential of AI to drive innovation and growth.
+
+SHORT-FORM SCRIPT:
+Federal Reserve Chair Jerome Powell says stop worrying about AI and start learning. He believes that by focusing on AI tools, students can thrive in a changing job market and drive innovation.
+
+----------------------------------------
+ARTICLE 2: AI Helps Doctors Predict Health Risks for Childhood Cancer Survivors
+Source: News-Medical.net
+URL: https://www.news-medical.net/news/20260331/Using-machine-learning-to-scan-post-cancer-health-risks.aspx
+
+SUMMARY:
+Researchers at St. Jude Children's Research Hospital have found that artificial intelligence (AI) can help physicians determine if survivors of childhood cancer need extra support. The study, published in Communications Medicine, discovered that the more information included in AI prompting, the better its performance. This breakthrough could guide the future integration of AI into clinical workflows, improving patient care. The use of machine learning to scan post-cancer health risks has the potential to revolutionize the field of oncology. By leveraging AI, healthcare professionals can provide more personalized and effective support to patients.
+
+SHORT-FORM SCRIPT:
+Imagine a world where AI helps doctors predict health risks for childhood cancer survivors. Researchers at St. Jude Children's Research Hospital have made a groundbreaking discovery, using machine learning to scan post-cancer health risks. The more data, the better the results.
+
+----------------------------------------
+ARTICLE 3: AI-Powered Breakthrough in Substance Use Disorder Treatment
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2026-03-ai-factors-positive-substance-outcomes.html
+
+SUMMARY:
+A recent study from the University of Hawaiʻi at Mānoa utilized artificial intelligence and machine learning to identify and rank factors that contribute to positive outcomes for individuals undergoing treatment for substance use disorders. The study aimed to improve understanding of what enhances recovery outcomes. By leveraging AI/ML, researchers can uncover complex patterns and relationships that may not be immediately apparent. This innovative approach has the potential to significantly impact the field of substance use disorder treatment. The study's findings were published in a recent journal article.
+
+SHORT-FORM SCRIPT:
+Imagine using AI to help people overcome substance use disorders. Researchers at the University of Hawaiʻi at Mānoa are doing just that, using machine learning to identify the top factors that lead to positive recovery outcomes.
+
+----------------------------------------
+ARTICLE 4: College Students are Writing with AI: What the Latest Research Reveals
+Source: Phys.org
+URL: https://phys.org/news/2026-03-college-students-ai-theyre-simply.html
+
+SUMMARY:
+A pilot study has found that college students are using AI tools to support their writing, but are not relying solely on them to produce work. The study suggests that students are using AI to improve their writing skills, rather than simply letting it write for them. This challenges concerns that AI would lead to a decline in critical thinking and engagement. The research highlights the potential benefits of AI in higher education, including enhanced learning outcomes. However, it also emphasizes the need for further study to fully understand the impact of AI on student learning.
+
+SHORT-FORM SCRIPT:
+College students are using AI to improve their writing, not replace it. A new study finds that students are leveraging AI tools to support their learning, rather than relying on them to do the work.
+
+----------------------------------------
+ARTICLE 5: ICITIIT'26: Global Experts Gather to Discuss Future of AI and Automation
+Source: Malayala Manorama
+URL: https://www.onmanorama.com/news/kerala/2026/03/28/icipit26-it-conference-kottayam-campus.html
+
+SUMMARY:
+The 7th International Conference on Innovative Trends in Information Technology (ICITIIT'26) was held at IIIT Kottayam, featuring global participation and discussions on AI, automation, and emerging technologies. The conference aimed to promote academic collaboration and encourage research focused on real-world applications. Key topics included LLM research trends, AI in defense, machine learning innovations, and cybersecurity trends. The event concluded on March 28, marking a successful gathering of experts and researchers in the field. The conference highlighted the importance of collaboration and innovation in shaping the future of technology.
+
+SHORT-FORM SCRIPT:
+Imagine a world where technology and innovation come together to solve real-world problems. The ICITIIT'26 conference just made that a reality, with global experts discussing AI, automation, and more.
+
