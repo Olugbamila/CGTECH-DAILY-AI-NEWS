@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-04-04
+
+----------------------------------------
+VIDEO TITLE:
+Jerome Powell: Why You Should Stop Worrying About AI and Start Learning
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel. Today, we're discussing the recent comments from Federal Reserve Chair Jerome Powell, who advised students to focus on learning artificial intelligence (AI) tools rather than worrying about their impact on jobs. Powell's message is clear: the job market is evolving, and it's up to us to develop the skills that will help us thrive in an AI-driven economy. In this video, we'll explore the implications of Powell's advice and what it means for your career. From the importance of lifelong learning to the need for adaptability, we'll dive into the key takeaways from Powell's speech and provide you with practical tips for getting started with AI.
+
+REFERENCE LINK:
+https://timesofindia.indiatimes.com/technology/tech-news/federal-reserve-chair-jerome-powell-to-students-stop-worrying-about-ai-and-start-learning-/articleshow/129931478.cms
+
+CTA:
+Follow CGTECH for daily AI updates and insights into the latest tech trends.
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Health Risk Prediction for Childhood Cancer Survivors
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and technology. Today, we're discussing a groundbreaking study that's using machine learning to scan for post-cancer health risks in childhood cancer survivors. Researchers at St. Jude Children's Research Hospital have found that AI can help physicians determine if these patients need extra support, and that the more information included in AI prompting, the better its performance. This has significant implications for the future of clinical workflows and patient care. Let's dive in and take a closer look at this innovative research.
+
+REFERENCE LINK:
+https://www.news-medical.net/news/20260331/Using-machine-learning-to-scan-post-cancer-health-risks.aspx
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest technological advancements.
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Study Reveals 10 Key Factors for Positive Substance Use Recovery Outcomes
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and their impact on various industries. Today, we're discussing a recent study that uses AI to improve substance use recovery outcomes. The researchers at the University of Hawaiʻi at Mānoa have made significant strides in identifying 10 key factors that contribute to positive results. From the importance of social support to the role of access to healthcare, we'll delve into the findings of this study and examine the potential implications for treatment providers and policymakers. Join us as we dive into the world of AI and healthcare, and discover how this technology is transforming the way we approach substance use recovery.
+
+REFERENCE LINK:
+https://medicalxpress.com/news/2026-03-ai-factors-positive-substance-outcomes.html
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+AI in Education: Students Use AI to Support Writing, Not Replace It
+
+SCRIPT (1–2 MINUTES):
+Introduction: Welcome to our channel, where we explore the latest developments in AI and education. Today, we're talking about a new study that's challenging some of the common concerns about AI in higher education. The study found that college students are using AI tools to support their writing, but they're not letting it do all the work. Segment 1: The study's findings suggest that students are using AI to enhance their learning, rather than simply relying on it to produce work. This is a fascinating development, and it has significant implications for the future of education. Segment 2: So, what does this mean for educators and policymakers? How can we harness the power of AI to improve student outcomes, while also addressing concerns about overreliance and cheating?
+
+REFERENCE LINK:
+https://phys.org/news/2026-03-college-students-ai-theyre-simply.html
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+ICITIIT'26: Shaping the Future of Tech
+
+SCRIPT (1–2 MINUTES):
+Welcome to our video on the ICITIIT'26 conference, where we explore the latest trends in information technology, AI, and automation. The event brought together global experts to discuss real-world applications and emerging technologies. In this video, we'll dive into the key takeaways from the conference, including LLM research trends, AI in defense, and the future of automation. Whether you're an industry professional or just curious about the latest tech advancements, this video is for you.
+
+REFERENCE LINK:
+https://www.onmanorama.com/news/kerala/2026/03/28/icipit26-it-conference-kottayam-campus.html
+
+CTA:
+Follow CGTECH for daily AI updates.
+
