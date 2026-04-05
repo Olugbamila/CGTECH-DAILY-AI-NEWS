@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-04-05
+
+----------------------------------------
+ARTICLE 1: Krazimo: Unlocking the Full Potential of AI for Businesses
+Source: TechBullion
+URL: https://techbullion.com/krazimo-helps-businesses-get-the-most-out-of-artificial-intelligence/
+
+SUMMARY:
+Krazimo, an AI engineering and consulting company, is helping businesses successfully implement AI systems to drive operational value. Many companies struggle to deploy AI solutions that deliver real results, but Krazimo's expertise is changing that. By designing and deploying intelligent systems, Krazimo enables businesses to introduce automation, machine learning, and AI-driven insights. This collaboration can lead to significant improvements in efficiency and decision-making. As AI continues to redefine how companies operate, Krazimo's services are becoming increasingly important.
+
+SHORT-FORM SCRIPT:
+Are you getting the most out of AI? Krazimo is helping businesses unlock the full potential of artificial intelligence. From automation to machine learning, they're making AI work for companies, not just experiment with it.
+
+----------------------------------------
+ARTICLE 2: Federal Reserve Chair Jerome Powell: Learn AI to Thrive in the Changing Job Market
+Source: Times of India
+URL: https://timesofindia.indiatimes.com/technology/tech-news/federal-reserve-chair-jerome-powell-to-students-stop-worrying-about-ai-and-start-learning-/articleshow/129931478.cms
+
+SUMMARY:
+Federal Reserve Chair Jerome Powell advised students to focus on learning artificial intelligence tools rather than worrying about their impact on jobs. He spoke to nearly 400 Harvard economics students, emphasizing the importance of adapting to the changing job market. Powell's message encourages young people to develop skills that complement AI. This approach can help them thrive in a rapidly evolving economy. By doing so, they can stay ahead of the curve and capitalize on the opportunities presented by AI.
+
+SHORT-FORM SCRIPT:
+Jerome Powell says stop worrying about AI and start learning. The Federal Reserve Chair wants you to focus on developing skills that complement AI, so you can thrive in the changing job market.
+
+----------------------------------------
+ARTICLE 3: AI-Powered Healthcare: Predicting Post-Cancer Health Risks
+Source: News-Medical.net
+URL: https://www.news-medical.net/news/20260331/Using-machine-learning-to-scan-post-cancer-health-risks.aspx
+
+SUMMARY:
+Researchers at St. Jude Children's Research Hospital have found that artificial intelligence (AI) can help physicians determine if survivors of childhood cancer need extra support. The study, published in Communications Medicine, shows that the more information included in AI prompting, the better its performance. This breakthrough could guide the future integration of AI into clinical workflows, improving patient care. The use of machine learning can help identify post-cancer health risks, enabling targeted support for survivors. By leveraging AI, healthcare professionals can provide more personalized and effective care.
+
+SHORT-FORM SCRIPT:
+Imagine if AI could help doctors predict health risks for childhood cancer survivors. Researchers at St. Jude Children's Research Hospital have made a breakthrough, showing that AI can identify post-cancer health risks with impressive accuracy.
+
+----------------------------------------
+ARTICLE 4: AI-Powered Recovery: Ranking the Top Factors for Successful Substance Use Treatment
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2026-03-ai-factors-positive-substance-outcomes.html
+
+SUMMARY:
+Researchers at the University of Hawaiʻi at Mānoa are using artificial intelligence and machine learning to better understand what improves outcomes for individuals receiving treatment for substance use disorders. The study aims to rank 10 factors tied to positive substance use recovery outcomes. By leveraging AI/ML, the researchers hope to identify the most critical factors that contribute to successful recovery. This innovative approach has the potential to revolutionize the field of substance use disorder treatment. The study's findings are published in a recent journal article.
+
+SHORT-FORM SCRIPT:
+Imagine a world where AI helps people overcome substance use disorders. Researchers at the University of Hawaiʻi are making this a reality by using machine learning to rank the top factors that lead to successful recovery.
+
+----------------------------------------
+ARTICLE 5: The AI Writing Paradox: How College Students Are Using AI to Support Their Learning
+Source: Phys.org
+URL: https://phys.org/news/2026-03-college-students-ai-theyre-simply.html
+
+SUMMARY:
+A recent pilot study found that college students are using AI tools to support their writing, but are not relying solely on them to produce content. The study aimed to investigate the role of generative AI in higher education, amidst concerns about overreliance, cheating, and degradation of critical thinking. Research suggests that AI can be a valuable tool for learning, but its impact on student writing habits is still being debated. The study's findings highlight the need for further exploration of AI's role in education. As AI technology continues to evolve, it's essential to understand its effects on student learning and academic integrity.
+
+SHORT-FORM SCRIPT:
+College students are using AI to write, but they're not letting it do all the work. A new study finds that students are using AI tools to support their learning, but still putting in the effort to produce quality content.
+
