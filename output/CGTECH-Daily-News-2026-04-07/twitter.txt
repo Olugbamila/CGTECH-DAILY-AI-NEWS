@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-04-07
+
+----------------------------------------
+ARTICLE 1: Revolutionising Education: AI in the Classroom
+TWEET:
+Teachers learn how to integrate #AI in the classroom! A recent training programme at Narsingh Dass Public School equipped 35 educators with the skills to enhance student engagement and personalise learning experiences. #AIinEducation #EdTech
+
+HASHTAGS:
+#AI #AIinEducation #EdTech #Innovation
+
+LINK:
+https://www.tribuneindia.com/news/schools/training-programme-on-artificial-intelligence-in-classroom-organised/
+
+----------------------------------------
+ARTICLE 2: Krazimo: Unlocking the Full Potential of AI in Business
+TWEET:
+Get the most out of #AI with Krazimo! This innovative company is helping businesses unlock the full potential of artificial intelligence, from automation to machine learning and AI-driven insights. #AI #TechNews
+
+HASHTAGS:
+#AI #TechNews #Innovation
+
+LINK:
+https://techbullion.com/krazimo-helps-businesses-get-the-most-out-of-artificial-intelligence/
+
+----------------------------------------
+ARTICLE 3: Federal Reserve Chair Jerome Powell: Learn AI to Thrive in a Changing Job Market
+TWEET:
+Federal Reserve Chair Jerome Powell: 'Stop worrying about AI, start learning!' He's right, understanding AI is key to success in a changing job market. #AI #TechNews
+
+HASHTAGS:
+#AI #TechNews #JeromePowell
+
+LINK:
+https://timesofindia.indiatimes.com/technology/tech-news/federal-reserve-chair-jerome-powell-to-students-stop-worrying-about-ai-and-start-learning-/articleshow/129931478.cms
+
+----------------------------------------
+ARTICLE 4: AI-Powered Health Risk Prediction for Childhood Cancer Survivors
+TWEET:
+AI can help doctors predict health risks for childhood cancer survivors! Researchers at St. Jude Children's Research Hospital found that more data = better performance. #AI #Healthcare #CancerResearch
+
+HASHTAGS:
+#AI #Healthcare #CancerResearch
+
+LINK:
+https://www.news-medical.net/news/20260331/Using-machine-learning-to-scan-post-cancer-health-risks.aspx
+
+----------------------------------------
+ARTICLE 5: AI-Powered Recovery: How Machine Learning is Improving Substance Use Treatment
+TWEET:
+AI is revolutionizing substance use recovery! Researchers are using machine learning to rank 10 key factors for successful treatment. #AI #SubstanceUseRecovery
+
+HASHTAGS:
+#AI #SubstanceUseRecovery #MachineLearning
+
+LINK:
+https://medicalxpress.com/news/2026-03-ai-factors-positive-substance-outcomes.html
+
