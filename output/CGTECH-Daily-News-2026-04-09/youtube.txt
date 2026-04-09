@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-04-09
+
+----------------------------------------
+VIDEO TITLE:
+Meta's AI Salary Packages Revealed: Engineers Earn Up to $328,000
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in the tech industry. Today, we're discussing Meta's multi-crore salary packages for AI engineers and research scientists. The company's aggressive push into artificial intelligence is clear, with salaries for these roles ranging from $163,800 to $328,000. We'll be analyzing the report and providing insights into what this means for the industry and professionals looking to stay ahead of the curve.
+
+REFERENCE LINK:
+https://www.ndtv.com/feature/inside-metas-multi-crore-salary-packages-ai-engineers-among-top-earners-in-2025-11327248
+
+CTA:
+Follow CGTECH for daily AI updates and insights into the latest developments in the tech industry.
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Genomics: AI Framework Advances Analysis of Complex Genetic Traits
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and tech. Today, we're discussing a breakthrough in interpretable machine learning that's improving the accuracy and transparency of genomic prediction. This new framework has significant implications for fields like precision medicine, crop science, and animal breeding. We'll dive into the details of this technology and explore its potential to drive meaningful change in these areas. From the potential to predict genetic traits with greater accuracy to the possibilities for personalized medicine, we'll examine the exciting possibilities that this development has to offer.
+
+REFERENCE LINK:
+https://www.news-medical.net/news/20260407/Interpretable-machine-learning-model-advances-analysis-of-complex-genetic-traits.aspx
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve in the world of tech.
+
+----------------------------------------
+VIDEO TITLE:
+The Limits of AI in Education: Why Human Interaction Matters
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and education. Today, we're discussing a thought-provoking statement from Google's head of learning, Ben Gomes. He believes that AI, despite its many advancements, cannot solve the biggest challenge in education: student motivation. Let's dive into what this means for the future of learning and how we can combine the benefits of AI with the essential human elements of education. From personalized learning platforms to the importance of human interaction, we'll examine the complexities of this issue and what it means for educators, students, and the broader community.
+
+REFERENCE LINK:
+https://www.financialexpress.com/life/technology-googles-head-of-learning-says-ai-cant-fix-educations-biggest-challenges-heres-why-4198137/
+
+CTA:
+Follow CGTECH for daily AI updates and join the conversation on the future of education.
+
+----------------------------------------
+VIDEO TITLE:
+Training Programme on 'Artificial Intelligence in the Classroom' Organised
+
+SCRIPT (1–2 MINUTES):
+Introduction: Welcome to our video on the latest development in education. Recently, a training programme on 'Artificial Intelligence in the Classroom' was conducted at Narsingh Dass Public School in Karnal. In this video, we'll explore the programme and its objectives. Segment 1: The programme was attended by 35 teachers who actively participated and explored innovative ways to integrate AI into teaching-learning practices. Segment 2: The training was led by Kavita Laller, a CBSE resource person, who highlighted the importance of AI in modern classrooms. Conclusion: The programme is a great example of how schools are embracing innovative practices to improve the quality of education. Let's stay updated on the latest trends in education and support initiatives that promote digital learning.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/schools/training-programme-on-artificial-intelligence-in-classroom-organised/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Krazimo: Unlocking the Full Potential of AI for Businesses
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and tech. Today, we're talking about Krazimo, a company that's helping businesses get the most out of artificial intelligence. With their expertise in AI engineering and consulting, Krazimo is designing and deploying intelligent systems that drive real operational value. From the challenges of implementing AI systems to the benefits of working with a company like Krazimo, we'll dive into the details of how AI is transforming the business world. So let's get started and take a closer look at Krazimo and the impact they're having on the industry.
+
+REFERENCE LINK:
+https://techbullion.com/krazimo-helps-businesses-get-the-most-out-of-artificial-intelligence/
+
+CTA:
+Follow CGTECH for daily AI updates
+
