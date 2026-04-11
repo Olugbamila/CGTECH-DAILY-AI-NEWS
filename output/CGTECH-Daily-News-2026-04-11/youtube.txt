@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-04-11
+
+----------------------------------------
+VIDEO TITLE:
+Meta's Multi-Crore Salary Packages: AI Engineers Among Top Earners
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and tech. Today, we're discussing the recent report on Meta's salary packages, which highlights the company's aggressive push into artificial intelligence. With AI research scientists earning up to $328,000, it's clear that the industry is recognizing the value of skilled professionals in this field. In this video, we'll dive deeper into the report and what it means for the future of AI. From the growing demand for AI engineers to the implications for the job market, we'll cover it all. So, let's get started.
+
+REFERENCE LINK:
+https://www.ndtv.com/feature/inside-metas-multi-crore-salary-packages-ai-engineers-among-top-earners-in-2025-11327248
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Genomic Prediction: The Power of Interpretable AI
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel. Today, we're discussing a major breakthrough in the field of genomics. A new study has introduced an interpretable artificial intelligence framework that enhances the accuracy and transparency of genomic prediction. This innovation has significant implications for areas like precision medicine, crop science, and animal breeding. In this video, we'll delve into the details of the study and explore the potential impact of this technology. From the potential to revolutionize healthcare to the possibilities for crop science and animal breeding, we'll examine the far-reaching consequences of this advancement.
+
+REFERENCE LINK:
+https://www.news-medical.net/news/20260407/Interpretable-machine-learning-model-advances-analysis-of-complex-genetic-traits.aspx
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+The Limits of AI in Education: Google's Head of Learning Weighs In
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and education. Today, we're discussing a recent statement from Google's head of learning, Ben Gomes, who believes that AI cannot solve the biggest challenge in education: student motivation. We'll dive into what this means for the future of education and the role of AI in the classroom. From personalized learning to human interaction, we'll cover it all. So, let's get started!
+
+REFERENCE LINK:
+https://www.financialexpress.com/life/technology-googles-head-of-learning-says-ai-cant-fix-educations-biggest-challenges-heres-why-4198137/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+AI in the Classroom: Training Programme Empowers Teachers to Enhance Student Learning
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and their impact on our world. Today, we're looking at a recent training programme in India that showed teachers how to harness the power of AI to enhance student engagement and personalize learning experiences. The programme, which was conducted at Narsingh Dass Public School in Karnal, India, is a great example of how educators can leverage AI to create more effective and engaging learning experiences for their students. By embracing technological advancements, we can better prepare our students for the challenges of the future. In this video, we'll take a closer look at the programme and its potential implications for the future of education.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/schools/training-programme-on-artificial-intelligence-in-classroom-organised/
+
+CTA:
+Follow CGTECH for daily AI updates and insights into the latest developments in artificial intelligence.
+
+----------------------------------------
+VIDEO TITLE:
+Krazimo: Unlocking the Full Potential of AI for Businesses
+
+SCRIPT (1–2 MINUTES):
+Introduction to Krazimo and the challenges of implementing AI systems. (0s-30s) Krazimo's approach to delivering real operational value through AI. (30s-1min) Examples of businesses that have successfully implemented AI with Krazimo's help. (1min-1.5min) Conclusion and call to action, encouraging viewers to learn more about Krazimo and CGTECH.
+
+REFERENCE LINK:
+https://techbullion.com/krazimo-helps-businesses-get-the-most-out-of-artificial-intelligence/
+
+CTA:
+Follow CGTECH for daily AI updates and learn more about how Krazimo is transforming the industry.
+
