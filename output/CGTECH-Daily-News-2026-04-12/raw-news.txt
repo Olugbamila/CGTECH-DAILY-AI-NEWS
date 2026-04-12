@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-04-12
+
+----------------------------------------
+ARTICLE 1: Delhi Technological University & TimesPro Launch Advanced Certificate Program in AI
+Source: Times Now
+URL: https://www.timesnownews.com/education/delhi-technological-university-timespro-announce-the-inaugural-advanced-certificate-program-in-artificial-intelligence-article-154053851
+
+SUMMARY:
+Delhi Technological University and TimesPro have launched an Advanced Certificate Program in Artificial Intelligence, a six-month program that combines machine learning, deep learning, and generative AI with hands-on projects and campus immersion. This program aims to address the growing need for AI professionals in various industries. The program is led by CTEL and includes a three-day campus immersion. The initiative is a response to the rapid adoption of AI in organizations, transforming how they build products, manage risk, serve customers, and run operations. The program's hands-on approach is designed to equip students with practical skills in AI.
+
+SHORT-FORM SCRIPT:
+Introducing the Advanced Certificate Program in Artificial Intelligence by Delhi Technological University and TimesPro. This six-month program combines machine learning, deep learning, and generative AI with hands-on projects and campus immersion.
+
+----------------------------------------
+ARTICLE 2: Meta's Multi-Crore Salary Packages: AI Engineers Take Center Stage
+Source: NDTV.com
+URL: https://www.ndtv.com/feature/inside-metas-multi-crore-salary-packages-ai-engineers-among-top-earners-in-2025-11327248
+
+SUMMARY:
+A recent report has revealed the salary packages of Meta employees, with AI engineers and research scientists being among the top earners in 2025. The salaries range from $163,800 to $328,000, highlighting the company's focus on artificial intelligence and high-end engineering talent. This aggressive push into AI is a significant indicator of the industry's direction. The report is based on an analysis by Business Insider and underscores the growing importance of AI roles in the tech industry. The high salaries also reflect the intense competition for top talent in the field.
+
+SHORT-FORM SCRIPT:
+Meta's salary packages are out, and AI engineers are among the top earners. With salaries ranging from $163,800 to $328,000, it's clear that AI is a top priority for the company.
+
+----------------------------------------
+ARTICLE 3: Revolutionizing Genomics: Breakthrough AI Framework Enhances Genomic Prediction
+Source: News-Medical.net
+URL: https://www.news-medical.net/news/20260407/Interpretable-machine-learning-model-advances-analysis-of-complex-genetic-traits.aspx
+
+SUMMARY:
+A new study published in Genome Research presents an interpretable artificial intelligence framework that improves the accuracy and transparency of genomic prediction. This breakthrough has significant implications for fields such as precision medicine, crop science, and animal breeding. The framework enhances the analysis of complex genetic traits, paving the way for more targeted and effective interventions. By increasing the interpretability of machine learning models, researchers can better understand the relationships between genetic factors and desired outcomes. This development has the potential to revolutionize various industries and improve human lives.
+
+SHORT-FORM SCRIPT:
+Imagine being able to predict genetic traits with greater accuracy and transparency. A new AI framework is making this possible, with major implications for precision medicine, crop science, and animal breeding.
+
+----------------------------------------
+ARTICLE 4: The Limits of AI in Education: Google's Head of Learning Weighs In
+Source: The Financial Express
+URL: https://www.financialexpress.com/life/technology-googles-head-of-learning-says-ai-cant-fix-educations-biggest-challenges-heres-why-4198137/
+
+SUMMARY:
+Google's head of learning, Ben Gomes, believes that while AI is improving education tools, it cannot solve the core issue of student motivation. AI can personalize learning, but real education depends on human interaction, curiosity, and engagement. Gomes emphasizes that technology alone cannot provide the motivation and engagement students need to learn. This highlights the limitations of AI in education and the importance of human interaction. The statement underscores the need for a balanced approach to education, combining the benefits of AI with the essential elements of human teaching.
+
+SHORT-FORM SCRIPT:
+Google's head of learning says AI can't fix education's biggest challenges. What are those challenges and why can't AI solve them? Let's find out.
+
+----------------------------------------
+ARTICLE 5: Revolutionizing Education: AI in the Classroom
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/schools/training-programme-on-artificial-intelligence-in-classroom-organised/
+
+SUMMARY:
+A training programme on 'Artificial Intelligence in the Classroom' was conducted at Narsingh Dass Public School in Karnal, attended by 35 teachers. The session explored innovative ways to integrate AI into teaching-learning practices, highlighting its potential to enhance student engagement and support teachers. The programme was led by Kavita Laller, a CBSE resource person, and emphasized the need for educators to adapt to technological advancements. The school management reaffirmed its commitment to adopting innovative practices to enhance the quality of education and digital learning. The programme aimed to prepare students for future challenges by leveraging AI tools in modern classrooms.
+
+SHORT-FORM SCRIPT:
+Imagine a classroom where AI enhances student engagement and supports teachers. A recent training programme at Narsingh Dass Public School explored just that, showing how AI can revolutionize education.
+
