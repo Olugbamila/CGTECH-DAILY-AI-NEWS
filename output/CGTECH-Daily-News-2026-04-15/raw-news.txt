@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-04-15
+
+----------------------------------------
+ARTICLE 1: Toyota Unveils AI-Powered Basketball Robot
+Source: MarketScreener
+URL: https://www.marketscreener.com/news/toyota-debuts-basketball-robot-with-ai-training-ce7e50dede8cff21
+
+SUMMARY:
+Toyota has unveiled its latest artificial intelligence-powered basketball robot, CUE7, which demonstrates significant advancements in motion control and machine learning. The robot is capable of complex movements and can learn from its experiences. This innovation highlights the potential of AI in robotics and sports. The CUE7 robot is a testament to Toyota's commitment to investing in cutting-edge technology. The development of such robots can have far-reaching implications for various industries, including sports, healthcare, and manufacturing.
+
+SHORT-FORM SCRIPT:
+Meet CUE7, Toyota's new basketball robot powered by AI. With advanced motion control and machine learning, this robot can learn and improve its skills. Imagine the possibilities of AI in sports and beyond.
+
+----------------------------------------
+ARTICLE 2: IIT Kharagpur Launches Online AI and ML Certification Programmes
+Source: Times of India
+URL: https://timesofindia.indiatimes.com/city/kolkata/iit-kgp-launches-online-programmes-on-ai-ml/articleshow/130246616.cms
+
+SUMMARY:
+IIT Kharagpur has launched online executive certification programmes in artificial intelligence, machine learning, and technology leadership. These programmes aim to equip working professionals with end-to-end, production-ready AI capabilities. The launch is a significant step in upskilling the workforce in emerging technologies. The programmes will provide a comprehensive understanding of AI and ML, enabling professionals to stay ahead in their careers. This move is expected to have a positive impact on the industry.
+
+SHORT-FORM SCRIPT:
+IIT Kharagpur launches online AI and ML certification programmes for working professionals. Upskill and stay ahead in your career with production-ready AI capabilities.
+
+----------------------------------------
+ARTICLE 3: Revolutionizing Education: The Power of Artificial Intelligence
+Source: Daily Excelsior
+URL: https://www.dailyexcelsior.com/lpu-organizes-edu-leaders-meet-2026-highlights-academic-innovation/
+
+SUMMARY:
+Lovely Professional University (LPU) organized the Edu-Leaders Meet 2026, focusing on the role of artificial intelligence in modern education. The event highlighted the transformative power of technology in teaching, learning, and institutional leadership. Discussions centered on leveraging AI-driven tools, personalized learning, and data-informed decision-making. The meet aimed to address the demands of 21st-century education. LPU's initiative promotes innovation in contemporary education.
+
+SHORT-FORM SCRIPT:
+Imagine a classroom where AI helps teachers create personalized learning plans for each student. This is the future of education, and it's already here. Lovely Professional University just hosted the Edu-Leaders Meet 2026, exploring the role of artificial intelligence in modern education.
+
+----------------------------------------
+ARTICLE 4: Artificial Intelligence vs Machine Learning vs Deep Learning: A Complete Guide
+Source: TechBullion
+URL: https://techbullion.com/artificial-intelligence-vs-machine-learning-vs-deep-learning-a-complete-comparison-guide/
+
+SUMMARY:
+The terms Artificial Intelligence, Machine Learning, and Deep Learning are often used interchangeably, but they have distinct meanings. AI refers to the broader field of research and development aimed at creating machines that can perform tasks that typically require human intelligence. Machine Learning is a subset of AI that involves training algorithms to learn from data, while Deep Learning is a subset of Machine Learning that uses neural networks to analyze data. Understanding the differences between these technologies is crucial for businesses and individuals looking to leverage them. A complete comparison guide can help navigate the complexities of these technologies and their applications.
+
+SHORT-FORM SCRIPT:
+Hey everyone, welcome back to CGTECH. Today we're breaking down the differences between Artificial Intelligence, Machine Learning, and Deep Learning. From AI-powered robots to self-driving cars, these technologies are changing the world. But what sets them apart?
+
+----------------------------------------
+ARTICLE 5: Delhi Technological University & TimesPro Launch Advanced Certificate Program in AI
+Source: Times Now
+URL: https://www.timesnownews.com/education/delhi-technological-university-timespro-announce-the-inaugural-advanced-certificate-program-in-artificial-intelligence-article-154053851
+
+SUMMARY:
+Delhi Technological University and TimesPro have launched a six-month Advanced Certificate Program in Artificial Intelligence, covering machine learning, deep learning, and generative AI. The program includes hands-on projects and a three-day campus immersion. This initiative aims to address the growing need for AI professionals in various industries. The program is led by CTEL and is designed to provide students with a comprehensive understanding of AI and its applications. The program's focus on practical skills and industry relevance is expected to make it a popular choice among students and professionals looking to upskill in AI.
+
+SHORT-FORM SCRIPT:
+Introducing the Advanced Certificate Program in Artificial Intelligence by Delhi Technological University and TimesPro. This six-month program covers machine learning, deep learning, and generative AI, with hands-on projects and campus immersion.
+
