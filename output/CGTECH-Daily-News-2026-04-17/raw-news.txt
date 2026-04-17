@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-04-17
+
+----------------------------------------
+ARTICLE 1: AI Takes on Alzheimer's: $6.2M Grant Funds Genetic Target Search
+Source: News-Medical.net
+URL: https://www.news-medical.net/news/20260415/New-grant-funds-AI-search-for-genetic-targets-to-treat-Alzheimers.aspx
+
+SUMMARY:
+Researchers at Case Western Reserve University have been awarded a $6.2 million grant to use artificial intelligence and machine learning in identifying genetic targets for treating Alzheimer's disease. The five-year grant from the National Institute on Aging aims to advance the understanding and potential treatment of this debilitating condition. By leveraging AI, the researchers hope to uncover new insights into the genetic underpinnings of Alzheimer's, ultimately leading to more effective treatments. This innovative approach has the potential to significantly impact the lives of millions affected by the disease. The project underscores the growing role of AI in medical research and its potential to drive breakthroughs in our understanding of complex diseases.
+
+SHORT-FORM SCRIPT:
+Imagine a future where Alzheimer's is a thing of the past. Thanks to a new $6.2 million grant, researchers are using AI to search for genetic targets to treat the disease. This innovative approach could lead to a breakthrough in our understanding of Alzheimer's and improve the lives of millions.
+
+----------------------------------------
+ARTICLE 2: Toyota Unveils AI-Powered Basketball Robot
+Source: MarketScreener
+URL: https://www.marketscreener.com/news/toyota-debuts-basketball-robot-with-ai-training-ce7e50dede8cff21
+
+SUMMARY:
+Toyota has unveiled its latest AI-powered basketball robot, CUE7, which showcases significant advancements in motion control and machine learning. The robot is capable of complex movements and can learn from its experiences. This innovation highlights the potential of AI in robotics and its potential applications in various fields. The development of CUE7 demonstrates Toyota's commitment to investing in cutting-edge technologies. The robot's capabilities have the potential to revolutionize the way we approach robotics and automation.
+
+SHORT-FORM SCRIPT:
+Meet CUE7, Toyota's new AI-powered basketball robot. With advanced motion control and machine learning, this robot can learn and adapt like never before. What does the future of robotics hold?
+
+----------------------------------------
+ARTICLE 3: IIT Kharagpur Launches Online Programmes in AI, ML, and Tech Leadership
+Source: Times of India
+URL: https://timesofindia.indiatimes.com/city/kolkata/iit-kgp-launches-online-programmes-on-ai-ml/articleshow/130246616.cms
+
+SUMMARY:
+IIT Kharagpur has launched its first series of online executive certification programmes in artificial intelligence, machine learning, and technology leadership. These programmes are designed to equip working professionals with end-to-end, production-ready AI capabilities. The launch of these programmes marks a significant step in making AI and ML education more accessible. The online format allows professionals to upskill without having to take a break from their careers. This initiative is expected to have a positive impact on the industry by increasing the availability of skilled professionals in AI and ML.
+
+SHORT-FORM SCRIPT:
+IIT Kharagpur just launched online certification programmes in AI, ML, and tech leadership. Upskill without taking a break from your career!
+
+----------------------------------------
+ARTICLE 4: Revolutionizing Education: The Power of AI in Modern Learning
+Source: Daily Excelsior
+URL: https://www.dailyexcelsior.com/lpu-organizes-edu-leaders-meet-2026-highlights-academic-innovation/
+
+SUMMARY:
+Lovely Professional University (LPU) organized the Edu-Leaders Meet 2026, focusing on the role of Artificial Intelligence in modern education. The event highlighted the potential of AI-driven tools in enhancing personalized learning experiences and promoting data-informed decision-making. The meet aimed to reshape teaching, learning, and institutional leadership in contemporary education. The discussions emphasized the importance of leveraging technology to meet the demands of 21st-century education. The event created a vibrant academic forum for dialogue, reflection, and innovation.
+
+SHORT-FORM SCRIPT:
+Imagine a classroom where AI helps teachers create personalized learning plans for each student. This is the future of education, and it's already here. Lovely Professional University's Edu-Leaders Meet 2026 explored the transformative role of AI in modern education.
+
+----------------------------------------
+ARTICLE 5: AI vs ML vs DL: A Complete Comparison Guide
+Source: TechBullion
+URL: https://techbullion.com/artificial-intelligence-vs-machine-learning-vs-deep-learning-a-complete-comparison-guide/
+
+SUMMARY:
+Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) are often used interchangeably, but they have distinct differences. AI refers to the broader field of research and development aimed at creating machines that can perform tasks that typically require human intelligence. ML is a subset of AI that involves training algorithms to learn from data, while DL is a subset of ML that uses neural networks to analyze data. Understanding the differences between these technologies is crucial for businesses and individuals looking to leverage their power. The guide provides a comprehensive comparison of AI, ML, and DL, including their key differences, use cases, and applications in modern AI systems.
+
+SHORT-FORM SCRIPT:
+Hey everyone, have you ever wondered what's the difference between Artificial Intelligence, Machine Learning, and Deep Learning? Let's break it down. AI is the broad field, ML is about training algorithms, and DL is a type of ML that uses neural networks. Each plays a unique role in powering modern AI systems.
+
