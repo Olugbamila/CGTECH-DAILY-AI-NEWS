@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-04-18
+
+----------------------------------------
+ARTICLE 1: AI Adoption in Finance: Overcoming the Barriers to Scaling
+Source: The Manila Times
+URL: https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+SUMMARY:
+A recent survey found that while half of financial institutions have adopted AI, its deployment is often limited to specific departments or functions. The main barriers to scaling AI adoption include data governance, cybersecurity, and talent shortages. Finance leaders identify AI and machine learning expertise as critical capabilities, but also cite them as the most lacking. The survey highlights the need for financial institutions to address these challenges to fully leverage the benefits of AI. As the financial sector continues to evolve, it's essential to prioritize AI adoption and talent development.
+
+SHORT-FORM SCRIPT:
+AI is being adopted in finance, but its deployment is limited. What's holding it back? Data governance, cybersecurity, and talent shortages are just a few challenges. Let's explore how financial institutions can overcome these barriers and unlock the full potential of AI.
+
+----------------------------------------
+ARTICLE 2: Predicting Immigrant Status with AI: A New Study
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+SUMMARY:
+Researchers compared machine learning and regular expression approaches to predict immigrant status from electronic medical records in Ontario, Canada. The machine learning model performed slightly better, but neither approach was accurate enough for clinical use. The study highlights the need for careful consideration of bias when using AI for sensitive attributes. Direct capture of information from patients is still the most reliable method. The findings have implications for healthcare providers and systems seeking to understand the needs of their communities.
+
+SHORT-FORM SCRIPT:
+Can AI predict immigrant status from medical records? Researchers tested machine learning and regular expressions, but found that neither was accurate enough for clinical use. What does this mean for healthcare?
+
+----------------------------------------
+ARTICLE 3: AI Takes on Alzheimer's: $6.2 Million Grant Funds Genetic Target Search
+Source: News-Medical.net
+URL: https://www.news-medical.net/news/20260415/New-grant-funds-AI-search-for-genetic-targets-to-treat-Alzheimers.aspx
+
+SUMMARY:
+Researchers at Case Western Reserve University have received a $6.2 million grant to use AI and machine learning to identify genetic targets for treating Alzheimer's disease. The five-year project aims to leverage AI's capabilities in analyzing complex data to find potential targets for intervention. This innovative approach could lead to breakthroughs in understanding and treating the disease. The grant is funded by the National Institute on Aging, highlighting the importance of interdisciplinary research in tackling complex health issues. By combining AI and genetics, scientists hope to uncover new avenues for Alzheimer's treatment.
+
+SHORT-FORM SCRIPT:
+Imagine a future where AI helps us unlock the secrets of Alzheimer's. With a new $6.2 million grant, researchers are using AI and machine learning to identify genetic targets for treatment. This could be a game-changer in the fight against the disease.
+
+----------------------------------------
+ARTICLE 4: Toyota Unveils AI-Powered Basketball Robot
+Source: MarketScreener
+URL: https://www.marketscreener.com/news/toyota-debuts-basketball-robot-with-ai-training-ce7e50dede8cff21
+
+SUMMARY:
+Toyota has unveiled its latest artificial intelligence-powered basketball robot, CUE7, which showcases significant advancements in motion control and machine learning. The robot is capable of advanced basketball maneuvers, thanks to its AI training. This innovation highlights the potential of AI in robotics and sports. The development of CUE7 demonstrates Toyota's commitment to investing in cutting-edge technology. The robot's capabilities have the potential to impact various industries beyond sports.
+
+SHORT-FORM SCRIPT:
+Meet Toyota's new basketball robot, CUE7, powered by AI. It's a game-changer with its advanced motion control and machine learning capabilities.
+
+----------------------------------------
+ARTICLE 5: IIT Kharagpur Launches Online Programmes on AI, ML, and Tech Leadership
+Source: Times of India
+URL: https://timesofindia.indiatimes.com/city/kolkata/iit-kgp-launches-online-programmes-on-ai-ml/articleshow/130246616.cms
+
+SUMMARY:
+IIT Kharagpur has launched online executive certification programmes in artificial intelligence, machine learning, and technology leadership. These programmes aim to equip working professionals with production-ready AI capabilities. The launch is a significant step in upskilling the workforce in emerging technologies. The programmes will provide end-to-end knowledge, enabling professionals to leverage AI and ML in their industries. This initiative is expected to have a positive impact on the job market and the tech industry as a whole.
+
+SHORT-FORM SCRIPT:
+IIT Kharagpur is upskilling the workforce with its new online certification programmes in AI, ML, and tech leadership. Get production-ready AI capabilities and stay ahead in the job market!
+

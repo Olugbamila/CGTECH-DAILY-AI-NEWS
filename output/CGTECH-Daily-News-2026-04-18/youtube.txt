@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-04-18
+
+----------------------------------------
+VIDEO TITLE:
+AI Adoption in Finance: Overcoming the Barriers to Scaling
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest trends and innovations in AI. Today, we're discussing the state of AI adoption in the financial sector. While half of financial institutions have adopted AI, its deployment is often limited to specific departments or functions. The main barriers to scaling AI adoption include data governance, cybersecurity, and talent shortages. In this video, we'll delve into the survey findings and discuss the implications for financial institutions. We'll also explore strategies for overcoming these challenges and unlocking the full potential of AI. Join us as we examine the future of AI in finance and what it means for your business.
+
+REFERENCE LINK:
+https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how to drive innovation in the financial sector.
+
+----------------------------------------
+VIDEO TITLE:
+Predicting Immigrant Status with AI: A New Study
+
+SCRIPT (1–2 MINUTES):
+Introduction: Welcome to our video on the latest study comparing machine learning and regular expression approaches to predict immigrant status from electronic medical records. Scene 1: The study found that the machine learning model performed slightly better than the regular expression approach, but neither was accurate enough for clinical use. Scene 2: So, what does this mean for healthcare providers and systems seeking to understand the needs of their communities? We'll explore the implications of the study's findings and what they mean for the future of AI in healthcare.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest research and innovations.
+
+----------------------------------------
+VIDEO TITLE:
+AI Takes on Alzheimer's: $6.2 Million Grant Funds Genetic Target Search
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and its applications in various fields. Today, we're discussing a groundbreaking project that's using AI and machine learning to identify genetic targets for treating Alzheimer's disease. With a $6.2 million grant from the National Institute on Aging, researchers at Case Western Reserve University are leveraging AI's capabilities in analyzing complex data to find potential targets for intervention. This project has the potential to make a significant impact in our understanding and treatment of Alzheimer's, and we're excited to see the progress that will be made. In this video, we'll delve into the details of the project, its goals, and the potential implications of this research.
+
+REFERENCE LINK:
+https://www.news-medical.net/news/20260415/New-grant-funds-AI-search-for-genetic-targets-to-treat-Alzheimers.aspx
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how technology is transforming the medical landscape.
+
+----------------------------------------
+VIDEO TITLE:
+Toyota Unveils AI-Powered Basketball Robot
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and technology. Today, we're talking about Toyota's new basketball robot, CUE7. This innovative robot is powered by artificial intelligence and showcases significant improvements in motion control and machine learning. Let's dive into the details of this technology and what it means for the future of sports and beyond.
+
+REFERENCE LINK:
+https://www.marketscreener.com/news/toyota-debuts-basketball-robot-with-ai-training-ce7e50dede8cff21
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+IIT Kharagpur Launches Online Programmes on AI, ML, and Tech Leadership
+
+SCRIPT (1–2 MINUTES):
+Introduction to the latest development in the tech industry, where IIT Kharagpur has launched online certification programmes in AI, ML, and tech leadership. We'll be discussing the implications of this initiative and how it can benefit working professionals. With the increasing demand for AI and ML skills, such programmes are crucial in upskilling the workforce. Let's dive into the details and explore the possibilities.
+
+REFERENCE LINK:
+https://timesofindia.indiatimes.com/city/kolkata/iit-kgp-launches-online-programmes-on-ai-ml/articleshow/130246616.cms
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve!
+

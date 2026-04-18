@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-04-18
+
+----------------------------------------
+ARTICLE 1: AI Adoption in Finance: Overcoming the Barriers to Scaling
+Source: The Manila Times
+Link: https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+POST:
+The financial sector is embracing AI, but there's still a long way to go. A recent survey found that while half of financial institutions have adopted AI, its deployment is often limited to specific departments or functions. The main barriers to scaling AI adoption include data governance, cybersecurity, and talent shortages. So, what can financial institutions do to overcome these challenges? By prioritizing AI adoption and talent development, they can unlock the full potential of AI and stay ahead of the curve. Follow CGTECH for daily AI updates and insights on how to drive innovation in the financial sector.
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how to drive innovation in the financial sector.
+
+----------------------------------------
+ARTICLE 2: Predicting Immigrant Status with AI: A New Study
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+POST:
+Have you ever wondered how healthcare providers can better understand the needs of their patients? A recent study explored the use of AI to predict immigrant status from electronic medical records, but found that the approaches tested were not accurate enough for clinical use. This highlights the importance of direct capture of information from patients, rather than relying on predictive models. At CGTECH, we're committed to staying at the forefront of AI research and its applications in healthcare. Follow us for more updates on the latest developments! #AI #Healthcare #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest research and innovations.
+
+----------------------------------------
+ARTICLE 3: AI Takes on Alzheimer's: $6.2 Million Grant Funds Genetic Target Search
+Source: News-Medical.net
+Link: https://www.news-medical.net/news/20260415/New-grant-funds-AI-search-for-genetic-targets-to-treat-Alzheimers.aspx
+
+POST:
+Exciting news in the world of medical research! A $6.2 million grant has been awarded to researchers at Case Western Reserve University to use AI and machine learning in the search for genetic targets to treat Alzheimer's disease. This innovative approach could lead to breakthroughs in our understanding of the disease and potentially uncover new avenues for treatment. At CGTECH, we're passionate about the potential of AI to transform healthcare and improve lives. Follow us for daily updates on the latest AI news and advancements in the medical field. #AI #Alzheimers #MedicalResearch
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how technology is transforming the medical landscape.
+
+----------------------------------------
+ARTICLE 4: Toyota Unveils AI-Powered Basketball Robot
+Source: MarketScreener
+Link: https://www.marketscreener.com/news/toyota-debuts-basketball-robot-with-ai-training-ce7e50dede8cff21
+
+POST:
+Toyota has just revealed its latest creation - an AI-powered basketball robot called CUE7. This robot is a testament to the incredible advancements being made in artificial intelligence and machine learning. Imagine the possibilities for AI in sports and other industries. What do you think about this innovative technology? Share your thoughts and let's start a conversation. Follow CGTECH for the latest AI news and updates.
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 5: IIT Kharagpur Launches Online Programmes on AI, ML, and Tech Leadership
+Source: Times of India
+Link: https://timesofindia.indiatimes.com/city/kolkata/iit-kgp-launches-online-programmes-on-ai-ml/articleshow/130246616.cms
+
+POST:
+Exciting news for working professionals! IIT Kharagpur has launched online executive certification programmes in artificial intelligence, machine learning, and technology leadership. These programmes will provide end-to-end knowledge, enabling professionals to leverage AI and ML in their industries. Stay ahead in the job market and upskill with the latest technologies. Follow CGTECH for daily AI updates and learn more about these programmes!
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve!
+

@@ -1,0 +1,73 @@
+=== LINKEDIN PERSONAL BRAND PACK (Chris Gbenlebu) ===
+Date: 2026-04-18
+
+----------------------------------------
+ARTICLE 1: AI Adoption in Finance: Overcoming the Barriers to Scaling
+Source: The Manila Times
+Link: https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+POST (PERSONAL INSIGHT):
+As I reflect on the latest trends in AI adoption, I'm struck by the disconnect between the pace of technological advancements and the ability of financial institutions to keep up. A recent survey found that while half of financial institutions have adopted AI, its deployment is often limited to specific departments or functions. The main barriers to scaling AI adoption include data governance, cybersecurity, and talent shortages. To address these challenges, I believe it's essential for financial institutions to prioritize AI adoption and talent development. By doing so, they can unlock the full potential of AI and stay ahead of the curve. Let's discuss how we can bridge this gap and drive innovation in the financial sector. #AI #TechNews #FinancialServices
+
+HASHTAGS:
+#AI #TechNews #FinancialServices #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how to drive innovation in the financial sector.
+
+----------------------------------------
+ARTICLE 2: Predicting Immigrant Status with AI: A New Study
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+POST (PERSONAL INSIGHT):
+As I reflect on the recent study comparing machine learning and regular expression approaches to predict immigrant status from electronic medical records, I'm reminded of the importance of careful consideration when applying AI to sensitive attributes. The study's findings highlight the need for direct capture of information from patients, rather than relying on predictive models. As healthcare providers and systems seek to understand the needs of their communities, it's essential to prioritize accuracy and equity. Let's continue the conversation on the responsible use of AI in healthcare. #AI #Healthcare #Equity
+
+HASHTAGS:
+#AI #Healthcare #Equity #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest research and innovations.
+
+----------------------------------------
+ARTICLE 3: AI Takes on Alzheimer's: $6.2 Million Grant Funds Genetic Target Search
+Source: News-Medical.net
+Link: https://www.news-medical.net/news/20260415/New-grant-funds-AI-search-for-genetic-targets-to-treat-Alzheimers.aspx
+
+POST (PERSONAL INSIGHT):
+As someone who's passionate about the intersection of technology and healthcare, I'm excited to see the potential of AI in tackling complex diseases like Alzheimer's. The recent grant awarded to Case Western Reserve University is a testament to the power of interdisciplinary research and the importance of leveraging AI in our pursuit of medical breakthroughs. I believe that this project has the potential to make a significant impact in our understanding and treatment of Alzheimer's, and I'm looking forward to seeing the progress that will be made. Let's continue to support innovative research and collaboration in the field of AI and healthcare. Follow CGTECH for daily AI updates and insights on how technology is transforming the medical landscape.
+
+HASHTAGS:
+#AI #Alzheimers #HealthTech #MedicalResearch #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how technology is transforming the medical landscape.
+
+----------------------------------------
+ARTICLE 4: Toyota Unveils AI-Powered Basketball Robot
+Source: MarketScreener
+Link: https://www.marketscreener.com/news/toyota-debuts-basketball-robot-with-ai-training-ce7e50dede8cff21
+
+POST (PERSONAL INSIGHT):
+As I reflect on the latest innovation from Toyota, I'm impressed by the potential of AI in transforming industries. The debut of their basketball robot, CUE7, showcases the power of artificial intelligence in motion control and machine learning. What are your thoughts on the future of AI in sports and beyond? Let's discuss. Follow me for more insights on AI and tech trends.
+
+HASHTAGS:
+#AI #TechNews #Innovation #Robotics
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 5: IIT Kharagpur Launches Online Programmes on AI, ML, and Tech Leadership
+Source: Times of India
+Link: https://timesofindia.indiatimes.com/city/kolkata/iit-kgp-launches-online-programmes-on-ai-ml/articleshow/130246616.cms
+
+POST (PERSONAL INSIGHT):
+As we continue to navigate the complexities of emerging technologies, it's heartening to see institutions like IIT Kharagpur taking proactive steps to upskill the workforce. Their new online executive certification programmes in AI, ML, and tech leadership are a significant step in the right direction. I believe such initiatives will have a profound impact on the job market and the tech industry as a whole. Let's discuss the implications of this development and how it can benefit working professionals. Follow CGTECH for daily AI updates and let's stay ahead of the curve!
+
+HASHTAGS:
+#AI #TechNews #MachineLearning #Upskilling
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve!
+

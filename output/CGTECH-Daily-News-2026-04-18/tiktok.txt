@@ -1,0 +1,135 @@
+=== CGTECH — TIKTOK/IG/SHORTS PACK ===
+Date: 2026-04-18
+
+----------------------------------------
+ARTICLE 1: AI Adoption in Finance: Overcoming the Barriers to Scaling
+
+HOOK:
+AI is transforming the financial sector, but are institutions ready? Half of financial institutions have adopted AI, but its deployment is limited. What's holding it back?
+
+SCRIPT (SPOKEN):
+AI is being adopted in finance, but its deployment is limited. What's holding it back? Data governance, cybersecurity, and talent shortages are just a few challenges. Let's explore how financial institutions can overcome these barriers and unlock the full potential of AI.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: AI is being adopted in finance, but its deployment is limited.
+  B-roll: Footage of financial institutions, AI dashboards, and data analytics
+
+Scene 2:
+  Narration: The main barriers to scaling AI adoption include data governance, cybersecurity, and talent shortages.
+  B-roll: Footage of cybersecurity threats, data breaches, and talent acquisition challenges
+
+Scene 3:
+  Narration: By prioritizing AI adoption and talent development, financial institutions can unlock the full potential of AI.
+  B-roll: Footage of AI training programs, talent development initiatives, and innovation hubs
+
+HASHTAGS:
+#AI #AITools #FinancialTech #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how to drive innovation in the financial sector.
+
+----------------------------------------
+ARTICLE 2: Predicting Immigrant Status with AI: A New Study
+
+HOOK:
+Can AI really predict sensitive information like immigrant status from medical records? A new study has some surprising findings.
+
+SCRIPT (SPOKEN):
+Can AI predict immigrant status from medical records? Researchers tested machine learning and regular expressions, but found that neither was accurate enough for clinical use. What does this mean for healthcare?
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The study compared machine learning and regular expression approaches to predict immigrant status from electronic medical records.
+  B-roll: Footage of medical records, healthcare providers, and AI dashboards.
+
+Scene 2:
+  Narration: The findings have implications for healthcare providers and systems seeking to understand the needs of their communities.
+  B-roll: Footage of diverse communities, healthcare facilities, and AI-powered analytics tools.
+
+HASHTAGS:
+#AI #MachineLearning #HealthTech
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest research and innovations.
+
+----------------------------------------
+ARTICLE 3: AI Takes on Alzheimer's: $6.2 Million Grant Funds Genetic Target Search
+
+HOOK:
+What if AI could help us unlock the secrets of Alzheimer's? A new $6.2 million grant is making that a reality, and we're about to dive into the details of this groundbreaking project.
+
+SCRIPT (SPOKEN):
+Imagine a future where AI helps us unlock the secrets of Alzheimer's. With a new $6.2 million grant, researchers are using AI and machine learning to identify genetic targets for treatment. This could be a game-changer in the fight against the disease.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Researchers at Case Western Reserve University have received a $6.2 million grant to use AI and machine learning in the search for genetic targets to treat Alzheimer's disease.
+  B-roll: Footage of researchers working in a lab, with AI-powered machines and screens displaying genetic data in the background.
+
+Scene 2:
+  Narration: The project aims to leverage AI's capabilities in analyzing complex data to find potential targets for intervention.
+  B-roll: Visuals of AI algorithms processing data, with animations of genetic sequences and neural networks.
+
+Scene 3:
+  Narration: This innovative approach could lead to breakthroughs in our understanding and treatment of Alzheimer's disease.
+  B-roll: Footage of medical professionals discussing the project, with images of brain scans and patients in the background.
+
+HASHTAGS:
+#AI #AITools #Alzheimers #MedicalResearch
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how technology is transforming the medical landscape.
+
+----------------------------------------
+ARTICLE 4: Toyota Unveils AI-Powered Basketball Robot
+
+HOOK:
+Imagine a robot that can outplay you on the basketball court. Meet CUE7, Toyota's latest AI-powered creation.
+
+SCRIPT (SPOKEN):
+Meet Toyota's new basketball robot, CUE7, powered by AI. It's a game-changer with its advanced motion control and machine learning capabilities.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Toyota has been investing heavily in artificial intelligence and machine learning.
+  B-roll: Footage of Toyota's research and development facilities, robots, and AI systems.
+
+Scene 2:
+  Narration: The new basketball robot, CUE7, is a prime example of this innovation.
+  B-roll: Close-up shots of CUE7 in action, demonstrating its basketball skills.
+
+Scene 3:
+  Narration: With its advanced motion control and machine learning capabilities, CUE7 is a game-changer.
+  B-roll: Visuals of CUE7's AI system, highlighting its complex algorithms and data analysis.
+
+HASHTAGS:
+#AI #AITools #Robotics #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 5: IIT Kharagpur Launches Online Programmes on AI, ML, and Tech Leadership
+
+HOOK:
+Get ready to revolutionize your career with IIT Kharagpur's new online certification programmes in AI, ML, and tech leadership! Stay ahead in the job market and upskill with the latest technologies.
+
+SCRIPT (SPOKEN):
+IIT Kharagpur is upskilling the workforce with its new online certification programmes in AI, ML, and tech leadership. Get production-ready AI capabilities and stay ahead in the job market!
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: IIT Kharagpur has launched its first series of online executive certification programmes in artificial intelligence, machine learning, and technology leadership.
+  B-roll: Footage of IIT Kharagpur campus, students working on laptops, AI and ML-related graphics
+
+Scene 2:
+  Narration: These programmes aim to equip working professionals with end-to-end, production-ready AI capabilities.
+  B-roll: Visuals of professionals working in an office, using AI and ML tools, dashboards and data analytics
+
+HASHTAGS:
+#AI #AITools #Tech #MachineLearning
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve!
+

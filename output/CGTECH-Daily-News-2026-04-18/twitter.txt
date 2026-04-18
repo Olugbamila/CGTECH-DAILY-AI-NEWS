@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-04-18
+
+----------------------------------------
+ARTICLE 1: AI Adoption in Finance: Overcoming the Barriers to Scaling
+TWEET:
+AI adoption in finance is accelerating, but capabilities are lagging behind. Data governance, cybersecurity, and talent shortages are major barriers. How can financial institutions overcome these challenges? #AI #FinancialServices
+
+HASHTAGS:
+#AI #FinancialServices #Innovation
+
+LINK:
+https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+----------------------------------------
+ARTICLE 2: Predicting Immigrant Status with AI: A New Study
+TWEET:
+New study: Machine learning & regular expressions can't accurately predict immigrant status from medical records. Direct capture of info from patients is still the way to go. #AI #Healthcare #Bias
+
+HASHTAGS:
+#AI #Healthcare #Bias
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+----------------------------------------
+ARTICLE 3: AI Takes on Alzheimer's: $6.2 Million Grant Funds Genetic Target Search
+TWEET:
+AI takes on Alzheimer's! $6.2 million grant awarded to researchers using AI & machine learning to identify genetic targets for treatment. #AI #Alzheimers #HealthTech
+
+HASHTAGS:
+#AI #Alzheimers #HealthTech
+
+LINK:
+https://www.news-medical.net/news/20260415/New-grant-funds-AI-search-for-genetic-targets-to-treat-Alzheimers.aspx
+
+----------------------------------------
+ARTICLE 4: Toyota Unveils AI-Powered Basketball Robot
+TWEET:
+Toyota just unveiled CUE7, an AI-powered basketball robot! What's next for AI in sports? #AI #Robotics #Innovation
+
+HASHTAGS:
+#AI #Robotics #Innovation
+
+LINK:
+https://www.marketscreener.com/news/toyota-debuts-basketball-robot-with-ai-training-ce7e50dede8cff21
+
+----------------------------------------
+ARTICLE 5: IIT Kharagpur Launches Online Programmes on AI, ML, and Tech Leadership
+TWEET:
+IIT Kharagpur launches online certification programmes in #AI, #ML, and tech leadership! Upskill and stay ahead in the job market! #TechNews #AIUpdates
+
+HASHTAGS:
+#AI #ML #TechNews #IITKharagpur
+
+LINK:
+https://timesofindia.indiatimes.com/city/kolkata/iit-kgp-launches-online-programmes-on-ai-ml/articleshow/130246616.cms
+
