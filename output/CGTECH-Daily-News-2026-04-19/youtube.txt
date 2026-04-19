@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-04-19
+
+----------------------------------------
+VIDEO TITLE:
+BECIL and C-DAC Partner to Drive Innovation in Advanced Technologies
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we dive into the latest tech news and trends. Today, we're talking about the exciting collaboration between BECIL and C-DAC. This partnership is all about driving innovation in advanced technologies and digital transformation. We'll be exploring what this means for the tech industry, and how it can impact businesses and individuals alike. From AI and ML to IoT and Cyber security, we'll cover it all. So let's get started and see what the future holds.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+CTA:
+Follow CGTECH for daily AI updates and the latest tech news.
+
+----------------------------------------
+VIDEO TITLE:
+Meta's AI-Powered Restructuring: 16,000 Jobs at Risk
+
+SCRIPT (1–2 MINUTES):
+Welcome back to our channel, where we explore the latest developments in the world of AI and tech. Today, we're discussing the recent news about Meta's planned layoffs and what it means for the industry. With a focus on artificial intelligence and machine learning, companies are constantly evolving to stay ahead. Let's take a closer look at the potential implications of this move and how it may shape the future of tech.
+
+REFERENCE LINK:
+https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve.
+
+----------------------------------------
+VIDEO TITLE:
+AI Adoption in Finance: Bridging the Capability Gap
+
+SCRIPT (1–2 MINUTES):
+Intro: AI is being adopted in finance, but there's a gap in workforce capabilities. What are the main barriers to deploying AI at scale, and how can financial institutions address them? Scene 1: Data governance and cybersecurity are significant challenges. Scene 2: Shortages in AI talent and technical expertise are also major concerns. Scene 3: Finance leaders identify AI and machine learning expertise as the most critical capability to develop, yet it's also cited as the most lacking. Conclusion: To realize the full potential of AI in finance, financial institutions must invest in developing critical capabilities like AI and machine learning expertise.
+
+REFERENCE LINK:
+https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how to bridge the gap between AI adoption and workforce capabilities.
+
+----------------------------------------
+VIDEO TITLE:
+Predicting Immigrant Status with AI: A New Study in Healthcare
+
+SCRIPT (1–2 MINUTES):
+Introduction to the topic of AI in healthcare, specifically the use of machine learning to predict immigrant status from electronic medical records. The study's findings and limitations are discussed, along with the importance of equity in healthcare access and the need for caution when using AI for sensitive attributes. The video concludes with a call to action, encouraging viewers to consider the potential and limitations of AI in healthcare and to follow CGTECH for more updates.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Search for Genetic Targets to Treat Alzheimer's
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and its applications. Today, we're discussing a groundbreaking project that combines AI and genetics to tackle Alzheimer's disease. With a new $6.2 million grant, researchers at Case Western Reserve University are using machine learning to identify potential genetic targets for treatment. This could be a major breakthrough in our understanding of the disease and the development of new therapies. Let's dive into the details of this project and what it could mean for the future of healthcare.
+
+REFERENCE LINK:
+https://www.news-medical.net/news/20260415/New-grant-funds-AI-search-for-genetic-targets-to-treat-Alzheimers.aspx
+
+CTA:
+Follow CGTECH for daily AI updates and stay informed about the latest advancements in technology and healthcare.
+

@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-04-19
+
+----------------------------------------
+ARTICLE 1: BECIL and C-DAC Partner to Drive Innovation in Advanced Technologies
+TWEET:
+BECIL & C-DAC join forces to boost innovation in AI, ML, IoT & more! What's next for the tech industry? #AI #TechNews #Innovation
+
+HASHTAGS:
+#AI #TechNews #Innovation
+
+LINK:
+https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+----------------------------------------
+ARTICLE 2: Meta's AI-Powered Restructuring: 16,000 Jobs at Risk
+TWEET:
+Meta to lay off 16,000 employees, focusing on AI! What's next for the tech industry? #AI #TechNews
+
+HASHTAGS:
+#AI #TechNews #Meta
+
+LINK:
+https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+----------------------------------------
+ARTICLE 3: AI Adoption in Finance: Bridging the Capability Gap
+TWEET:
+AI adoption is accelerating in finance, but workforce capabilities are lagging behind! What are the main barriers to deploying AI at scale? #AI #FinancialServices
+
+HASHTAGS:
+#AI #FinancialServices #TechNews
+
+LINK:
+https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+----------------------------------------
+ARTICLE 4: Predicting Immigrant Status with AI: A New Study in Healthcare
+TWEET:
+New study: Machine learning can predict immigrant status from medical records, but it's not yet accurate enough for clinical use. Caution is needed when using AI for sensitive attributes. #AI #Healthcare #Equity
+
+HASHTAGS:
+#AI #Healthcare #Equity #MachineLearning
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+----------------------------------------
+ARTICLE 5: AI-Powered Search for Genetic Targets to Treat Alzheimer's
+TWEET:
+AI takes on Alzheimer's! $6.2M grant to use machine learning for genetic target discovery. Could this be the breakthrough we need? #AI #Alzheimers
+
+HASHTAGS:
+#AI #Alzheimers #MachineLearning
+
+LINK:
+https://www.news-medical.net/news/20260415/New-grant-funds-AI-search-for-genetic-targets-to-treat-Alzheimers.aspx
+
