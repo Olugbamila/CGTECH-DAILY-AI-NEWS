@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-04-20
+
+----------------------------------------
+ARTICLE 1: BECIL and C-DAC Collaborate on Advanced Technologies and Digital Transformation
+TWEET:
+BECIL & C-DAC join forces to boost collaboration in advanced tech & digital transformation! #AI #TechNews #Innovation
+
+HASHTAGS:
+#AI #TechNews #Innovation #Partnership
+
+LINK:
+https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+----------------------------------------
+ARTICLE 2: Meta's AI Ambitions: 16,000 Jobs at Risk in Upcoming Layoffs
+TWEET:
+Meta to lay off 16,000 employees, with 8,000 jobs cut on May 20! The company's AI ambitions come at a steep cost. #AI #TechNews #Meta
+
+HASHTAGS:
+#AI #TechNews #Meta
+
+LINK:
+https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+----------------------------------------
+ARTICLE 3: AI Adoption in Finance: The Gap Between Technology and Talent
+TWEET:
+AI adoption in finance is accelerating, but capabilities are lagging behind. Data governance, cybersecurity, and talent shortages are major barriers. #AI #Finance
+
+HASHTAGS:
+#AI #Finance #TechNews
+
+LINK:
+https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+----------------------------------------
+ARTICLE 4: The Limits of AI in Predicting Immigrant Status
+TWEET:
+New study: AI can't accurately predict immigrant status from medical records. Machine learning & regular expressions fell short. What are the implications for healthcare and AI? #AI #Healthcare #Tech
+
+HASHTAGS:
+#AI #Healthcare #Tech
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+----------------------------------------
+ARTICLE 5: AI-Powered Search for Alzheimer's Genetic Targets Receives $6.2M Grant
+TWEET:
+AI takes on Alzheimer's! Researchers at Case Western Reserve University receive $6.2M grant to use AI & machine learning to identify genetic targets for treatment. #AI #Alzheimers #MedicalResearch
+
+HASHTAGS:
+#AI #Alzheimers #MedicalResearch
+
+LINK:
+https://www.news-medical.net/news/20260415/New-grant-funds-AI-search-for-genetic-targets-to-treat-Alzheimers.aspx
+

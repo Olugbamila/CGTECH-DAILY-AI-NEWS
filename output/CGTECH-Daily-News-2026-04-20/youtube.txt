@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-04-20
+
+----------------------------------------
+VIDEO TITLE:
+BECIL and C-DAC Collaborate on Advanced Technologies and Digital Transformation
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the exciting news of BECIL and C-DAC's collaboration on advanced technologies and digital transformation. This partnership has the potential to drive significant innovation and growth in the tech industry, and we're here to break it down for you. From AI to Cloud Computing, we'll explore the key areas of focus for this collaboration and what it means for the future of tech. So, let's dive in and explore the details of this groundbreaking partnership.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+Meta's AI Ambitions: 16,000 Jobs at Risk in Upcoming Layoffs
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in the tech world. Today, we're discussing the recent announcement from Meta Platforms, which plans to lay off around 16,000 employees in the coming months. The company's focus on artificial intelligence and machine learning is driving this decision, but what does it mean for the workers affected and the future of the tech industry? Let's dive into the details and analyze the implications of this move.
+
+REFERENCE LINK:
+https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+CTA:
+Follow CGTECH for daily AI updates and in-depth analysis.
+
+----------------------------------------
+VIDEO TITLE:
+AI Adoption in Finance: The Gap Between Technology and Talent
+
+SCRIPT (1–2 MINUTES):
+Welcome to our latest video on AI adoption in finance. Today, we're discussing the surprising trend that's emerged from a recent survey: while 50% of financial institutions have deployed AI, its use is often limited to specific departments or functions. We'll explore the main barriers to AI adoption at scale, including data governance, cybersecurity, and talent shortages. We'll also examine the critical skills that finance leaders identify as essential for the future of finance, including AI and machine learning expertise, cybersecurity, and AI governance. Join us as we delve into the implications of this trend and what it means for the future of finance.
+
+REFERENCE LINK:
+https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+The Limits of AI in Predicting Immigrant Status
+
+SCRIPT (1–2 MINUTES):
+Introduction to the topic of using AI to predict immigrant status from medical records. The study's methodology and findings are discussed, as well as the implications for healthcare and AI. The importance of caution when using AI to predict sensitive attributes is highlighted, and the need for direct capture of information from patients is emphasized. The video concludes with a call to action, encouraging viewers to think critically about the use of AI in healthcare.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Search for Alzheimer's Genetic Targets Receives $6.2M Grant
+
+SCRIPT (1–2 MINUTES):
+Introduction to the groundbreaking research using AI to fight Alzheimer's disease. Researchers at Case Western Reserve University have been awarded a $6.2 million grant to leverage AI and machine learning in identifying genetic targets for treatment. This video will delve into the details of the project, the potential of AI in medical research, and what this means for the future of healthcare. From the grant's objectives to the expected outcomes, we'll explore how AI is revolutionizing our approach to understanding and treating Alzheimer's.
+
+REFERENCE LINK:
+https://www.news-medical.net/news/20260415/New-grant-funds-AI-search-for-genetic-targets-to-treat-Alzheimers.aspx
+
+CTA:
+Follow CGTECH for daily AI updates
+

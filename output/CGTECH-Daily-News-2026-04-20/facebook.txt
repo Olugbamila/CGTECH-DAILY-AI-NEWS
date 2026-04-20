@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-04-20
+
+----------------------------------------
+ARTICLE 1: BECIL and C-DAC Collaborate on Advanced Technologies and Digital Transformation
+Source: The Tribune
+Link: https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+POST:
+Exciting news in the tech world! BECIL and C-DAC have signed a Memorandum of Understanding to collaborate on advanced technologies and digital transformation. This partnership will focus on joint project implementation, consultancy, and technical support in emerging technologies like AI, ML, IoT, and Cloud Computing. The potential impact of this collaboration is huge, and we can't wait to see the innovations that come out of it. Follow CGTECH for daily AI updates and stay ahead of the curve!
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+ARTICLE 2: Meta's AI Ambitions: 16,000 Jobs at Risk in Upcoming Layoffs
+Source: Times Now
+Link: https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+POST:
+Breaking news: Meta Platforms is planning to lay off around 16,000 employees in the coming months. The first phase of layoffs is expected to start on May 20, affecting approximately 8,000 workers. As the company shifts its focus to artificial intelligence and machine learning, many workers are facing uncertainty. What do you think about this move? Share your thoughts in the comments below. Follow CGTECH for daily updates on the latest tech news and trends.
+
+CTA:
+Follow CGTECH for daily AI updates and in-depth analysis.
+
+----------------------------------------
+ARTICLE 3: AI Adoption in Finance: The Gap Between Technology and Talent
+Source: The Manila Times
+Link: https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+POST:
+The latest survey on AI adoption in finance reveals a surprising trend: while 50% of financial institutions have deployed AI, its use is often limited to specific departments or functions. The main barriers to AI adoption at scale include data governance, cybersecurity, and talent shortages. Finance leaders identify AI and machine learning expertise as the most critical capability to develop, but also the most lacking. What does this mean for the future of finance? Join the conversation and let's explore the implications of this trend. Follow CGTECH for daily AI updates.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 4: The Limits of AI in Predicting Immigrant Status
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+POST:
+Have you ever wondered how healthcare providers can better understand the needs of their patients? A recent study explored the use of AI to predict immigrant status from primary care electronic medical records. While the study's findings were interesting, they also highlighted the importance of caution when using AI to predict sensitive attributes. The machine learning model performed slightly better than regular expressions, but neither approach was accurate enough for clinical use. So what does this mean for healthcare and AI? Let us know your thoughts in the comments! Follow CGTECH for daily AI updates.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 5: AI-Powered Search for Alzheimer's Genetic Targets Receives $6.2M Grant
+Source: News-Medical.net
+Link: https://www.news-medical.net/news/20260415/New-grant-funds-AI-search-for-genetic-targets-to-treat-Alzheimers.aspx
+
+POST:
+Exciting news in the fight against Alzheimer's! Researchers at Case Western Reserve University have just received a $6.2 million grant to use AI and machine learning to identify genetic targets for treatment. This innovative approach could lead to breakthroughs in understanding and addressing the disease. By applying AI to genetic data, researchers hope to accelerate the discovery of effective treatments. Follow CGTECH for daily AI updates and let's stay informed about the latest developments in medical research.
+
+CTA:
+Follow CGTECH for daily AI updates
+

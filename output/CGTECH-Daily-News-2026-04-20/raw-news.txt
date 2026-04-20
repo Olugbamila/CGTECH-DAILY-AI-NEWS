@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-04-20
+
+----------------------------------------
+ARTICLE 1: BECIL and C-DAC Collaborate on Advanced Technologies and Digital Transformation
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+SUMMARY:
+BECIL has signed a Memorandum of Understanding (MoU) with C-DAC to collaborate on advanced technologies and digital transformation. The partnership will focus on joint project implementation, consultancy, and technical support in emerging technologies like AI, ML, IoT, and Cloud Computing. This collaboration aims to drive innovation and growth in the tech industry. The MoU will enable the development of solutions in areas such as cyber security and 5G. The partnership is expected to have a significant impact on the industry, driving advancements in technology and digital transformation.
+
+SHORT-FORM SCRIPT:
+Breaking news in the tech world! BECIL and C-DAC have joined forces to boost collaboration in advanced technologies and digital transformation. From AI to Cloud Computing, this partnership is set to drive innovation and growth.
+
+----------------------------------------
+ARTICLE 2: Meta's AI Ambitions: 16,000 Jobs at Risk in Upcoming Layoffs
+Source: Times Now
+URL: https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+SUMMARY:
+Meta Platforms is planning to lay off around 16,000 employees in the coming months, with the first phase starting on May 20, affecting approximately 8,000 workers. This move is part of the company's restructuring efforts, focusing on artificial intelligence and machine learning. Mark Zuckerberg has emphasized the company's ambition to become a leader in AI, from generative tools to infrastructure for large-scale machine learning systems. The layoffs are expected to be a significant reduction in Meta's workforce. The company's focus on AI is likely to continue, despite the restructuring.
+
+SHORT-FORM SCRIPT:
+Meta's laying off 16,000 employees, with 8,000 jobs cut on May 20. The company's focusing on AI, but at what cost? Workers are facing uncertainty as the tech giant restructures.
+
+----------------------------------------
+ARTICLE 3: AI Adoption in Finance: The Gap Between Technology and Talent
+Source: The Manila Times
+URL: https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+SUMMARY:
+A recent survey found that 50% of financial institutions have deployed AI, but its use is limited to specific departments or functions. The main barriers to AI adoption at scale include data governance, cybersecurity, and talent shortages. Finance leaders identify AI and machine learning expertise as the most critical capability to develop, but also the most lacking. The survey highlights the need for financial institutions to address these challenges to fully leverage AI's potential. As a result, institutions are struggling to keep pace with regulatory and market changes.
+
+SHORT-FORM SCRIPT:
+AI adoption is on the rise in finance, but capabilities are lagging behind. What's holding them back?
+
+----------------------------------------
+ARTICLE 4: The Limits of AI in Predicting Immigrant Status
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+SUMMARY:
+A recent study compared machine learning and regular expression approaches to predict immigrant status from primary care electronic medical records in Ontario, Canada. The machine learning model performed slightly better, but neither approach was accurate enough for clinical practice. The study highlights the need for caution when using AI to predict sensitive attributes like immigrant status, recommending direct capture of information from patients instead. This approach could help healthcare providers tailor more comprehensive care and allocate resources equitably. The study's findings have implications for the use of AI in healthcare, particularly in predicting social determinants of health.
+
+SHORT-FORM SCRIPT:
+Can AI predict immigrant status from medical records? A recent study says not quite. Machine learning and regular expressions were tested, but neither were accurate enough for clinical use. What does this mean for healthcare and AI?
+
+----------------------------------------
+ARTICLE 5: AI-Powered Search for Alzheimer's Genetic Targets Receives $6.2M Grant
+Source: News-Medical.net
+URL: https://www.news-medical.net/news/20260415/New-grant-funds-AI-search-for-genetic-targets-to-treat-Alzheimers.aspx
+
+SUMMARY:
+Researchers at Case Western Reserve University have received a $6.2 million grant to use AI and machine learning to identify genetic targets for treating Alzheimer's disease. The five-year project aims to leverage AI's capabilities in analyzing complex data to find potential targets for treatment. This innovative approach could lead to breakthroughs in understanding and addressing the disease. The grant is funded by the National Institute on Aging, highlighting the importance of AI in medical research. By applying AI to genetic data, researchers hope to accelerate the discovery of effective treatments.
+
+SHORT-FORM SCRIPT:
+Meet the researchers using AI to fight Alzheimer's. With a new $6.2 million grant, they're on a mission to identify genetic targets for treatment using machine learning.
+
