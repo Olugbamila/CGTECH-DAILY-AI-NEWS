@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-04-21
+
+----------------------------------------
+VIDEO TITLE:
+Boehringer Ingelheim Launches AI Centre for Pharma Research in London
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel! Today, we're discussing the launch of Boehringer Ingelheim's AI centre in London, a significant development in the pharmaceutical industry's adoption of AI technology. This centre will focus on leveraging AI and machine learning to enhance research and development efforts, with the goal of improving drug discovery and development processes. We'll be exploring the implications of this launch and what it means for the future of healthcare.
+
+REFERENCE LINK:
+https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+BECIL and C-DAC Collaborate on Advanced Tech and Digital Transformation
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and tech. Today, we're discussing the exciting news of BECIL and C-DAC collaborating on advanced technologies and digital transformation. This partnership has the potential to drive significant innovation and growth, and we're breaking it down for you. From the details of the MoU to the potential impact on the industry, we're covering it all. So, let's dive in and explore the possibilities this collaboration can bring.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Meta Platforms to Lay Off 16,000 Employees: What's Next for Tech?
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest news and trends in the world of AI and tech. Today, we're discussing the recent announcement from Meta Platforms, which plans to lay off around 16,000 employees in the coming months. The first phase of layoffs, affecting approximately 8,000 workers, is set to occur on May 20. As the company prioritizes its goals and focuses on artificial intelligence, we'll be examining what this means for the industry and the future of tech. From the impact on employees to the potential implications for investors, we'll be covering it all. So, let's dive in and explore the details of this significant news.
+
+REFERENCE LINK:
+https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve.
+
+----------------------------------------
+VIDEO TITLE:
+AI Adoption in Finance: Closing the Capability Gap
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest trends and developments in AI. Today, we're discussing the state of AI adoption in the finance sector. According to a recent survey, 50% of financial institutions have adopted AI, but its deployment is limited to specific departments or functions. So, what's holding them back from scaling up? In this video, we'll delve into the challenges facing financial institutions and explore strategies for overcoming them. From talent shortages to data governance and cybersecurity concerns, we'll cover it all. Join us as we examine the intersection of AI and finance and what it means for the future of the industry.
+
+REFERENCE LINK:
+https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+Can AI Predict Immigrant Status from Medical Records?
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel. Today, we're discussing a recent study that explored the use of AI to predict immigrant status from electronic medical records. The study compared machine learning and regular expression approaches, and found that while the machine learning model performed slightly better, neither approach was accurate enough for clinical use. We'll dive into the implications of this study and what it means for healthcare providers and systems seeking to understand the needs of their communities.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+CTA:
+Follow CGTECH for daily AI updates.
+

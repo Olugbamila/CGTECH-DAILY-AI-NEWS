@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-04-21
+
+----------------------------------------
+ARTICLE 1: Boehringer Ingelheim Launches AI Centre for Pharma Research in London
+Source: MarketScreener
+Link: https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027
+
+POST:
+Exciting news in the world of AI and pharmaceuticals! Boehringer Ingelheim has just launched an AI centre in London, dedicated to applying artificial intelligence and machine learning to improve drug discovery and development. This innovative move has the potential to drive significant advancements in the field. Stay up-to-date with the latest AI news and trends by following CGTECH!
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: BECIL and C-DAC Collaborate on Advanced Tech and Digital Transformation
+Source: The Tribune
+Link: https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+POST:
+Exciting news in the tech world! BECIL and C-DAC have signed a Memorandum of Understanding to collaborate on advanced technologies and digital transformation. This partnership will focus on joint project implementation, consultancy, and technical support in areas like AI, ML, IoT, cybersecurity, 5G, and cloud computing. The potential for innovation and growth is huge, and we can't wait to see the impact it will have. Follow CGTECH for daily AI updates and stay ahead of the curve.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 3: Meta Platforms to Lay Off 16,000 Employees: What's Next for Tech?
+Source: Times Now
+Link: https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+POST:
+Big news in the tech world: Meta Platforms is planning to lay off around 16,000 employees in the coming months. The first wave of layoffs, affecting approximately 8,000 workers, is set to occur on May 20. As the company shifts its focus to artificial intelligence, it's clear that the industry is undergoing a significant transformation. What do you think this means for the future of tech? Share your thoughts in the comments below. Follow CGTECH for daily AI updates and stay ahead of the curve.
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve.
+
+----------------------------------------
+ARTICLE 4: AI Adoption in Finance: Closing the Capability Gap
+Source: The Manila Times
+Link: https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+POST:
+The finance sector is embracing AI, but there's a catch. While 50% of financial institutions have adopted AI, its deployment is limited to specific departments or functions. So, what's holding them back from scaling up? It all comes down to talent shortages, data governance, and cybersecurity concerns. To stay ahead of the curve, financial institutions need to invest in workforce development and address these challenges. Follow CGTECH for daily AI updates and insights!
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 5: Can AI Predict Immigrant Status from Medical Records?
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+POST:
+Have you ever wondered how AI can be used to improve healthcare? A recent study explored the use of machine learning and regular expression approaches to predict immigrant status from electronic medical records. While the results were promising, the study highlights the need for caution when using AI to predict sensitive attributes. What do you think about the potential applications and limitations of AI in healthcare? Share your thoughts and follow CGTECH for more updates on AI and healthcare.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
