@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-04-22
+
+----------------------------------------
+VIDEO TITLE:
+Boehringer Ingelheim Launches AI Centre for Pharma Research in London
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and its applications. Today, we're discussing the launch of Boehringer Ingelheim's AI centre in London, a significant milestone in the pharmaceutical industry. This centre will harness the power of artificial intelligence and machine learning to enhance drug discovery and development. We'll delve into the details of this launch, its potential impact on the industry, and what it means for the future of pharma research.
+
+REFERENCE LINK:
+https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+BECIL and C-DAC Collaborate on Advanced Technologies and Digital Transformation
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in the tech industry. Today, we're discussing the exciting news of BECIL and C-DAC collaborating on advanced technologies and digital transformation. This partnership has the potential to drive significant growth and innovation in the industry, with a focus on joint project implementation, consultancy, and technical support in emerging technologies such as AI, ML, IoT, Cyber security, 5G, and Cloud Computing. Let's dive into the details and explore what this means for the future of tech.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+CTA:
+Follow CGTECH for daily AI updates and news.
+
+----------------------------------------
+VIDEO TITLE:
+Meta's AI Ambitions: 16,000 Jobs at Risk in Upcoming Layoffs
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest news and trends in the world of AI and technology. Today, we're discussing the recent announcement from Meta about its plans to lay off 16,000 employees. As the company shifts its focus to artificial intelligence, we'll examine what this means for the future of work, the tech industry, and the employees affected. From the potential benefits of AI to the challenges of implementing these technologies, we'll cover it all. So let's get started and dive into the details.
+
+REFERENCE LINK:
+https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+CTA:
+Follow CGTECH for daily AI updates and analysis.
+
+----------------------------------------
+VIDEO TITLE:
+AI Adoption in Finance: Closing the Workforce Capabilities Gap
+
+SCRIPT (1–2 MINUTES):
+Welcome to our video on AI adoption in the financial services sector. Today, we're exploring the latest survey findings, which reveal a significant gap between the pace of technological change and the development of workforce capabilities. We'll delve into the main barriers to scaling AI, including data governance, cybersecurity concerns, and shortages in AI talent. And, we'll discuss strategies for developing critical skills like AI and machine learning expertise. Join us as we examine the challenges and opportunities in AI adoption for the financial sector.
+
+REFERENCE LINK:
+https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+AI and Immigrant Status: A Study on Predicting Patient Needs
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and its applications. Today, we're discussing a recent study that compared the effectiveness of regular expression and machine learning approaches in predicting immigrant status from primary care electronic medical records. The study's findings have significant implications for healthcare providers and systems seeking to tailor care and allocate resources equitably. Let's dive into the details and examine what this means for the future of AI in healthcare. From the potential benefits to the challenges and limitations, we'll cover it all.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+CTA:
+Follow CGTECH for daily AI updates
+

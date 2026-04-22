@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-04-22
+
+----------------------------------------
+ARTICLE 1: Boehringer Ingelheim Launches AI Centre for Pharma Research in London
+Source: MarketScreener
+Link: https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027
+
+POST:
+Exciting news in the pharmaceutical industry! Boehringer Ingelheim has just launched a centre for artificial intelligence and machine learning in London. This innovative facility will utilize AI and machine learning to accelerate drug discovery and development, potentially leading to new treatments and therapies. At CGTECH, we're passionate about exploring the vast possibilities of AI and its applications. Follow us for the latest updates on AI and its impact on various industries. What do you think about the future of AI in pharma?
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: BECIL and C-DAC Collaborate on Advanced Technologies and Digital Transformation
+Source: The Tribune
+Link: https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+POST:
+Exciting news in the tech world: BECIL and C-DAC have signed a Memorandum of Understanding to collaborate on advanced technologies and digital transformation. This partnership is expected to drive innovation and growth in the industry, with a focus on joint project implementation, consultancy, and technical support in emerging technologies such as AI, ML, IoT, Cyber security, 5G, and Cloud Computing. What does this mean for the future of tech? Share your thoughts and let's stay ahead of the curve. Follow CGTECH for daily AI updates and news.
+
+CTA:
+Follow CGTECH for daily AI updates and news.
+
+----------------------------------------
+ARTICLE 3: Meta's AI Ambitions: 16,000 Jobs at Risk in Upcoming Layoffs
+Source: Times Now
+Link: https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+POST:
+Big changes are coming to Meta, with the company planning to lay off around 16,000 employees in the coming months. As Meta focuses on becoming a leader in artificial intelligence, it's clear that the tech landscape is evolving rapidly. But what does this mean for the employees affected, and for the future of the company? Let's dive into the details and explore the implications of this move. Follow CGTECH for daily AI updates and analysis.
+
+CTA:
+Follow CGTECH for daily AI updates and analysis.
+
+----------------------------------------
+ARTICLE 4: AI Adoption in Finance: Closing the Workforce Capabilities Gap
+Source: The Manila Times
+Link: https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+POST:
+The financial services sector is embracing AI, but there's a significant challenge to overcome: the lack of workforce capabilities. A recent survey found that half of business leaders report limited AI deployment, citing barriers like data governance, cybersecurity concerns, and shortages in AI talent. So, what can we do to develop the necessary skills and scale AI adoption? Let's discuss in the comments! Follow CGTECH for daily AI updates and insights.
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 5: AI and Immigrant Status: A Study on Predicting Patient Needs
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+POST:
+Have you ever wondered how AI can help healthcare providers better understand their patients' needs? A recent study explored the use of machine learning and regular expression approaches to predict immigrant status from primary care electronic medical records in Ontario, Canada. While the results were promising, they also highlighted the challenges of working with sensitive attributes and the need for caution to avoid introducing bias. What does this mean for the future of AI in healthcare? Follow CGTECH for daily AI updates and join the conversation!
+
+CTA:
+Follow CGTECH for daily AI updates
+

@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-04-22
+
+----------------------------------------
+ARTICLE 1: Boehringer Ingelheim Launches AI Centre for Pharma Research in London
+TWEET:
+Boehringer Ingelheim launches AI centre in London to boost pharma research! This is a major step forward for AI in drug discovery and development. #AI #Pharma #Innovation
+
+HASHTAGS:
+#AI #Pharma #Innovation
+
+LINK:
+https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027
+
+----------------------------------------
+ARTICLE 2: BECIL and C-DAC Collaborate on Advanced Technologies and Digital Transformation
+TWEET:
+BECIL & C-DAC join forces to drive innovation in AI, ML, IoT & more! What's next for the tech industry? #AI #TechNews #Innovation
+
+HASHTAGS:
+#AI #TechNews #Innovation
+
+LINK:
+https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+----------------------------------------
+ARTICLE 3: Meta's AI Ambitions: 16,000 Jobs at Risk in Upcoming Layoffs
+TWEET:
+Meta to lay off 16,000 employees as it shifts focus to AI. What's next for the tech giant? #AI #TechNews
+
+HASHTAGS:
+#AI #TechNews #Meta
+
+LINK:
+https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+----------------------------------------
+ARTICLE 4: AI Adoption in Finance: Closing the Workforce Capabilities Gap
+TWEET:
+AI adoption is accelerating in finance, but workforce capabilities are lagging behind. What are the main barriers to scaling AI, and how can we address them? #AI #Finance #TechNews
+
+HASHTAGS:
+#AI #Finance #TechNews
+
+LINK:
+https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+----------------------------------------
+ARTICLE 5: AI and Immigrant Status: A Study on Predicting Patient Needs
+TWEET:
+New study: AI can't accurately predict immigrant status from medical records... yet. Machine learning performed slightly better than regular expression, but more work is needed to avoid bias. #AI #Healthcare #MachineLearning
+
+HASHTAGS:
+#AI #Healthcare #MachineLearning
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
