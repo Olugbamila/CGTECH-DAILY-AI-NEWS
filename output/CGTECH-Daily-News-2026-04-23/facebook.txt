@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-04-23
+
+----------------------------------------
+ARTICLE 1: Boehringer Ingelheim Launches AI Centre for Pharma Research in London
+Source: MarketScreener
+Link: https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027
+
+POST:
+Exciting news in the world of pharmaceuticals! Boehringer Ingelheim has just launched a centre for artificial intelligence and machine learning in London. This innovative move is set to revolutionize the way we approach drug development, making it faster, more efficient, and more effective. By harnessing the power of AI and machine learning, researchers can unlock new insights, identify potential breakthroughs, and improve patient outcomes. Follow CGTECH for the latest updates on AI in healthcare and pharma research!
+
+CTA:
+Follow CGTECH for daily AI updates and insights into the latest developments in pharma research.
+
+----------------------------------------
+ARTICLE 2: BECIL and C-DAC Partner to Boost Advanced Technologies and Digital Transformation
+Source: The Tribune
+Link: https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+POST:
+Exciting news from India! BECIL and C-DAC have signed a Memorandum of Understanding to collaborate in advanced technologies and digital transformation. This partnership will focus on joint project implementation, consultancy, and technical support in emerging technologies like AI, ML, IoT, Cyber security, 5G, and Cloud Computing. The potential impact of this collaboration is huge, and we can't wait to see the innovations that come out of it. Follow CGTECH for daily AI updates and stay ahead of the curve.
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+ARTICLE 3: Meta's AI Focus: 16,000 Jobs at Risk
+Source: Times Now
+Link: https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+POST:
+Big news in the tech world: Meta is planning to lay off 16,000 employees as it focuses on artificial intelligence. This move has significant implications for the job market and the future of the industry. As Meta prioritizes its goals, it's clear that AI is playing a major role in shaping the company's strategy. What do you think about the impact of AI on the tech industry? Share your thoughts in the comments! Follow CGTECH for daily updates on the latest tech news.
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the tech industry.
+
+----------------------------------------
+ARTICLE 4: AI Adoption in Finance: Challenges and Opportunities
+Source: The Manila Times
+Link: https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+POST:
+The finance sector is undergoing a significant transformation with the adoption of AI. However, a recent survey reveals that while 50% of financial institutions have adopted AI, its deployment is limited to specific departments or functions. The main barriers to scaling AI adoption include data governance, cybersecurity, and talent shortages. To stay ahead of the curve, financial institutions must prioritize talent development and address these challenges. Follow CGTECH for daily AI updates and insights on how to navigate this changing landscape.
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how to navigate the changing landscape of finance and technology.
+
+----------------------------------------
+ARTICLE 5: The Limits of AI in Healthcare: Predicting Immigrant Status
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+POST:
+Have you ever thought about how your doctor could better understand your needs based on your background? Researchers in Canada tried using AI to predict immigrant status from medical records, but found that it's not yet accurate enough. They're warning against introducing bias and recommending that doctors ask patients directly instead. This study highlights the importance of balancing the potential benefits of AI with the need to ensure equitable care. What do you think about the role of AI in healthcare? Follow CGTECH for daily AI updates and join the conversation!
+
+CTA:
+Follow CGTECH for daily AI updates
+

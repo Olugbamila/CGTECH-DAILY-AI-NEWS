@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-04-23
+
+----------------------------------------
+VIDEO TITLE:
+Boehringer Ingelheim Launches AI Centre for Pharma Research in London
+
+SCRIPT (1–2 MINUTES):
+Introduction to the latest development in pharmaceutical research: Boehringer Ingelheim's new AI centre in London. In this video, we'll explore how AI and machine learning are being applied to improve drug development, from data analysis to clinical trials. We'll also examine the potential benefits and challenges of this innovative approach. Join us as we delve into the world of AI-powered pharma research and discover what the future holds.
+
+REFERENCE LINK:
+https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027
+
+CTA:
+Follow CGTECH for daily AI updates and insights into the latest developments in pharma research.
+
+----------------------------------------
+VIDEO TITLE:
+BECIL and C-DAC Partner to Boost Advanced Technologies and Digital Transformation
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the exciting partnership between BECIL and C-DAC in India. This collaboration has the potential to drive significant innovation in advanced technologies like AI, ML, and IoT. We'll be exploring the details of the MoU, the areas of focus, and what this means for the future of tech in India. From joint project implementation to the development of solutions in emerging technologies, we'll cover it all. So, let's dive in and explore the possibilities.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+Meta's AI Focus: 16,000 Jobs at Risk
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we dive into the latest news and trends in the tech industry. Today, we're discussing the recent announcement from Meta, which plans to lay off 16,000 employees as it shifts its focus to artificial intelligence. In this video, we'll explore what this move means for the future of tech and the job market. From generative tools to large-scale machine learning systems, AI is playing a major role in shaping Meta's strategy. Let's take a closer look at the implications of this decision and what it might mean for the industry as a whole.
+
+REFERENCE LINK:
+https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the tech industry.
+
+----------------------------------------
+VIDEO TITLE:
+AI Adoption in Finance: Challenges and Opportunities
+
+SCRIPT (1–2 MINUTES):
+Introduction to the latest developments in AI adoption in finance. The survey reveals that 50% of financial institutions have adopted AI, but its deployment is limited to specific departments or functions. We'll explore the main barriers to scaling AI adoption, including data governance, cybersecurity, and talent shortages. We'll also discuss the implications of these findings and what financial institutions can do to address these challenges. As we delve into the details, it's clear that AI is revolutionizing the finance sector, but it's essential to prioritize talent development and address the challenges head-on to fully leverage its potential.
+
+REFERENCE LINK:
+https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how to navigate the changing landscape of finance and technology.
+
+----------------------------------------
+VIDEO TITLE:
+The Limits of AI in Healthcare: Predicting Immigrant Status
+
+SCRIPT (1–2 MINUTES):
+Introduction to the topic of using AI in healthcare, specifically in predicting immigrant status from medical records. The study's findings and their implications for healthcare providers and systems. The importance of balancing the potential benefits of AI with the need to avoid introducing bias and ensuring equitable care. Examples of how AI is being used in healthcare and the potential for future advancements.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+CTA:
+Follow CGTECH for daily AI updates
+
