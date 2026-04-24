@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-04-24
+
+----------------------------------------
+VIDEO TITLE:
+Boehringer Ingelheim Launches AI Centre for Pharma Research in London
+
+SCRIPT (1–2 MINUTES):
+Introduction to the launch of Boehringer Ingelheim's AI centre in London. The pharmaceutical industry is on the cusp of a revolution, with artificial intelligence and machine learning set to transform the way we approach drug discovery and development. In this video, we'll explore the significance of this launch and what it means for the future of pharmaceutical research. From improved efficiency to enhanced effectiveness, we'll delve into the potential benefits of integrating AI in the pharmaceutical industry.
+
+REFERENCE LINK:
+https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+BECIL and C-DAC Collaborate to Boost Advanced Technologies and Digital Transformation
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the exciting collaboration between BECIL and C-DAC. This partnership has the potential to drive significant innovation and growth in emerging technologies such as AI, ML, and IoT. In this video, we'll explore the details of the MoU and what it means for the tech industry. We'll also examine the potential implications of this collaboration and what we can expect to see in the coming years. So, let's dive in and take a closer look.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Meta Plans Workforce Cut: 16,000 Jobs at Risk as Company Focuses on AI
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and tech. Today, we're discussing Meta's decision to lay off 16,000 employees as it prioritizes artificial intelligence. We'll dive into the reasons behind this move, the potential impact on the tech industry, and what it means for the future of AI research and development. Join us as we analyze the latest news and trends in the world of tech.
+
+REFERENCE LINK:
+https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+AI Adoption in Finance: Capabilities Lagging Behind
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest trends in AI and tech. Today, we're discussing the acceleration of AI adoption in finance. While 50% of business leaders report AI deployment in their organizations, capabilities are lagging behind due to various barriers. In this video, we'll delve into the main obstacles, including data governance and cybersecurity concerns, and discuss how financial institutions can address these challenges. We'll also examine the critical capabilities that financial institutions need to develop to stay ahead, such as AI and machine learning expertise, and cybersecurity.
+
+REFERENCE LINK:
+https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+AI and Immigrant Status: A New Study Reveals the Limitations of Machine Learning in Healthcare
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and healthcare. Today, we're discussing a recent study that compared regular expression and machine learning approaches to predict immigrant status from primary care electronic medical records in Ontario, Canada. The researchers found that while machine learning performed slightly better, neither approach was accurate enough for clinical use. We'll dive into the details of the study, and discuss the implications for healthcare and bias. Join us as we explore the intersection of AI and healthcare, and don't forget to follow CGTECH for daily AI updates.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+CTA:
+Follow CGTECH for daily AI updates.
+

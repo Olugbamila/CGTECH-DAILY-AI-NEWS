@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-04-24
+
+----------------------------------------
+ARTICLE 1: Boehringer Ingelheim Launches AI Centre for Pharma Research in London
+Source: MarketScreener
+URL: https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027
+
+SUMMARY:
+Boehringer Ingelheim, a German drugmaker, has launched a centre for artificial intelligence and machine learning in London to expand its AI capabilities in pharmaceutical research and development. This move aims to leverage AI and machine learning to improve drug discovery and development processes. The centre will focus on applying AI and machine learning to enhance the efficiency and effectiveness of pharmaceutical research. This launch is a significant step in the integration of AI in the pharmaceutical industry. The centre's establishment in London highlights the city's growing importance as a hub for AI and pharmaceutical research.
+
+SHORT-FORM SCRIPT:
+Boehringer Ingelheim just launched an AI centre in London, revolutionizing pharmaceutical research with machine learning and AI. What does this mean for the future of drug discovery?
+
+----------------------------------------
+ARTICLE 2: BECIL and C-DAC Collaborate to Boost Advanced Technologies and Digital Transformation
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+SUMMARY:
+The Broadcast Engineering Consultants India Limited (BECIL) has signed a Memorandum of Understanding (MoU) with the Centre for Development of Advanced Computing (C-DAC) to collaborate on advanced technologies and digital transformation. The collaboration will focus on joint project implementation, consultancy, and technical support in emerging technologies such as AI, ML, IoT, Cyber security, 5G, and Cloud Computing. This partnership aims to boost innovation and development in these areas. The MoU is expected to enhance the capabilities of both organizations and drive growth in the tech industry. The collaboration will also lead to the development of new solutions and services in emerging technologies.
+
+SHORT-FORM SCRIPT:
+Imagine a future where technology and innovation come together to transform industries. BECIL and C-DAC have signed an MoU to collaborate on advanced technologies and digital transformation, focusing on AI, ML, IoT, and more. This partnership is set to drive growth and innovation in the tech industry.
+
+----------------------------------------
+ARTICLE 3: Meta Plans Workforce Cut: 16,000 Jobs at Risk as Company Focuses on AI
+Source: Times Now
+URL: https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+SUMMARY:
+Meta Platforms is planning to lay off around 16,000 employees in the coming months, with the first phase expected to begin on May 20, impacting approximately 8,000 workers. This move is part of the company's efforts to become a leader in artificial intelligence. Mark Zuckerberg has emphasized the company's ambition to focus on AI, from generative tools to infrastructure for large-scale machine learning systems. The layoffs are a significant step in Meta's restructuring process, aiming to achieve its AI goals.
+
+SHORT-FORM SCRIPT:
+Breaking news: Meta plans to lay off 16,000 employees as it shifts focus to artificial intelligence. The first wave of 8,000 layoffs is expected on May 20. What does this mean for the future of tech?
+
+----------------------------------------
+ARTICLE 4: AI Adoption in Finance: Capabilities Lagging Behind
+Source: The Manila Times
+URL: https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+SUMMARY:
+A recent survey reveals that while AI adoption is accelerating in the finance sector, with 50% of business leaders reporting deployment in their organizations, capabilities are lagging behind due to various barriers. The main obstacles include data governance and privacy compliance, cybersecurity and risk concerns, and shortages in AI talent and technical expertise. Finance leaders identify AI and machine learning expertise as the most critical capability to develop, yet it is also cited as the most lacking. To address these challenges, financial institutions must prioritize upskilling existing employees and attracting talent with emerging skills such as AI, ESG, and cybersecurity.
+
+SHORT-FORM SCRIPT:
+AI is being adopted in finance, but capabilities are lagging. What are the main barriers holding back AI deployment at scale, and how can financial institutions address these challenges?
+
+----------------------------------------
+ARTICLE 5: AI and Immigrant Status: A New Study Reveals the Limitations of Machine Learning in Healthcare
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+SUMMARY:
+Researchers compared regular expression and machine learning approaches to predict immigrant status from primary care electronic medical records in Ontario, Canada. The machine learning model performed slightly better, but neither approach was accurate enough for clinical practice. The study highlights the need for caution when using AI to predict sensitive attributes like immigrant status. The authors recommend continued direct capture of this information from patients to avoid introducing bias. This study contributes to the ongoing discussion on the use of AI in healthcare and the importance of equity in access to primary care.
+
+SHORT-FORM SCRIPT:
+Can AI predict immigrant status from medical records? Researchers compared machine learning and regular expression approaches, but found that neither was accurate enough for clinical use. What does this mean for healthcare and bias?
+

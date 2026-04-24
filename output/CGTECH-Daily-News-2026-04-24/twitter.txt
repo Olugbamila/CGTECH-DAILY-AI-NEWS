@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-04-24
+
+----------------------------------------
+ARTICLE 1: Boehringer Ingelheim Launches AI Centre for Pharma Research in London
+TWEET:
+Boehringer Ingelheim launches AI centre in London! This is a game-changer for pharmaceutical research. #AI #Pharma #Innovation
+
+HASHTAGS:
+#AI #Pharma #Innovation
+
+LINK:
+https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027
+
+----------------------------------------
+ARTICLE 2: BECIL and C-DAC Collaborate to Boost Advanced Technologies and Digital Transformation
+TWEET:
+BECIL and C-DAC join forces to boost collaboration in advanced technologies and digital transformation! Focus on AI, ML, IoT, Cyber security, 5G, and Cloud Computing. #AI #TechNews #Innovation
+
+HASHTAGS:
+#AI #TechNews #Innovation
+
+LINK:
+https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+----------------------------------------
+ARTICLE 3: Meta Plans Workforce Cut: 16,000 Jobs at Risk as Company Focuses on AI
+TWEET:
+Meta to lay off 16,000 employees as it bets big on AI! First wave of 8,000 layoffs expected on May 20. What's next for the tech giant? #AI #TechNews
+
+HASHTAGS:
+#AI #TechNews #Meta
+
+LINK:
+https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+----------------------------------------
+ARTICLE 4: AI Adoption in Finance: Capabilities Lagging Behind
+TWEET:
+AI adoption is accelerating in finance, but capabilities are lagging! 50% of business leaders report AI deployment, but barriers like data governance & cybersecurity concerns hold back scale. #AI #Finance #Tech
+
+HASHTAGS:
+#AI #Finance #Tech
+
+LINK:
+https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+----------------------------------------
+ARTICLE 5: AI and Immigrant Status: A New Study Reveals the Limitations of Machine Learning in Healthcare
+TWEET:
+New study: AI can't accurately predict immigrant status from medical records. Researchers warn against introducing bias when using machine learning for sensitive attributes. #AI #Healthcare #Bias
+
+HASHTAGS:
+#AI #Healthcare #Bias #MachineLearning
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
