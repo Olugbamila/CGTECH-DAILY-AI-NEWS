@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-04-25
+
+----------------------------------------
+ARTICLE 1: Boehringer Ingelheim Launches AI Centre for Pharma Research in London
+Source: MarketScreener
+Link: https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027
+
+POST:
+Exciting news in the world of pharmaceuticals! Boehringer Ingelheim has just launched a centre for artificial intelligence and machine learning in London. This centre will use AI to enhance drug discovery and development, which could lead to new treatments being brought to market faster. This is a significant step forward for the integration of AI in the pharmaceutical industry, and we're eager to see the impact it will have. Follow CGTECH for daily AI updates and join the conversation!
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: BECIL and C-DAC Partner to Boost Advanced Technologies and Digital Transformation
+Source: The Tribune
+Link: https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+POST:
+Exciting news in the tech world! BECIL and C-DAC have signed an MoU to collaborate on advanced technologies and digital transformation. This partnership is going to drive innovation and growth in the industry, with a focus on emerging technologies like AI, ML, IoT, cyber security, 5G, and Cloud Computing. What do you think about this development? Share your thoughts in the comments! Follow CGTECH for the latest updates on the tech industry.
+
+CTA:
+Follow CGTECH for daily AI updates and the latest news on the tech industry.
+
+----------------------------------------
+ARTICLE 3: Meta's AI Ambitions: 16,000 Jobs at Risk
+Source: Times Now
+Link: https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+POST:
+Big news in the tech world: Meta Platforms is planning to lay off 16,000 employees in the coming months. The first phase of layoffs is expected to start on May 20, affecting around 8,000 workers. As the company shifts its focus to artificial intelligence and machine learning, it's essential to consider the impact on the workforce. What do you think about this move, and how do you think it will affect the tech industry as a whole? Share your thoughts and let's discuss. Follow CGTECH for daily AI updates.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 4: AI Adoption in Finance: Overcoming the Capabilities Gap
+Source: The Manila Times
+Link: https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+POST:
+The financial services sector is undergoing a significant transformation with the adoption of Artificial Intelligence (AI). However, despite the growing momentum, there are still significant challenges to overcome. Half of business leaders report that AI is deployed in their organizations, but it's limited to specific departments or functions. The main barriers to AI adoption at scale include data governance, cybersecurity, and talent shortages. To stay ahead of the curve, it's essential for organizations to invest in AI and machine learning expertise, as well as upskilling and reskilling their workforce. Follow CGTECH for the latest insights and updates on AI adoption in finance.
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how to drive business success through technology.
+
+----------------------------------------
+ARTICLE 5: Predicting Immigrant Status with AI: A Delicate Balance
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+POST:
+Have you ever wondered how healthcare providers can better understand their patients' needs? A recent study explored using AI to predict immigrant status from electronic medical records in Ontario, Canada. While the machine learning approach showed promise, it wasn't accurate enough for clinical use. The study highlights the importance of caution when using AI in healthcare, especially when it comes to sensitive attributes like immigrant status. What do you think about the use of AI in healthcare? Share your thoughts! Follow CGTECH for daily AI updates.
+
+CTA:
+Follow CGTECH for daily AI updates.
+

@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-04-25
+
+----------------------------------------
+ARTICLE 1: Boehringer Ingelheim Launches AI Centre for Pharma Research in London
+TWEET:
+Boehringer Ingelheim launches AI centre in London to boost pharma research! This is a huge step forward for AI in healthcare. #AI #Pharma #Healthcare
+
+HASHTAGS:
+#AI #Pharma #Healthcare
+
+LINK:
+https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027
+
+----------------------------------------
+ARTICLE 2: BECIL and C-DAC Partner to Boost Advanced Technologies and Digital Transformation
+TWEET:
+BECIL & C-DAC join forces to boost collaboration in advanced tech & digital transformation! AI, ML, IoT, and more are on the agenda. #AI #TechNews #DigitalTransformation
+
+HASHTAGS:
+#AI #TechNews #DigitalTransformation
+
+LINK:
+https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+----------------------------------------
+ARTICLE 3: Meta's AI Ambitions: 16,000 Jobs at Risk
+TWEET:
+Meta Platforms to lay off 16,000 employees, starting May 20. What's next for the tech giant and its AI ambitions? #AI #TechNews
+
+HASHTAGS:
+#AI #TechNews #Meta
+
+LINK:
+https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+----------------------------------------
+ARTICLE 4: AI Adoption in Finance: Overcoming the Capabilities Gap
+TWEET:
+AI adoption is accelerating in finance, but capabilities are lagging behind! 50% of institutions have AI, but it's limited to specific areas. What's holding them back? #AI #Finance
+
+HASHTAGS:
+#AI #Finance #TechNews #Innovation
+
+LINK:
+https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+----------------------------------------
+ARTICLE 5: Predicting Immigrant Status with AI: A Delicate Balance
+TWEET:
+Can AI predict immigrant status from medical records? A new study says not accurately enough. Researchers warn against bias in AI-driven healthcare decisions. #AI #Healthcare #Bias
+
+HASHTAGS:
+#AI #Healthcare #Bias #MachineLearning
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+

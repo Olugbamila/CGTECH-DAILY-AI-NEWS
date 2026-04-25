@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-04-25
+
+----------------------------------------
+VIDEO TITLE:
+Boehringer Ingelheim Launches AI Centre for Pharma Research in London
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the launch of Boehringer Ingelheim's AI centre in London. This centre is a significant step forward for the pharmaceutical industry, and it has the potential to revolutionize the way we approach drug discovery and development. We'll be exploring the details of the centre and what it means for the future of healthcare. So, let's dive in and take a closer look.
+
+REFERENCE LINK:
+https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+BECIL and C-DAC Partner to Boost Advanced Technologies and Digital Transformation
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the recent MoU between BECIL and C-DAC. This partnership is a significant development in the tech industry, with a focus on advancing technologies like AI, ML, and IoT. We'll be exploring the potential impact of this collaboration and what it means for the future of the industry. From joint project implementation to the development of solutions in emerging technologies, we'll dive into the details of this agreement and what it could mean for businesses and individuals alike.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+CTA:
+Follow CGTECH for daily AI updates and the latest news on the tech industry.
+
+----------------------------------------
+VIDEO TITLE:
+Meta's AI Ambitions: 16,000 Jobs at Risk
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and tech. Today, we're discussing the recent announcement of Meta's planned layoffs, affecting 16,000 employees. The company's focus on artificial intelligence is driving this decision, but what does it mean for the future of the tech industry? In this video, we'll delve into the implications of this move and how it may shape the industry's approach to AI development. From generative tools to large-scale machine learning systems, we'll examine the potential consequences of Meta's layoffs.
+
+REFERENCE LINK:
+https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+AI Adoption in Finance: Overcoming the Capabilities Gap
+
+SCRIPT (1–2 MINUTES):
+Introduction: The financial services sector is on the cusp of a revolution, driven by the adoption of Artificial Intelligence (AI). But despite the growing momentum, there are still significant challenges to overcome. In this video, we'll explore the latest trends in AI adoption in finance and what's holding institutions back from scaling their AI capabilities. Segment 1: We'll start by examining the current state of AI adoption in finance, including the main barriers to adoption and the skills gaps that need to be addressed. Segment 2: Next, we'll discuss the implications of these trends and what organizations can do to overcome the challenges and stay ahead of the curve. Conclusion: As AI continues to transform the financial services sector, it's essential for organizations to prioritize investments in AI and machine learning expertise, as well as upskilling and reskilling their workforce.
+
+REFERENCE LINK:
+https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how to drive business success through technology.
+
+----------------------------------------
+VIDEO TITLE:
+Predicting Immigrant Status with AI: A Delicate Balance
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and their impact on various industries. Today, we're discussing a recent study that compared machine learning and regular expression approaches to predict immigrant status from electronic medical records in Ontario, Canada. The study's findings have significant implications for healthcare providers and policymakers, highlighting the need for careful consideration when using AI to predict sensitive attributes. Let's dive into the details and examine the potential benefits and challenges of using AI in healthcare.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+CTA:
+Follow CGTECH for daily AI updates.
+
