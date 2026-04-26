@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-04-26
+
+----------------------------------------
+ARTICLE 1: Boehringer Ingelheim Launches AI Centre for Pharma Research in London
+Source: MarketScreener
+Link: https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027
+
+POST:
+Exciting news in the world of pharmaceuticals! Boehringer Ingelheim has just launched a centre for artificial intelligence and machine learning in London, aiming to revolutionize the way we develop new medicines. By leveraging AI and machine learning, the company hopes to speed up the discovery and development of new treatments, ultimately improving patient outcomes. Follow CGTECH for more updates on how AI is transforming the healthcare industry.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: BECIL and C-DAC Partner to Boost Collaboration in Advanced Technologies
+Source: The Tribune
+Link: https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+POST:
+Exciting news in the world of tech! BECIL and C-DAC have signed a Memorandum of Understanding to collaborate on advanced technologies and digital transformation. This partnership will focus on joint project implementation, consultancy, and technical support in areas like AI, ML, IoT, cybersecurity, 5G, and Cloud Computing. The goal is to drive innovation and growth in emerging technologies, promoting digital transformation and economic growth. What does this mean for the future of tech? Share your thoughts! Follow CGTECH for daily AI updates.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 3: Meta Plans Major Workforce Cut: 16,000 Jobs at Risk
+Source: Times Now
+Link: https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+POST:
+Big news in the tech world: Meta Platforms is planning to lay off around 16,000 employees in the coming months. The first phase is expected to start on May 20, impacting approximately 8,000 workers. As the company shifts its focus to artificial intelligence, it's clear that the tech landscape is changing rapidly. What does this mean for the future of tech and the employees affected by the layoffs? Share your thoughts and follow CGTECH for daily AI updates.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 4: AI Adoption in Finance: Scaling the Capabilities Gap
+Source: The Manila Times
+Link: https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+POST:
+The latest survey on AI adoption in finance reveals a fascinating trend: while 50% of financial institutions have adopted AI, its deployment is limited to specific departments or functions. But what's holding back its full potential? The main barriers include data governance, cybersecurity, and talent shortages. As the financial sector continues to evolve, it's essential to prioritize AI talent acquisition and upskilling to stay competitive. Follow CGTECH for daily AI updates and insights on how to drive innovation and growth in the sector!
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how to drive innovation and growth in the sector.
+
+----------------------------------------
+ARTICLE 5: The Limits of AI in Predicting Immigrant Status from Medical Records
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001336
+
+POST:
+A recent study explored the use of AI to predict immigrant status from primary care electronic medical records in Ontario, Canada. While the machine learning approach performed slightly better than a regular expression search, neither was accurate enough for clinical use. This research has important implications for healthcare providers and systems seeking to understand the needs of their communities. The study's findings emphasize the need for caution when using AI to predict sensitive attributes, and the importance of capturing this information directly from patients. Follow CGTECH for daily AI updates and insights into the latest developments in the field.
+
+CTA:
+Follow CGTECH for daily AI updates and insights into the latest developments in the field.
+
