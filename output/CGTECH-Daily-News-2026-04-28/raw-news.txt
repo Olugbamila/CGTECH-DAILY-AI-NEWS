@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-04-28
+
+----------------------------------------
+ARTICLE 1: The AI Writing Revolution: New Tool Makes Student Writing More Transparent
+Source: Phys.org
+URL: https://phys.org/news/2026-04-tool-ai-role-student-visible.html
+
+SUMMARY:
+A new tool is being developed to make the role of AI in student writing more visible, as 90% of college students use AI in their coursework and nearly half use it during the drafting process. Traditional tools for evaluating student learning are no longer sufficient, and merely detecting AI presence is not enough. The tool aims to provide a more nuanced understanding of how AI is being used in student writing. This development highlights the need for educators to adapt to the changing landscape of writing and assessment. By acknowledging the role of AI in student writing, educators can better support students in developing their writing skills.
+
+SHORT-FORM SCRIPT:
+Imagine a tool that reveals the secret contributor to your student papers. Meet the new AI detector that's changing the game in college writing.
+
+----------------------------------------
+ARTICLE 2: Boehringer Ingelheim Launches AI Centre for Pharma Research in London
+Source: MarketScreener
+URL: https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027
+
+SUMMARY:
+Boehringer Ingelheim, a German drugmaker, has launched a centre for artificial intelligence and machine learning in London to expand its AI capabilities in pharmaceutical research and development. This move is expected to enhance the company's drug discovery and development processes. The centre will utilize AI and machine learning to improve the efficiency and effectiveness of pharmaceutical research. This is a significant step forward for the industry, as AI has the potential to revolutionize the way drugs are developed. By leveraging AI, Boehringer Ingelheim aims to accelerate the discovery of new treatments and improve patient outcomes.
+
+SHORT-FORM SCRIPT:
+Boehringer Ingelheim is revolutionizing pharma research with a new AI centre in London. This centre will use AI and machine learning to improve drug discovery and development, leading to faster and more effective treatments.
+
+----------------------------------------
+ARTICLE 3: C-DAC and BECIL Partner to Boost Collaboration in Advanced Technologies
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+SUMMARY:
+The Centre for Development of Advanced Computing (C-DAC) and Broadcast Engineering Consultants India Limited (BECIL) have signed a Memorandum of Understanding (MoU) to collaborate on advanced technologies and digital transformation. The collaboration will focus on joint project implementation, consultancy, and technical support in areas such as Artificial Intelligence (AI), Machine Learning (ML), Internet of Things (IoT), Cyber security, 5G, and Cloud Computing. This partnership aims to boost innovation and development in emerging technologies. The MoU is expected to enhance the capabilities of both organizations and drive growth in the tech industry. The collaboration will also facilitate the development of solutions in emerging technologies.
+
+SHORT-FORM SCRIPT:
+Imagine a future where technology and innovation come together to transform industries. The Centre for Development of Advanced Computing and Broadcast Engineering Consultants India Limited are making this a reality with their new partnership, focusing on AI, ML, IoT, and more.
+
+----------------------------------------
+ARTICLE 4: Meta's AI Ambitions: 16,000 Jobs at Risk in Upcoming Layoffs
+Source: Times Now
+URL: https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+SUMMARY:
+Meta Platforms is planning to lay off around 16,000 employees in the coming months, with the first phase starting on May 20, affecting approximately 8,000 workers. This move comes as the company focuses on becoming a leader in artificial intelligence. Mark Zuckerberg has emphasized the company's ambition to develop generative tools and infrastructure for large-scale machine learning systems. The layoffs are part of Meta's efforts to restructure and prioritize its AI initiatives. The company's workforce reduction is expected to have significant implications for the tech industry.
+
+SHORT-FORM SCRIPT:
+Meta's laying off 16,000 employees to focus on AI. What does this mean for the future of tech?
+
+----------------------------------------
+ARTICLE 5: AI Adoption Accelerates in Finance, But Capabilities Lag Behind
+Source: The Manila Times
+URL: https://www.manilatimes.net/2026/04/17/tmt-newswire/pr-newswire/ai-adoption-accelerates-in-finance-but-capabilities-are-lagging-behind/2322518
+
+SUMMARY:
+A recent survey found that 50% of financial services sector business leaders have deployed AI in their organizations, but only in limited departments or functions. The main barriers to scaling AI adoption include data governance and privacy compliance, cybersecurity and risk concerns, and shortages in AI talent and technical expertise. Finance leaders identify AI and machine learning expertise as the most critical capability to develop, yet it is also cited as the most lacking. Additionally, 42% of leaders report difficulty attracting talent with emerging skills such as AI, ESG, and cybersecurity. The survey highlights the need for financial institutions to invest in workforce capabilities to keep pace with AI adoption.
+
+SHORT-FORM SCRIPT:
+AI is being adopted in finance, but capabilities are lagging behind. What's holding back widespread adoption, and how can institutions catch up?
+
