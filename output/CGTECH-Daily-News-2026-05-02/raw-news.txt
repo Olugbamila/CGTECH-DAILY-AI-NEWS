@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-05-02
+
+----------------------------------------
+ARTICLE 1: AI Revolutionizes Tourism: Insights from the 11th NCEEITET Conference
+Source: Daily Excelsior
+URL: https://www.dailyexcelsior.com/11th-nceeitet-concludes-at-gcet-jammu-highlights-ais-role-in-tourism-development/
+
+SUMMARY:
+The 11th National Conference and Exhibition on Emerging and Innovative Trends in Engineering Technology (NCEEITET) concluded at Government College of Engineering and Technology (GCET) in Jammu, focusing on the role of Artificial Intelligence (AI) and Machine Learning (ML) in tourism development in Jammu and Kashmir. The two-day conference brought together academicians, industry experts, policymakers, and students from across the country. The event was organized in technical collaboration with IIT Kharagpur and highlighted the potential of AI in boosting tourism in the region. The conference aimed to explore innovative trends in engineering technology and their applications in various fields. The event concluded with a strong emphasis on the importance of AI and ML in driving growth and development in the tourism sector.
+
+SHORT-FORM SCRIPT:
+Imagine a world where AI helps you plan your dream vacation. The 11th NCEEITET conference in Jammu explored the role of AI in tourism development, bringing together experts from across India to discuss the latest trends and innovations.
+
+----------------------------------------
+ARTICLE 2: New Tool Reveals AI's Role in Student Writing
+Source: Phys.org
+URL: https://phys.org/news/2026-04-tool-ai-role-student-visible.html
+
+SUMMARY:
+A new tool has been developed to make the role of AI in student writing visible, as generative AI transforms college writing and traditional evaluation tools fall short. According to a 2025 AI in Education trend report, 90% of college students use AI in their coursework, with nearly half using it during the drafting process. This tool aims to provide a more nuanced understanding of AI's impact on student writing. The increasing use of AI in writing has left professors wondering how to evaluate student learning effectively. The tool's development is a response to the need for more effective evaluation methods.
+
+SHORT-FORM SCRIPT:
+Imagine being able to see exactly how AI is contributing to a student's writing. A new tool is making that possible, giving professors a clearer picture of how AI is transforming college writing.
+
+----------------------------------------
+ARTICLE 3: Boehringer Ingelheim Launches AI Centre for Pharma Research in London
+Source: MarketScreener
+URL: https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027
+
+SUMMARY:
+Boehringer Ingelheim, a German drugmaker, has launched a centre for artificial intelligence and machine learning in London to expand its AI capabilities in pharmaceutical research and development. This move aims to leverage AI and machine learning to improve drug discovery and development processes. The centre will focus on applying AI and machine learning to accelerate innovation in the pharmaceutical industry. The launch of this centre underscores the growing importance of AI in the pharmaceutical sector. By investing in AI research, Boehringer Ingelheim seeks to enhance its competitiveness and contribute to the development of new treatments.
+
+SHORT-FORM SCRIPT:
+Boehringer Ingelheim is launching an AI centre in London to revolutionize pharmaceutical research. With AI and machine learning, they're aiming to accelerate drug discovery and development, and improve patient outcomes.
+
+----------------------------------------
+ARTICLE 4: BECIL and C-DAC Collaborate on Advanced Technologies and Digital Transformation
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+SUMMARY:
+BECIL and C-DAC have signed a Memorandum of Understanding to collaborate on advanced technologies and digital transformation. The partnership will focus on joint project implementation, consultancy, and technical support in areas like AI, ML, IoT, and cybersecurity. This collaboration aims to drive innovation and growth in the tech industry. The agreement will also facilitate the development of solutions in emerging technologies. The partnership is expected to have a significant impact on the industry, driving advancements in digital transformation and advanced technologies.
+
+SHORT-FORM SCRIPT:
+Breaking news in the tech world! BECIL and C-DAC are joining forces to boost collaboration in advanced technologies and digital transformation. From AI to cybersecurity, this partnership is set to drive innovation and growth.
+
+----------------------------------------
+ARTICLE 5: Meta Plans Massive Layoffs: 16,000 Jobs at Risk
+Source: Times Now
+URL: https://www.timesnownews.com/business-economy/companies/meta-layoff-shocker-16000-employees-to-lose-jobs-8000-layoffs-on-may-20-article-154107944
+
+SUMMARY:
+Meta Platforms is planning to lay off around 16,000 employees in the coming months, with the first phase likely to begin on May 20, impacting around 8,000 workers. This move comes as the company focuses on becoming a leader in artificial intelligence. Mark Zuckerberg has emphasized the company's ambition to develop generative tools and infrastructure for large-scale machine learning systems. The layoffs are expected to be a significant reduction in the company's workforce. Meta's focus on AI is likely to continue despite the layoffs.
+
+SHORT-FORM SCRIPT:
+Breaking news: Meta plans to lay off 16,000 employees. The first phase starts May 20, affecting 8,000 workers. What does this mean for the future of tech?
+
