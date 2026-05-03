@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-05-03
+
+----------------------------------------
+ARTICLE 1: AI in Drug Design: How Diffusion Models Are Revolutionizing Pharmacology
+Source: Phys.org
+URL: https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+
+SUMMARY:
+Artificial intelligence (AI) is being utilized in drug design through diffusion models, a method that has shown promise in the search for new drugs. Researchers Dr. Andrea Mastropietro and Prof. Dr. Jürgen Bajorath have published an article in Cell Reports Physical Science to explain the role of AI in this context. AI assists in generating new molecular structures and predicting their properties, accelerating the drug discovery process. This innovative approach has the potential to revolutionize the field of pharmacology. By leveraging AI, scientists can explore a vast chemical space and identify potential drug candidates more efficiently.
+
+SHORT-FORM SCRIPT:
+What if AI could help us discover new drugs? Researchers are using diffusion models to generate new molecular structures and predict their properties, accelerating the drug discovery process.
+
+----------------------------------------
+ARTICLE 2: AI-Powered Tourism: 11th NCEEITET Conference Highlights Innovative Trends
+Source: Daily Excelsior
+URL: https://www.dailyexcelsior.com/11th-nceeitet-concludes-at-gcet-jammu-highlights-ais-role-in-tourism-development/
+
+SUMMARY:
+The 11th National Conference and Exhibition on Emerging and Innovative Trends in Engineering Technology (NCEEITET) concluded at Government College of Engineering and Technology (GCET) in Jammu, focusing on the role of Artificial Intelligence (AI) and Machine Learning (ML) in tourism development. The two-day conference brought together academicians, industry experts, policymakers, and students from across the country. The event highlighted the potential of AI and ML in enhancing tourism in Jammu and Kashmir. The conference was organized in technical collaboration with IIT Kharagpur. The use of AI and ML in tourism development is a growing trend, with many industries leveraging these technologies to improve customer experiences and optimize operations.
+
+SHORT-FORM SCRIPT:
+Imagine a world where AI helps you plan your dream vacation. The 11th NCEEITET conference just explored how Artificial Intelligence and Machine Learning can boost tourism in Jammu and Kashmir. From personalized travel recommendations to smart destination management, the possibilities are endless.
+
+----------------------------------------
+ARTICLE 3: The Future of Writing: New Tool Makes AI's Role Visible
+Source: Phys.org
+URL: https://phys.org/news/2026-04-tool-ai-role-student-visible.html
+
+SUMMARY:
+A new tool has been developed to make the role of AI in student writing visible, as 90% of college students use AI in their coursework and nearly half use it during the drafting process. Traditional tools like Grammarly or Turnitin are no longer sufficient for evaluating student learning. The tool aims to provide a more nuanced understanding of AI's impact on student writing. This development highlights the need for educators to adapt to the changing landscape of writing and assessment. By acknowledging the presence of AI in student writing, educators can focus on teaching students how to effectively collaborate with AI tools.
+
+SHORT-FORM SCRIPT:
+Imagine being able to see exactly how AI is contributing to a student's writing. A new tool is making that possible, and it's changing the way we think about writing and assessment.
+
+----------------------------------------
+ARTICLE 4: Boehringer Ingelheim Launches AI Centre for Pharma Research in London
+Source: MarketScreener
+URL: https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027
+
+SUMMARY:
+Boehringer Ingelheim, a German drugmaker, has launched a centre for artificial intelligence and machine learning in London. The centre aims to expand the company's AI capabilities in pharmaceutical research and development. This move highlights the growing importance of AI in the pharmaceutical industry. The centre will focus on leveraging AI and machine learning to improve drug discovery and development processes. This launch is a significant step forward for Boehringer Ingelheim's research and development efforts.
+
+SHORT-FORM SCRIPT:
+Boehringer Ingelheim is revolutionizing pharma research with its new AI centre in London. The centre will use AI and machine learning to improve drug discovery and development.
+
+----------------------------------------
+ARTICLE 5: C-DAC and BECIL Partner to Boost Collaboration in Advanced Technologies
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+SUMMARY:
+The Centre for Development of Advanced Computing (C-DAC) and Broadcast Engineering Consultants India Limited (BECIL) have signed a Memorandum of Understanding (MoU) to boost collaboration in advanced technologies and digital transformation. The partnership will focus on joint project implementation, consultancy, and technical support in emerging technologies such as AI, ML, IoT, Cybersecurity, 5G, and Cloud Computing. This collaboration aims to develop innovative solutions and enhance the adoption of advanced technologies in various sectors. The MoU is expected to foster a strong ecosystem for research, development, and innovation in India. The collaboration will also provide opportunities for knowledge sharing, skill development, and capacity building.
+
+SHORT-FORM SCRIPT:
+Big news in the tech world! C-DAC and BECIL have partnered to boost collaboration in advanced technologies and digital transformation. From AI to cybersecurity, they're working together to develop innovative solutions and drive growth.
+

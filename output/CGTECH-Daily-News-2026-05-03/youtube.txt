@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-05-03
+
+----------------------------------------
+VIDEO TITLE:
+AI in Drug Design: How Diffusion Models Are Revolutionizing Pharmacology
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and its applications. Today, we're discussing the role of AI in drug design, specifically the use of diffusion models. Researchers Dr. Andrea Mastropietro and Prof. Dr. Jürgen Bajorath have published an article in Cell Reports Physical Science, shedding light on this innovative approach. By leveraging AI, scientists can generate new molecular structures and predict their properties, accelerating the discovery of new drugs. Let's dive into the details and explore the potential of this technology.
+
+REFERENCE LINK:
+https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve.
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Tourism: 11th NCEEITET Conference Highlights Innovative Trends
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest trends and innovations in AI and technology. Today, we're talking about the 11th National Conference and Exhibition on Emerging and Innovative Trends in Engineering Technology (NCEEITET) that concluded recently at Government College of Engineering and Technology (GCET) in Jammu. The conference highlighted the significant role that Artificial Intelligence (AI) and Machine Learning (ML) can play in enhancing tourism development in Jammu and Kashmir. We'll be discussing the key takeaways from the conference, and exploring the possibilities of AI and ML in tourism development. From personalized travel recommendations to smart destination management, we'll dive into the latest innovations and trends in the field.
+
+REFERENCE LINK:
+https://www.dailyexcelsior.com/11th-nceeitet-concludes-at-gcet-jammu-highlights-ais-role-in-tourism-development/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+The Future of Writing: New Tool Makes AI's Role Visible
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and education. Today, we're talking about a new tool that's set to transform the way we approach student writing. With the rise of generative AI, it's no longer a question of whether students are using AI, but how. The tool provides a more detailed understanding of AI's role in student writing, and it's changing the way we think about writing and assessment. In this video, we'll take a closer look at the tool and what it means for educators and students. We'll also explore the implications of this development and what it means for the future of education.
+
+REFERENCE LINK:
+https://phys.org/news/2026-04-tool-ai-role-student-visible.html
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+Boehringer Ingelheim Launches AI Centre for Pharma Research in London
+
+SCRIPT (1–2 MINUTES):
+Introduction to the video: Hello and welcome to our channel. Today, we're discussing the launch of Boehringer Ingelheim's new AI centre in London. This centre is a significant development in the pharmaceutical industry, as it will leverage AI and machine learning to improve drug discovery and development. Body of the video: The centre will focus on using AI to analyze large amounts of data, identify patterns, and make predictions. This could lead to the development of new treatments and therapies. Conclusion: The launch of this centre is a major step forward for Boehringer Ingelheim and the pharmaceutical industry as a whole. It highlights the growing importance of AI in healthcare and the potential for innovation and progress.
+
+REFERENCE LINK:
+https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+C-DAC and BECIL Partner to Boost Collaboration in Advanced Technologies
+
+SCRIPT (1–2 MINUTES):
+Introduction: Welcome to our channel, where we explore the latest developments in AI and technology. Today, we're discussing the exciting partnership between C-DAC and BECIL, and what it means for the future of tech. Segment 1: Overview of the partnership and its goals. Segment 2: Analysis of the impact on the industry and potential opportunities. Segment 3: Discussion of the emerging technologies involved and their applications. Conclusion: Summary of key points and call to action to follow CGTECH for daily AI updates.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
