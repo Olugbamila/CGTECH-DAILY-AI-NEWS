@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-05-04
+
+----------------------------------------
+ARTICLE 1: Revolutionizing Drug Design: The Role of AI in Diffusion Models
+Source: Phys.org
+Link: https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+
+POST:
+Have you ever wondered how artificial intelligence is being used in the search for new drugs? Researchers are leveraging diffusion models to generate new molecular structures and predict their properties, which has the potential to accelerate the drug design process. This is a rapidly evolving area of research, with significant potential for breakthroughs in the development of new treatments. Follow CGTECH for daily updates on the latest advancements in AI and tech, and let's discuss the implications of this technology in the comments.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: AI Revolutionizes Tourism: Insights from the 11th NCEEITET Conference
+Source: Daily Excelsior
+Link: https://www.dailyexcelsior.com/11th-nceeitet-concludes-at-gcet-jammu-highlights-ais-role-in-tourism-development/
+
+POST:
+The 11th National Conference and Exhibition on Emerging and Innovative Trends in Engineering Technology (NCEEITET) has just concluded in Jammu, and it's clear that Artificial Intelligence (AI) and Machine Learning (ML) are set to play a major role in transforming the tourism sector. With experts from across the country coming together to share knowledge and innovate, the possibilities are endless. From personalized travel recommendations to smart tourism infrastructure, AI is poised to revolutionize the way we experience tourism. Follow CGTECH for the latest updates on AI and its applications!
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 3: New Tool Makes AI's Role in Student Writing Visible
+Source: Phys.org
+Link: https://phys.org/news/2026-04-tool-ai-role-student-visible.html
+
+POST:
+Have you heard about the new tool that's changing the way we evaluate student writing? With the rise of AI in education, it's no longer a question of whether students are using AI, but how. This tool provides a more nuanced understanding of AI's impact on student writing, and it's an important step forward in ensuring that we're evaluating student learning in a way that's fair and effective. Follow CGTECH for daily AI updates and join the conversation - how do you think this tool will change the way we approach academic writing?
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+ARTICLE 4: Boehringer Ingelheim Launches AI Centre for Pharma Research in London
+Source: MarketScreener
+Link: https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027
+
+POST:
+Exciting news in the pharmaceutical industry! Boehringer Ingelheim is launching a centre for artificial intelligence and machine learning in London. This move is expected to improve drug discovery and development, and we can't wait to see the impact it will have. The use of AI and machine learning in pharma research is a growing trend, and it's great to see companies investing in this technology. Follow CGTECH for daily AI updates and let's stay ahead of the curve.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 5: BECIL and C-DAC Partner to Boost Advanced Tech and Digital Transformation
+Source: The Tribune
+Link: https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
+POST:
+Big news in the tech world! BECIL and C-DAC have just signed a Memorandum of Understanding to collaborate on advanced technologies and digital transformation. This partnership is all about driving innovation and growth in areas like AI, ML, IoT, cybersecurity, 5G, and cloud computing. We're excited to see what this means for the future of tech in India and beyond. Follow CGTECH for daily updates on the latest tech news and trends.
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+

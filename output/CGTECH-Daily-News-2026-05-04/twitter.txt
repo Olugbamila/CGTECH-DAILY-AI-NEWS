@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-05-04
+
+----------------------------------------
+ARTICLE 1: Revolutionizing Drug Design: The Role of AI in Diffusion Models
+TWEET:
+AI is revolutionizing drug design! Diffusion models are being used to generate new molecular structures and predict their properties, accelerating the discovery of new treatments. #AI #DrugDiscovery #HealthTech
+
+HASHTAGS:
+#AI #DrugDiscovery #HealthTech
+
+LINK:
+https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+
+----------------------------------------
+ARTICLE 2: AI Revolutionizes Tourism: Insights from the 11th NCEEITET Conference
+TWEET:
+AI set to revolutionize tourism in Jammu and Kashmir! The 11th NCEEITET conference explores the latest trends and advancements in AI and Machine Learning. #AI #Tourism #Innovation
+
+HASHTAGS:
+#AI #Tourism #Innovation
+
+LINK:
+https://www.dailyexcelsior.com/11th-nceeitet-concludes-at-gcet-jammu-highlights-ais-role-in-tourism-development/
+
+----------------------------------------
+ARTICLE 3: New Tool Makes AI's Role in Student Writing Visible
+TWEET:
+New tool makes AI's role in student writing visible! 90% of college students use AI in coursework, but traditional evaluation tools are no longer enough. #AI #Education #TechNews
+
+HASHTAGS:
+#AI #Education #TechNews
+
+LINK:
+https://phys.org/news/2026-04-tool-ai-role-student-visible.html
+
+----------------------------------------
+ARTICLE 4: Boehringer Ingelheim Launches AI Centre for Pharma Research in London
+TWEET:
+Boehringer Ingelheim launches AI centre in London to enhance pharma research! This is a significant step in the pharma industry's adoption of AI. #AI #Pharma #Innovation
+
+HASHTAGS:
+#AI #Pharma #Innovation
+
+LINK:
+https://www.marketscreener.com/news/boehringer-ingelheim-launches-ai-centre-for-pharma-research-in-london-ce7f59dad988f027
+
+----------------------------------------
+ARTICLE 5: BECIL and C-DAC Partner to Boost Advanced Tech and Digital Transformation
+TWEET:
+BECIL & C-DAC partner to boost collaboration in advanced tech & digital transformation! What's next for AI, ML, & IoT? #AI #TechNews #DigitalTransformation
+
+HASHTAGS:
+#AI #TechNews #DigitalTransformation
+
+LINK:
+https://www.tribuneindia.com/news/business/becil-signs-mou-with-c-dac-to-boost-collaboration-in-advanced-technologies-digital-transformation/
+
