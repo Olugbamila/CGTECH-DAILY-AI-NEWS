@@ -1,0 +1,139 @@
+=== CGTECH — TIKTOK/IG/SHORTS PACK ===
+Date: 2026-05-05
+
+----------------------------------------
+ARTICLE 1: 10 Free Google AI Courses for Beginners: Learn Machine Learning Tools
+
+HOOK:
+Want to unlock the power of AI but don't know where to start? Google's 10 free AI courses for beginners are here to help!
+
+SCRIPT (SPOKEN):
+Want to learn AI but don't know where to start? Google's got you covered with 10 free courses for beginners. From prompt design to image generation, these modules will get you up to speed on the latest machine learning tools.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Google has launched 10 free AI courses for beginners, covering topics such as prompt design, BERT, transformers, and image generation.
+  B-roll: Footage of a person working on a laptop, with code and AI models on the screen. Cut to a shot of the Google logo and the course website.
+
+Scene 2:
+  Narration: These courses are designed to help learners with no prior experience build skills in modern machine learning tools.
+  B-roll: Footage of a person attending an online course, with a virtual instructor explaining AI concepts. Cut to a shot of a brain with neurons and synapses, representing the learning process.
+
+HASHTAGS:
+#AI #AITools #MachineLearning #Google
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: GlaucoXAI: The Explainable AI Model Revolutionizing Glaucoma Detection
+
+HOOK:
+What if AI could detect glaucoma before it's too late? Introducing GlaucoXAI, the revolutionary AI model that's making it possible.
+
+SCRIPT (SPOKEN):
+Imagine a world where glaucoma is detected early, saving millions from irreversible blindness. Introducing GlaucoXAI, an explainable AI model that's making it possible with over 93% accuracy.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Glaucoma is a leading global cause of blindness, making early detection essential.
+  B-roll: Footage of a person getting an eye exam, with a close-up of the eye
+
+Scene 2:
+  Narration: Introducing GlaucoXAI, an explainable AI model that detects early glaucoma from retinal fundus images.
+  B-roll: Visuals of the GlaucoXAI model, with animations of how it works
+
+Scene 3:
+  Narration: The model uses a hybrid approach, combining feature extraction, dimensionality reduction, and optimized neural learning.
+  B-roll: Footage of a researcher working on a computer, with code and data visualizations on the screen
+
+Scene 4:
+  Narration: GlaucoXAI generates visual explanations, highlighting regions of the eye responsible for its predictions.
+  B-roll: Visuals of the model's output, with highlighted areas of the eye and explanations of the predictions
+
+HASHTAGS:
+#AI #AITools #Glaucoma #Healthcare
+
+CTA:
+Follow CGTECH for daily AI updates and innovations.
+
+----------------------------------------
+ARTICLE 3: AI in Drug Discovery: How Diffusion Models Are Revolutionizing the Field
+
+HOOK:
+What if AI could help us discover new drugs? The answer is more complex than you think.
+
+SCRIPT (SPOKEN):
+What if AI could help us discover new drugs? Researchers are using diffusion models to generate novel molecular structures, accelerating the discovery process and reducing costs.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Researchers are using AI to accelerate the discovery of new drugs.
+  B-roll: Footage of scientists working in a lab, with computers and equipment in the background.
+
+Scene 2:
+  Narration: The process involves training AI models on large datasets of existing molecules.
+  B-roll: Visuals of molecular structures on a computer screen, with animations of AI models learning and generating new compounds.
+
+Scene 3:
+  Narration: This approach has the potential to revolutionize the field of drug discovery.
+  B-roll: Footage of medical professionals working together, with graphics and animations illustrating the potential impact of AI on healthcare.
+
+HASHTAGS:
+#AI #AITools #DrugDiscovery #HealthTech
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 4: AI Set to Transform Tourism in Jammu and Kashmir
+
+HOOK:
+Imagine a world where AI plans your dream vacation, and ML recommends the best local experiences. The future of tourism is here, and it's powered by Artificial Intelligence.
+
+SCRIPT (SPOKEN):
+Imagine a world where AI helps you plan your dream vacation, from booking flights to recommending local hidden gems. The 11th NCEEITET conference in Jammu explored the exciting possibilities of AI in tourism development.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The 11th NCEEITET conference in Jammu brought together experts from across the country to discuss the latest trends and innovations in engineering technology.
+  B-roll: Footage of the conference venue, attendees, and speakers
+
+Scene 2:
+  Narration: The conference focused on the role of Artificial Intelligence (AI) and Machine Learning (ML) in tourism development.
+  B-roll: Visuals of AI and ML-related technologies, such as robots, dashboards, and data analytics tools
+
+Scene 3:
+  Narration: The use of AI and ML can help create more personalized and sustainable tourist experiences.
+  B-roll: Footage of tourists enjoying local experiences, such as trying local food, visiting historical sites, and engaging in outdoor activities
+
+HASHTAGS:
+#AI #AITools #Tourism #Travel #JammuAndKashmir
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 5: Revolutionizing Student Writing: New Tool Reveals AI's Role
+
+HOOK:
+What if you could see exactly how AI is changing the way students write? A new tool is making that possible, and it's about to revolutionize the education world.
+
+SCRIPT (SPOKEN):
+Imagine being able to see exactly how AI is contributing to a student's writing. A new tool is making that possible, and it's changing the game for professors and students alike.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Generative artificial intelligence has transformed college writing, with 90% of students using AI in their coursework.
+  B-roll: Footage of students working on laptops, with AI-powered writing tools on the screen.
+
+Scene 2:
+  Narration: The new tool provides a more nuanced understanding of AI's impact on student writing, allowing professors to better evaluate student learning.
+  B-roll: Footage of professors reviewing student papers, with the new tool's interface on the screen.
+
+HASHTAGS:
+#AI #AITools #EdTech
+
+CTA:
+Follow CGTECH for daily AI updates.
+

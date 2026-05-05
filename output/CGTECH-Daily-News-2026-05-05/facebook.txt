@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-05-05
+
+----------------------------------------
+ARTICLE 1: 10 Free Google AI Courses for Beginners: Learn Machine Learning Tools
+Source: Times of India
+Link: https://timesofindia.indiatimes.com/education/news/10-free-google-ai-courses-enable-beginners-to-build-skills-in-modern-machine-learning-tools-check-details-here/articleshow/130782090.cms
+
+POST:
+Exciting news for anyone interested in learning about AI! Google has just released 10 free AI courses for beginners, covering topics like prompt design, BERT, transformers, and image generation. These courses are perfect for anyone looking to start a career in AI or just wanting to learn more about the technology. With the increasing demand for AI professionals, these courses can be a valuable resource for getting started. Check them out and start building your AI skills today! Follow CGTECH for daily AI updates.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: GlaucoXAI: The Explainable AI Model Revolutionizing Glaucoma Detection
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013139
+
+POST:
+Exciting news in the field of healthcare! Researchers have developed GlaucoXAI, an explainable AI model that detects early glaucoma from retinal fundus images with over 93-95% accuracy. This innovative model has the potential to improve patient care by enabling early detection and treatment of glaucoma. What's more, it provides visual explanations that support ophthalmologists in verifying AI-driven results. Follow CGTECH for more updates on the latest AI trends and innovations. #AI #Healthcare #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates and innovations.
+
+----------------------------------------
+ARTICLE 3: AI in Drug Discovery: How Diffusion Models Are Revolutionizing the Field
+Source: Phys.org
+Link: https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+
+POST:
+Have you ever wondered how new drugs are discovered? It's a complex and time-consuming process, but researchers are now using AI to accelerate it. By training AI models on large datasets of existing molecules, they can generate novel molecular structures and identify potential new drugs. This is a rapidly evolving field, and we can expect to see many new breakthroughs in the coming years. Follow CGTECH for daily updates on the latest developments in AI and tech, and join the conversation to share your thoughts on the future of healthcare.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 4: AI Set to Transform Tourism in Jammu and Kashmir
+Source: Daily Excelsior
+Link: https://www.dailyexcelsior.com/11th-nceeitet-concludes-at-gcet-jammu-highlights-ais-role-in-tourism-development/
+
+POST:
+The 11th National Conference and Exhibition on Emerging and Innovative Trends in Engineering Technology (NCEEITET) has concluded in Jammu, and the focus on Artificial Intelligence (AI) and Machine Learning (ML) in tourism development has left us excited for the future! The conference brought together experts from across the country to discuss the latest trends and innovations in engineering technology. With AI and ML, we can create more personalized and sustainable tourist experiences. Imagine being able to plan your dream vacation with the help of AI, from booking flights to recommending local hidden gems. The possibilities are endless! Follow CGTECH for daily AI updates and join the conversation on how AI can transform the tourism industry.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 5: Revolutionizing Student Writing: New Tool Reveals AI's Role
+Source: Phys.org
+Link: https://phys.org/news/2026-04-tool-ai-role-student-visible.html
+
+POST:
+Have you heard about the new tool that's making waves in the education world? It's designed to show exactly how AI is contributing to a student's writing, and it's changing the way professors evaluate student work. With nearly half of college students using AI during the drafting process, it's clear that we need new methods for assessing student learning. What do you think about this development? Share your thoughts in the comments below! Follow CGTECH for daily AI updates.
+
+CTA:
+Follow CGTECH for daily AI updates.
+

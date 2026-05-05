@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-05-05
+
+----------------------------------------
+VIDEO TITLE:
+10 Free Google AI Courses for Beginners: Learn Machine Learning Tools
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and machine learning. Today, we're excited to share that Google has launched 10 free AI courses for beginners. These courses cover a range of topics, from prompt design to transformers, and are designed to help learners with no prior experience build skills in modern machine learning tools. In this video, we'll take a closer look at the courses and what you can expect to learn. We'll also discuss the importance of making AI education more accessible and how these courses can help drive innovation and growth in the field.
+
+REFERENCE LINK:
+https://timesofindia.indiatimes.com/education/news/10-free-google-ai-courses-enable-beginners-to-build-skills-in-modern-machine-learning-tools-check-details-here/articleshow/130782090.cms
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+GlaucoXAI: The Explainable AI Model Revolutionizing Glaucoma Detection
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing a groundbreaking breakthrough in glaucoma detection. GlaucoXAI, an explainable AI model, is revolutionizing the field with its ability to detect early glaucoma from retinal fundus images with unprecedented accuracy. In this video, we'll delve into the details of the model, its features, and its potential impact on patient care. From the hybrid approach that combines feature extraction, dimensionality reduction, and optimized neural learning, to the visual explanations that support ophthalmologists in verifying AI-driven results, we'll explore what makes GlaucoXAI a game-changer in the field of healthcare.
+
+REFERENCE LINK:
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013139
+
+CTA:
+Follow CGTECH for daily AI updates and innovations.
+
+----------------------------------------
+VIDEO TITLE:
+AI in Drug Discovery: How Diffusion Models Are Revolutionizing the Field
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and tech. Today, we're talking about the role of AI in drug discovery. Researchers are using diffusion models to generate novel molecular structures, and this is having a major impact on the field. From reducing the time and cost associated with traditional methods to enabling the discovery of new treatments, the potential of AI in drug design is vast. In this video, we'll take a closer look at how AI is being used in drug discovery, and what this means for the future of healthcare.
+
+REFERENCE LINK:
+https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+AI Set to Transform Tourism in Jammu and Kashmir
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel! Today, we're talking about the 11th National Conference and Exhibition on Emerging and Innovative Trends in Engineering Technology, which concluded recently in Jammu. The conference focused on the role of Artificial Intelligence (AI) and Machine Learning (ML) in tourism development, and we're excited to share the highlights with you. From personalized travel recommendations to sustainable tourism practices, AI and ML have the potential to transform the tourism industry. We'll be discussing the latest trends and innovations in engineering technology, and exploring the possibilities of AI and ML in tourism development. So, let's dive in and take a closer look at the exciting world of AI in tourism.
+
+REFERENCE LINK:
+https://www.dailyexcelsior.com/11th-nceeitet-concludes-at-gcet-jammu-highlights-ais-role-in-tourism-development/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Student Writing: New Tool Reveals AI's Role
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and education. Today, we're talking about a new tool that's making it possible to see exactly how AI is contributing to a student's writing. We'll dive into the implications of this technology and what it means for the future of education. From the impact on academic integrity to the potential benefits for student learning, we'll cover it all. So let's get started!
+
+REFERENCE LINK:
+https://phys.org/news/2026-04-tool-ai-role-student-visible.html
+
+CTA:
+Follow CGTECH for daily AI updates.
+
