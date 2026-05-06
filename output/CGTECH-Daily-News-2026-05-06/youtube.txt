@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-05-06
+
+----------------------------------------
+VIDEO TITLE:
+10 Free Google AI Courses for Beginners: Unlock the Power of Machine Learning
+
+SCRIPT (1–2 MINUTES):
+Welcome to our video on Google's 10 free AI courses for beginners! In this video, we'll be exploring the different modules that are available, and how they can help you get started with modern machine learning tools. From prompt design to image generation, we'll be covering it all. So if you're interested in learning AI but don't know where to start, this video is for you. We'll also be discussing the benefits of learning AI, and how it can impact your career and personal projects. So let's dive in and start learning!
+
+REFERENCE LINK:
+https://timesofindia.indiatimes.com/education/news/10-free-google-ai-courses-enable-beginners-to-build-skills-in-modern-machine-learning-tools-check-details-here/articleshow/130782090.cms
+
+CTA:
+Follow CGTECH for daily AI updates and start building your skills in this exciting field.
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Glaucoma Diagnosis with Explainable AI
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and its applications. Today, we're discussing a breakthrough in glaucoma diagnosis. GlaucoXAI, an explainable AI model, has shown remarkable accuracy in detecting glaucoma early from retinal fundus images. But what makes this model so special? Let's dive into the details and explore how it works. From its hybrid approach to its visual explanations, we'll cover it all. Join us as we delve into the world of AI and discover how it's transforming healthcare.
+
+REFERENCE LINK:
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013139
+
+CTA:
+Follow CGTECH for daily AI updates and breakthroughs in healthcare.
+
+----------------------------------------
+VIDEO TITLE:
+The Role of AI in Drug Design: How Diffusion Models Are Revolutionizing the Search for New Medicines
+
+SCRIPT (1–2 MINUTES):
+Introduction to AI in drug design. Hello and welcome to our channel. Today, we're going to explore the role of AI in drug design, specifically the use of diffusion models. This innovative approach combines machine learning and artificial intelligence to identify potential drug candidates. We'll be discussing the benefits and challenges of this method, as well as its potential to accelerate the discovery of new medicines. So, let's get started. Scene 1: Introduction to diffusion models. Diffusion models are a type of machine learning algorithm that can be used to generate new molecules with specific properties. Scene 2: How AI is used in diffusion models. AI is used to analyze vast amounts of data and identify patterns that may lead to breakthroughs in drug design.
+
+REFERENCE LINK:
+https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+AI Revolutionizes Tourism: Insights from the 11th NCEEITET Conference
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest trends and innovations in AI and technology. Today, we're talking about the 11th NCEEITET conference in Jammu, which highlighted the role of Artificial Intelligence and Machine Learning in tourism development. From personalized recommendations to predictive analytics, AI and ML are transforming the way we travel and experience new destinations. But what does this mean for the tourism industry, and how can we harness the power of these technologies to drive growth and innovation? Let's dive in and find out.
+
+REFERENCE LINK:
+https://www.dailyexcelsior.com/11th-nceeitet-concludes-at-gcet-jammu-highlights-ais-role-in-tourism-development/
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+The AI Writing Revolution: New Tool Reveals AI's Role in Student Writing
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and education. Today, we're talking about a new tool that's making it possible to see exactly how AI is contributing to a student's writing. This tool is an important step forward in understanding the impact of AI on our learning processes, and it has significant implications for educators and students alike. In this video, we'll be discussing the details of the tool, as well as the broader implications of AI in education. We'll also be exploring some of the challenges and opportunities that this technology presents, and how we can work to ensure that students are still developing their critical thinking and writing skills, even as they're using AI tools.
+
+REFERENCE LINK:
+https://phys.org/news/2026-04-tool-ai-role-student-visible.html
+
+CTA:
+Follow CGTECH for daily AI updates.
+
