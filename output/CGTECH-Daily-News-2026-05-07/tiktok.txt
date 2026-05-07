@@ -1,0 +1,135 @@
+=== CGTECH — TIKTOK/IG/SHORTS PACK ===
+Date: 2026-05-07
+
+----------------------------------------
+ARTICLE 1: 10 Free Google AI Courses for Beginners
+
+HOOK:
+Want to learn AI without spending a dime? Google's got 10 free courses to get you started!
+
+SCRIPT (SPOKEN):
+Hey everyone, want to learn AI without breaking the bank? Google's got you covered with 10 free courses, from prompt design to image generation. Get started today!
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Google has launched 10 free AI courses for beginners, covering topics such as prompt design and image generation.
+  B-roll: Visuals of Google's website, AI-related graphics, and people learning on laptops
+
+Scene 2:
+  Narration: These courses are designed for learners with no prior experience in AI, providing a comprehensive introduction to modern machine learning tools.
+  B-roll: Footage of people from diverse backgrounds learning and working together, with AI-related visuals in the background
+
+HASHTAGS:
+#AI #AITools #Google #FreeAIcourses
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: GlaucoXAI: The AI-Powered Glaucoma Detection Model
+
+HOOK:
+What if AI could help detect glaucoma early, saving millions of people from irreversible blindness? Meet GlaucoXAI, the explainable AI model that's making it possible.
+
+SCRIPT (SPOKEN):
+Imagine a world where glaucoma is diagnosed early, thanks to AI. Meet GlaucoXAI, a new explainable AI model that detects glaucoma from retinal images with high accuracy and provides visual explanations for its predictions.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Glaucoma is a leading global cause of blindness, making early detection essential.
+  B-roll: Footage of a person getting an eye exam, with a close-up of the eye
+
+Scene 2:
+  Narration: Researchers have developed GlaucoXAI, an explainable AI model that detects early glaucoma from retinal fundus images.
+  B-roll: Footage of a researcher working on a computer, with a screen displaying retinal images
+
+Scene 3:
+  Narration: The model uses a hybrid approach combining feature extraction, dimensionality reduction, and optimized neural learning.
+  B-roll: Footage of a neural network diagram, with animations of data flowing through the network
+
+HASHTAGS:
+#AI #AITools #Glaucoma #Healthcare
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve in healthcare innovation.
+
+----------------------------------------
+ARTICLE 3: The Role of AI in Diffusion Models for Drug Design
+
+HOOK:
+What if AI could help us discover new life-saving drugs? Researchers are making this a reality with diffusion models.
+
+SCRIPT (SPOKEN):
+Imagine a world where AI helps us discover new life-saving drugs. Researchers are using diffusion models to generate new molecular structures and predict their properties. This technology is changing the game for drug design.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Researchers are using AI to generate new molecular structures and predict their properties.
+  B-roll: Visuals of molecular structures, researchers working in a lab, and AI dashboards.
+
+Scene 2:
+  Narration: This technology has the potential to revolutionize the field of drug design and save countless lives.
+  B-roll: Visuals of people receiving medical treatment, doctors and researchers working together, and AI-generated images of molecular structures.
+
+HASHTAGS:
+#AI #AITools #DrugDesign #HealthTech
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 4: AI in Tourism: 11th NCEEITET Conference Highlights Innovative Trends
+
+HOOK:
+What if AI could revolutionize your next vacation? The 11th NCEEITET conference just explored the exciting possibilities of AI in tourism development.
+
+SCRIPT (SPOKEN):
+Imagine a world where AI enhances your travel experiences. The 11th NCEEITET conference just concluded in Jammu, exploring the role of AI and Machine Learning in tourism development. Experts came together to discuss how these technologies can promote sustainable growth and innovation.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The 11th NCEEITET conference brought together experts from across the country to discuss the role of AI and Machine Learning in tourism development.
+  B-roll: Footage of the conference venue, attendees, and speakers
+
+Scene 2:
+  Narration: AI and ML can be used to enhance tourist experiences, from personalized recommendations to streamlined services.
+  B-roll: Visuals of AI-powered tourist information systems, virtual tours, and travel apps
+
+Scene 3:
+  Narration: The conference highlighted the potential of AI and ML in promoting sustainable tourism practices and reducing environmental impact.
+  B-roll: Footage of eco-friendly tourist destinations, sustainable tourism initiatives, and environmental conservation efforts
+
+HASHTAGS:
+#AI #AITools #TourismTech #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates and insights into the latest tech trends.
+
+----------------------------------------
+ARTICLE 5: The AI Writing Revolution: New Tool Reveals the Hidden Role of AI in Student Writing
+
+HOOK:
+What if you could see exactly how AI is changing the way students write? A new tool is making that possible, and it's about to disrupt the entire education system.
+
+SCRIPT (SPOKEN):
+Imagine being able to see exactly how AI is contributing to a student's writing. A new tool is making that possible, and it's changing the way we think about writing in the age of AI.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The rise of AI-assisted writing is transforming the way students approach their coursework.
+  B-roll: Footage of students working on laptops, with AI-powered writing tools on the screen
+
+Scene 2:
+  Narration: But as AI becomes more prevalent, educators are left wondering how to evaluate student learning.
+  B-roll: Footage of professors grading papers, with a split screen showing AI-generated text
+
+Scene 3:
+  Narration: The new tool provides a solution, making it possible to see exactly how AI is contributing to a student's writing.
+  B-roll: Footage of the tool in action, with a dashboard showing AI-generated text and a professor reviewing it
+
+HASHTAGS:
+#AI #AITools #EdTech #AcademicWriting
+
+CTA:
+Follow CGTECH for daily AI updates
+
