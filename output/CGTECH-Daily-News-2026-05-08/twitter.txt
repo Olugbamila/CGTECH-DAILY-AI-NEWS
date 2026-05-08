@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-05-08
+
+----------------------------------------
+ARTICLE 1: Google Releases 10 Free AI Courses for Beginners
+TWEET:
+Google releases 10 FREE AI courses for beginners! Learn prompt design, BERT, transformers & more. Follow CGTECH for daily AI updates #AI #MachineLearning
+
+HASHTAGS:
+#AI #MachineLearning #Google
+
+LINK:
+https://timesofindia.indiatimes.com/education/news/10-free-google-ai-courses-enable-beginners-to-build-skills-in-modern-machine-learning-tools-check-details-here/articleshow/130782090.cms
+
+----------------------------------------
+ARTICLE 2: Revolutionizing Glaucoma Detection: The Power of Explainable AI
+TWEET:
+Breakthrough in glaucoma detection! GlaucoXAI, an explainable AI model, detects glaucoma early with 93-95% accuracy. #AI #Glaucoma #HealthcareInnovation
+
+HASHTAGS:
+#AI #Glaucoma #Healthcare
+
+LINK:
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013139
+
+----------------------------------------
+ARTICLE 3: Revolutionizing Drug Design: The Role of AI in Diffusion Models
+TWEET:
+AI is revolutionizing drug design! Researchers are using diffusion models to generate new molecular structures and predict their properties. #AI #DrugDesign #Healthcare
+
+HASHTAGS:
+#AI #DrugDesign #Healthcare
+
+LINK:
+https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+
+----------------------------------------
+ARTICLE 4: AI Set to Revolutionize Tourism in Jammu and Kashmir
+TWEET:
+AI set to revolutionize tourism in Jammu and Kashmir! The 11th NCEEITET conference explores the latest innovations and trends in engineering technology, with a focus on AI and ML applications. #AI #Tourism #JammuAndKashmir
+
+HASHTAGS:
+#AI #Tourism #JammuAndKashmir #TechNews
+
+LINK:
+https://www.dailyexcelsior.com/11th-nceeitet-concludes-at-gcet-jammu-highlights-ais-role-in-tourism-development/
+
+----------------------------------------
+ARTICLE 5: The Future of Writing: New Tool Reveals AI's Role in Student Writing
+TWEET:
+New tool makes AI's role in student writing visible! 90% of college students use AI in coursework, but traditional evaluation tools are no longer enough. What does this mean for the future of education? #AI #EdTech
+
+HASHTAGS:
+#AI #EdTech #Education
+
+LINK:
+https://phys.org/news/2026-04-tool-ai-role-student-visible.html
+

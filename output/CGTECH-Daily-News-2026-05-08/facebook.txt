@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-05-08
+
+----------------------------------------
+ARTICLE 1: Google Releases 10 Free AI Courses for Beginners
+Source: Times of India
+Link: https://timesofindia.indiatimes.com/education/news/10-free-google-ai-courses-enable-beginners-to-build-skills-in-modern-machine-learning-tools-check-details-here/articleshow/130782090.cms
+
+POST:
+Exciting news for AI enthusiasts! Google has just launched 10 free AI courses for beginners, covering topics like prompt design, BERT, transformers, and image generation. Whether you're looking to upskill or simply curious about AI, these courses are a great place to start. Check them out and let us know what you think! Follow CGTECH for daily AI updates and stay ahead of the curve.
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+ARTICLE 2: Revolutionizing Glaucoma Detection: The Power of Explainable AI
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013139
+
+POST:
+Exciting news in the world of healthcare! Researchers have developed GlaucoXAI, an explainable AI model that detects glaucoma early from retinal fundus images. With over 93-95% accuracy, this innovation has the potential to save millions from irreversible blindness. But what really sets GlaucoXAI apart is its ability to generate visual explanations, making it a trustworthy tool for clinicians. Learn more about this groundbreaking technology and how it's changing the face of healthcare. Follow CGTECH for daily AI updates and insights!
+
+CTA:
+Follow CGTECH for daily AI updates and insights!
+
+----------------------------------------
+ARTICLE 3: Revolutionizing Drug Design: The Role of AI in Diffusion Models
+Source: Phys.org
+Link: https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+
+POST:
+Have you ever wondered how AI is being used to develop new drugs? Researchers from the University of Bonn have made some exciting breakthroughs in this area, using diffusion models to aid in the search for new life-saving medications. This technology has the potential to revolutionize the field of drug design and save countless lives. Follow CGTECH for more updates on the latest advancements in AI and tech.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 4: AI Set to Revolutionize Tourism in Jammu and Kashmir
+Source: Daily Excelsior
+Link: https://www.dailyexcelsior.com/11th-nceeitet-concludes-at-gcet-jammu-highlights-ais-role-in-tourism-development/
+
+POST:
+The 11th National Conference and Exhibition on Emerging and Innovative Trends in Engineering Technology (NCEEITET) has just concluded in Jammu, and the excitement is palpable! The conference highlighted the incredible potential of Artificial Intelligence (AI) and Machine Learning (ML) to transform the tourism industry in Jammu and Kashmir. From intelligent destination management to personalized travel recommendations, the possibilities are endless. Join us as we explore the latest innovations and trends in engineering technology and discover how AI and ML can create a brighter future for tourism in the region. Follow CGTECH for daily AI updates and stay ahead of the curve!
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve!
+
+----------------------------------------
+ARTICLE 5: The Future of Writing: New Tool Reveals AI's Role in Student Writing
+Source: Phys.org
+Link: https://phys.org/news/2026-04-tool-ai-role-student-visible.html
+
+POST:
+Have you heard about the new tool that's changing the way we evaluate student writing? With the rise of AI in education, it's no longer a question of whether students are using AI, but how. This tool provides a more nuanced understanding of AI's impact on student writing, and it's pushing educators to rethink their approach to teaching writing. What do you think about this development? Share your thoughts in the comments! Follow CGTECH for daily updates on the latest AI trends and innovations.
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest trends in education and technology.
+
