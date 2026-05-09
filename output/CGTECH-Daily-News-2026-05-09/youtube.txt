@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-05-09
+
+----------------------------------------
+VIDEO TITLE:
+Google Launches 10 Free AI Courses for Beginners
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel! Today, we're going to talk about the 10 free AI courses that Google has just launched for beginners. These courses are a game-changer for anyone looking to build skills in modern machine learning tools, and we're excited to dive in and explore what they have to offer. From prompt design to transformers, we'll be covering it all. So let's get started!
+
+REFERENCE LINK:
+https://timesofindia.indiatimes.com/education/news/10-free-google-ai-courses-enable-beginners-to-build-skills-in-modern-machine-learning-tools-check-details-here/articleshow/130782090.cms
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Glaucoma Detection: The Power of Explainable AI
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and technology. Today, we're discussing a groundbreaking innovation in healthcare: GlaucoXAI, an explainable AI model that detects glaucoma with over 93% accuracy. We'll delve into the details of this model, its potential impact on patient care, and what this means for the future of healthcare. Join us as we dive into the world of AI and healthcare.
+
+REFERENCE LINK:
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013139
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve!
+
+----------------------------------------
+VIDEO TITLE:
+AI in Drug Design: How Diffusion Models Are Revolutionizing the Field
+
+SCRIPT (1–2 MINUTES):
+Introduction to AI in drug design. (0s-10s) Hello and welcome to our channel. Today, we're going to explore the role of AI in drug design. (10s-30s) Researchers from the University of Bonn and the Lamarr Institute have published an article on the use of diffusion models in this context. (30s-1m) So, what exactly does AI do in drug design? AI is being used to generate novel molecules and predict their properties, accelerating the discovery of new treatments.
+
+REFERENCE LINK:
+https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+AI Revolutionizes Tourism: Insights from the 11th NCEEITET Conference
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the highlights of the 11th NCEEITET conference in Jammu, where experts gathered to explore the role of Artificial Intelligence and Machine Learning in tourism development. From the conference's key takeaways to the potential impact on the industry, we'll dive into the details and examine the latest trends and innovations. Join us as we delve into the world of AI and its applications, and don't forget to subscribe for more content on emerging technologies.
+
+REFERENCE LINK:
+https://www.dailyexcelsior.com/11th-nceeitet-concludes-at-gcet-jammu-highlights-ais-role-in-tourism-development/
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how technology is shaping our world.
+
+----------------------------------------
+VIDEO TITLE:
+The AI Writing Revolution: New Tool Makes Student Writing More Transparent
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest trends in AI and education. Today, we're discussing a new tool that's making waves in the world of academic writing. With 90% of college students using AI in their coursework, it's no longer a question of whether AI is being used, but how. This tool provides a much-needed solution for educators to understand the role of AI in student writing, and it has the potential to revolutionize the way we assess student learning. In this video, we'll take a closer look at the tool and its implications for education. We'll also discuss the potential benefits and challenges of using AI in student writing, and what this means for the future of education.
+
+REFERENCE LINK:
+https://phys.org/news/2026-04-tool-ai-role-student-visible.html
+
+CTA:
+Follow CGTECH for daily AI updates.
+

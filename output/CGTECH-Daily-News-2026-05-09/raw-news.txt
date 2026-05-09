@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-05-09
+
+----------------------------------------
+ARTICLE 1: Google Launches 10 Free AI Courses for Beginners
+Source: Times of India
+URL: https://timesofindia.indiatimes.com/education/news/10-free-google-ai-courses-enable-beginners-to-build-skills-in-modern-machine-learning-tools-check-details-here/articleshow/130782090.cms
+
+SUMMARY:
+Google has launched 10 free AI courses for beginners, covering topics such as prompt design, BERT, transformers, and image generation. These modules are designed for learners with no prior experience in artificial intelligence. The courses aim to help beginners build skills in modern machine learning tools. The modules are available online, making it accessible to anyone interested in learning AI. This initiative by Google is a significant step towards making AI education more accessible and inclusive.
+
+SHORT-FORM SCRIPT:
+Want to learn AI but don't know where to start? Google's got you covered with 10 free AI courses for beginners. From prompt design to image generation, these courses will get you started on your AI journey.
+
+----------------------------------------
+ARTICLE 2: Revolutionizing Glaucoma Detection: The Power of Explainable AI
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013139
+
+SUMMARY:
+Researchers have developed GlaucoXAI, an explainable AI model that detects glaucoma early from retinal fundus images with over 93-95% accuracy. The model combines advanced image analysis with explainable AI methods, making its predictions transparent and trustworthy to clinicians. GlaucoXAI outperforms existing models and generates visual explanations to support ophthalmologists in verifying AI-driven results. This innovation marks a step toward reliable clinical tools for early glaucoma diagnosis and better patient care. The model's hybrid approach integrates feature extraction, dimensionality reduction, and optimized neural learning to enhance accuracy and speed.
+
+SHORT-FORM SCRIPT:
+Imagine a world where glaucoma is detected early, saving millions from irreversible blindness. Introducing GlaucoXAI, an explainable AI model that's making it possible with over 93% accuracy.
+
+----------------------------------------
+ARTICLE 3: AI in Drug Design: How Diffusion Models Are Revolutionizing the Field
+Source: Phys.org
+URL: https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+
+SUMMARY:
+Researchers from the University of Bonn and the Lamarr Institute have published an article on the role of AI in diffusion models for drug design. AI is being used to accelerate the discovery of new drugs by generating novel molecules and predicting their properties. This approach has the potential to revolutionize the field of drug design. The article provides insights into the capabilities and limitations of AI in this context. By leveraging AI, researchers can explore vast chemical spaces and identify promising candidates for further development.
+
+SHORT-FORM SCRIPT:
+Imagine being able to design new drugs faster and more efficiently than ever before. This is now possible thanks to AI-powered diffusion models. Researchers are using AI to generate novel molecules and predict their properties, accelerating the discovery of new treatments.
+
+----------------------------------------
+ARTICLE 4: AI Revolutionizes Tourism: Insights from the 11th NCEEITET Conference
+Source: Daily Excelsior
+URL: https://www.dailyexcelsior.com/11th-nceeitet-concludes-at-gcet-jammu-highlights-ais-role-in-tourism-development/
+
+SUMMARY:
+The 11th National Conference and Exhibition on Emerging and Innovative Trends in Engineering Technology (NCEEITET) concluded at Government College of Engineering and Technology (GCET) in Jammu, focusing on the role of Artificial Intelligence (AI) and Machine Learning (ML) in tourism development. The two-day conference brought together academicians, industry experts, policymakers, and students from across the country. The event highlighted the potential of AI and ML in boosting tourism in Jammu and Kashmir. The conference was organized in technical collaboration with IIT Kharagpur. It provided a platform for discussion and knowledge sharing on emerging trends in engineering technology.
+
+SHORT-FORM SCRIPT:
+Imagine a world where AI helps you plan your dream vacation. The 11th NCEEITET conference just concluded in Jammu, exploring the power of AI and Machine Learning in tourism development. From personalized travel recommendations to smart destination management, the possibilities are endless.
+
+----------------------------------------
+ARTICLE 5: The AI Writing Revolution: New Tool Makes Student Writing More Transparent
+Source: Phys.org
+URL: https://phys.org/news/2026-04-tool-ai-role-student-visible.html
+
+SUMMARY:
+A new tool has been developed to make the role of AI in student writing visible, as 90% of college students use AI in their coursework and nearly half use it during the drafting process. Traditional tools like Grammarly or Turnitin are no longer sufficient for evaluating student learning. The tool aims to provide a more nuanced understanding of AI's impact on student writing. This development highlights the need for educators to adapt to the changing landscape of writing and assessment. By acknowledging the presence of AI in student writing, educators can focus on what matters most - the student's thought process and critical thinking skills.
+
+SHORT-FORM SCRIPT:
+Imagine being able to see exactly how AI is contributing to a student's writing. A new tool is making that possible, and it's changing the way we evaluate student learning.
+
