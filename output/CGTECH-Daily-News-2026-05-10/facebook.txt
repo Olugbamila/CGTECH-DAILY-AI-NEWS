@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-05-10
+
+----------------------------------------
+ARTICLE 1: Google Launches 10 Free AI Courses for Beginners
+Source: Times of India
+Link: https://timesofindia.indiatimes.com/education/news/10-free-google-ai-courses-enable-beginners-to-build-skills-in-modern-machine-learning-tools-check-details-here/articleshow/130782090.cms
+
+POST:
+Exciting news for anyone looking to learn about AI! Google has just launched 10 free courses that cover a range of topics, from prompt design to image generation. Whether you're a student, a professional, or just someone who's curious about AI, these courses are a great way to get started. And the best part? They're completely free! So why not check them out and start building your AI skills today? Follow CGTECH for daily AI updates and stay ahead of the curve.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: Explainable AI Model Detects Glaucoma with Unprecedented Accuracy
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013139
+
+POST:
+Did you know that glaucoma is one of the leading causes of irreversible blindness worldwide? But what if we could detect it early and prevent vision loss? Researchers have made a groundbreaking discovery with GlaucoXAI, an explainable AI model that can detect glaucoma from retinal fundus images with over 93% accuracy. This innovative technology has the potential to change the lives of millions. Follow CGTECH for daily AI updates and stay informed about the latest advancements in healthcare technology.
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+ARTICLE 3: AI in Drug Design: Unlocking the Power of Diffusion Models
+Source: Phys.org
+Link: https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+
+POST:
+Have you ever wondered how AI is being used in the search for new drugs? Researchers are utilizing diffusion models to design new medicines, and the results are promising. By leveraging AI, scientists can explore a vast chemical space and identify potential drug candidates more efficiently. This innovative approach has the potential to transform the pharmaceutical industry and save countless lives. Follow CGTECH for daily AI updates and stay informed about the latest developments in this field.
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+ARTICLE 4: AI and ML Revolutionize Tourism: Insights from the 11th NCEEITET Conference
+Source: Daily Excelsior
+Link: https://www.dailyexcelsior.com/11th-nceeitet-concludes-at-gcet-jammu-highlights-ais-role-in-tourism-development/
+
+POST:
+The 11th National Conference and Exhibition on Emerging and Innovative Trends in Engineering Technology (NCEEITET) has concluded in Jammu, and the focus on AI and Machine Learning in tourism development is an exciting trend to watch. With the potential to enhance customer experiences and drive growth, AI and ML are set to transform the tourism industry. What are your thoughts on this development? Share with us in the comments! Follow CGTECH for daily updates on the latest AI and tech news.
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 5: The Future of Student Writing: How AI is Changing the Game
+Source: Phys.org
+Link: https://phys.org/news/2026-04-tool-ai-role-student-visible.html
+
+POST:
+Have you heard about the new tool that's changing the way we think about student writing and AI? With 90% of college students using AI in their coursework, it's clear that we need new ways to evaluate student learning. This tool provides a more nuanced understanding of AI's impact on student writing, and it has the potential to revolutionize the way we teach and learn. Follow CGTECH for daily AI updates and join the conversation in the comments below!
+
+CTA:
+Follow CGTECH for daily AI updates
+
