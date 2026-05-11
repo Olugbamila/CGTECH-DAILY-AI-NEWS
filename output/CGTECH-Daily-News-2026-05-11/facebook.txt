@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-05-11
+
+----------------------------------------
+ARTICLE 1: 10 Free Google AI Courses to Kickstart Your Machine Learning Journey
+Source: Times of India
+Link: https://timesofindia.indiatimes.com/education/news/10-free-google-ai-courses-enable-beginners-to-build-skills-in-modern-machine-learning-tools-check-details-here/articleshow/130782090.cms
+
+POST:
+Exciting news for anyone looking to learn AI! Google has just launched 10 free courses for beginners, covering a range of topics from prompt design to transformers. Whether you're a student, a professional, or just curious about AI, these courses are a great way to get started. And the best part? They're completely free! So why not check them out and start building your skills in AI today? Follow CGTECH for daily AI updates and stay ahead of the curve!
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve!
+
+----------------------------------------
+ARTICLE 2: Revolutionizing Glaucoma Detection: The Power of Explainable AI
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013139
+
+POST:
+Did you know that glaucoma is one of the leading causes of irreversible blindness worldwide? But what if AI could help detect it early? Researchers have developed GlaucoXAI, an explainable AI model that's making it possible with over 93% accuracy. This innovation has the potential to prevent blindness and improve patient care. Follow CGTECH for daily AI updates and let's stay ahead of the curve in healthcare technology!
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve in healthcare technology.
+
+----------------------------------------
+ARTICLE 3: Revolutionizing Drug Design: The Power of AI and Diffusion Models
+Source: Phys.org
+Link: https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+
+POST:
+Have you ever wondered how new medicines are discovered? It's a complex process, but AI is now playing a key role in drug design. Using diffusion models, researchers can generate new molecular structures and predict their properties, which could lead to breakthroughs in the treatment of diseases. At CGTECH, we're excited to see the potential of AI in healthcare and will be sharing more updates on this topic. Follow us to stay up-to-date on the latest developments!
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 4: AI Revolutionizes Tourism: Insights from the 11th NCEEITET Conference
+Source: Daily Excelsior
+Link: https://www.dailyexcelsior.com/11th-nceeitet-concludes-at-gcet-jammu-highlights-ais-role-in-tourism-development/
+
+POST:
+The 11th NCEEITET conference in Jammu was a huge success, with experts from across the country coming together to discuss the role of Artificial Intelligence (AI) and Machine Learning (ML) in tourism development. From personalized recommendations to streamlined operations, the potential of AI in transforming the tourism industry is vast. At CGTECH, we're excited to see how these technologies will continue to evolve and shape the future of tourism. Follow us for more updates on the latest AI trends and innovations! #AI #Tourism #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 5: Revolutionizing Academic Writing: New Tool Reveals AI's Role
+Source: Phys.org
+Link: https://phys.org/news/2026-04-tool-ai-role-student-visible.html
+
+POST:
+Have you heard about the new tool that's making it possible to see exactly how AI is contributing to a student's writing? With nearly half of college students using AI during the drafting process, it's clear that AI is becoming an integral part of the writing process. But what does that mean for educators and how we evaluate student learning? This tool aims to provide a more nuanced understanding of AI's role in student writing, and we're excited to explore its potential. Follow CGTECH for daily AI updates and join the conversation!
+
+CTA:
+Follow CGTECH for daily AI updates.
+

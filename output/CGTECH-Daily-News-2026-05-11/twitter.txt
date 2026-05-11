@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-05-11
+
+----------------------------------------
+ARTICLE 1: 10 Free Google AI Courses to Kickstart Your Machine Learning Journey
+TWEET:
+New to AI? Google's got 10 free courses to get you started! From prompt design to image generation, learn the basics of modern machine learning tools. #AI #MachineLearning #Google
+
+HASHTAGS:
+#AI #MachineLearning #Google
+
+LINK:
+https://timesofindia.indiatimes.com/education/news/10-free-google-ai-courses-enable-beginners-to-build-skills-in-modern-machine-learning-tools-check-details-here/articleshow/130782090.cms
+
+----------------------------------------
+ARTICLE 2: Revolutionizing Glaucoma Detection: The Power of Explainable AI
+TWEET:
+Breakthrough in AI-driven diagnosis! GlaucoXAI detects early glaucoma with 93-95% accuracy, outperforming existing models. #AI #Glaucoma #Healthcare
+
+HASHTAGS:
+#AI #Glaucoma #Healthcare
+
+LINK:
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013139
+
+----------------------------------------
+ARTICLE 3: Revolutionizing Drug Design: The Power of AI and Diffusion Models
+TWEET:
+AI is revolutionizing drug design! Researchers are using diffusion models to generate new molecular structures and predict their properties. #AI #DrugDesign #Healthcare
+
+HASHTAGS:
+#AI #DrugDesign #Healthcare
+
+LINK:
+https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+
+----------------------------------------
+ARTICLE 4: AI Revolutionizes Tourism: Insights from the 11th NCEEITET Conference
+TWEET:
+AI is revolutionizing tourism! The 11th NCEEITET conference in Jammu explored the latest trends and innovations in AI and ML for tourism development. #AI #Tourism #Innovation
+
+HASHTAGS:
+#AI #Tourism #Innovation
+
+LINK:
+https://www.dailyexcelsior.com/11th-nceeitet-concludes-at-gcet-jammu-highlights-ais-role-in-tourism-development/
+
+----------------------------------------
+ARTICLE 5: Revolutionizing Academic Writing: New Tool Reveals AI's Role
+TWEET:
+New tool reveals AI's role in student writing! 90% of college students use AI in coursework, but how? This tool provides a clearer picture of AI's impact on writing. #AI #Education
+
+HASHTAGS:
+#AI #Education #AcademicWriting
+
+LINK:
+https://phys.org/news/2026-04-tool-ai-role-student-visible.html
+

@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-05-11
+
+----------------------------------------
+VIDEO TITLE:
+10 Free Google AI Courses to Kickstart Your Machine Learning Journey
+
+SCRIPT (1–2 MINUTES):
+Welcome to our video on Google's 10 free AI courses for beginners! In this video, we'll be exploring the different courses available, from prompt design to image generation, and how they can help you build your skills in modern machine learning tools. We'll also be discussing the importance of democratizing access to AI education and how initiatives like this can help bridge the gap between newcomers and experienced professionals in the field. So let's dive in and take a closer look at what these courses have to offer.
+
+REFERENCE LINK:
+https://timesofindia.indiatimes.com/education/news/10-free-google-ai-courses-enable-beginners-to-build-skills-in-modern-machine-learning-tools-check-details-here/articleshow/130782090.cms
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve!
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Glaucoma Detection: The Power of Explainable AI
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and healthcare. Today, we're discussing GlaucoXAI, a revolutionary explainable AI model that detects early glaucoma with unprecedented accuracy. From its hybrid approach to its transparent predictions, we'll dive into the details of this breakthrough technology and its implications for patient care. Join us as we uncover the possibilities of AI in healthcare and work toward a future where technology enhances human well-being.
+
+REFERENCE LINK:
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013139
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve in healthcare technology.
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Drug Design: The Power of AI and Diffusion Models
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and tech. Today, we're talking about the use of diffusion models in drug design. Researchers from the University of Bonn and the Lamarr Institute have published an article on this topic, and we're here to break it down for you. From generating new molecular structures to predicting their properties, AI is having a profound impact on the field of drug design. Let's dive in and take a closer look.
+
+REFERENCE LINK:
+https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+AI Revolutionizes Tourism: Insights from the 11th NCEEITET Conference
+
+SCRIPT (1–2 MINUTES):
+Welcome to our video on the 11th NCEEITET conference in Jammu, where experts from across India came together to discuss the latest trends and innovations in Artificial Intelligence (AI) and Machine Learning (ML) for tourism development. In this video, we'll take a closer look at the conference and explore the many ways in which AI is being used to enhance the tourist experience. From personalized recommendations to streamlined operations, we'll examine the potential of AI to drive growth in the tourism sector. We'll also hear from experts in the field and explore the latest research and developments in AI and ML for tourism.
+
+REFERENCE LINK:
+https://www.dailyexcelsior.com/11th-nceeitet-concludes-at-gcet-jammu-highlights-ais-role-in-tourism-development/
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Academic Writing: New Tool Reveals AI's Role
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and education. Today, we're talking about a new tool that's making waves in the world of academic writing. With 90% of college students using AI in their coursework, it's clear that AI is here to stay. But what does that mean for educators and how we evaluate student learning? This new tool provides a more nuanced understanding of AI's role in student writing, and we're excited to dive into its implications. From the potential benefits to the challenges it poses, we'll be exploring it all. So let's get started!
+
+REFERENCE LINK:
+https://phys.org/news/2026-04-tool-ai-role-student-visible.html
+
+CTA:
+Follow CGTECH for daily AI updates.
+
