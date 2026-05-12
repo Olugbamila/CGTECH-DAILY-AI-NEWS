@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-05-12
+
+----------------------------------------
+ARTICLE 1: Turkey's STM Unveils New Unmanned Systems, Eyes Gulf Collaboration
+TWEET:
+Turkey's STM debuts new unmanned systems, leveraging AI & machine learning! What's next for the future of defense? #AI #Defense #UnmannedSystems
+
+HASHTAGS:
+#AI #Defense #UnmannedSystems
+
+LINK:
+https://breakingdefense.com/2026/05/turkeys-stm-debuts-new-unmanned-systems-is-really-open-to-gulf-collaboration/
+
+----------------------------------------
+ARTICLE 2: 10 Free Google AI Courses for Beginners
+TWEET:
+Learn AI for free! Google is offering 10 free courses for beginners, covering topics like prompt design, BERT, & transformers. #AI #MachineLearning #GoogleAI
+
+HASHTAGS:
+#AI #MachineLearning #GoogleAI
+
+LINK:
+https://timesofindia.indiatimes.com/education/news/10-free-google-ai-courses-enable-beginners-to-build-skills-in-modern-machine-learning-tools-check-details-here/articleshow/130782090.cms
+
+----------------------------------------
+ARTICLE 3: Revolutionizing Glaucoma Detection: Explainable AI Model Achieves 93% Accuracy
+TWEET:
+Breakthrough in glaucoma detection! GlaucoXAI, an explainable AI model, achieves over 93% accuracy in detecting glaucoma early. #AI #Healthcare #Glaucoma
+
+HASHTAGS:
+#AI #Healthcare #Glaucoma #ExplainableAI
+
+LINK:
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013139
+
+----------------------------------------
+ARTICLE 4: Revolutionizing Drug Design: How AI is Accelerating the Discovery of New Drugs
+TWEET:
+AI is revolutionizing drug design! Researchers are using diffusion models to accelerate the discovery of new drugs. #AI #DrugDesign #Innovation
+
+HASHTAGS:
+#AI #DrugDesign #Innovation
+
+LINK:
+https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+
+----------------------------------------
+ARTICLE 5: AI Revolutionizes Tourism: Highlights from the 11th NCEEITET
+TWEET:
+AI is revolutionizing tourism! The 11th NCEEITET in Jammu explored the role of AI in tourism development. From personalized travel recs to smart destination management, the possibilities are endless! #AI #Tourism #Innovation
+
+HASHTAGS:
+#AI #Tourism #Innovation #Tech
+
+LINK:
+https://www.dailyexcelsior.com/11th-nceeitet-concludes-at-gcet-jammu-highlights-ais-role-in-tourism-development/
+

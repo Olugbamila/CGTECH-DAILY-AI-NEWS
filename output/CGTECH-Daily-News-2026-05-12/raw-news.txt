@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-05-12
+
+----------------------------------------
+ARTICLE 1: Turkey's STM Unveils New Unmanned Systems, Eyes Gulf Collaboration
+Source: Breaking Defense
+URL: https://breakingdefense.com/2026/05/turkeys-stm-debuts-new-unmanned-systems-is-really-open-to-gulf-collaboration/
+
+SUMMARY:
+Turkey's STM has unveiled new unmanned systems, including four unmanned aerial vehicles and one unmanned underwater vehicle, at the SAHA defense exposition in Istanbul. The company is leveraging artificial intelligence, image processing, and machine learning in its systems. STM's general manager expressed openness to collaboration with Gulf countries. This development highlights the growing importance of unmanned systems in modern defense. The use of AI and machine learning is expected to enhance the capabilities of these systems.
+
+SHORT-FORM SCRIPT:
+Turkey's STM just unveiled new unmanned aerial and underwater vehicles, leveraging AI and machine learning. What does this mean for the future of defense?
+
+----------------------------------------
+ARTICLE 2: 10 Free Google AI Courses for Beginners
+Source: Times of India
+URL: https://timesofindia.indiatimes.com/education/news/10-free-google-ai-courses-enable-beginners-to-build-skills-in-modern-machine-learning-tools-check-details-here/articleshow/130782090.cms
+
+SUMMARY:
+Google has launched 10 free artificial intelligence courses for beginners, covering topics such as prompt design, BERT, transformers, and image generation. These modules are designed for learners with no prior experience in AI, providing a comprehensive introduction to modern machine learning tools. The courses are available online, making it accessible to anyone interested in building their skills in AI. This initiative by Google aims to democratize access to AI education and provide a foundation for learners to explore the field further. By offering these free courses, Google is helping to bridge the gap in AI skills and knowledge.
+
+SHORT-FORM SCRIPT:
+Get started with AI for free! Google is offering 10 free courses covering prompt design, BERT, transformers, and more. Perfect for beginners, these courses will introduce you to the world of modern machine learning.
+
+----------------------------------------
+ARTICLE 3: Revolutionizing Glaucoma Detection: Explainable AI Model Achieves 93% Accuracy
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013139
+
+SUMMARY:
+Researchers have developed GlaucoXAI, an explainable AI model that detects glaucoma early from retinal fundus images with over 93-95% accuracy. This hybrid approach integrates feature extraction, dimensionality reduction, and optimized neural learning, making its predictions more transparent and trustworthy to clinicians. GlaucoXAI generates visual explanations that highlight regions of the eye most responsible for its predictions, supporting ophthalmologists in verifying AI-driven results. The model has been tested on two publicly available datasets and outperforms existing models. This breakthrough demonstrates the potential of AI in reliable clinical tools for early glaucoma diagnosis and better patient care.
+
+SHORT-FORM SCRIPT:
+Imagine a world where glaucoma is detected early, saving millions from irreversible blindness. Introducing GlaucoXAI, an explainable AI model that's making it possible with over 93% accuracy.
+
+----------------------------------------
+ARTICLE 4: Revolutionizing Drug Design: How AI is Accelerating the Discovery of New Drugs
+Source: Phys.org
+URL: https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+
+SUMMARY:
+Artificial intelligence is being utilized in drug design through diffusion models, a method that has shown promise in the search for new drugs. Researchers Dr. Andrea Mastropietro and Prof. Dr. Jürgen Bajorath have published an article in Cell Reports Physical Science to explain the role of AI in this context. The use of AI in diffusion models can potentially accelerate the drug discovery process. This innovative approach has the potential to revolutionize the field of pharmacology. By leveraging AI, scientists can explore new avenues for drug development.
+
+SHORT-FORM SCRIPT:
+Imagine a future where AI helps us discover new drugs faster and more efficiently. Researchers are using diffusion models to make this a reality. Let's dive into how AI is changing the game in drug design.
+
+----------------------------------------
+ARTICLE 5: AI Revolutionizes Tourism: Highlights from the 11th NCEEITET
+Source: Daily Excelsior
+URL: https://www.dailyexcelsior.com/11th-nceeitet-concludes-at-gcet-jammu-highlights-ais-role-in-tourism-development/
+
+SUMMARY:
+The 11th National Conference and Exhibition on Emerging and Innovative Trends in Engineering Technology (NCEEITET) concluded at Government College of Engineering and Technology (GCET) in Jammu, focusing on the role of Artificial Intelligence (AI) and Machine Learning (ML) in tourism development. The two-day conference brought together academicians, industry experts, policymakers, and students from across the country. The event highlighted the potential of AI and ML in boosting tourism in Jammu and Kashmir. The conference was organized in technical collaboration with IIT Kharagpur. The event showcased the latest innovations and trends in engineering technology.
+
+SHORT-FORM SCRIPT:
+Imagine a world where AI helps you plan your dream vacation. The 11th NCEEITET just concluded in Jammu, exploring the role of AI in tourism development. From personalized travel recommendations to smart destination management, AI is revolutionizing the tourism industry.
+

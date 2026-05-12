@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-05-12
+
+----------------------------------------
+VIDEO TITLE:
+Turkey's STM Unveils New Unmanned Systems, Eyes Gulf Collaboration
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and defense technology. Today, we're discussing the unveiling of new unmanned systems by Turkey's STM at the SAHA defense exposition in Istanbul. These systems, which include four unmanned aerial vehicles and one unmanned underwater vehicle, are leveraging artificial intelligence, image processing, and machine learning to enhance their capabilities. We'll be examining the implications of this development and what it means for the future of defense. Join us as we dive into the details of this exciting new technology.
+
+REFERENCE LINK:
+https://breakingdefense.com/2026/05/turkeys-stm-debuts-new-unmanned-systems-is-really-open-to-gulf-collaboration/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+10 Free Google AI Courses for Beginners
+
+SCRIPT (1–2 MINUTES):
+Introduction to the video: Welcome to our channel, where we explore the latest developments in artificial intelligence. Today, we're excited to share with you 10 free AI courses offered by Google, designed specifically for beginners. In this video, we'll take a closer look at the courses, what they cover, and how you can get started. Segment 1: Overview of the courses - We'll start by introducing the 10 free AI courses offered by Google, and what topics they cover. From prompt design to image generation, these courses provide a comprehensive introduction to modern machine learning tools. Segment 2: How to get started - We'll walk you through the process of getting started with the courses, and what you can expect to learn. Segment 3: Applying AI in your career - We'll also discuss how you can apply the skills you learn from these courses in your career, and provide tips for further learning.
+
+REFERENCE LINK:
+https://timesofindia.indiatimes.com/education/news/10-free-google-ai-courses-enable-beginners-to-build-skills-in-modern-machine-learning-tools-check-details-here/articleshow/130782090.cms
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how to apply AI in your career.
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Glaucoma Detection: Explainable AI Model Achieves 93% Accuracy
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and technology. Today, we're discussing a groundbreaking breakthrough in glaucoma detection. GlaucoXAI, an explainable AI model, is detecting glaucoma early with over 93% accuracy. But what makes this model so unique? Let's dive into the details and explore how it's changing the game in healthcare. From its hybrid approach to its visual explanations, we'll cover it all. So, let's get started!
+
+REFERENCE LINK:
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013139
+
+CTA:
+Follow CGTECH for daily AI updates and innovations.
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Drug Design: How AI is Accelerating the Discovery of New Drugs
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and its applications. Today, we're going to talk about how artificial intelligence is being used in drug design. Researchers are using diffusion models to accelerate the discovery of new drugs, and this innovative approach has the potential to revolutionize the field of pharmacology. Let's dive into the details and explore how AI is changing the game in drug design. From the basics of diffusion models to the potential benefits and challenges of using AI in this context, we'll cover it all.
+
+REFERENCE LINK:
+https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+AI Revolutionizes Tourism: Highlights from the 11th NCEEITET
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the exciting conclusion of the 11th National Conference and Exhibition on Emerging and Innovative Trends in Engineering Technology (NCEEITET) in Jammu. The conference highlighted the significant role of Artificial Intelligence (AI) and Machine Learning (ML) in tourism development, and we're exploring the latest innovations and trends in engineering technology. From personalized travel recommendations to smart destination management, AI is transforming the tourism industry. Join us as we delve into the world of AI and tourism, and discover the endless possibilities!
+
+REFERENCE LINK:
+https://www.dailyexcelsior.com/11th-nceeitet-concludes-at-gcet-jammu-highlights-ais-role-in-tourism-development/
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve!
+

@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-05-12
+
+----------------------------------------
+ARTICLE 1: Turkey's STM Unveils New Unmanned Systems, Eyes Gulf Collaboration
+Source: Breaking Defense
+Link: https://breakingdefense.com/2026/05/turkeys-stm-debuts-new-unmanned-systems-is-really-open-to-gulf-collaboration/
+
+POST:
+Turkey's STM has just unveiled a range of new unmanned systems, including aerial and underwater vehicles, at the SAHA defense exposition in Istanbul. These systems are utilizing artificial intelligence, image processing, and machine learning to enhance their capabilities. This development is a significant step forward for the defense industry, and it will be interesting to see how these systems are used in the future. Follow CGTECH for daily updates on the latest advancements in AI and defense technology.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: 10 Free Google AI Courses for Beginners
+Source: Times of India
+Link: https://timesofindia.indiatimes.com/education/news/10-free-google-ai-courses-enable-beginners-to-build-skills-in-modern-machine-learning-tools-check-details-here/articleshow/130782090.cms
+
+POST:
+Exciting news for anyone interested in learning about artificial intelligence! Google has just launched 10 free AI courses for beginners, covering a range of topics from prompt design to image generation. These courses are perfect for anyone looking to build their skills in modern machine learning tools and explore the world of AI. Whether you're a student, a professional, or just curious about AI, these courses are a great resource to get started. Follow CGTECH for daily AI updates and insights on how to apply AI in your career.
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how to apply AI in your career.
+
+----------------------------------------
+ARTICLE 3: Revolutionizing Glaucoma Detection: Explainable AI Model Achieves 93% Accuracy
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013139
+
+POST:
+Did you know that glaucoma is one of the leading causes of irreversible blindness worldwide? But what if we could detect it early? Introducing GlaucoXAI, a revolutionary explainable AI model that's making it possible with over 93% accuracy. By combining advanced image analysis with explainable AI methods, GlaucoXAI is changing the game in glaucoma diagnosis. Learn more about this breakthrough and how it's paving the way for better patient care. Follow CGTECH for daily AI updates and innovations!
+
+CTA:
+Follow CGTECH for daily AI updates and innovations.
+
+----------------------------------------
+ARTICLE 4: Revolutionizing Drug Design: How AI is Accelerating the Discovery of New Drugs
+Source: Phys.org
+Link: https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+
+POST:
+Have you ever wondered how artificial intelligence is being used in the search for new drugs? Researchers are now using diffusion models to accelerate the discovery process. This innovative approach has the potential to revolutionize the field of pharmacology. By leveraging AI, scientists can explore new avenues for drug development and potentially save countless lives. Follow CGTECH for daily AI updates and stay informed about the latest advancements in this field.
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+ARTICLE 5: AI Revolutionizes Tourism: Highlights from the 11th NCEEITET
+Source: Daily Excelsior
+Link: https://www.dailyexcelsior.com/11th-nceeitet-concludes-at-gcet-jammu-highlights-ais-role-in-tourism-development/
+
+POST:
+The 11th National Conference and Exhibition on Emerging and Innovative Trends in Engineering Technology (NCEEITET) just concluded in Jammu, and we're excited to share the highlights with you! The conference focused on the role of Artificial Intelligence (AI) and Machine Learning (ML) in tourism development, and the potential is vast. From personalized travel recommendations to smart destination management, AI is set to revolutionize the tourism industry. Join the conversation - how do you think AI will shape the future of tourism? Follow CGTECH for daily AI updates and stay ahead of the curve!
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve!
+

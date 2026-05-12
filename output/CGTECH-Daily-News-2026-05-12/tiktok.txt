@@ -1,0 +1,147 @@
+=== CGTECH — TIKTOK/IG/SHORTS PACK ===
+Date: 2026-05-12
+
+----------------------------------------
+ARTICLE 1: Turkey's STM Unveils New Unmanned Systems, Eyes Gulf Collaboration
+
+HOOK:
+Imagine a future where unmanned systems, powered by AI and machine learning, are changing the face of defense. That future is now, thanks to Turkey's STM.
+
+SCRIPT (SPOKEN):
+Turkey's STM just unveiled new unmanned aerial and underwater vehicles, leveraging AI and machine learning. What does this mean for the future of defense?
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Turkey's STM has unveiled new unmanned systems, including four unmanned aerial vehicles and one unmanned underwater vehicle.
+  B-roll: Footage of the SAHA defense exposition in Istanbul, with shots of the unmanned aerial and underwater vehicles on display.
+
+Scene 2:
+  Narration: These systems are leveraging artificial intelligence, image processing, and machine learning to enhance their capabilities.
+  B-roll: Visuals of AI and machine learning algorithms at work, with dashboards and screens displaying data and images.
+
+Scene 3:
+  Narration: The company's general manager expressed openness to collaboration with Gulf countries, highlighting the growing importance of international cooperation in the defense industry.
+  B-roll: Footage of defense industry leaders meeting and discussing collaboration opportunities, with maps and globes showing the regions involved.
+
+HASHTAGS:
+#AI #AITools #DroneTechnology #DefenseTech
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: 10 Free Google AI Courses for Beginners
+
+HOOK:
+Want to learn AI for free? Google's got you covered! With 10 free courses for beginners, you can start building your skills in modern machine learning tools today.
+
+SCRIPT (SPOKEN):
+Get started with AI for free! Google is offering 10 free courses covering prompt design, BERT, transformers, and more. Perfect for beginners, these courses will introduce you to the world of modern machine learning.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Google has launched 10 free artificial intelligence courses for beginners, covering topics such as prompt design, BERT, transformers, and image generation.
+  B-roll: Visuals of Google's website, AI-related images, and screenshots of the courses
+
+Scene 2:
+  Narration: These courses are designed for learners with no prior experience in AI, providing a comprehensive introduction to modern machine learning tools.
+  B-roll: Visuals of people learning, laptops, and notebooks, with AI-related diagrams and illustrations
+
+Scene 3:
+  Narration: By offering these free courses, Google is helping to bridge the gap in AI skills and knowledge, and providing a foundation for learners to explore the field further.
+  B-roll: Visuals of people from different backgrounds and industries, with AI-related applications and use cases
+
+HASHTAGS:
+#AI #AITools #MachineLearning #GoogleAI
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how to apply AI in your career.
+
+----------------------------------------
+ARTICLE 3: Revolutionizing Glaucoma Detection: Explainable AI Model Achieves 93% Accuracy
+
+HOOK:
+Imagine a world where blindness is a thing of the past. With GlaucoXAI, that reality is one step closer.
+
+SCRIPT (SPOKEN):
+Imagine a world where glaucoma is detected early, saving millions from irreversible blindness. Introducing GlaucoXAI, an explainable AI model that's making it possible with over 93% accuracy.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Glaucoma is a leading global cause of blindness, making early detection essential.
+  B-roll: Footage of a person getting an eye exam, with a close-up of the eye
+
+Scene 2:
+  Narration: Introducing GlaucoXAI, an explainable AI model that detects glaucoma early from retinal fundus images.
+  B-roll: Visuals of the GlaucoXAI model, with animations of how it works
+
+Scene 3:
+  Narration: The model achieves over 93-95% accuracy, outperforming existing models.
+  B-roll: Footage of a doctor reviewing the results, with a graph showing the accuracy
+
+Scene 4:
+  Narration: GlaucoXAI generates visual explanations that highlight regions of the eye most responsible for its predictions.
+  B-roll: Visuals of the visual explanations, with a close-up of the eye
+
+HASHTAGS:
+#AI #AITools #Glaucoma #HealthcareInnovation #ExplainableAI
+
+CTA:
+Follow CGTECH for daily AI updates and innovations.
+
+----------------------------------------
+ARTICLE 4: Revolutionizing Drug Design: How AI is Accelerating the Discovery of New Drugs
+
+HOOK:
+What if AI could help us discover new drugs faster and more efficiently? Researchers are making this a reality with diffusion models.
+
+SCRIPT (SPOKEN):
+Imagine a future where AI helps us discover new drugs faster and more efficiently. Researchers are using diffusion models to make this a reality. Let's dive into how AI is changing the game in drug design.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Artificial intelligence is being used in drug design through diffusion models.
+  B-roll: Visuals of scientists working in a lab, with dashboards and computers in the background
+
+Scene 2:
+  Narration: This innovative approach has the potential to revolutionize the field of pharmacology.
+  B-roll: Visuals of pills, medications, and other pharmaceutical products
+
+Scene 3:
+  Narration: By leveraging AI, scientists can explore new avenues for drug development.
+  B-roll: Visuals of robots, machines, and other automated systems used in drug development
+
+HASHTAGS:
+#AI #AITools #DrugDiscovery #HealthTech
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+ARTICLE 5: AI Revolutionizes Tourism: Highlights from the 11th NCEEITET
+
+HOOK:
+Imagine a world where AI plans your dream vacation. The future of tourism is here, and it's more exciting than you think!
+
+SCRIPT (SPOKEN):
+Imagine a world where AI helps you plan your dream vacation. The 11th NCEEITET just concluded in Jammu, exploring the role of AI in tourism development. From personalized travel recommendations to smart destination management, AI is revolutionizing the tourism industry.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The 11th NCEEITET concluded in Jammu, focusing on the role of AI in tourism development.
+  B-roll: Footage of the conference, attendees, and speakers
+
+Scene 2:
+  Narration: AI is transforming the tourism industry, from personalized travel recommendations to smart destination management.
+  B-roll: Visuals of AI-powered travel apps, virtual tours, and smart city infrastructure
+
+Scene 3:
+  Narration: The conference brought together experts from across the country to discuss the latest innovations and trends in engineering technology.
+  B-roll: Footage of panel discussions, workshops, and exhibitions
+
+HASHTAGS:
+#AI #AITools #Tourism #Travel #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve!
+
