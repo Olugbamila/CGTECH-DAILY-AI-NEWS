@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-05-13
+
+----------------------------------------
+ARTICLE 1: Dr. Jatinderkumar R. Saini: The Scholar Expanding the Academic Footprint in AI and Beyond
+Source: Republic World
+URL: https://www.republicworld.com/initiatives/a-scholar-who-reviews-global-research-dr-sainis-expanding-academic-footprint-2026-05-12-123935
+
+SUMMARY:
+Dr. Jatinderkumar R. Saini, a renowned scholar, has made significant contributions to the global research community with over 350 publications in areas such as Artificial Intelligence, Machine Learning, and Cybersecurity. His work has expanded the academic footprint in these fields, showcasing his dedication and expertise. Dr. Saini's research has far-reaching implications for various industries, including technology and education. His commitment to academic integrity has earned him credibility in the global research community. As a leading scholar, Dr. Saini continues to inspire and influence the next generation of researchers.
+
+SHORT-FORM SCRIPT:
+Meet Dr. Jatinderkumar R. Saini, a scholar with over 350 research publications in AI, Machine Learning, and more. His work is expanding the academic footprint in these fields and inspiring the next generation of researchers.
+
+----------------------------------------
+ARTICLE 2: Turkey's STM Unveils New Unmanned Systems, Eyes Gulf Collaboration
+Source: Breaking Defense
+URL: https://breakingdefense.com/2026/05/turkeys-stm-debuts-new-unmanned-systems-is-really-open-to-gulf-collaboration/
+
+SUMMARY:
+Turkey's STM has unveiled new unmanned systems, including four unmanned aerial vehicles and one unmanned underwater vehicle, at the SAHA defense exposition in Istanbul. The company is leveraging artificial intelligence, image processing, and machine learning in its systems. STM's general manager expressed openness to collaboration with Gulf countries. This development highlights the growing importance of unmanned systems in modern defense. The company's focus on AI and machine learning underscores the increasing role of these technologies in the defense sector.
+
+SHORT-FORM SCRIPT:
+Turkey's STM just unveiled new unmanned aerial and underwater vehicles, leveraging AI and machine learning. What does this mean for the future of defense?
+
+----------------------------------------
+ARTICLE 3: 10 Free Google AI Courses to Kickstart Your Machine Learning Journey
+Source: Times of India
+URL: https://timesofindia.indiatimes.com/education/news/10-free-google-ai-courses-enable-beginners-to-build-skills-in-modern-machine-learning-tools-check-details-here/articleshow/130782090.cms
+
+SUMMARY:
+Google has launched 10 free AI courses for beginners, covering topics such as prompt design, BERT, transformers, and image generation. These courses are designed to help learners with no prior experience build skills in modern machine learning tools. The modules are available online and provide a comprehensive introduction to AI concepts. This initiative aims to make AI education more accessible and democratize the field. By offering these free courses, Google is helping to bridge the skills gap in the industry.
+
+SHORT-FORM SCRIPT:
+Want to build skills in AI but don't know where to start? Google's got you covered with 10 free courses, from prompt design to image generation. Learn the basics and take your first step into the world of machine learning.
+
+----------------------------------------
+ARTICLE 4: AI-Powered Breakthrough: GlaucoXAI Detects Early Glaucoma with Unprecedented Accuracy
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013139
+
+SUMMARY:
+Researchers have developed GlaucoXAI, an explainable AI model that can detect early glaucoma from retinal fundus images with over 93-95% accuracy. The model uses a hybrid approach combining feature extraction, dimensionality reduction, and optimized neural learning. GlaucoXAI generates visual explanations that highlight regions of the eye most responsible for its predictions, supporting ophthalmologists in verifying AI-driven results. This breakthrough demonstrates that AI can be both accurate and interpretable, marking a step toward reliable clinical tools for early glaucoma diagnosis. The model has the potential to improve patient care by enabling early detection and treatment of glaucoma.
+
+SHORT-FORM SCRIPT:
+Imagine a world where AI helps detect glaucoma early, saving millions from irreversible blindness. Introducing GlaucoXAI, an explainable AI model that's changing the game with its transparent and trustworthy predictions.
+
+----------------------------------------
+ARTICLE 5: AI in Drug Design: How Diffusion Models Are Revolutionizing the Search for New Drugs
+Source: Phys.org
+URL: https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+
+SUMMARY:
+Artificial intelligence is being used in drug design through diffusion models, a method that has shown promise in the search for new drugs. Researchers Dr. Andrea Mastropietro and Prof. Dr. Jürgen Bajorath have published an article on this topic, explaining the role of AI in this context. AI is used to generate new molecular structures and predict their properties, accelerating the drug discovery process. This approach has the potential to revolutionize the field of drug design. The use of AI in diffusion models for drug design is a rapidly evolving area of research, with many potential applications.
+
+SHORT-FORM SCRIPT:
+Imagine a future where new drugs are designed using artificial intelligence. This is already a reality, thanks to diffusion models. AI is being used to generate new molecular structures and predict their properties, accelerating the drug discovery process.
+
