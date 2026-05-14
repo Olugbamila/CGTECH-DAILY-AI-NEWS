@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-05-14
+
+----------------------------------------
+ARTICLE 1: Dr. Jatinderkumar R. Saini: A Pioneer in AI and Machine Learning Research
+TWEET:
+Dr. Jatinderkumar R. Saini: 350+ research publications in AI, ML, & more! A true pioneer in tech. Follow CGTECH for daily AI updates. #AI #MachineLearning
+
+HASHTAGS:
+#AI #MachineLearning #Tech
+
+LINK:
+https://www.republicworld.com/initiatives/a-scholar-who-reviews-global-research-dr-sainis-expanding-academic-footprint-2026-05-12-123935
+
+----------------------------------------
+ARTICLE 2: Turkey's STM Unveils New Unmanned Systems, Eyes Gulf Collaboration
+TWEET:
+Turkey's STM unveils new unmanned systems, including drones & underwater vehicles, with a focus on AI, image processing, & machine learning. What's next for the future of defense? #AI #Defense #UnmannedSystems
+
+HASHTAGS:
+#AI #Defense #UnmannedSystems
+
+LINK:
+https://breakingdefense.com/2026/05/turkeys-stm-debuts-new-unmanned-systems-is-really-open-to-gulf-collaboration/
+
+----------------------------------------
+ARTICLE 3: 10 Free Google AI Courses to Kickstart Your Machine Learning Journey
+TWEET:
+Learn AI for free! Google's offering 10 courses for beginners, covering prompt design, BERT, transformers & more! #AI #MachineLearning #Google
+
+HASHTAGS:
+#AI #MachineLearning #Google
+
+LINK:
+https://timesofindia.indiatimes.com/education/news/10-free-google-ai-courses-enable-beginners-to-build-skills-in-modern-machine-learning-tools-check-details-here/articleshow/130782090.cms
+
+----------------------------------------
+ARTICLE 4: Revolutionizing Glaucoma Detection: The Power of Explainable AI
+TWEET:
+Breakthrough in glaucoma detection! GlaucoXAI, an explainable AI model, detects early glaucoma with 93-95% accuracy. #AI #Glaucoma #Healthcare
+
+HASHTAGS:
+#AI #Glaucoma #Healthcare
+
+LINK:
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013139
+
+----------------------------------------
+ARTICLE 5: AI in Drug Design: How Diffusion Models Are Revolutionizing the Search for New Drugs
+TWEET:
+AI is revolutionizing drug design with diffusion models! Researchers can now generate new molecular structures & predict properties faster than ever before. #AI #DrugDesign #Healthcare
+
+HASHTAGS:
+#AI #DrugDesign #Healthcare
+
+LINK:
+https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+

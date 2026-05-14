@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-05-14
+
+----------------------------------------
+VIDEO TITLE:
+Dr. Jatinderkumar R. Saini: A Pioneer in AI and Machine Learning Research
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in Artificial Intelligence and Machine Learning. Today, we're shining the spotlight on Dr. Jatinderkumar R. Saini, a renowned scholar with over 350 research publications in these fields. From his early days as a researcher to his current status as a leading expert, Dr. Saini's journey is a fascinating one. Let's dive into his work and discover how his research is changing the game in tech and beyond.
+
+REFERENCE LINK:
+https://www.republicworld.com/initiatives/a-scholar-who-reviews-global-research-dr-sainis-expanding-academic-footprint-2026-05-12-123935
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Turkey's STM Unveils New Unmanned Systems, Eyes Gulf Collaboration
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and defense. Today, we're taking a closer look at Turkey's STM and their recent unveiling of new unmanned systems. From drones to underwater vehicles, we'll dive into the details of these cutting-edge technologies and examine how they're being enhanced with artificial intelligence, image processing, and machine learning. But that's not all - we'll also be discussing the potential implications of these advancements and what they might mean for the future of defense. So let's get started and take a closer look at the future of unmanned systems.
+
+REFERENCE LINK:
+https://breakingdefense.com/2026/05/turkeys-stm-debuts-new-unmanned-systems-is-really-open-to-gulf-collaboration/
+
+CTA:
+Follow CGTECH for daily AI updates and analysis.
+
+----------------------------------------
+VIDEO TITLE:
+10 Free Google AI Courses to Kickstart Your Machine Learning Journey
+
+SCRIPT (1–2 MINUTES):
+Welcome to our video on Google's 10 free AI courses for beginners! In this video, we'll be exploring the different modules available, including prompt design, BERT, transformers, and image generation. We'll also be discussing the importance of making AI more accessible and how these courses can help you build skills in modern machine learning tools. So let's get started and dive into the world of AI!
+
+REFERENCE LINK:
+https://timesofindia.indiatimes.com/education/news/10-free-google-ai-courses-enable-beginners-to-build-skills-in-modern-machine-learning-tools-check-details-here/articleshow/130782090.cms
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Glaucoma Detection: The Power of Explainable AI
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and technology. Today, we're discussing GlaucoXAI, an explainable AI model that's revolutionizing early glaucoma detection. With its ability to detect glaucoma with over 93% accuracy, GlaucoXAI is poised to improve patient care and outcomes. In this video, we'll delve into the details of GlaucoXAI, its development, and its potential impact on healthcare. Join us as we explore the exciting world of AI and tech innovations.
+
+REFERENCE LINK:
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1013139
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+AI in Drug Design: How Diffusion Models Are Revolutionizing the Search for New Drugs
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and tech. Today, we're talking about the use of diffusion models in drug design. This innovative approach is enabling researchers to generate new molecular structures and predict their properties with unprecedented speed and accuracy. We'll dive into the details of this technology and explore its potential to shape the future of healthcare.
+
+REFERENCE LINK:
+https://phys.org/news/2026-04-qa-ai-diffusion-drug.html
+
+CTA:
+Follow CGTECH for daily AI updates.
+
