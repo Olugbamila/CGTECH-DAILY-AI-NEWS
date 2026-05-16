@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-05-16
+
+----------------------------------------
+ARTICLE 1: NHPC Sharpens AI Focus for Real-Time Flood Forecasting
+Source: The Economic Times
+URL: https://economictimes.indiatimes.com/news/india/nhpc-sharpens-ai-focus-for-real-time-flood-forecasting/articleshow/131126746.cms
+
+SUMMARY:
+India's NHPC is utilizing Artificial Intelligence to enhance real-time flood forecasting and dam monitoring. The 'eAabhas' AI platform leverages sensors and machine learning to provide early warnings, improving accuracy and protecting dams and people. This technology integrates data from various agencies for better decision-making. By adopting AI, NHPC aims to address the challenges posed by extreme weather to India's dam infrastructure. The implementation of 'eAabhas' is a significant step towards mitigating flood risks and ensuring public safety.
+
+SHORT-FORM SCRIPT:
+India's NHPC is using AI for real-time flood forecasting. The 'eAabhas' platform uses sensors and machine learning for early warnings, improving accuracy and protecting people.
+
+----------------------------------------
+ARTICLE 2: MediaGo Wins Two Stevie Awards for Innovative Smart Bidding Product
+Source: The Manila Times
+URL: https://www.manilatimes.net/2026/05/15/tmt-newswire/pr-newswire/mediago-wins-two-stevie-awards-in-the-24th-annual-american-business-awards/2344927
+
+SUMMARY:
+MediaGo, a global intelligent advertising platform, has won two Stevie Awards at the 24th Annual American Business Awards for its SmartBid 3.0 product. The awards were given in the categories of 'Artificial Intelligence / Machine Learning Solution - Other' and 'Technology Innovation of the Year - Software.' This recognition highlights MediaGo's innovative approach to smart bidding and its impact on the advertising industry. MediaGo's SmartBid 3.0 utilizes AI and machine learning to optimize bidding strategies, making it a cutting-edge solution for advertisers. The Stevie Awards are a prestigious recognition of excellence in business and technology.
+
+SHORT-FORM SCRIPT:
+MediaGo just won two Stevie Awards for its SmartBid 3.0 product, recognizing its innovative use of AI and machine learning in advertising. What does this mean for the future of smart bidding?
+
+----------------------------------------
+ARTICLE 3: Dr. Jatinderkumar R. Saini: The Scholar Expanding the Frontiers of AI Research
+Source: Republic World
+URL: https://www.republicworld.com/initiatives/a-scholar-who-reviews-global-research-dr-sainis-expanding-academic-footprint-2026-05-12-123935
+
+SUMMARY:
+Dr. Jatinderkumar R. Saini, a renowned scholar, has made significant contributions to the global research community with over 350 publications in areas such as Artificial Intelligence, Machine Learning, and Cybersecurity. His work has expanded the academic footprint in these fields, showcasing his dedication and expertise. As the Director of Symbiosis Institute of Computer Studies, Dr. Saini continues to inspire and influence the next generation of researchers. His commitment to academic integrity has earned him credibility in the global research community. Dr. Saini's achievements serve as a testament to the impact of perseverance and passion in academia.
+
+SHORT-FORM SCRIPT:
+Meet Dr. Jatinderkumar R. Saini, a scholar with over 350 research publications in AI, Machine Learning, and more. His work is expanding the academic footprint in these fields and inspiring the next generation of researchers.
+
+----------------------------------------
+ARTICLE 4: Turkey's STM Unveils New Unmanned Systems, Eyes Gulf Collaboration
+Source: Breaking Defense
+URL: https://breakingdefense.com/2026/05/turkeys-stm-debuts-new-unmanned-systems-is-really-open-to-gulf-collaboration/
+
+SUMMARY:
+Turkey's STM has debuted new unmanned systems, including four unmanned aerial vehicles and one unmanned underwater vehicle, at the SAHA defense exposition in Istanbul. The company's general manager expressed interest in collaborating with Gulf countries, highlighting the use of artificial intelligence, image processing, and machine learning in their systems. This development showcases Turkey's growing capabilities in the defense technology sector. The company is looking to deepen its expertise in AI and related areas. The unveiling of these new systems demonstrates STM's commitment to innovation and expansion in the global market.
+
+SHORT-FORM SCRIPT:
+Turkey's STM just unveiled new unmanned systems, including drones and an underwater vehicle, at the SAHA defense expo. They're using AI, image processing, and machine learning to take their tech to the next level. What does this mean for the future of defense?
+
+----------------------------------------
+ARTICLE 5: 10 Free Google AI Courses to Kickstart Your Machine Learning Journey
+Source: Times of India
+URL: https://timesofindia.indiatimes.com/education/news/10-free-google-ai-courses-enable-beginners-to-build-skills-in-modern-machine-learning-tools-check-details-here/articleshow/130782090.cms
+
+SUMMARY:
+Google has launched 10 free AI courses for beginners, covering topics such as prompt design, BERT, transformers, and image generation. These modules are designed for learners with no prior experience in artificial intelligence. The courses aim to equip beginners with skills in modern machine learning tools. The modules are available online, making it accessible to a wide range of learners. This initiative by Google is a significant step in promoting AI education and making it more inclusive.
+
+SHORT-FORM SCRIPT:
+Want to learn AI but don't know where to start? Google's got you covered with 10 free AI courses for beginners. From prompt design to image generation, these courses will get you up to speed on the latest machine learning tools.
+
