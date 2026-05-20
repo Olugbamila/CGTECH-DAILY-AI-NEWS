@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-05-20
+
+----------------------------------------
+ARTICLE 1: ATxSummit 2026: Harnessing AI for Public Good
+Source: The Manila Times
+URL: https://www.manilatimes.net/2026/05/20/tmt-newswire/pr-newswire/atxsummit-2026-opens-with-shared-regional-ambition-to-harness-ai-for-public-good/2347754
+
+SUMMARY:
+The ATxSummit 2026 has officially kicked off in Singapore, bringing together government leaders, international organizations, and industry experts to discuss the potential of AI for public good. The summit aims to harness AI for the betterment of society, with a focus on regional cooperation and collaboration. Singapore President Tharman Shanmugaratnam was the Guest-of-Honour at the Opening Gala Dinner. The event features prominent speakers, including Denise Dresser, David Zapolsky, and Professor Yoshua Bengio. The summit will explore the latest developments and innovations in AI, with a focus on its applications for social benefit.
+
+SHORT-FORM SCRIPT:
+Imagine a world where AI is used for the greater good. The ATxSummit 2026 is making that a reality, bringing together global leaders to harness AI for public good. From healthcare to education, AI is revolutionizing the way we live and work.
+
+----------------------------------------
+ARTICLE 2: G H Raisoni Education Launches AI-Oriented Programmes
+Source: The Hitavada
+URL: https://www.thehitavada.com/Encyc/2026/5/20/g-h-raisoni-education-launches-ai-oriented-programmes.html
+
+SUMMARY:
+G H Raisoni Education has launched a range of AI-oriented programmes across BTech, BCA, and MCA streams, aiming to equip students with future-ready technical skills for India's digital economy. The programmes focus on advanced domains such as artificial intelligence, machine learning, and data science. This initiative prepares students for rewarding careers in the fast-evolving digital landscape. The introduction of these programmes highlights the growing importance of AI in education. By providing industry-relevant skills, G H Raisoni Education is paving the way for the next generation of tech leaders.
+
+SHORT-FORM SCRIPT:
+G H Raisoni Education is revolutionizing tech education with AI-oriented programmes. From BTech to MCA, students can now gain future-ready skills in AI, machine learning, and data science. Get ready to shape the digital future!
+
+----------------------------------------
+ARTICLE 3: G H Raisoni Education Launches AI-Oriented Programmes
+Source: The Hitavada
+URL: https://www.thehitavada.com//Encyc/2026/5/20/g-h-raisoni-education-launches-ai-oriented-programmes.html
+
+SUMMARY:
+G H Raisoni Education has launched a range of AI-oriented programmes across BTech, BCA, and MCA streams, aiming to equip students with future-ready technical skills. The programmes focus on advanced domains such as artificial intelligence, machine learning, data science, and cybersecurity. This initiative prepares students for rewarding careers in India's fast-evolving digital economy. The introduction of these programmes highlights the growing importance of AI in education. By providing industry-relevant skills, G H Raisoni Education is setting students up for success in the digital age.
+
+SHORT-FORM SCRIPT:
+G H Raisoni Education is revolutionizing tech education with new AI-oriented programmes. From machine learning to cybersecurity, these courses are future-proofing students' careers.
+
+----------------------------------------
+ARTICLE 4: Google Launches AI Education Initiatives in India
+Source: The Indian Express
+URL: https://indianexpress.com/article/technology/tech-news-technology/google-launches-ai-education-initiatives-for-teachers-and-students-in-india-10697640/
+
+SUMMARY:
+Google has launched new AI education initiatives in India, targeting teachers and students. The program aims to enhance AI literacy and provide customized training for Indian educators. The training will be delivered in a mobile-friendly format and localized in six Indian languages. This initiative is part of Google's efforts to support the rapid adoption of AI in Indian classrooms. By providing AI education, Google hopes to bridge the gap between technology and education in India.
+
+SHORT-FORM SCRIPT:
+Google is launching AI education initiatives in India, focusing on teachers and students. The goal is to enhance AI literacy and provide customized training for Indian educators, all in a mobile-friendly format.
+
+----------------------------------------
+ARTICLE 5: AI-Powered RoboLens Tech Revolutionizes Knee Surgery: A National First in India
+Source: Devdiscourse
+URL: https://www.devdiscourse.com/article/health/3913599-chandigarh-surgeon-performs-3000th-successful-knee-surgery-using-ai-powered-robolens-technology-a-national-first
+
+SUMMARY:
+Dr. Tarandeep Singh Gill, a surgeon from Chandigarh, has successfully performed his 3,000th knee surgery using AI-powered RoboLens technology, a national first in India. The RoboLens platform integrates AI, machine learning algorithms, and augmented reality to create a 3D virtual model of each patient's knee before surgery. This milestone makes Tricity a global benchmark for AI-assisted orthopedic surgery. Dr. Gill's achievement is a testament to the potential of AI in revolutionizing healthcare. The use of AI-powered technology has improved the accuracy and efficiency of knee surgeries, benefiting thousands of patients.
+
+SHORT-FORM SCRIPT:
+Meet Dr. Tarandeep Singh Gill, who's changing the game in orthopedic surgery with AI-powered RoboLens technology. He's just completed his 3,000th successful knee surgery, a national first in India. This tech creates a 3D virtual model of each patient's knee, making surgeries more accurate and efficient.
+
