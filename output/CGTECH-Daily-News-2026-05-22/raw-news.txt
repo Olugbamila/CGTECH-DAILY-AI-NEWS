@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-05-22
+
+----------------------------------------
+ARTICLE 1: India's CAG Taps AI to Improve Public Auditing Quality
+Source: Devdiscourse
+URL: https://www.devdiscourse.com/article/law-order/3915117-cag-taps-artificial-intelligence-machine-learning-to-improve-public-auditing-quality
+
+SUMMARY:
+India's Comptroller and Auditor General (CAG) is leveraging artificial intelligence and machine learning to enhance the quality, speed, and depth of public auditing. The CAG is developing a large language model platform to achieve this goal. This platform will enable real-time identification of procurement concentration and cartel-risk indicators, improving the overall auditing process. The use of AI and ML is expected to significantly improve the efficiency and effectiveness of public auditing in India. This development highlights the growing importance of AI in the auditing sector.
+
+SHORT-FORM SCRIPT:
+India's top auditor is using AI to improve public auditing. With a large language model platform, they can identify risks in real-time, making the process faster and more efficient.
+
+----------------------------------------
+ARTICLE 2: ATxSummit 2026: Harnessing AI for the Public Good
+Source: The Manila Times
+URL: https://www.manilatimes.net/2026/05/20/tmt-newswire/pr-newswire/atxsummit-2026-opens-with-shared-regional-ambition-to-harness-ai-for-public-good/2347754
+
+SUMMARY:
+The ATxSummit 2026 has officially begun in Singapore, with the goal of harnessing AI for the public good. The summit brings together government leaders, international organizations, and industry experts from Asia, the Middle East, and the United States. Key speakers include Denise Dresser, David Zapolsky, and Professor Yoshua Bengio, who will discuss the potential of AI to drive positive change. The summit aims to foster collaboration and innovation in the use of AI for social benefit. With its diverse range of participants, the ATxSummit 2026 is poised to make a significant impact on the future of AI development.
+
+SHORT-FORM SCRIPT:
+Imagine a world where AI is used to make a positive impact on society. Welcome to the ATxSummit 2026, where government leaders, industry experts, and innovators are coming together to harness the power of AI for the public good.
+
+----------------------------------------
+ARTICLE 3: G H Raisoni Education Launches AI-Oriented Programmes
+Source: The Hitavada
+URL: https://www.thehitavada.com/Encyc/2026/5/20/g-h-raisoni-education-launches-ai-oriented-programmes.html
+
+SUMMARY:
+G H Raisoni Education has launched a range of AI-oriented programmes across BTech, BCA, and MCA streams. The programmes aim to equip students with future-ready technical skills in domains such as artificial intelligence, machine learning, and data science. This initiative prepares students for rewarding careers in India's digital economy. The introduction of these programmes highlights the growing importance of AI in education. By providing industry-relevant skills, G H Raisoni Education is taking a significant step towards shaping the future of India's tech industry.
+
+SHORT-FORM SCRIPT:
+Introducing AI-oriented programmes in BTech, BCA, and MCA streams. G H Raisoni Education is equipping students with future-ready skills in AI, machine learning, and data science. Get ready for a career in India's fast-evolving digital economy.
+
+----------------------------------------
+ARTICLE 4: G H Raisoni Education Launches AI-Oriented Programmes
+Source: The Hitavada
+URL: https://www.thehitavada.com//Encyc/2026/5/20/g-h-raisoni-education-launches-ai-oriented-programmes.html
+
+SUMMARY:
+G H Raisoni Education has launched a range of AI-oriented programmes across BTech, BCA, and MCA streams to equip students with future-ready technical skills. The programmes focus on advanced domains such as artificial intelligence, machine learning, data science, and cybersecurity. This initiative aims to prepare students for rewarding careers in India's fast-evolving digital economy. The introduction of these programmes is a significant step towards addressing the growing demand for skilled professionals in the AI and tech industry. By providing students with industry-relevant skills, G H Raisoni Education is contributing to the growth of India's digital economy.
+
+SHORT-FORM SCRIPT:
+Get ready for the future of tech! G H Raisoni Education has launched AI-oriented programmes in BTech, BCA, and MCA streams. Learn about AI, machine learning, data science, and more!
+
+----------------------------------------
+ARTICLE 5: Google Launches AI Education Initiatives in India
+Source: The Indian Express
+URL: https://indianexpress.com/article/technology/tech-news-technology/google-launches-ai-education-initiatives-for-teachers-and-students-in-india-10697640/
+
+SUMMARY:
+Google has launched new AI education initiatives in India, aimed at teachers and students. The initiatives include customized training for Indian educators, delivered in a mobile-friendly format and localized in six Indian languages. The goal is to improve AI literacy and provide learning tools for Indian classrooms. This move is part of Google's efforts to support the rapid adoption of artificial intelligence in education. The initiatives will be rolled out in a phased manner, starting with a pilot year.
+
+SHORT-FORM SCRIPT:
+Google is launching AI education initiatives in India, focusing on teachers and students. The goal is to improve AI literacy and provide learning tools for Indian classrooms.
+
