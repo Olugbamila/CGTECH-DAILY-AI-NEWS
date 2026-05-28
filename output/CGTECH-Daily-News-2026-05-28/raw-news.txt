@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-05-28
+
+----------------------------------------
+ARTICLE 1: Israeli Teens Embracing AI in Learning: What's the Future of Education?
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/world/israeli-teens-using-ai-faster-than-schools-can-adapt-survey-warns/
+
+SUMMARY:
+A recent survey by the Israel Internet Association reveals that Israeli teenagers are rapidly adopting AI tools for learning, outpacing the ability of schools to adapt and provide adequate oversight. The survey highlights the need for improved digital literacy and responsible AI use among teens. As AI becomes increasingly integrated into daily life, it's crucial for educational institutions to keep pace. The findings suggest that teenagers are leveraging AI for various tasks, from homework to projects, and that this trend is likely to continue. This raises important questions about the role of AI in education and how to ensure its benefits are realized while minimizing potential risks.
+
+SHORT-FORM SCRIPT:
+Israeli teens are using AI faster than schools can adapt. A new survey shows teenagers are making AI a part of their daily learning, but schools are struggling to keep up. What does this mean for the future of education?
+
+----------------------------------------
+ARTICLE 2: India's Apex Auditor Leverages AI to Enhance Public Auditing Quality
+Source: Devdiscourse
+URL: https://www.devdiscourse.com/article/law-order/3915117-cag-taps-artificial-intelligence-machine-learning-to-improve-public-auditing-quality
+
+SUMMARY:
+India's apex auditor, the Comptroller and Auditor General (CAG), is leveraging artificial intelligence (AI) and machine learning (ML) to enhance public auditing quality, speed, and depth. The CAG is developing a large language model platform to achieve this goal. This platform will enable the real-time identification of procurement concentration and cartel-risk indicators, improving the overall auditing process. The use of AI and ML is expected to significantly improve the quality and efficiency of public auditing in India. This move highlights the growing importance of AI in the auditing sector.
+
+SHORT-FORM SCRIPT:
+India's top auditor is using AI to improve public auditing. They're developing a large language model platform to enhance quality, speed, and depth, and identify procurement risks in real-time.
+
+----------------------------------------
+ARTICLE 3: ATxSummit 2026: Harnessing AI for Public Good
+Source: The Manila Times
+URL: https://www.manilatimes.net/2026/05/20/tmt-newswire/pr-newswire/atxsummit-2026-opens-with-shared-regional-ambition-to-harness-ai-for-public-good/2347754
+
+SUMMARY:
+The ATxSummit 2026 has officially kicked off in Singapore, bringing together government leaders, international organizations, and industry luminaries to discuss the potential of AI for public good. The summit aims to harness AI for regional development and features prominent speakers such as Denise Dresser, David Zapolsky, and Professor Yoshua Bengio. With a focus on AI security, trustworthy machine learning, and deep learning, the summit promises to drive meaningful conversations and collaborations. The event is hosted by the Infocomm Media Development Authority of Singapore and has Singapore President Tharman Shanmugaratnam as the Guest-of-Honour. The summit will explore ways to leverage AI for the betterment of society.
+
+SHORT-FORM SCRIPT:
+Imagine a future where AI drives public good. The ATxSummit 2026 is making that a reality. Join us as we explore the potential of AI with industry leaders and pioneers.
+
+----------------------------------------
+ARTICLE 4: G H Raisoni Education Launches AI-Oriented Programmes
+Source: The Hitavada
+URL: https://www.thehitavada.com/Encyc/2026/5/20/g-h-raisoni-education-launches-ai-oriented-programmes.html
+
+SUMMARY:
+G H Raisoni Education has launched a range of AI-oriented programmes across BTech, BCA, and MCA streams to equip students with future-ready technical skills. The programmes focus on advanced domains such as artificial intelligence, machine learning, and data science. This initiative aims to prepare students for rewarding careers in India's fast-evolving digital economy. The introduction of these programmes is a significant step towards bridging the gap between academia and industry. By providing industry-relevant skills, G H Raisoni Education is setting its students up for success in the tech industry.
+
+SHORT-FORM SCRIPT:
+Meet the future of tech education! G H Raisoni Education just launched AI-oriented programmes in BTech, BCA, and MCA streams. Get ready for a career in AI, machine learning, and data science!
+
+----------------------------------------
+ARTICLE 5: G H Raisoni Education Launches AI-Oriented Programmes
+Source: The Hitavada
+URL: https://www.thehitavada.com//Encyc/2026/5/20/g-h-raisoni-education-launches-ai-oriented-programmes.html
+
+SUMMARY:
+G H Raisoni Education has launched a range of AI-oriented programmes across BTech, BCA, and MCA streams to equip students with future-ready technical skills. The programmes focus on advanced domains such as artificial intelligence, machine learning, and data science. This initiative aims to prepare students for rewarding careers in India's fast-evolving digital economy. The introduction of these programmes is a significant step towards addressing the growing demand for skilled professionals in the AI sector. By providing industry-relevant training, G H Raisoni Education is helping to bridge the gap between academia and industry.
+
+SHORT-FORM SCRIPT:
+G H Raisoni Education is revolutionizing tech education with AI-oriented programmes. From AI to data science, these courses are designed to future-proof your career.
+
