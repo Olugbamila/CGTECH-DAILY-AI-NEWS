@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-06-02
+
+----------------------------------------
+ARTICLE 1: MIT-ADT University Launches School of Artificial Intelligence
+Source: Free Press Journal
+URL: https://www.freepressjournal.in/pune/pune-mit-adt-university-launches-school-of-artificial-intelligence-opens-admissions-for-2026-27
+
+SUMMARY:
+MIT-ADT University in Pune has launched its School of Artificial Intelligence, offering a four-year undergraduate program that combines computer science with specialized AI training. The program will cover areas such as machine learning, data science, and natural language processing. Admissions for the 2026-27 academic year are now open. This move aims to prepare students for careers in the rapidly evolving AI sector. The school's curriculum is designed to provide a strong foundation in computer science and emerging AI technologies.
+
+SHORT-FORM SCRIPT:
+Get ready for the future of tech! MIT-ADT University just launched its School of Artificial Intelligence, offering a four-year program in AI and computer science. From machine learning to natural language processing, students will gain the skills they need to succeed in this rapidly evolving field.
+
+----------------------------------------
+ARTICLE 2: The Future of Tennis Analytics: How AI and Data Are Transforming the Sport
+Source: TechBullion
+URL: https://techbullion.com/the-future-of-tennis-analytics-how-apis-ai-and-point-by-point-data-are-transforming-the-sport/
+
+SUMMARY:
+The sport of tennis is undergoing a significant transformation in its analytics, driven by the integration of APIs, artificial intelligence, and point-by-point data. This shift is enabling more precise player and game analysis, which can be used to improve performance and gain a competitive edge. The use of machine learning algorithms to analyze large datasets is also providing new insights into player behavior and strategy. As a result, tennis analytics is becoming more sophisticated and data-driven, changing the way players, coaches, and fans understand the game. This transformation is expected to continue, with potential applications in other sports as well.
+
+SHORT-FORM SCRIPT:
+Imagine being able to analyze every shot, every point, and every game in tennis. With APIs, AI, and point-by-point data, that's now a reality. The future of tennis analytics is here, and it's changing the game.
+
+----------------------------------------
+ARTICLE 3: WiMi Achieves Breakthrough in Quantum Deep Convolutional Neural Network Technology
+Source: The Manila Times
+URL: https://www.manilatimes.net/2026/05/29/tmt-newswire/pr-newswire/wimi-achieves-breakthrough-in-deep-convolutional-neural-network-technology-based-on-quantum-parameterized-circuits/2354028
+
+SUMMARY:
+WiMi Hologram Cloud Inc. has achieved a breakthrough in deep convolutional neural network technology based on quantum parameterized circuits, providing a new path to address challenges in traditional deep learning. This technology combines a quantum deep convolutional neural network model with a quantum-classical hybrid training mechanism, improving computational complexity, memory consumption, and training efficiency. The breakthrough marks a further deepening of quantum machine learning in artificial intelligence tasks such as image recognition. WiMi's innovation has the potential to enable large-scale quantum intelligent computing systems. The company is a leading global Hologram Augmented Reality Technology provider.
+
+SHORT-FORM SCRIPT:
+Imagine a future where AI can recognize images faster and more efficiently than ever before. WiMi Hologram Cloud Inc. has made a breakthrough in deep convolutional neural network technology using quantum parameterized circuits, paving the way for large-scale quantum intelligent computing systems.
+
+----------------------------------------
+ARTICLE 4: Israeli Teens Outpace Schools in AI Adoption
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/world/israeli-teens-using-ai-faster-than-schools-can-adapt-survey-warns/
+
+SUMMARY:
+A recent survey by the Israel Internet Association reveals that Israeli teenagers are rapidly adopting AI tools for learning, outpacing the ability of schools to adapt and implement adequate oversight and digital literacy development. The findings highlight the need for educational institutions to catch up with the rapid integration of AI in students' daily lives. This trend poses both opportunities and challenges for the future of education. As AI becomes increasingly prevalent, it is crucial for schools to develop strategies that balance the benefits of AI with the need for digital literacy and responsible use. The survey's results emphasize the importance of proactive measures to ensure that students are equipped to navigate the evolving educational landscape.
+
+SHORT-FORM SCRIPT:
+Israeli teens are using AI faster than schools can adapt. A new survey reveals that AI tools have become routine in teenage learning, but schools struggle to keep pace with oversight and digital literacy development.
+
+----------------------------------------
+ARTICLE 5: India's Top Auditor Taps AI to Revolutionize Public Auditing
+Source: Devdiscourse
+URL: https://www.devdiscourse.com/article/law-order/3915117-cag-taps-artificial-intelligence-machine-learning-to-improve-public-auditing-quality
+
+SUMMARY:
+India's apex auditor, the Comptroller and Auditor General (CAG), is leveraging artificial intelligence (AI) and machine learning (ML) to enhance the quality, speed, and depth of public auditing. The CAG is developing a large language model platform to achieve this goal. This platform will also enable the real-time identification of procurement concentration and cartel-risk indicators. The use of AI and ML is expected to significantly improve the auditing process, making it more efficient and effective. The CAG's initiative is a notable example of how AI can be applied in the public sector to drive positive change.
+
+SHORT-FORM SCRIPT:
+India's top auditor is using AI to revolutionize public auditing, making it faster, deeper, and more accurate. With a large language model platform, they can identify risks in real-time, promoting transparency and accountability.
+
