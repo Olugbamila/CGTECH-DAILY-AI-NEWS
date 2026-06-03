@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-06-03
+
+----------------------------------------
+ARTICLE 1: MIT-ADT University Launches School of Artificial Intelligence
+TWEET:
+MIT-ADT University launches School of Artificial Intelligence! 4-year program in AI & computer science now open for admissions. Stay ahead of the AI curve! #AI #ArtificialIntelligence #TechNews
+
+HASHTAGS:
+#AI #ArtificialIntelligence #TechNews #MITADT
+
+LINK:
+https://www.freepressjournal.in/pune/pune-mit-adt-university-launches-school-of-artificial-intelligence-opens-admissions-for-2026-27
+
+----------------------------------------
+ARTICLE 2: The Future of Tennis Analytics: How Tech is Transforming the Sport
+TWEET:
+Tennis analytics just got a major boost! With APIs, AI, and point-by-point data, the sport is being transformed like never before. #AI #Tennis #SportsTech
+
+HASHTAGS:
+#AI #Tennis #SportsTech
+
+LINK:
+https://techbullion.com/the-future-of-tennis-analytics-how-apis-ai-and-point-by-point-data-are-transforming-the-sport/
+
+----------------------------------------
+ARTICLE 3: WiMi Achieves Breakthrough in Deep Convolutional Neural Network Technology
+TWEET:
+Breakthrough in AI! WiMi Hologram Cloud Inc. achieves significant progress in deep convolutional neural network technology using quantum parameterized circuits. #AI #QuantumMachineLearning #HologramAR
+
+HASHTAGS:
+#AI #QuantumMachineLearning #HologramAR
+
+LINK:
+https://www.manilatimes.net/2026/05/29/tmt-newswire/pr-newswire/wimi-achieves-breakthrough-in-deep-convolutional-neural-network-technology-based-on-quantum-parameterized-circuits/2354028
+
+----------------------------------------
+ARTICLE 4: Israeli Teens Embrace AI Faster Than Schools Can Adapt
+TWEET:
+Israeli teens are using #AI faster than schools can adapt! A new survey reveals the need for improved oversight and digital literacy development. #AIethics #EdTech
+
+HASHTAGS:
+#AI #AIethics #EdTech
+
+LINK:
+https://www.tribuneindia.com/news/world/israeli-teens-using-ai-faster-than-schools-can-adapt-survey-warns/
+
+----------------------------------------
+ARTICLE 5: India's Apex Auditor Leverages AI to Enhance Public Auditing Quality
+TWEET:
+India's top auditor is using #AI to improve public auditing! A new large language model platform will help identify procurement risks in real-time. #MachineLearning #PublicSector
+
+HASHTAGS:
+#AI #MachineLearning #PublicSector
+
+LINK:
+https://www.devdiscourse.com/article/law-order/3915117-cag-taps-artificial-intelligence-machine-learning-to-improve-public-auditing-quality
+
