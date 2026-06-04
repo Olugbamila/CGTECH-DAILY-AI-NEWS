@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-06-04
+
+----------------------------------------
+ARTICLE 1: MIT-ADT University Launches School of Artificial Intelligence
+TWEET:
+MIT-ADT University launches School of Artificial Intelligence! 4-year program in AI & computer science now open for admissions. #AI #ArtificialIntelligence #TechNews
+
+HASHTAGS:
+#AI #ArtificialIntelligence #TechNews
+
+LINK:
+https://www.freepressjournal.in/pune/pune-mit-adt-university-launches-school-of-artificial-intelligence-opens-admissions-for-2026-27
+
+----------------------------------------
+ARTICLE 2: The Future of Tennis Analytics: How APIs, AI, and Point-by-Point Data Are Transforming the Sport
+TWEET:
+Tennis analytics just got a whole lot smarter! With APIs, AI, and point-by-point data, the future of the sport is looking brighter than ever. #AI #Tennis #SportsTech
+
+HASHTAGS:
+#AI #Tennis #SportsTech
+
+LINK:
+https://techbullion.com/the-future-of-tennis-analytics-how-apis-ai-and-point-by-point-data-are-transforming-the-sport/
+
+----------------------------------------
+ARTICLE 3: WiMi Achieves Breakthrough in Quantum Deep Convolutional Neural Network Technology
+TWEET:
+Breakthrough in quantum deep convolutional neural networks! WiMi's innovative tech combines quantum & classical computing to overcome traditional deep learning limitations. What's next for #AI? #QuantumComputing #MachineLearning
+
+HASHTAGS:
+#AI #QuantumComputing #MachineLearning
+
+LINK:
+https://www.manilatimes.net/2026/05/29/tmt-newswire/pr-newswire/wimi-achieves-breakthrough-in-deep-convolutional-neural-network-technology-based-on-quantum-parameterized-circuits/2354028
+
+----------------------------------------
+ARTICLE 4: Israeli Teens Embrace AI: What Does This Mean for Education?
+TWEET:
+Israeli teens are ahead of the curve when it comes to using AI! But schools are struggling to keep up. What does this mean for the future of education? #AI #EdTech
+
+HASHTAGS:
+#AI #EdTech #Education
+
+LINK:
+https://www.tribuneindia.com/news/world/israeli-teens-using-ai-faster-than-schools-can-adapt-survey-warns/
+
+----------------------------------------
+ARTICLE 5: India's CAG Taps AI and ML to Enhance Public Auditing Quality
+TWEET:
+India's CAG is using #AI and #ML to improve public auditing quality! They're developing a large language model to enhance speed, depth, and risk identification. #Auditing #Governance
+
+HASHTAGS:
+#AI #ML #Auditing #Governance
+
+LINK:
+https://www.devdiscourse.com/article/law-order/3915117-cag-taps-artificial-intelligence-machine-learning-to-improve-public-auditing-quality
+

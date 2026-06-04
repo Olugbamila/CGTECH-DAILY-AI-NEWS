@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-06-04
+
+----------------------------------------
+ARTICLE 1: MIT-ADT University Launches School of Artificial Intelligence
+Source: Free Press Journal
+URL: https://www.freepressjournal.in/pune/pune-mit-adt-university-launches-school-of-artificial-intelligence-opens-admissions-for-2026-27
+
+SUMMARY:
+MIT-ADT University in Pune has launched its School of Artificial Intelligence, offering a four-year undergraduate program that combines computer science with specialized AI training. The program will cover areas such as machine learning, data science, and natural language processing. Admissions for the 2026-27 academic year are now open. This move aims to prepare students for careers in the rapidly evolving AI sector. The university's initiative is a significant step towards addressing the growing demand for AI professionals.
+
+SHORT-FORM SCRIPT:
+Meet the future of tech! MIT-ADT University just launched its School of Artificial Intelligence, offering a 4-year program in AI and computer science. Get ready to shape the future of AI!
+
+----------------------------------------
+ARTICLE 2: The Future of Tennis Analytics: How APIs, AI, and Point-by-Point Data Are Transforming the Sport
+Source: TechBullion
+URL: https://techbullion.com/the-future-of-tennis-analytics-how-apis-ai-and-point-by-point-data-are-transforming-the-sport/
+
+SUMMARY:
+The future of tennis analytics is being transformed by the combination of APIs, artificial intelligence, and point-by-point data. This shift is providing unprecedented insights into player and team performance, enabling more informed decision-making and strategic planning. Tennis has always been a sport rich in statistics, but the integration of AI and machine learning is taking data analysis to new heights. The use of APIs is facilitating the collection and sharing of data, while AI algorithms are helping to identify patterns and trends that may not be immediately apparent. As a result, tennis analytics is becoming increasingly sophisticated and nuanced.
+
+SHORT-FORM SCRIPT:
+Imagine being able to analyze every shot, every point, and every match in tennis. With APIs, AI, and point-by-point data, that's now a reality. The future of tennis analytics has arrived, and it's changing the game forever.
+
+----------------------------------------
+ARTICLE 3: WiMi Achieves Breakthrough in Quantum Deep Convolutional Neural Network Technology
+Source: The Manila Times
+URL: https://www.manilatimes.net/2026/05/29/tmt-newswire/pr-newswire/wimi-achieves-breakthrough-in-deep-convolutional-neural-network-technology-based-on-quantum-parameterized-circuits/2354028
+
+SUMMARY:
+WiMi Hologram Cloud Inc. has achieved a breakthrough in deep convolutional neural network technology based on quantum parameterized circuits, providing a new technical path to address challenges in traditional deep learning. This technology combines a quantum deep convolutional neural network model with a quantum-classical hybrid training mechanism, aiming to improve computational complexity, memory consumption, and training efficiency. The proposal of this technology marks a further deepening of the application of quantum machine learning in artificial intelligence tasks such as image recognition. This breakthrough has the potential to enable large-scale quantum intelligent computing systems in the future. WiMi's achievement is a significant step forward in the development of quantum machine learning.
+
+SHORT-FORM SCRIPT:
+Imagine a future where computers can learn and recognize images at an unprecedented scale. WiMi's breakthrough in quantum deep convolutional neural networks is making that a reality. With the power of quantum computing, we can overcome traditional deep learning limitations and unlock new possibilities in AI.
+
+----------------------------------------
+ARTICLE 4: Israeli Teens Embrace AI: What Does This Mean for Education?
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/world/israeli-teens-using-ai-faster-than-schools-can-adapt-survey-warns/
+
+SUMMARY:
+A recent survey by the Israel Internet Association reveals that Israeli teenagers are adopting AI tools at a rapid pace, outstripping the ability of schools to adapt and provide adequate oversight and digital literacy development. The findings suggest that AI has become a routine part of teenage learning, with significant implications for education and technology policy. As a result, there is a growing need for educators and policymakers to catch up with the rapid evolution of AI in schools. The survey highlights the importance of developing digital literacy and providing guidance on the responsible use of AI tools. This trend is likely to be observed in other countries as well, making it a global concern.
+
+SHORT-FORM SCRIPT:
+Israeli teens are using AI faster than schools can adapt. A new survey reveals that AI tools have become routine in teenage learning, but oversight and digital literacy development are struggling to keep pace.
+
+----------------------------------------
+ARTICLE 5: India's CAG Taps AI and ML to Enhance Public Auditing Quality
+Source: Devdiscourse
+URL: https://www.devdiscourse.com/article/law-order/3915117-cag-taps-artificial-intelligence-machine-learning-to-improve-public-auditing-quality
+
+SUMMARY:
+India's Comptroller and Auditor General (CAG) is leveraging artificial intelligence and machine learning to enhance public auditing quality, speed, and depth. The CAG is developing a large language model platform to achieve this goal. This platform will enable real-time identification of procurement concentration and cartel-risk indicators, improving the overall auditing process. The use of AI and ML is expected to significantly improve the quality and efficiency of public auditing in India. This development highlights the growing importance of technology in auditing and governance.
+
+SHORT-FORM SCRIPT:
+India's top auditor is using AI to improve public auditing. They're developing a large language model to enhance quality, speed, and depth. This means real-time identification of risks and better governance.
+
