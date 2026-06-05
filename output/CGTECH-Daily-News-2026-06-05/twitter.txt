@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-06-05
+
+----------------------------------------
+ARTICLE 1: MIT-ADT University Launches School of Artificial Intelligence
+TWEET:
+MIT-ADT University launches School of Artificial Intelligence! Offering 4-year undergrad program in AI, covering machine learning, data science & more. Admissions open for 2026-27! #AI #ArtificialIntelligence #TechNews
+
+HASHTAGS:
+#AI #ArtificialIntelligence #TechNews #Innovation
+
+LINK:
+https://www.freepressjournal.in/pune/pune-mit-adt-university-launches-school-of-artificial-intelligence-opens-admissions-for-2026-27
+
+----------------------------------------
+ARTICLE 2: The Future of Tennis Analytics: How APIs, AI, and Point-by-Point Data Are Transforming the Sport
+TWEET:
+Tennis analytics just got a major upgrade! With APIs, AI, and point-by-point data, the sport is becoming more data-driven than ever. What does this mean for players, coaches, and fans? #AI #Tennis #SportsTech
+
+HASHTAGS:
+#AI #Tennis #SportsTech
+
+LINK:
+https://techbullion.com/the-future-of-tennis-analytics-how-apis-ai-and-point-by-point-data-are-transforming-the-sport/
+
+----------------------------------------
+ARTICLE 3: WiMi Achieves Breakthrough in Quantum Deep Convolutional Neural Network Technology
+TWEET:
+Breakthrough alert! WiMi Hologram Cloud Inc. achieves major milestone in quantum deep convolutional neural network tech, paving the way for more efficient image recognition and AI applications. #AI #QuantumComputing
+
+HASHTAGS:
+#AI #QuantumComputing #MachineLearning
+
+LINK:
+https://www.manilatimes.net/2026/05/29/tmt-newswire/pr-newswire/wimi-achieves-breakthrough-in-deep-convolutional-neural-network-technology-based-on-quantum-parameterized-circuits/2354028
+
+----------------------------------------
+ARTICLE 4: Israeli Teens Embrace AI Faster Than Schools Can Adapt
+TWEET:
+Israeli teens are ahead of the curve when it comes to using #AI in learning, but schools are struggling to keep up. What does this mean for the future of education? #AIethics #EdTech
+
+HASHTAGS:
+#AI #AIethics #EdTech
+
+LINK:
+https://www.tribuneindia.com/news/world/israeli-teens-using-ai-faster-than-schools-can-adapt-survey-warns/
+
+----------------------------------------
+ARTICLE 5: India's Apex Auditor Taps AI to Revolutionize Public Auditing
+TWEET:
+India's apex auditor CAG is using #AI and #ML to revolutionize public auditing! With a large language model platform, they can identify risks in real-time, ensuring transparency and accountability. #TechForGood
+
+HASHTAGS:
+#AI #ML #TechForGood
+
+LINK:
+https://www.devdiscourse.com/article/law-order/3915117-cag-taps-artificial-intelligence-machine-learning-to-improve-public-auditing-quality
+

@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-06-05
+
+----------------------------------------
+VIDEO TITLE:
+MIT-ADT University Launches School of Artificial Intelligence
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the launch of MIT-ADT University's School of Artificial Intelligence. This new initiative offers a four-year undergraduate program that combines a strong computer science foundation with specialized training in emerging AI technologies. We'll dive into the details of the program, covering areas such as machine learning, data science, and natural language processing. With admissions now open for the 2026-27 academic year, we'll explore what this means for students and the future of AI in India.
+
+REFERENCE LINK:
+https://www.freepressjournal.in/pune/pune-mit-adt-university-launches-school-of-artificial-intelligence-opens-admissions-for-2026-27
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+The Future of Tennis Analytics: How APIs, AI, and Point-by-Point Data Are Transforming the Sport
+
+SCRIPT (1–2 MINUTES):
+Welcome to our latest video on the future of tennis analytics. In this video, we'll be exploring how the combination of APIs, artificial intelligence, and point-by-point data is revolutionizing the sport. From the benefits of data-driven decision making to the potential applications in player development and fan engagement, we'll be diving into the latest trends and innovations in tennis analytics. Whether you're a tennis enthusiast, a tech aficionado, or simply someone who's curious about the latest developments in sports technology, this video is for you.
+
+REFERENCE LINK:
+https://techbullion.com/the-future-of-tennis-analytics-how-apis-ai-and-point-by-point-data-are-transforming-the-sport/
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest tech trends and innovations.
+
+----------------------------------------
+VIDEO TITLE:
+WiMi Achieves Breakthrough in Quantum Deep Convolutional Neural Network Technology
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and technology. Today, we're discussing a major breakthrough in quantum deep convolutional neural network technology achieved by WiMi Hologram Cloud Inc. This innovation combines a quantum deep convolutional neural network model with a quantum-classical hybrid training mechanism, offering a promising solution for image recognition tasks. We'll dive into the details of this technology and its potential applications, as well as what it means for the future of artificial intelligence.
+
+REFERENCE LINK:
+https://www.manilatimes.net/2026/05/29/tmt-newswire/pr-newswire/wimi-achieves-breakthrough-in-deep-convolutional-neural-network-technology-based-on-quantum-parameterized-circuits/2354028
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve.
+
+----------------------------------------
+VIDEO TITLE:
+Israeli Teens Embrace AI Faster Than Schools Can Adapt
+
+SCRIPT (1–2 MINUTES):
+Introduction: Welcome to our channel, where we explore the latest developments in AI and their impact on society. Today, we're looking at a recent survey out of Israel that reveals a striking trend: teenagers are using AI tools at a faster pace than schools can adapt. Segment 1: The survey findings suggest that AI has become a routine part of teenage learning, with significant implications for education and technology policy. Segment 2: So what does this mean for the future of education, and how can educators and policymakers respond to this challenge? Conclusion: As we move forward in this rapidly evolving landscape, it's essential that we prioritize investment in digital literacy and ensure that students are equipped to use AI tools responsibly and effectively.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/world/israeli-teens-using-ai-faster-than-schools-can-adapt-survey-warns/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+India's Apex Auditor Taps AI to Revolutionize Public Auditing
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and its applications. Today, we're discussing how India's apex auditor, CAG, is leveraging artificial intelligence and machine learning to enhance public auditing quality. The development of a large language model platform is a significant step forward, enabling real-time identification of procurement concentration and cartel-risk indicators. In this video, we'll delve into the details of this initiative, its potential impact, and what it means for the future of auditing. So, let's dive in and explore the exciting world of AI in governance.
+
+REFERENCE LINK:
+https://www.devdiscourse.com/article/law-order/3915117-cag-taps-artificial-intelligence-machine-learning-to-improve-public-auditing-quality
+
+CTA:
+Follow CGTECH for daily AI updates.
+
