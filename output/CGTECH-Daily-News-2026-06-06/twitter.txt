@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-06-06
+
+----------------------------------------
+ARTICLE 1: AI-Powered Snakebite Identification: A Breakthrough in Public Health
+TWEET:
+AI-powered snakebite identification! Researchers develop a deep learning-based framework to classify Indian venomous snakes, improving early triage & antivenom use. #AI #Snakebite #Healthcare
+
+HASHTAGS:
+#AI #Snakebite #Healthcare
+
+LINK:
+https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0014147
+
+----------------------------------------
+ARTICLE 2: MIT-ADT University Launches School of Artificial Intelligence
+TWEET:
+MIT-ADT University launches School of Artificial Intelligence! New 4-year undergrad program in AI, covering machine learning, data science & more. Admissions open for 2026-27! #AI #ArtificialIntelligence
+
+HASHTAGS:
+#AI #ArtificialIntelligence #MachineLearning #DataScience
+
+LINK:
+https://www.freepressjournal.in/pune/pune-mit-adt-university-launches-school-of-artificial-intelligence-opens-admissions-for-2026-27
+
+----------------------------------------
+ARTICLE 3: The Future of Tennis Analytics: How APIs, AI, and Point-by-Point Data Are Transforming the Sport
+TWEET:
+Tennis analytics just got a major boost! With APIs, AI, and point-by-point data, the sport is about to become more strategic and exciting than ever. #AI #Tennis #SportsTech
+
+HASHTAGS:
+#AI #Tennis #SportsTech
+
+LINK:
+https://techbullion.com/the-future-of-tennis-analytics-how-apis-ai-and-point-by-point-data-are-transforming-the-sport/
+
+----------------------------------------
+ARTICLE 4: WiMi Achieves Breakthrough in Quantum Deep Convolutional Neural Networks
+TWEET:
+Breakthrough alert! WiMi achieves major milestone in quantum deep convolutional neural networks, reducing computational complexity and improving training efficiency. #AI #QuantumMachineLearning #TechNews
+
+HASHTAGS:
+#AI #QuantumML #Tech
+
+LINK:
+https://www.manilatimes.net/2026/05/29/tmt-newswire/pr-newswire/wimi-achieves-breakthrough-in-deep-convolutional-neural-network-technology-based-on-quantum-parameterized-circuits/2354028
+
+----------------------------------------
+ARTICLE 5: Israeli Teens Outpace Schools in AI Adoption
+TWEET:
+Israeli teens are embracing AI faster than schools can adapt! A new survey highlights the need for effective oversight and digital literacy development in education. #AI #EdTech #Innovation
+
+HASHTAGS:
+#AI #EdTech #Innovation
+
+LINK:
+https://www.tribuneindia.com/news/world/israeli-teens-using-ai-faster-than-schools-can-adapt-survey-warns/
+
