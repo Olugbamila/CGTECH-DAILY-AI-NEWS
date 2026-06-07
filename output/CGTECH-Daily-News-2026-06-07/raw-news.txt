@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-06-07
+
+----------------------------------------
+ARTICLE 1: Reverse Mentoring: The Future of Corporate Learning
+Source: The Economic Times
+URL: https://economictimes.indiatimes.com/news/company/corporate-trends/gen-z-mentors-flip-the-corporate-learning-script/articleshow/131556933.cms
+
+SUMMARY:
+Indian companies are adopting reverse mentoring and cross-generational learning to help employees adapt to artificial intelligence. This approach involves younger colleagues teaching older employees about AI tools like ChatGPT, while older employees share their experience and context. This collaboration boosts empathy and shared understanding, with companies like Axis AMC and Capgemini leading the way. Generational diversity is seen as key to organizational success. By embracing this trend, companies can stay ahead of the curve in the rapidly evolving AI landscape.
+
+SHORT-FORM SCRIPT:
+Imagine a workplace where the youngest employees are teaching the oldest about the latest AI tools. This is the reality in many Indian companies, where reverse mentoring is flipping the corporate learning script. Younger colleagues are sharing their knowledge of AI tools like ChatGPT, while older employees are sharing their experience and context.
+
+----------------------------------------
+ARTICLE 2: The Necessity of AI and ML in Health Sciences
+Source: The Hindu
+URL: https://www.thehindu.com/news/national/karnataka/adopting-artificial-intelligence-machine-learning-become-a-necessity-in-health-sciences-v-c-of-blde-deemed-university/article71069740.ece
+
+SUMMARY:
+The Vice-Chancellor of BLDE Deemed University emphasizes the importance of adopting artificial intelligence and machine learning in health sciences, citing it as a necessity for students' future success. This integration is expected to enhance the field of health sciences and better prepare students for the evolving landscape. The Vice-Chancellor's statement was made during a convocation address, highlighting the significance of AI and ML in contemporary healthcare. As technology continues to advance, the incorporation of AI and ML in health sciences is becoming increasingly crucial. This shift is poised to revolutionize the industry, enabling more efficient and effective healthcare practices.
+
+SHORT-FORM SCRIPT:
+Artificial intelligence and machine learning are no longer just buzzwords in health sciences. They're now a necessity for students' future success, according to the Vice-Chancellor of BLDE Deemed University. Let's dive into why AI and ML are becoming the backbone of modern healthcare.
+
+----------------------------------------
+ARTICLE 3: AI-Powered Snake Identification: A Game-Changer for Global Health
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0014147
+
+SUMMARY:
+A deep learning-based framework has been developed to classify Indian venomous snakes using images, with the goal of improving primary and emergency care in rural areas. The system uses real-world photographs taken in emergency situations and has achieved high accuracy. The model is strengthened by visual interpretability tools and expert verification to ensure reliability. This AI-assisted classification system has the potential to improve early triage, rational antivenom use, and surveillance in snakebite-endemic regions. By combining AI with human oversight, this work provides a scalable decision-support tool for healthcare providers.
+
+SHORT-FORM SCRIPT:
+Imagine being able to identify a venomous snake with just a photo. A new AI system can do just that, helping healthcare providers in rural areas make life-saving decisions.
+
+----------------------------------------
+ARTICLE 4: MIT-ADT University Launches School of Artificial Intelligence
+Source: Free Press Journal
+URL: https://www.freepressjournal.in/pune/pune-mit-adt-university-launches-school-of-artificial-intelligence-opens-admissions-for-2026-27
+
+SUMMARY:
+MIT-ADT University in Pune has launched its School of Artificial Intelligence, offering a four-year undergraduate program that combines computer science with specialized AI training. The program will cover areas such as machine learning, data science, and natural language processing. Admissions for the 2026-27 academic year are now open. This move aims to prepare students for careers in the rapidly evolving AI sector. The university's initiative is a significant step towards addressing the growing demand for AI professionals.
+
+SHORT-FORM SCRIPT:
+Get ready for the future of tech! MIT-ADT University just launched its School of Artificial Intelligence, offering a 4-year program in AI and computer science. From machine learning to natural language processing, this program has it all!
+
+----------------------------------------
+ARTICLE 5: Revolutionizing Tennis: How AI and Data Are Changing the Game
+Source: TechBullion
+URL: https://techbullion.com/the-future-of-tennis-analytics-how-apis-ai-and-point-by-point-data-are-transforming-the-sport/
+
+SUMMARY:
+The sport of tennis is undergoing a significant transformation in its analytics, driven by the integration of APIs, artificial intelligence, and detailed point-by-point data. This shift is enhancing the understanding of player and team performance, allowing for more informed decision-making. The use of machine learning algorithms to analyze vast amounts of data is providing insights that were previously unimaginable. As a result, tennis analytics is becoming more sophisticated, offering a competitive edge to those who leverage it effectively. The future of tennis looks to be increasingly data-driven, with technology playing a pivotal role in shaping the sport's strategy and outcomes.
+
+SHORT-FORM SCRIPT:
+Imagine tennis, where every serve, every volley, and every point is analyzed in real-time. Welcome to the future of tennis analytics, powered by APIs, AI, and machine learning.
+

@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-06-07
+
+----------------------------------------
+VIDEO TITLE:
+Reverse Mentoring: The Future of Corporate Learning
+
+SCRIPT (1–2 MINUTES):
+Introduction: Welcome to our channel, where we explore the latest trends and innovations in technology and business. Today, we're talking about reverse mentoring and cross-generational learning in Indian companies. Segment 1: Reverse mentoring is a trend that's flipping the corporate learning script. Younger colleagues are teaching older employees about AI tools like ChatGPT, while older employees are sharing their experience and context. Segment 2: This approach is not only helping companies adapt to artificial intelligence, but also fostering a culture of empathy and shared understanding. Segment 3: Companies like Axis AMC and Capgemini are leading the way in this trend, and we'll be exploring their stories in more detail. Conclusion: Reverse mentoring is a powerful tool for driving organizational success, and we're excited to see where this trend takes us.
+
+REFERENCE LINK:
+https://economictimes.indiatimes.com/news/company/corporate-trends/gen-z-mentors-flip-the-corporate-learning-script/articleshow/131556933.cms
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the future of work.
+
+----------------------------------------
+VIDEO TITLE:
+The Necessity of AI and ML in Health Sciences
+
+SCRIPT (1–2 MINUTES):
+Introduction to the importance of AI and ML in health sciences. The Vice-Chancellor of BLDE Deemed University has emphasized the necessity of adopting these technologies, citing their potential to revolutionize the industry. As we delve into the world of AI and ML, we'll explore their applications in health sciences, from diagnostic tools to personalized medicine. With the ability to analyze vast amounts of data, AI and ML are poised to enhance patient outcomes and streamline healthcare practices.
+
+REFERENCE LINK:
+https://www.thehindu.com/news/national/karnataka/adopting-artificial-intelligence-machine-learning-become-a-necessity-in-health-sciences-v-c-of-blde-deemed-university/article71069740.ece
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Snake Identification: A Game-Changer for Global Health
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and their impact on society. Today, we're talking about a new AI system that can identify venomous snakes from photos. This technology has the potential to improve primary and emergency care in rural areas, where snakebite envenoming is a major public health concern. We'll dive into the details of how this system works and its implications for global health. From the challenges of developing an AI model that can accurately classify snakes in real-world environments, to the potential benefits of this technology for healthcare providers and patients, we'll cover it all. So let's get started and explore the exciting world of AI and healthcare.
+
+REFERENCE LINK:
+https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0014147
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest developments in AI and healthcare.
+
+----------------------------------------
+VIDEO TITLE:
+MIT-ADT University Launches School of Artificial Intelligence
+
+SCRIPT (1–2 MINUTES):
+Welcome to our latest video on the launch of MIT-ADT University's School of Artificial Intelligence! In this video, we'll be exploring the details of the university's new program, which offers a unique combination of computer science and specialized AI training. From the curriculum to the career prospects, we'll dive into what makes this program stand out. With the AI sector continuing to grow at a rapid pace, it's essential for educational institutions to keep up with the demand for skilled professionals. The School of Artificial Intelligence at MIT-ADT University is a significant step in this direction, and we're excited to see the impact it will have on the industry.
+
+REFERENCE LINK:
+https://www.freepressjournal.in/pune/pune-mit-adt-university-launches-school-of-artificial-intelligence-opens-admissions-for-2026-27
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Tennis: How AI and Data Are Changing the Game
+
+SCRIPT (1–2 MINUTES):
+Introduction to the future of tennis analytics, where technology meets sport. In this video, we'll explore how APIs, AI, and machine learning are revolutionizing the way we understand and engage with tennis. From enhancing player performance to changing the fan experience, the implications are vast. Let's dive into the details and see what the future holds for this beloved sport.
+
+REFERENCE LINK:
+https://techbullion.com/the-future-of-tennis-analytics-how-apis-ai-and-point-by-point-data-are-transforming-the-sport/
+
+CTA:
+Follow CGTECH for daily updates on AI, tech, and innovation.
+

@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-06-07
+
+----------------------------------------
+ARTICLE 1: Reverse Mentoring: The Future of Corporate Learning
+TWEET:
+Reverse mentoring is flipping the corporate learning script in India! Younger colleagues are teaching older employees about AI tools like ChatGPT, while older employees share their experience and context. #AI #ReverseMentoring #FutureOfWork
+
+HASHTAGS:
+#AI #ReverseMentoring #FutureOfWork
+
+LINK:
+https://economictimes.indiatimes.com/news/company/corporate-trends/gen-z-mentors-flip-the-corporate-learning-script/articleshow/131556933.cms
+
+----------------------------------------
+ARTICLE 2: The Necessity of AI and ML in Health Sciences
+TWEET:
+AI & ML are now a MUST in health sciences! The Vice-Chancellor of BLDE Deemed University stresses their importance for students' future success. #AI #HealthSciences #MachineLearning
+
+HASHTAGS:
+#AI #MachineLearning #HealthSciences
+
+LINK:
+https://www.thehindu.com/news/national/karnataka/adopting-artificial-intelligence-machine-learning-become-a-necessity-in-health-sciences-v-c-of-blde-deemed-university/article71069740.ece
+
+----------------------------------------
+ARTICLE 3: AI-Powered Snake Identification: A Game-Changer for Global Health
+TWEET:
+New AI system can identify venomous snakes from photos, helping healthcare providers in rural areas make life-saving decisions! #AI #Snakebite #GlobalHealth
+
+HASHTAGS:
+#AI #Snakebite #GlobalHealth
+
+LINK:
+https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0014147
+
+----------------------------------------
+ARTICLE 4: MIT-ADT University Launches School of Artificial Intelligence
+TWEET:
+MIT-ADT University launches School of Artificial Intelligence! 4-year program in AI & computer science now open for admissions. Future of tech is here! #AI #TechNews #Education
+
+HASHTAGS:
+#AI #TechNews #Education
+
+LINK:
+https://www.freepressjournal.in/pune/pune-mit-adt-university-launches-school-of-artificial-intelligence-opens-admissions-for-2026-27
+
+----------------------------------------
+ARTICLE 5: Revolutionizing Tennis: How AI and Data Are Changing the Game
+TWEET:
+Tennis analytics just got a whole new serve! With APIs, AI, and machine learning, the sport is transforming. Stay ahead of the game with the latest tech trends. #AI #Tennis #SportsTech
+
+HASHTAGS:
+#AI #Tennis #SportsTech
+
+LINK:
+https://techbullion.com/the-future-of-tennis-analytics-how-apis-ai-and-point-by-point-data-are-transforming-the-sport/
+
