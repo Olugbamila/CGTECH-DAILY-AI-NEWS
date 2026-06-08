@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-06-08
+
+----------------------------------------
+VIDEO TITLE:
+Gen Z Mentors Flip the Corporate Learning Script
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest trends in AI and corporate learning. Today, we're talking about reverse mentoring and how it's changing the game in Indian companies. Younger colleagues are teaching seniors about AI tools like ChatGPT, while older employees share their experience and context. This collaboration is boosting empathy and shared understanding, and we're excited to dive deeper into this innovative approach. From the benefits of reverse mentoring to the challenges of implementing it, we'll cover it all. So, let's get started and explore the world of reverse mentoring.
+
+REFERENCE LINK:
+https://economictimes.indiatimes.com/news/company/corporate-trends/gen-z-mentors-flip-the-corporate-learning-script/articleshow/131556933.cms
+
+CTA:
+Follow CGTECH for daily AI updates and learn more about how reverse mentoring can benefit your organization.
+
+----------------------------------------
+VIDEO TITLE:
+AI and ML in Health Sciences: A Necessity for the Future
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in artificial intelligence and its applications. Today, we're discussing the importance of AI and machine learning in health sciences, as highlighted by the Vice-Chancellor of BLDE Deemed University. As we delve into the world of healthcare, it's becoming increasingly clear that these technologies are no longer a luxury, but a necessity. From improving patient outcomes to streamlining clinical workflows, the potential benefits of AI and ML in healthcare are vast. In this video, we'll be exploring the current state of AI in healthcare, its potential applications, and what the future holds for this exciting and rapidly evolving field.
+
+REFERENCE LINK:
+https://www.thehindu.com/news/national/karnataka/adopting-artificial-intelligence-machine-learning-become-a-necessity-in-health-sciences-v-c-of-blde-deemed-university/article71069740.ece
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Snake Identification: A Breakthrough in Global Health
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel! Today, we're going to talk about a groundbreaking innovation in AI-assisted snake identification. Researchers have developed a deep learning-based framework that can classify Indian venomous snakes using images, which can aid primary and emergency care providers in rural areas. This framework has the potential to improve early triage, rational antivenom use, and surveillance in snakebite-endemic regions. In this video, we'll explore how this technology works and its potential impact on global health. So let's dive in!
+
+REFERENCE LINK:
+https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0014147
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+MIT-ADT University Launches School of Artificial Intelligence
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're talking about the launch of MIT-ADT University's School of Artificial Intelligence. This new program offers a unique combination of computer science and specialized AI training, covering areas such as machine learning, data science, and natural language processing. We'll be discussing the details of the program, its potential impact on the tech industry, and what this means for the future of AI. So, let's dive in and explore the world of artificial intelligence!
+
+REFERENCE LINK:
+https://www.freepressjournal.in/pune/pune-mit-adt-university-launches-school-of-artificial-intelligence-opens-admissions-for-2026-27
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+The Future of Tennis Analytics: How AI and Data Are Changing the Game
+
+SCRIPT (1–2 MINUTES):
+Welcome to our video on the future of tennis analytics. In this episode, we'll explore how APIs, AI, and point-by-point data are transforming the sport. From player performance tracking to strategy development, we'll dive into the latest trends and innovations. Whether you're a tennis enthusiast or just curious about the intersection of technology and sports, this video is for you. So let's get started and discover the exciting future of tennis analytics.
+
+REFERENCE LINK:
+https://techbullion.com/the-future-of-tennis-analytics-how-apis-ai-and-point-by-point-data-are-transforming-the-sport/
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest tech trends.
+
