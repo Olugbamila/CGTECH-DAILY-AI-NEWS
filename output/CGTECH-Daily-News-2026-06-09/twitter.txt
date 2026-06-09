@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-06-09
+
+----------------------------------------
+ARTICLE 1: Reverse Mentoring: Flipping the Corporate Learning Script
+TWEET:
+Reverse mentoring is flipping the corporate learning script in India! Younger colleagues are teaching seniors about AI tools like ChatGPT, while older employees share their experience and context. #AI #ReverseMentoring #CorporateLearning
+
+HASHTAGS:
+#AI #ReverseMentoring #CorporateLearning
+
+LINK:
+https://economictimes.indiatimes.com/news/company/corporate-trends/gen-z-mentors-flip-the-corporate-learning-script/articleshow/131556933.cms
+
+----------------------------------------
+ARTICLE 2: The Necessity of AI and ML in Health Sciences
+TWEET:
+AI & ML are no longer optional in health sciences! They're a necessity, especially for students. The future of healthcare depends on it. #AI #HealthTech #MachineLearning
+
+HASHTAGS:
+#AI #HealthTech #MachineLearning
+
+LINK:
+https://www.thehindu.com/news/national/karnataka/adopting-artificial-intelligence-machine-learning-become-a-necessity-in-health-sciences-v-c-of-blde-deemed-university/article71069740.ece
+
+----------------------------------------
+ARTICLE 3: AI-Powered Snake Identification: A Breakthrough in Healthcare
+TWEET:
+AI-powered snake identification is here! Researchers develop a deep learning-based system to help medical professionals quickly identify venomous snakes, improving treatment outcomes. #AI #Snakebite #Healthcare
+
+HASHTAGS:
+#AI #Snakebite #Healthcare #Innovation
+
+LINK:
+https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0014147
+
+----------------------------------------
+ARTICLE 4: MIT-ADT University Launches School of Artificial Intelligence
+TWEET:
+MIT-ADT University launches School of Artificial Intelligence! 4-year program combines computer science with AI training. Admissions open for 2026-27. #AI #ArtificialIntelligence #TechEducation
+
+HASHTAGS:
+#AI #ArtificialIntelligence #TechEducation
+
+LINK:
+https://www.freepressjournal.in/pune/pune-mit-adt-university-launches-school-of-artificial-intelligence-opens-admissions-for-2026-27
+
+----------------------------------------
+ARTICLE 5: The Future of Tennis Analytics: How APIs, AI, and Point-by-Point Data Are Transforming the Sport
+TWEET:
+Tennis analytics is getting a major upgrade with APIs, AI, and point-by-point data! What does the future hold for the sport? #AI #Tennis #SportsTech
+
+HASHTAGS:
+#AI #Tennis #SportsTech
+
+LINK:
+https://techbullion.com/the-future-of-tennis-analytics-how-apis-ai-and-point-by-point-data-are-transforming-the-sport/
+
