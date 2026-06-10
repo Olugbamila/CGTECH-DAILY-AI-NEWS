@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-06-10
+
+----------------------------------------
+ARTICLE 1: IIT Roorkee Opens Admissions for Post Graduate Certificate in Data Science, Machine Learning & Generative AI
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/iit-roorkee-opens-admissions-for-the-11th-batch-of-its-post-graduate-certificate-in-data-science-machine-learning-generative-ai/
+
+SUMMARY:
+The Indian Institute of Technology Roorkee has opened admissions for its 11th batch of the Post Graduate Certificate in Data Science, Machine Learning & Generative AI. This advanced professional program aims to provide learners with a rigorous understanding of artificial intelligence and data-led technologies. The curriculum covers foundations of data science, machine learning, deep learning, Generative AI, and MLOps. The program is designed to help participants develop capabilities to design, build, and deploy intelligent solutions in contemporary business environments. Admissions are now open for the upcoming batch.
+
+SHORT-FORM SCRIPT:
+IIT Roorkee is now accepting applications for its Post Graduate Certificate in Data Science, Machine Learning & Generative AI. Learn the skills to design, build, and deploy intelligent solutions and stay ahead in the industry.
+
+----------------------------------------
+ARTICLE 2: Reverse Mentoring: The Future of Corporate Learning in India
+Source: The Economic Times
+URL: https://economictimes.indiatimes.com/news/company/corporate-trends/gen-z-mentors-flip-the-corporate-learning-script/articleshow/131556933.cms
+
+SUMMARY:
+Indian companies are adopting reverse mentoring and cross-generational learning to help employees adapt to artificial intelligence. This approach involves younger colleagues teaching seniors about AI tools like ChatGPT, while older employees share their experience and context. The collaboration boosts empathy and shared understanding, ultimately enhancing the company's ability to leverage AI. This shift in corporate learning is expected to have a significant impact on the industry. By embracing reverse mentoring, companies can tap into the unique strengths of different generations, fostering a more inclusive and innovative work environment.
+
+SHORT-FORM SCRIPT:
+Imagine a workplace where the youngest employees are teaching the oldest about the latest AI tools. This is the reality in many Indian companies, where reverse mentoring is flipping the corporate learning script. Younger colleagues are sharing their knowledge of AI tools like ChatGPT, while older employees are providing context and experience.
+
+----------------------------------------
+ARTICLE 3: AI and ML in Health Sciences: A Necessity for the Future
+Source: The Hindu
+URL: https://www.thehindu.com/news/national/karnataka/adopting-artificial-intelligence-machine-learning-become-a-necessity-in-health-sciences-v-c-of-blde-deemed-university/article71069740.ece
+
+SUMMARY:
+The Vice-Chancellor of BLDE Deemed University emphasizes the importance of adopting artificial intelligence and machine learning in health sciences, stating it has become a necessity for students. This integration is expected to enhance the quality of healthcare and improve patient outcomes. The university's stance highlights the growing need for AI and ML in the health sciences sector. As the healthcare industry continues to evolve, the incorporation of AI and ML is becoming increasingly crucial. This shift is likely to have a significant impact on the future of healthcare and the skills required by healthcare professionals.
+
+SHORT-FORM SCRIPT:
+Imagine a future where healthcare is transformed by artificial intelligence and machine learning. The Vice-Chancellor of BLDE Deemed University says it's no longer a choice, but a necessity for students in health sciences.
+
+----------------------------------------
+ARTICLE 4: AI-Powered Snake Identification: A Breakthrough in Global Health
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0014147
+
+SUMMARY:
+Researchers have developed a deep learning-based framework for classifying Indian venomous snakes using real-world photographs, which can aid primary and emergency care providers in making timely and accurate decisions. The system has achieved high accuracy and is strengthened by visual interpretability tools and expert verification. This AI-assisted classification tool may improve early triage, rational antivenom use, and surveillance in snakebite-endemic regions. The framework addresses a significant public health concern that disproportionately affects rural populations, where delays in identifying venomous snakes can lead to delayed treatment or unnecessary use of antivenom. By combining AI with human oversight, this work provides a scalable decision-support tool for healthcare settings.
+
+SHORT-FORM SCRIPT:
+Imagine being able to quickly identify if a snake is venomous or not, just by taking a photo. Researchers have developed an AI-powered system that can do just that, using real-world images to help healthcare providers make timely decisions and save lives.
+
+----------------------------------------
+ARTICLE 5: MIT-ADT University Launches School of Artificial Intelligence
+Source: Free Press Journal
+URL: https://www.freepressjournal.in/pune/pune-mit-adt-university-launches-school-of-artificial-intelligence-opens-admissions-for-2026-27
+
+SUMMARY:
+MIT-ADT University in Pune has launched its School of Artificial Intelligence, offering a four-year undergraduate program that combines computer science with specialized AI training. The program will cover areas such as machine learning, data science, and natural language processing. Admissions for the 2026-27 academic year are now open. This move aims to prepare students for careers in the rapidly evolving AI sector. The university's initiative is a significant step towards addressing the growing demand for AI professionals.
+
+SHORT-FORM SCRIPT:
+Get ready for the future of tech! MIT-ADT University has just launched its School of Artificial Intelligence, offering a four-year program that combines computer science with AI training. From machine learning to natural language processing, this program has it all!
+
