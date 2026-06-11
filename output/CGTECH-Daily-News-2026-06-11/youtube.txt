@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-06-11
+
+----------------------------------------
+VIDEO TITLE:
+IIT Roorkee Opens Admissions for Post Graduate Certificate in Data Science, Machine Learning & Generative AI
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the latest development in the world of AI and data science. IIT Roorkee has opened admissions for its 11th batch of the Post Graduate Certificate in Data Science, Machine Learning & Generative AI. This program is perfect for professionals looking to upskill and stay ahead of the curve. In this video, we'll be exploring the details of the program, its curriculum, and what you can expect to learn. We'll also be discussing the benefits of pursuing a program like this and how it can help you succeed in your career.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/iit-roorkee-opens-admissions-for-the-11th-batch-of-its-post-graduate-certificate-in-data-science-machine-learning-generative-ai/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Reverse Mentoring: How Indian Companies Are Flipping the Corporate Learning Script
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest trends in AI and the future of work. Today, we're talking about reverse mentoring, a approach being used in Indian companies to help employees adapt to artificial intelligence. Younger colleagues are teaching older employees about AI tools like ChatGPT, while older employees are sharing their experience and context. This collaboration is boosting empathy and shared understanding, and allowing companies to better utilize AI. In this video, we'll take a closer look at how reverse mentoring is being used in Indian companies, and explore the benefits and challenges of this approach.
+
+REFERENCE LINK:
+https://economictimes.indiatimes.com/news/company/corporate-trends/gen-z-mentors-flip-the-corporate-learning-script/articleshow/131556933.cms
+
+CTA:
+Follow CGTECH for daily AI updates and learn more about how you can implement reverse mentoring in your own company.
+
+----------------------------------------
+VIDEO TITLE:
+AI and ML in Health Sciences: A Necessity for the Future
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in artificial intelligence and machine learning. Today, we're discussing the importance of adopting these technologies in health sciences. The Vice-Chancellor of BLDE Deemed University has emphasized that AI and ML are no longer optional, but a necessity for students. We'll be diving into the reasons behind this shift and what it means for the future of healthcare. From improving patient outcomes to streamlining medical research, the potential applications of AI and ML are vast. Join us as we examine the intersection of technology and healthcare and what it holds for the next generation of medical professionals.
+
+REFERENCE LINK:
+https://www.thehindu.com/news/national/karnataka/adopting-artificial-intelligence-machine-learning-become-a-necessity-in-health-sciences-v-c-of-blde-deemed-university/article71069740.ece
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Snake Identification: A Game-Changer for Healthcare
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and their impact on society. Today, we're talking about a groundbreaking innovation in snake identification. A new AI-powered framework can classify Indian venomous snakes using images, which can aid primary and emergency care providers in rural areas. This technology has the potential to improve early triage, rational antivenom use, and surveillance in snakebite-endemic regions. In this video, we'll delve into the details of this framework, its development, and its potential applications. We'll also discuss the broader implications of AI in healthcare and how it can be leveraged to address public health concerns.
+
+REFERENCE LINK:
+https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0014147
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+MIT-ADT University Launches School of Artificial Intelligence
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the launch of MIT-ADT University's School of Artificial Intelligence. This exciting new program offers students a four-year undergraduate degree that combines a strong computer science foundation with specialized training in emerging AI technologies. From machine learning to natural language processing, this program has it all. We'll be exploring the details of the program, including the curriculum and admission requirements. Stay tuned for more information and insights!
+
+REFERENCE LINK:
+https://www.freepressjournal.in/pune/pune-mit-adt-university-launches-school-of-artificial-intelligence-opens-admissions-for-2026-27
+
+CTA:
+Follow CGTECH for daily AI updates.
+

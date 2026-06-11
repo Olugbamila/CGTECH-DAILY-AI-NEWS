@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-06-11
+
+----------------------------------------
+ARTICLE 1: IIT Roorkee Opens Admissions for Post Graduate Certificate in Data Science, Machine Learning & Generative AI
+Source: The Tribune
+Link: https://www.tribuneindia.com/news/business/iit-roorkee-opens-admissions-for-the-11th-batch-of-its-post-graduate-certificate-in-data-science-machine-learning-generative-ai/
+
+POST:
+Exciting news for tech professionals! IIT Roorkee has opened admissions for its Post Graduate Certificate in Data Science, Machine Learning & Generative AI. This advanced program is designed to help you develop the skills you need to succeed in today's fast-paced business environment. With its comprehensive curriculum and application-led approach, you'll learn the latest in AI and data science. Check out the program details and consider applying today! Follow CGTECH for daily AI updates.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: Reverse Mentoring: How Indian Companies Are Flipping the Corporate Learning Script
+Source: The Economic Times
+Link: https://economictimes.indiatimes.com/news/company/corporate-trends/gen-z-mentors-flip-the-corporate-learning-script/articleshow/131556933.cms
+
+POST:
+Have you heard about the latest trend in corporate learning? Indian companies are adopting reverse mentoring, where younger colleagues teach older employees about the latest AI tools like ChatGPT. This approach is not only helping employees adapt to artificial intelligence, but also boosting empathy and shared understanding. By embracing reverse mentoring, companies can create a more inclusive and innovative work environment. Follow CGTECH for daily AI updates and learn more about how you can implement reverse mentoring in your own company.
+
+CTA:
+Follow CGTECH for daily AI updates and learn more about how you can implement reverse mentoring in your own company.
+
+----------------------------------------
+ARTICLE 3: AI and ML in Health Sciences: A Necessity for the Future
+Source: The Hindu
+Link: https://www.thehindu.com/news/national/karnataka/adopting-artificial-intelligence-machine-learning-become-a-necessity-in-health-sciences-v-c-of-blde-deemed-university/article71069740.ece
+
+POST:
+The Vice-Chancellor of BLDE Deemed University is making a bold statement about the future of healthcare: artificial intelligence and machine learning are no longer optional, they're a necessity. This shift is expected to revolutionize the way we approach patient care and medical research. By incorporating AI and ML into their curriculum, the university is taking a proactive approach to preparing students for the future of healthcare. What do you think about the role of AI and ML in healthcare? Share your thoughts! Follow CGTECH for daily AI updates.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 4: AI-Powered Snake Identification: A Game-Changer for Healthcare
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0014147
+
+POST:
+Snakebite envenoming is a significant global health crisis that affects millions of people, especially in rural communities. But what if I told you that a new AI-powered framework can help identify venomous snakes with just a photo? This innovative technology has the potential to improve early triage, rational antivenom use, and surveillance in snakebite-endemic regions. The framework combines AI-assisted classification with human oversight, ensuring the reliability of the system. Follow CGTECH for daily AI updates and learn more about how technology is transforming healthcare.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 5: MIT-ADT University Launches School of Artificial Intelligence
+Source: Free Press Journal
+Link: https://www.freepressjournal.in/pune/pune-mit-adt-university-launches-school-of-artificial-intelligence-opens-admissions-for-2026-27
+
+POST:
+Exciting news for tech enthusiasts! MIT-ADT University has just launched its School of Artificial Intelligence, offering a comprehensive four-year program in AI and computer science. With admissions now open for the 2026-27 academic year, this is a great opportunity for students to gain a competitive edge in the industry. The program will cover a range of topics, including machine learning, data science, and natural language processing. Follow CGTECH for daily AI updates and stay informed about the latest developments in the tech world!
+
+CTA:
+Follow CGTECH for daily AI updates.
+
