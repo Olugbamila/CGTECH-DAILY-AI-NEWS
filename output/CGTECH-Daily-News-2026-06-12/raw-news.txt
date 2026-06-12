@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-06-12
+
+----------------------------------------
+ARTICLE 1: GPU as a Service Market to Reach $14.4 Billion by 2033
+Source: PR Newswire UK
+URL: https://www.prnewswire.co.uk/news-releases/gpu-as-a-service-market-to-reach-usd-14-4-billion-by-2033-at-16-0-cagr-fueled-by-generative-ai-machine-learning-and-cloud-infrastructure-expansion---grand-view-research-inc-302798324.html
+
+SUMMARY:
+The global GPU as a Service market is expected to reach USD 14.4 billion by 2033, growing at a CAGR of 16.0%, driven by increasing investments in artificial intelligence, machine learning, and cloud infrastructure. This expansion is fueled by the rising demand for high-performance computing and advanced technologies. The market growth is also attributed to the adoption of generative AI and cloud infrastructure expansion. As enterprises continue to accelerate their investments in these areas, the GPUaaS market is poised for substantial growth. The market is expected to experience significant expansion over the next few years, with major players investing heavily in research and development.
+
+SHORT-FORM SCRIPT:
+Imagine a world where computing power is limitless. The GPU as a Service market is booming, expected to reach $14.4 billion by 2033. What does this mean for AI, machine learning, and cloud infrastructure?
+
+----------------------------------------
+ARTICLE 2: IIT Roorkee Opens Admissions for Post Graduate Certificate in Data Science, Machine Learning, and Generative AI
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/iit-roorkee-opens-admissions-for-the-11th-batch-of-its-post-graduate-certificate-in-data-science-machine-learning-generative-ai/
+
+SUMMARY:
+The Indian Institute of Technology Roorkee has opened admissions for its 11th batch of the Post Graduate Certificate in Data Science, Machine Learning, and Generative AI. This advanced professional program aims to provide learners with a rigorous and application-led understanding of artificial intelligence and data-led technologies. The curriculum covers foundations of data science, machine learning, deep learning, Generative AI, and MLOps, enabling participants to design, build, and deploy intelligent solutions in contemporary business environments. The program is designed for professionals seeking to enhance their skills in AI and data science. Admissions are now open for the 11th batch.
+
+SHORT-FORM SCRIPT:
+IIT Roorkee is now accepting applications for its Post Graduate Certificate in Data Science, Machine Learning, and Generative AI. Learn the skills to design, build, and deploy intelligent solutions and take your career to the next level.
+
+----------------------------------------
+ARTICLE 3: Gen Z Mentors Flip the Corporate Learning Script
+Source: The Economic Times
+URL: https://economictimes.indiatimes.com/news/company/corporate-trends/gen-z-mentors-flip-the-corporate-learning-script/articleshow/131556933.cms
+
+SUMMARY:
+Indian companies are adopting reverse mentoring and cross-generational learning to help employees adapt to artificial intelligence. Younger colleagues are teaching seniors about AI tools like ChatGPT, while older employees share their experience and context. This collaboration boosts empathy and shared understanding. The approach helps companies stay competitive in a rapidly changing technological landscape. By flipping the traditional corporate learning script, companies can tap into the strengths of different generations.
+
+SHORT-FORM SCRIPT:
+Imagine a workplace where the youngest employees are teaching the oldest about the latest AI tools. That's what's happening in Indian companies, where reverse mentoring is flipping the corporate learning script. Younger colleagues are sharing their knowledge of AI tools like ChatGPT, while older employees are sharing their experience and context.
+
+----------------------------------------
+ARTICLE 4: The AI Revolution in Health Sciences: Why Adoption is No Longer a Choice
+Source: The Hindu
+URL: https://www.thehindu.com/news/national/karnataka/adopting-artificial-intelligence-machine-learning-become-a-necessity-in-health-sciences-v-c-of-blde-deemed-university/article71069740.ece
+
+SUMMARY:
+The Vice-Chancellor of BLDE Deemed University, Arun C. Inamadar, emphasizes the importance of adopting artificial intelligence and machine learning in health sciences. He believes it is a necessity for students to stay relevant in the field. The integration of AI and ML in health sciences can lead to improved patient outcomes, more efficient diagnosis, and personalized treatment plans. As technology continues to advance, it is crucial for educational institutions to incorporate AI and ML into their curriculum. This will enable students to develop the necessary skills to succeed in the rapidly evolving healthcare industry.
+
+SHORT-FORM SCRIPT:
+Artificial intelligence and machine learning are no longer just buzzwords in health sciences. They're a necessity for students to stay ahead in the game. With AI and ML, we can improve patient outcomes, diagnose diseases more efficiently, and create personalized treatment plans.
+
+----------------------------------------
+ARTICLE 5: AI-Powered Snake Identification: A Breakthrough in Global Health
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0014147
+
+SUMMARY:
+Researchers have developed a deep learning-based framework for classifying Indian venomous snakes using images, which can aid primary and emergency care providers in rural areas. The system was trained on real-world photographs taken in emergency situations and achieved high accuracy. The framework combines AI-assisted classification with human oversight, providing a scalable decision-support tool for improving early triage, antivenom use, and surveillance in snakebite-endemic regions. This innovation addresses the significant public health concern of snakebite envenoming, which disproportionately affects rural populations. By leveraging AI and explainable artificial intelligence, the framework ensures reliability and visual interpretability.
+
+SHORT-FORM SCRIPT:
+Imagine being able to identify a venomous snake with just a photo. Researchers have created an AI-powered framework to do just that, helping healthcare providers in rural areas make quick and accurate decisions.
+

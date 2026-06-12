@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-06-12
+
+----------------------------------------
+VIDEO TITLE:
+GPU as a Service Market to Reach $14.4 Billion by 2033
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in technology. Today, we're talking about the GPU as a Service market, which is expected to reach $14.4 billion by 2033. But what's driving this growth, and what does it mean for the future of computing? In this video, we'll break down the key trends and innovations that are shaping the GPUaaS market, and discuss the implications for businesses and individuals alike. From artificial intelligence to cloud infrastructure expansion, we'll cover it all. So, let's dive in and explore the world of GPU as a Service.
+
+REFERENCE LINK:
+https://www.prnewswire.co.uk/news-releases/gpu-as-a-service-market-to-reach-usd-14-4-billion-by-2033-at-16-0-cagr-fueled-by-generative-ai-machine-learning-and-cloud-infrastructure-expansion---grand-view-research-inc-302798324.html
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+IIT Roorkee Opens Admissions for Post Graduate Certificate in Data Science, Machine Learning, and Generative AI
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel! Today, we're excited to share with you an opportunity to enhance your skills in data science, machine learning, and Generative AI. IIT Roorkee has opened admissions for its 11th batch of the Post Graduate Certificate in Data Science, Machine Learning, and Generative AI. This advanced professional program is designed to provide learners with a rigorous and application-led understanding of artificial intelligence and data-led technologies. In this video, we'll take a closer look at the program's curriculum, its benefits, and how it can help you take your career to the next level. So, let's get started!
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/iit-roorkee-opens-admissions-for-the-11th-batch-of-its-post-graduate-certificate-in-data-science-machine-learning-generative-ai/
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+Gen Z Mentors Flip the Corporate Learning Script
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest trends and innovations in AI. Today, we're talking about the reverse mentoring approach being adopted by Indian companies. This innovative strategy is flipping the corporate learning script, where younger colleagues are teaching seniors about AI tools like ChatGPT, while older employees are sharing their experience and context. Let's dive deeper into this topic and explore how it's helping companies stay competitive in a rapidly changing technological landscape.
+
+REFERENCE LINK:
+https://economictimes.indiatimes.com/news/company/corporate-trends/gen-z-mentors-flip-the-corporate-learning-script/articleshow/131556933.cms
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+The AI Revolution in Health Sciences: Why Adoption is No Longer a Choice
+
+SCRIPT (1–2 MINUTES):
+Introduction to the importance of AI and ML in health sciences. The Vice-Chancellor of BLDE Deemed University, Arun C. Inamadar, emphasizes the need for students to develop skills in AI and ML to succeed in the healthcare industry. We'll explore the benefits of integrating AI and ML into health sciences, including improved patient outcomes, efficient diagnosis, and personalized treatment plans. We'll also discuss the challenges and opportunities that come with adopting these technologies.
+
+REFERENCE LINK:
+https://www.thehindu.com/news/national/karnataka/adopting-artificial-intelligence-machine-learning-become-a-necessity-in-health-sciences-v-c-of-blde-deemed-university/article71069740.ece
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Snake Identification: A Breakthrough in Global Health
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and their applications in various fields. Today, we're discussing a groundbreaking research on AI-powered snake identification. Researchers have developed a deep learning-based framework that can classify Indian venomous snakes using images, which can aid primary and emergency care providers in rural areas. This innovation has the potential to improve early triage, rational antivenom use, and surveillance in snakebite-endemic regions. Let's dive deeper into this research and its implications for global health.
+
+REFERENCE LINK:
+https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0014147
+
+CTA:
+Follow CGTECH for daily AI updates and stay informed about the latest advancements in technology and healthcare.
+
