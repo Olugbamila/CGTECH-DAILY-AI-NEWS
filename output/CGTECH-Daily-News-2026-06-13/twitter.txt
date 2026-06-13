@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-06-13
+
+----------------------------------------
+ARTICLE 1: GPU as a Service Market to Reach $14.4 Billion by 2033
+TWEET:
+GPU as a Service market to reach $14.4 billion by 2033! Driven by AI, ML, and cloud infrastructure expansion. What's your take on this growing trend? #AI #MachineLearning #CloudComputing
+
+HASHTAGS:
+#AI #MachineLearning #CloudComputing #GPUaaS
+
+LINK:
+https://www.prnewswire.co.uk/news-releases/gpu-as-a-service-market-to-reach-usd-14-4-billion-by-2033-at-16-0-cagr-fueled-by-generative-ai-machine-learning-and-cloud-infrastructure-expansion---grand-view-research-inc-302798324.html
+
+----------------------------------------
+ARTICLE 2: IIT Roorkee Opens Admissions for Post Graduate Certificate in Data Science, Machine Learning & Generative AI
+TWEET:
+IIT Roorkee opens admissions for 11th batch of Post Graduate Certificate in Data Science, Machine Learning & Generative AI! Perfect for those looking to upskill in AI and data science. Follow CGTECH for daily AI updates. #AI #DataScience
+
+HASHTAGS:
+#AI #DataScience #MachineLearning
+
+LINK:
+https://www.tribuneindia.com/news/business/iit-roorkee-opens-admissions-for-the-11th-batch-of-its-post-graduate-certificate-in-data-science-machine-learning-generative-ai/
+
+----------------------------------------
+ARTICLE 3: Reverse Mentoring: Flipping the Corporate Learning Script
+TWEET:
+Reverse mentoring is flipping the corporate learning script in India! Younger colleagues are teaching older employees about AI tools like ChatGPT, while older employees share their experience and context. #AI #Innovation #FutureOfWork
+
+HASHTAGS:
+#AI #Innovation #FutureOfWork #ReverseMentoring
+
+LINK:
+https://economictimes.indiatimes.com/news/company/corporate-trends/gen-z-mentors-flip-the-corporate-learning-script/articleshow/131556933.cms
+
+----------------------------------------
+ARTICLE 4: The Necessity of AI and Machine Learning in Health Sciences
+TWEET:
+AI & ML are no longer optional in health sciences! The Vice-Chancellor of BLDE Deemed University says they're a necessity for students' future careers. #AI #Healthcare #MachineLearning
+
+HASHTAGS:
+#AI #MachineLearning #Healthcare
+
+LINK:
+https://www.thehindu.com/news/national/karnataka/adopting-artificial-intelligence-machine-learning-become-a-necessity-in-health-sciences-v-c-of-blde-deemed-university/article71069740.ece
+
+----------------------------------------
+ARTICLE 5: AI-Powered Snake Identification: A Breakthrough in Healthcare Technology
+TWEET:
+AI-powered snake identification is here! Researchers develop a deep learning-based framework to classify Indian venomous snakes, improving treatment outcomes in emergency situations. #AI #Snakebite #Healthcare
+
+HASHTAGS:
+#AI #Snakebite #Healthcare
+
+LINK:
+https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0014147
+
