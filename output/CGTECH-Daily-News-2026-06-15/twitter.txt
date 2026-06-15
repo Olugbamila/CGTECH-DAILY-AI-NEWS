@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-06-15
+
+----------------------------------------
+ARTICLE 1: GPU as a Service Market to Reach $14.4B by 2033
+TWEET:
+GPU as a Service market to reach $14.4B by 2033! Driven by AI, machine learning, and cloud infrastructure expansion. What's your take on this growth? #AI #TechNews #GPUaaS
+
+HASHTAGS:
+#AI #TechNews #GPUaaS
+
+LINK:
+https://www.prnewswire.co.uk/news-releases/gpu-as-a-service-market-to-reach-usd-14-4-billion-by-2033-at-16-0-cagr-fueled-by-generative-ai-machine-learning-and-cloud-infrastructure-expansion---grand-view-research-inc-302798324.html
+
+----------------------------------------
+ARTICLE 2: IIT Roorkee Opens Admissions for 11th Post Graduate Certificate in Data Science, Machine Learning, & Generative AI
+TWEET:
+IIT Roorkee opens admissions for 11th Post Graduate Certificate in Data Science, Machine Learning, & Generative AI! Perfect for pros looking to upskill in AI and data science. #AI #DataScience #MachineLearning
+
+HASHTAGS:
+#AI #DataScience #MachineLearning #GenerativeAI
+
+LINK:
+https://www.tribuneindia.com/news/business/iit-roorkee-opens-admissions-for-the-11th-batch-of-its-post-graduate-certificate-in-data-science-machine-learning-generative-ai/
+
+----------------------------------------
+ARTICLE 3: Gen Z Mentors Flip the Corporate Learning Script
+TWEET:
+Reverse mentoring is flipping the corporate learning script in India! Younger colleagues are teaching seniors about AI tools like ChatGPT, while older employees share their experience. #AI #ReverseMentoring #CorporateLearning
+
+HASHTAGS:
+#AI #ReverseMentoring #CorporateLearning
+
+LINK:
+https://economictimes.indiatimes.com/news/company/corporate-trends/gen-z-mentors-flip-the-corporate-learning-script/articleshow/131556933.cms
+
+----------------------------------------
+ARTICLE 4: AI and Machine Learning: The Future of Health Sciences
+TWEET:
+AI and machine learning are now a necessity in health sciences! The future of healthcare depends on it. #AI #Healthcare #MachineLearning
+
+HASHTAGS:
+#AI #Healthcare #MachineLearning
+
+LINK:
+https://www.thehindu.com/news/national/karnataka/adopting-artificial-intelligence-machine-learning-become-a-necessity-in-health-sciences-v-c-of-blde-deemed-university/article71069740.ece
+
+----------------------------------------
+ARTICLE 5: AI-Powered Snakebite Identification: A Breakthrough in Global Health
+TWEET:
+Breaking: AI-powered system developed to identify venomous snakes in emergency situations! This innovation has the potential to save lives and improve healthcare in snakebite-endemic regions. #AI #Snakebite #Healthcare
+
+HASHTAGS:
+#AI #Snakebite #Healthcare #TechNews
+
+LINK:
+https://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0014147
+
