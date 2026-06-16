@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-06-16
+
+----------------------------------------
+ARTICLE 1: NASA Trains AI on Billions of Earth Observations to Accelerate Climate Research
+TWEET:
+NASA is training AI on billions of Earth observations to accelerate climate research! This combo of AI, machine learning, and Earth science could be a game-changer. #AI #ClimateResearch #NASA
+
+HASHTAGS:
+#AI #ClimateResearch #NASA #MachineLearning
+
+LINK:
+https://economictimes.indiatimes.com/ai/ai-insights/nasa-is-training-ai-on-billions-of-earth-observations-and-the-results-could-change-climate-research/articleshow/131746508.cms
+
+----------------------------------------
+ARTICLE 2: GPU as a Service Market to Reach $14.4B by 2033
+TWEET:
+GPU as a Service market to reach $14.4B by 2033! Driven by AI, machine learning, and cloud infrastructure. What's your take on this growth? #AI #GPUaaS #TechNews
+
+HASHTAGS:
+#AI #GPUaaS #TechNews
+
+LINK:
+https://www.prnewswire.co.uk/news-releases/gpu-as-a-service-market-to-reach-usd-14-4-billion-by-2033-at-16-0-cagr-fueled-by-generative-ai-machine-learning-and-cloud-infrastructure-expansion---grand-view-research-inc-302798324.html
+
+----------------------------------------
+ARTICLE 3: IIT Roorkee Opens Admissions for Post Graduate Certificate in Data Science, Machine Learning & Generative AI
+TWEET:
+IIT Roorkee opens admissions for Post Graduate Certificate in Data Science, Machine Learning & Generative AI! Boost your career with this advanced program. Follow CGTECH for AI updates #AI #DataScience
+
+HASHTAGS:
+#AI #DataScience #MachineLearning
+
+LINK:
+https://www.tribuneindia.com/news/business/iit-roorkee-opens-admissions-for-the-11th-batch-of-its-post-graduate-certificate-in-data-science-machine-learning-generative-ai/
+
+----------------------------------------
+ARTICLE 4: Reverse Mentoring: The Future of Corporate Learning in the Age of AI
+TWEET:
+Reverse mentoring is flipping the corporate learning script in India! Younger colleagues are teaching seniors about AI tools like ChatGPT, while older employees share their experience and context. #AI #ReverseMentoring #CorporateLearning
+
+HASHTAGS:
+#AI #ReverseMentoring #CorporateLearning
+
+LINK:
+https://economictimes.indiatimes.com/news/company/corporate-trends/gen-z-mentors-flip-the-corporate-learning-script/articleshow/131556933.cms
+
+----------------------------------------
+ARTICLE 5: The Future of Healthcare: Why AI and Machine Learning Are a Necessity
+TWEET:
+AI & machine learning are becoming a necessity in health sciences! The Vice-Chancellor of BLDE Deemed University highlights the importance of adopting these technologies for the future of healthcare. #AI #Healthcare
+
+HASHTAGS:
+#AI #Healthcare #MachineLearning
+
+LINK:
+https://www.thehindu.com/news/national/karnataka/adopting-artificial-intelligence-machine-learning-become-a-necessity-in-health-sciences-v-c-of-blde-deemed-university/article71069740.ece
+

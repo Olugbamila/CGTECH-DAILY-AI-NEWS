@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-06-16
+
+----------------------------------------
+VIDEO TITLE:
+NASA Trains AI on Billions of Earth Observations to Accelerate Climate Research
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and their impact on various industries. Today, we're discussing NASA's innovative approach to using artificial intelligence and machine learning to analyze billions of Earth observation records. This technology has the potential to significantly accelerate climate research and improve environmental monitoring. Let's dive into the details of this initiative and explore how it could change the face of climate research. From the combination of AI, machine learning, and Earth science to the potential discoveries and insights, we'll cover it all.
+
+REFERENCE LINK:
+https://economictimes.indiatimes.com/ai/ai-insights/nasa-is-training-ai-on-billions-of-earth-observations-and-the-results-could-change-climate-research/articleshow/131746508.cms
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+GPU as a Service Market to Reach $14.4B by 2033
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the rapid growth of the GPU as a Service market, which is expected to reach 14.4 billion dollars by 2033. We'll explore the key drivers behind this expansion, including the increasing adoption of AI, machine learning, and cloud infrastructure. We'll also examine the opportunities and challenges presented by this shift and what it means for the future of tech. So, let's dive in and explore the world of GPUaaS.
+
+REFERENCE LINK:
+https://www.prnewswire.co.uk/news-releases/gpu-as-a-service-market-to-reach-usd-14-4-billion-by-2033-at-16-0-cagr-fueled-by-generative-ai-machine-learning-and-cloud-infrastructure-expansion---grand-view-research-inc-302798324.html
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+IIT Roorkee Opens Admissions for Post Graduate Certificate in Data Science, Machine Learning & Generative AI
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the latest development in the field of AI and data science education. IIT Roorkee has opened admissions for its 11th batch of the Post Graduate Certificate in Data Science, Machine Learning & Generative AI. In this video, we'll take a closer look at the program's curriculum, its benefits, and what you can expect to learn. Whether you're a professional looking to transition into the field of AI and data science or an entrepreneur looking to leverage AI to drive business innovation, this program is definitely worth considering. So, let's dive in and explore the details!
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/iit-roorkee-opens-admissions-for-the-11th-batch-of-its-post-graduate-certificate-in-data-science-machine-learning-generative-ai/
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how to stay ahead in the field.
+
+----------------------------------------
+VIDEO TITLE:
+Reverse Mentoring: The Future of Corporate Learning in the Age of AI
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest trends and innovations in AI and technology. Today, we're talking about reverse mentoring and cross-generational learning in the corporate world. Indian companies are embracing this approach to help employees adapt to artificial intelligence, and the results are impressive. From younger colleagues teaching seniors about AI tools like ChatGPT, to older employees sharing their experience and context, this collaborative mindset is driving business success and fostering empathy and shared understanding. Let's dive in and explore this topic further.
+
+REFERENCE LINK:
+https://economictimes.indiatimes.com/news/company/corporate-trends/gen-z-mentors-flip-the-corporate-learning-script/articleshow/131556933.cms
+
+CTA:
+Follow CGTECH for daily AI updates and learn more about this innovative approach!
+
+----------------------------------------
+VIDEO TITLE:
+The Future of Healthcare: Why AI and Machine Learning Are a Necessity
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest trends and innovations in AI and healthcare. Today, we're discussing the importance of adopting artificial intelligence and machine learning in health sciences. The Vice-Chancellor of BLDE Deemed University is highlighting the need for students to be equipped with the skills to navigate this new landscape. But what does this mean for the future of healthcare? Let's dive in and find out. From enhanced patient care to improved health outcomes, the possibilities are endless. Join us as we explore the many opportunities that AI and machine learning have to offer in the healthcare industry.
+
+REFERENCE LINK:
+https://www.thehindu.com/news/national/karnataka/adopting-artificial-intelligence-machine-learning-become-a-necessity-in-health-sciences-v-c-of-blde-deemed-university/article71069740.ece
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve!
+

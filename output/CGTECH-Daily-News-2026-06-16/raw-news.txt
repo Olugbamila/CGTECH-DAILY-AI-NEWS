@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-06-16
+
+----------------------------------------
+ARTICLE 1: NASA Trains AI on Billions of Earth Observations to Accelerate Climate Research
+Source: The Economic Times
+URL: https://economictimes.indiatimes.com/ai/ai-insights/nasa-is-training-ai-on-billions-of-earth-observations-and-the-results-could-change-climate-research/articleshow/131746508.cms
+
+SUMMARY:
+NASA is utilizing artificial intelligence and machine learning to analyze billions of Earth observation records, aiming to accelerate climate research and improve environmental monitoring. This initiative combines AI, machine learning, and Earth science to uncover hidden patterns and transform satellite data into actionable insights. By expanding its AI strategy, NASA seeks to make the most of decades of Earth observation data. The agency's efforts could significantly impact climate research and environmental monitoring. This development highlights the growing importance of AI in scientific research and discovery.
+
+SHORT-FORM SCRIPT:
+NASA is training AI on billions of Earth observations to accelerate climate research. This game-changing technology combines AI, machine learning, and Earth science to uncover hidden patterns and improve environmental monitoring.
+
+----------------------------------------
+ARTICLE 2: GPU as a Service Market to Reach $14.4B by 2033
+Source: PR Newswire UK
+URL: https://www.prnewswire.co.uk/news-releases/gpu-as-a-service-market-to-reach-usd-14-4-billion-by-2033-at-16-0-cagr-fueled-by-generative-ai-machine-learning-and-cloud-infrastructure-expansion---grand-view-research-inc-302798324.html
+
+SUMMARY:
+The global GPU as a Service market is expected to reach USD 14.4 billion by 2033, growing at a CAGR of 16.0%. This expansion is driven by increasing investments in artificial intelligence, machine learning, and cloud infrastructure. The market growth is also fueled by the adoption of generative AI and high-performance computing. As enterprises continue to accelerate their digital transformation, the demand for GPUaaS is anticipated to rise. The market is poised for substantial expansion, with key players investing heavily in research and development.
+
+SHORT-FORM SCRIPT:
+Get ready for a GPU revolution! The GPU as a Service market is expected to reach 14.4 billion dollars by 2033, driven by AI, machine learning, and cloud infrastructure. What does this mean for the future of tech?
+
+----------------------------------------
+ARTICLE 3: IIT Roorkee Opens Admissions for Post Graduate Certificate in Data Science, Machine Learning & Generative AI
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/iit-roorkee-opens-admissions-for-the-11th-batch-of-its-post-graduate-certificate-in-data-science-machine-learning-generative-ai/
+
+SUMMARY:
+The Indian Institute of Technology Roorkee has opened admissions for its 11th batch of the Post Graduate Certificate in Data Science, Machine Learning & Generative AI. This advanced professional program is designed to provide a rigorous and application-led understanding of artificial intelligence and data-led technologies. The curriculum covers the foundations of data science, machine learning, deep learning, Generative AI, and MLOps. The program aims to enable participants to develop the capabilities required to design, build, and deploy intelligent solutions in contemporary business environments. The admission process is now open for interested learners.
+
+SHORT-FORM SCRIPT:
+IIT Roorkee is now accepting applications for its Post Graduate Certificate in Data Science, Machine Learning & Generative AI. Learn the skills you need to succeed in AI and data science.
+
+----------------------------------------
+ARTICLE 4: Reverse Mentoring: The Future of Corporate Learning in the Age of AI
+Source: The Economic Times
+URL: https://economictimes.indiatimes.com/news/company/corporate-trends/gen-z-mentors-flip-the-corporate-learning-script/articleshow/131556933.cms
+
+SUMMARY:
+Indian companies are adopting reverse mentoring and cross-generational learning to help employees adapt to artificial intelligence. This approach involves younger colleagues teaching seniors about AI tools like ChatGPT, while older employees share their experience and context. The collaboration boosts empathy and shared understanding, ultimately driving business success. By flipping the traditional corporate learning script, companies can stay ahead of the curve in an increasingly AI-driven world. This innovative approach is being hailed as a key strategy for success in the modern workplace.
+
+SHORT-FORM SCRIPT:
+Imagine a workplace where the youngest employees are teaching the oldest about the latest AI tools. This is the reality in many Indian companies, where reverse mentoring is flipping the corporate learning script. Younger colleagues are sharing their knowledge of AI tools like ChatGPT, while older employees are sharing their experience and context.
+
+----------------------------------------
+ARTICLE 5: The Future of Healthcare: Why AI and Machine Learning Are a Necessity
+Source: The Hindu
+URL: https://www.thehindu.com/news/national/karnataka/adopting-artificial-intelligence-machine-learning-become-a-necessity-in-health-sciences-v-c-of-blde-deemed-university/article71069740.ece
+
+SUMMARY:
+The Vice-Chancellor of BLDE Deemed University emphasizes the importance of adopting artificial intelligence and machine learning in health sciences, citing it as a necessity for students' future careers. This shift is expected to enhance the quality of healthcare and improve patient outcomes. As the healthcare industry continues to evolve, AI and machine learning will play a vital role in shaping its future. The integration of these technologies will enable healthcare professionals to make more accurate diagnoses and develop more effective treatment plans. This, in turn, will lead to better patient care and improved health outcomes.
+
+SHORT-FORM SCRIPT:
+Artificial intelligence and machine learning are no longer just buzzwords in the healthcare industry. They're becoming a necessity, especially for students pursuing a career in health sciences.
+
