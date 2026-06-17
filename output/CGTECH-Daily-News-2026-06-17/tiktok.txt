@@ -1,0 +1,139 @@
+=== CGTECH — TIKTOK/IG/SHORTS PACK ===
+Date: 2026-06-17
+
+----------------------------------------
+ARTICLE 1: AI Model Detects Early Heart Disease in ECGs with 94.2% Accuracy
+
+HOOK:
+What if a simple ECG could reveal the secrets to detecting heart disease early? Now, it can, thanks to a revolutionary AI model.
+
+SCRIPT (SPOKEN):
+Imagine a world where AI can detect heart disease from just an ECG. Researchers have made a breakthrough using a language-based AI model, achieving 94.2% accuracy. This could change the game for early detection and treatment.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The AI model is based on Transformer architecture, originally developed for language processing.
+  B-roll: Visuals of code, programming languages, and AI models
+
+Scene 2:
+  Narration: Researchers tested the model using data from several well-known medical datasets.
+  B-roll: Footage of medical equipment, ECGs, and healthcare professionals
+
+Scene 3:
+  Narration: The model achieved 94.2% accuracy in detecting early heart disease.
+  B-roll: Visuals of graphs, charts, and data analysis
+
+HASHTAGS:
+#AI #AITools #HealthcareTech #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 2: Canada Launches AI-Powered Immigration Processing
+
+HOOK:
+Imagine a world where visa applications are processed in seconds, not months. Canada's new AI-powered immigration system is making that a reality.
+
+SCRIPT (SPOKEN):
+Canada is revolutionizing immigration with AI. Machine learning models and computer vision tools are being used to scan visa applications and identify inconsistencies. This means faster and more efficient processing, but also zero room for error.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Canada is at the forefront of innovation with its official AI Strategy for immigration processing.
+  B-roll: Footage of Canadian landmarks, such as the Toronto skyline or the Parliament buildings in Ottawa, with a futuristic twist, such as robots or drones flying in the background.
+
+Scene 2:
+  Narration: Machine learning models and computer vision tools are being used to scan visa applications and identify inconsistencies.
+  B-roll: Visuals of computers and servers processing data, with code and algorithms flashing on the screens, and a dashboard displaying statistics and analytics.
+
+Scene 3:
+  Narration: The use of AI aims to reduce errors and filter out weak or flawed applications before they reach a human officer.
+  B-roll: Footage of immigration officers reviewing applications, with a red 'rejected' stamp or a green 'approved' checkmark appearing on the screen, and a graph showing the decrease in errors and increase in efficiency.
+
+HASHTAGS:
+#AI #AITools #Immigration #Canada
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 3: NASA Trains AI on Billions of Earth Observations to Accelerate Climate Research
+
+HOOK:
+Imagine being able to analyze billions of Earth observations in seconds, uncovering hidden patterns and driving breakthroughs in climate research. NASA is making this a reality with AI.
+
+SCRIPT (SPOKEN):
+NASA is using AI to analyze billions of Earth observations, accelerating climate research and improving environmental monitoring. This game-changing approach combines decades of satellite data with AI capabilities, uncovering hidden patterns and transforming data into actionable insights.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: NASA is leveraging artificial intelligence to analyze billions of Earth observation records.
+  B-roll: Satellite images of the Earth, NASA logos, and AI-related visuals such as dashboards and coding screens.
+
+Scene 2:
+  Narration: This initiative combines decades of satellite data with AI capabilities, aiming to uncover hidden patterns and transform data into actionable scientific insights.
+  B-roll: Scientists working with computers, climate-related graphics, and environmental monitoring equipment such as sensors and drones.
+
+HASHTAGS:
+#AI #AITools #ClimateChange #Sustainability
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 4: GPU as a Service Market to Reach $14.4 Billion by 2033
+
+HOOK:
+Imagine having access to limitless GPU power, fueling your AI and machine learning projects. The future is here, and it's called GPU as a Service.
+
+SCRIPT (SPOKEN):
+Imagine a world where GPUs are readily available as a service, powering AI, machine learning, and high-performance computing. The GPU as a Service market is booming, expected to reach $14.4 billion by 2033, with a 16% annual growth rate.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The GPU as a Service market is expected to reach $14.4 billion by 2033.
+  B-roll: Animated graphs and charts showing market growth, with a background of servers and data centers.
+
+Scene 2:
+  Narration: This growth is driven by the increasing adoption of artificial intelligence and machine learning.
+  B-roll: Footage of robots, self-driving cars, and other AI-powered technologies, with a background of code and algorithms.
+
+Scene 3:
+  Narration: Cloud infrastructure expansion is also a key factor in the growth of the GPUaaS market.
+  B-roll: Visuals of cloud data centers, with servers and storage units, and a background of cloud computing symbols.
+
+HASHTAGS:
+#AI #AITools #GPUaaS #MachineLearning #TechNews
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 5: IIT Roorkee Opens Admissions for Post Graduate Certificate in Data Science, Machine Learning & Generative AI
+
+HOOK:
+Get ready to revolutionize your career with IIT Roorkee's Post Graduate Certificate in Data Science, Machine Learning & Generative AI! Learn the skills you need to succeed in AI and data science.
+
+SCRIPT (SPOKEN):
+IIT Roorkee is now accepting applications for its Post Graduate Certificate in Data Science, Machine Learning & Generative AI. Learn the skills you need to succeed in AI and data science.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The Indian Institute of Technology Roorkee has opened admissions for its 11th batch of the Post Graduate Certificate in Data Science, Machine Learning & Generative AI.
+  B-roll: Footage of the IIT Roorkee campus, students working on laptops, and data science-related visuals.
+
+Scene 2:
+  Narration: This advanced professional program is designed to provide learners with a rigorous and application-led understanding of artificial intelligence and data-led technologies.
+  B-roll: Visuals of data science and machine learning concepts, such as neural networks, deep learning, and data visualization.
+
+Scene 3:
+  Narration: The curriculum covers the foundations of data science, machine learning, deep learning, Generative AI, and MLOps.
+  B-roll: Footage of students working on projects, coding, and collaborating with each other.
+
+HASHTAGS:
+#AI #AITools #DataScience #MachineLearning #GenerativeAI
+
+CTA:
+Follow CGTECH for daily AI updates.
+

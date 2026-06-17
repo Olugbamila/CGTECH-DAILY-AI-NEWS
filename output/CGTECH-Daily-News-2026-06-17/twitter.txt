@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-06-17
+
+----------------------------------------
+ARTICLE 1: AI Model Detects Early Heart Disease in ECGs with 94.2% Accuracy
+TWEET:
+AI detects heart disease from ECGs with 94.2% accuracy! This breakthrough could revolutionize early detection and treatment. #AI #Healthcare #Innovation
+
+HASHTAGS:
+#AI #Healthcare #Innovation
+
+LINK:
+https://medicalxpress.com/news/2026-06-language-based-ai-early-heart.html
+
+----------------------------------------
+ARTICLE 2: Canada Launches AI-Powered Immigration Processing
+TWEET:
+Canada launches AI-powered immigration processing! Machine learning models and computer vision tools to scan visa apps for inconsistencies. #AI #Immigration #Canada
+
+HASHTAGS:
+#AI #Immigration #Canada
+
+LINK:
+https://www.tribuneindia.com/news/business/hyperion-global-launches-strategic-route-assessment-to-fast-track-2026-global-work-visa-applications/
+
+----------------------------------------
+ARTICLE 3: NASA Trains AI on Billions of Earth Observations to Accelerate Climate Research
+TWEET:
+NASA is using AI to analyze billions of Earth observations, accelerating climate research and improving environmental monitoring! #AI #ClimateResearch #Sustainability
+
+HASHTAGS:
+#AI #ClimateResearch #Sustainability
+
+LINK:
+https://economictimes.indiatimes.com/ai/ai-insights/nasa-is-training-ai-on-billions-of-earth-observations-and-the-results-could-change-climate-research/articleshow/131746508.cms
+
+----------------------------------------
+ARTICLE 4: GPU as a Service Market to Reach $14.4 Billion by 2033
+TWEET:
+GPU as a Service market to reach $14.4 billion by 2033! 16% annual growth driven by AI, machine learning, and cloud infrastructure. #AI #MachineLearning #GPUaaS
+
+HASHTAGS:
+#AI #MachineLearning #GPUaaS #CloudComputing
+
+LINK:
+https://www.prnewswire.co.uk/news-releases/gpu-as-a-service-market-to-reach-usd-14-4-billion-by-2033-at-16-0-cagr-fueled-by-generative-ai-machine-learning-and-cloud-infrastructure-expansion---grand-view-research-inc-302798324.html
+
+----------------------------------------
+ARTICLE 5: IIT Roorkee Opens Admissions for Post Graduate Certificate in Data Science, Machine Learning & Generative AI
+TWEET:
+IIT Roorkee opens admissions for Post Graduate Certificate in Data Science, Machine Learning & Generative AI! Upskill and reskill in AI and data science. #AI #DataScience #ML
+
+HASHTAGS:
+#AI #DataScience #ML #GenerativeAI
+
+LINK:
+https://www.tribuneindia.com/news/business/iit-roorkee-opens-admissions-for-the-11th-batch-of-its-post-graduate-certificate-in-data-science-machine-learning-generative-ai/
+

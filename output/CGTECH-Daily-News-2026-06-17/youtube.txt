@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-06-17
+
+----------------------------------------
+VIDEO TITLE:
+AI Model Detects Early Heart Disease in ECGs with 94.2% Accuracy
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and technology. Today, we're discussing a groundbreaking study that's made headlines in the medical community. A language-based AI model has been developed to detect early heart disease in ECGs with remarkable accuracy. But what does this mean for patients and healthcare systems? Let's dive into the details and explore the potential implications of this breakthrough.
+
+REFERENCE LINK:
+https://medicalxpress.com/news/2026-06-language-based-ai-early-heart.html
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+Canada Launches AI-Powered Immigration Processing
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and tech. Today, we're talking about Canada's groundbreaking AI Strategy for immigration processing. With the use of machine learning models and computer vision tools, the country is revolutionizing the way visa applications are processed. But what does this mean for applicants, and how will it impact the future of immigration? Let's dive in and find out. From the benefits of increased efficiency to the challenges of ensuring accuracy, we'll be discussing it all. So, let's get started.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/hyperion-global-launches-strategic-route-assessment-to-fast-track-2026-global-work-visa-applications/
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+NASA Trains AI on Billions of Earth Observations to Accelerate Climate Research
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel! Today, we're exploring how NASA is using artificial intelligence to accelerate climate research. The agency is combining decades of Earth observation data with AI capabilities, aiming to uncover hidden patterns and transform data into actionable scientific insights. This initiative has the potential to significantly impact the field of climate research, driving more informed decision-making and inspiring new approaches to environmental monitoring. Let's dive deeper into the details and explore the implications of this innovative approach.
+
+REFERENCE LINK:
+https://economictimes.indiatimes.com/ai/ai-insights/nasa-is-training-ai-on-billions-of-earth-observations-and-the-results-could-change-climate-research/articleshow/131746508.cms
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+GPU as a Service Market to Reach $14.4 Billion by 2033
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and technology. Today, we're discussing the GPU as a Service market, which is expected to reach $14.4 billion by 2033. This growth is driven by the increasing adoption of artificial intelligence, machine learning, and cloud infrastructure. We'll dive into the details of this forecast, exploring the opportunities and challenges that come with it. From high-performance computing to generative AI, we'll cover it all. So, let's get started!
+
+REFERENCE LINK:
+https://www.prnewswire.co.uk/news-releases/gpu-as-a-service-market-to-reach-usd-14-4-billion-by-2033-at-16-0-cagr-fueled-by-generative-ai-machine-learning-and-cloud-infrastructure-expansion---grand-view-research-inc-302798324.html
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+IIT Roorkee Opens Admissions for Post Graduate Certificate in Data Science, Machine Learning & Generative AI
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel! Today, we're talking about the Post Graduate Certificate in Data Science, Machine Learning & Generative AI offered by IIT Roorkee. This advanced program is designed to provide learners with a rigorous and application-led understanding of artificial intelligence and data-led technologies. We'll be discussing the curriculum, the benefits of the program, and what you can expect to learn. If you're interested in pursuing a career in AI and data science, this video is for you.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/iit-roorkee-opens-admissions-for-the-11th-batch-of-its-post-graduate-certificate-in-data-science-machine-learning-generative-ai/
+
+CTA:
+Follow CGTECH for daily AI updates.
+

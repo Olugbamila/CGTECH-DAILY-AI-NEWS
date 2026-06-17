@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-06-17
+
+----------------------------------------
+ARTICLE 1: AI Model Detects Early Heart Disease in ECGs with 94.2% Accuracy
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2026-06-language-based-ai-early-heart.html
+
+SUMMARY:
+Researchers have developed a language-based AI model that can detect early heart disease in electrocardiograms (ECGs) with 94.2% accuracy. The model, based on Transformer architecture, was originally developed for language processing but has been adapted for medical use. Tests have shown that it works well with data from several well-known medical datasets. This breakthrough has the potential to revolutionize the early detection and treatment of heart disease. The model's high accuracy could lead to better patient outcomes and improved healthcare systems.
+
+SHORT-FORM SCRIPT:
+Imagine a world where AI can detect heart disease from just an ECG. Researchers have made a breakthrough using a language-based AI model, achieving 94.2% accuracy. This could change the game for early detection and treatment.
+
+----------------------------------------
+ARTICLE 2: Canada Launches AI-Powered Immigration Processing
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/hyperion-global-launches-strategic-route-assessment-to-fast-track-2026-global-work-visa-applications/
+
+SUMMARY:
+Canada has launched its official Artificial Intelligence (AI) Strategy for immigration processing, utilizing machine learning models and computer vision tools to instantly scan datasets and identify inconsistencies in visa applications. This move marks a new era of digitization in the global immigration landscape. The use of AI aims to reduce errors and filter out weak or flawed applications before they reach a human officer. Hyperion Global has also launched a Strategic Route Assessment to fast-track global work visa applications in 2026. The initiative is expected to streamline the immigration process and improve efficiency.
+
+SHORT-FORM SCRIPT:
+Canada is revolutionizing immigration with AI. Machine learning models and computer vision tools are being used to scan visa applications and identify inconsistencies. This means faster and more efficient processing, but also zero room for error.
+
+----------------------------------------
+ARTICLE 3: NASA Trains AI on Billions of Earth Observations to Accelerate Climate Research
+Source: The Economic Times
+URL: https://economictimes.indiatimes.com/ai/ai-insights/nasa-is-training-ai-on-billions-of-earth-observations-and-the-results-could-change-climate-research/articleshow/131746508.cms
+
+SUMMARY:
+NASA is leveraging artificial intelligence and machine learning to analyze billions of Earth observation records, aiming to accelerate climate research and improve environmental monitoring. This initiative combines decades of satellite data with AI capabilities to uncover hidden patterns and transform data into actionable scientific insights. The agency's expanded AI strategy focuses on enhancing climate research, satellite imagery, and Earth science. By doing so, NASA seeks to improve our understanding of the planet and drive more informed decision-making. This innovative approach has the potential to significantly impact the field of climate research.
+
+SHORT-FORM SCRIPT:
+NASA is using AI to analyze billions of Earth observations, accelerating climate research and improving environmental monitoring. This game-changing approach combines decades of satellite data with AI capabilities, uncovering hidden patterns and transforming data into actionable insights.
+
+----------------------------------------
+ARTICLE 4: GPU as a Service Market to Reach $14.4 Billion by 2033
+Source: PR Newswire UK
+URL: https://www.prnewswire.co.uk/news-releases/gpu-as-a-service-market-to-reach-usd-14-4-billion-by-2033-at-16-0-cagr-fueled-by-generative-ai-machine-learning-and-cloud-infrastructure-expansion---grand-view-research-inc-302798324.html
+
+SUMMARY:
+The global GPU as a Service market is expected to reach USD 14.4 billion by 2033, growing at a CAGR of 16.0%. This expansion is driven by the increasing adoption of artificial intelligence, machine learning, and cloud infrastructure. The market is poised for substantial growth as enterprises invest in high-performance computing and advanced technologies. Grand View Research forecasts significant opportunities in the GPUaaS market, fueled by generative AI and cloud infrastructure expansion.
+
+SHORT-FORM SCRIPT:
+Imagine a world where GPUs are readily available as a service, powering AI, machine learning, and high-performance computing. The GPU as a Service market is booming, expected to reach $14.4 billion by 2033, with a 16% annual growth rate.
+
+----------------------------------------
+ARTICLE 5: IIT Roorkee Opens Admissions for Post Graduate Certificate in Data Science, Machine Learning & Generative AI
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/iit-roorkee-opens-admissions-for-the-11th-batch-of-its-post-graduate-certificate-in-data-science-machine-learning-generative-ai/
+
+SUMMARY:
+The Indian Institute of Technology Roorkee has opened admissions for its 11th batch of the Post Graduate Certificate in Data Science, Machine Learning & Generative AI. This advanced professional program is designed to provide learners with a rigorous and application-led understanding of artificial intelligence and data-led technologies. The curriculum covers the foundations of data science, machine learning, deep learning, Generative AI, and MLOps. The program aims to enable participants to develop the capabilities required to design, build, and deploy intelligent solutions in contemporary business environments. Admissions are now open for the 11th batch.
+
+SHORT-FORM SCRIPT:
+IIT Roorkee is now accepting applications for its Post Graduate Certificate in Data Science, Machine Learning & Generative AI. Learn the skills you need to succeed in AI and data science.
+
