@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-06-18
+
+----------------------------------------
+ARTICLE 1: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme
+Source: NewsX
+Link: https://www.newsx.com/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-235411/
+
+POST:
+Are you ready to take your AI skills to the next level? IITM Pravartak's Applied Artificial Intelligence and Deep Learning Programme is now accepting applications for its third batch. This comprehensive programme covers a wide range of topics, including machine learning, deep learning, MLOps, cybersecurity, and more. By joining this programme, you'll gain the skills and knowledge needed to build production-grade AI capabilities and become enterprise-ready. Follow CGTECH for daily AI updates and learn more about this exciting opportunity.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme
+Source: The Tribune
+Link: https://www.tribuneindia.com/news/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-2-2/
+
+POST:
+Are you looking to upskill in the AI domain? IITM Pravartak's Applied Artificial Intelligence and Deep Learning Programme is now open for its third batch! This comprehensive programme covers machine learning, deep learning, MLOps, cybersecurity, and more, providing you with the necessary skills to build enterprise-ready AI solutions. Join the programme to become a leader in the AI industry and take your career to the next level. Follow CGTECH for daily AI updates and stay ahead of the curve.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 3: AI Model Detects Early Heart Disease in ECGs with 94.2% Accuracy
+Source: Medical Xpress
+Link: https://medicalxpress.com/news/2026-06-language-based-ai-early-heart.html
+
+POST:
+Have you heard about the latest breakthrough in AI-powered medical diagnosis? A new language-based AI model can analyze ECGs and detect early heart disease with 94.2% accuracy. This technology has the potential to save countless lives and improve healthcare outcomes. At CGTECH, we're committed to staying at the forefront of AI innovation and sharing the latest developments with our community. Follow us for daily AI updates and join the conversation in the comments below.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 4: Canada Launches AI-Powered Immigration Processing: What You Need to Know
+Source: The Tribune
+Link: https://www.tribuneindia.com/news/business/hyperion-global-launches-strategic-route-assessment-to-fast-track-2026-global-work-visa-applications/
+
+POST:
+Big news in the world of immigration! Canada has just launched its official Artificial Intelligence (AI) Strategy for immigration processing, using machine learning models and computer vision tools to scan datasets for inconsistencies. This means that applications will be processed faster and more accurately than ever before. But what does this mean for people looking to immigrate to Canada or other countries? Let us know your thoughts in the comments! Follow CGTECH for daily AI updates and analysis.
+
+CTA:
+Follow CGTECH for daily AI updates and analysis.
+
+----------------------------------------
+ARTICLE 5: NASA Revolutionizes Climate Research with AI-Powered Earth Observations
+Source: The Economic Times
+Link: https://economictimes.indiatimes.com/ai/ai-insights/nasa-is-training-ai-on-billions-of-earth-observations-and-the-results-could-change-climate-research/articleshow/131746508.cms
+
+POST:
+Have you heard about NASA's latest initiative to use AI and machine learning to analyze billions of Earth observation records? This groundbreaking approach has the potential to significantly accelerate climate research, improve environmental monitoring, and inform decision-making. By combining AI, machine learning, and Earth science, we can unlock new insights and drive meaningful change. Follow CGTECH for daily AI updates and learn more about the latest developments in climate research.
+
+CTA:
+Follow CGTECH for daily AI updates and learn more about the latest developments in climate research.
+

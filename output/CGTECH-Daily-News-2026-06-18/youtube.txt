@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-06-18
+
+----------------------------------------
+VIDEO TITLE:
+IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel! Today, we're excited to share with you the announcement of IITM Pravartak's third batch of its Applied Artificial Intelligence and Deep Learning Programme. This programme is designed to equip professionals with the skills needed to build production-grade AI capabilities, covering a wide range of topics from machine learning to agentic AI systems. We'll be discussing the details of the programme, its benefits, and what you can expect to learn. So, let's dive in and explore this exciting opportunity.
+
+REFERENCE LINK:
+https://www.newsx.com/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-235411/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel! Today, we're discussing IITM Pravartak's Applied Artificial Intelligence and Deep Learning Programme, which is now open for its third batch. This programme is designed to equip professionals with production-grade AI capabilities, covering a wide range of topics including machine learning, deep learning, MLOps, cybersecurity, and more. As companies move from exploratory AI use cases to building enterprise-ready AI solutions, the need for skilled professionals is increasing. In this video, we'll be exploring the programme's curriculum, its benefits, and how it can help you achieve your career goals in the AI industry.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-2-2/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+AI Model Detects Early Heart Disease in ECGs with 94.2% Accuracy
+
+SCRIPT (1–2 MINUTES):
+Intro: Imagine a world where AI can detect heart disease before it's too late. A new language-based AI model is making that a reality. In this video, we'll explore how this breakthrough technology works and what it means for the future of healthcare. Segment 1: The model is based on the Transformer architecture, which was originally designed for language processing. But how does it work with ECGs? We'll dive into the details and explore the study that made this possible. Segment 2: So what does this mean for the early detection and treatment of heart disease? We'll discuss the implications and potential applications of this technology.
+
+REFERENCE LINK:
+https://medicalxpress.com/news/2026-06-language-based-ai-early-heart.html
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Canada Launches AI-Powered Immigration Processing: What You Need to Know
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and their impact on various industries. Today, we're talking about Canada's recent rollout of its official Artificial Intelligence (AI) Strategy for immigration processing. This move marks a significant shift in the global immigration landscape, with machine learning models and computer vision tools being used to scan datasets for inconsistencies and irregular patterns. But what does this mean for people looking to immigrate to Canada or other countries? And how will this development shape the future of immigration? Let's dive in and find out.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/hyperion-global-launches-strategic-route-assessment-to-fast-track-2026-global-work-visa-applications/
+
+CTA:
+Follow CGTECH for daily AI updates and analysis.
+
+----------------------------------------
+VIDEO TITLE:
+NASA Revolutionizes Climate Research with AI-Powered Earth Observations
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and its applications. Today, we're talking about NASA's innovative approach to using AI and machine learning to analyze billions of Earth observation records. This initiative has the potential to significantly accelerate climate research, improve environmental monitoring, and inform decision-making. Let's dive into the details and explore how AI is transforming the field of climate research. From satellite imagery to actionable insights, we'll cover it all.
+
+REFERENCE LINK:
+https://economictimes.indiatimes.com/ai/ai-insights/nasa-is-training-ai-on-billions-of-earth-observations-and-the-results-could-change-climate-research/articleshow/131746508.cms
+
+CTA:
+Follow CGTECH for daily AI updates and learn more about the latest developments in climate research.
+

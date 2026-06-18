@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-06-18
+
+----------------------------------------
+ARTICLE 1: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme
+Source: NewsX
+URL: https://www.newsx.com/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-235411/
+
+SUMMARY:
+IITM Pravartak has announced the third batch of its Applied Artificial Intelligence and Deep Learning Programme, aiming to equip professionals with production-grade AI capabilities. The programme covers machine learning, deep learning, MLOps, cybersecurity, Generative AI, LLMs, and agentic AI systems. This initiative is designed to address the growing demand for enterprise-ready AI talent. The programme is set to enhance the skills of professionals in the field of AI and deep learning. By doing so, it will contribute to the development of AI capabilities in various industries.
+
+SHORT-FORM SCRIPT:
+Get ready to boost your AI skills! IITM Pravartak's Applied Artificial Intelligence and Deep Learning Programme is now open for its third batch. Learn about machine learning, deep learning, and more to become enterprise-ready.
+
+----------------------------------------
+ARTICLE 2: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-2-2/
+
+SUMMARY:
+IITM Pravartak has announced the third batch of its Applied Artificial Intelligence and Deep Learning Programme, aiming to equip professionals with production-grade AI capabilities. The programme covers machine learning, deep learning, MLOps, cybersecurity, Generative AI, LLMs, and agentic AI systems. This initiative is designed to address the growing demand for AI talent in enterprises. As companies move from exploratory AI use cases to building enterprise-ready AI solutions, the need for skilled professionals is increasing. The programme is set to play a crucial role in bridging this gap.
+
+SHORT-FORM SCRIPT:
+Get ready to boost your AI skills! IITM Pravartak's Applied Artificial Intelligence and Deep Learning Programme is now open for its third batch. Learn about machine learning, deep learning, and more to become a leader in the AI industry.
+
+----------------------------------------
+ARTICLE 3: AI Model Detects Early Heart Disease in ECGs with 94.2% Accuracy
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2026-06-language-based-ai-early-heart.html
+
+SUMMARY:
+Researchers have developed a language-based AI model that can detect early heart disease in electrocardiograms (ECGs) with 94.2% accuracy. The model, based on the Transformer architecture, was originally designed for language processing but has been adapted for medical use. Tests have shown the model to be effective with data from several well-known medical datasets. This breakthrough has the potential to revolutionize the early detection and treatment of heart disease. The study was published in the International Journal of Medical Engineering and Informatics.
+
+SHORT-FORM SCRIPT:
+Imagine a world where AI can detect heart disease before it's too late. A new language-based AI model can analyze ECGs with 94.2% accuracy, giving doctors a powerful tool in the fight against heart disease.
+
+----------------------------------------
+ARTICLE 4: Canada Launches AI-Powered Immigration Processing: What You Need to Know
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/hyperion-global-launches-strategic-route-assessment-to-fast-track-2026-global-work-visa-applications/
+
+SUMMARY:
+Canada has launched its official Artificial Intelligence (AI) Strategy for immigration processing, utilizing machine learning models and computer vision tools to scan datasets for inconsistencies and irregular patterns. This move marks a new era of digitization in the global immigration landscape. The AI strategy instantly filters out weak or flawed applications, reducing the margin for error in visa submissions. Hyperion Global has also launched a strategic route assessment to fast-track 2026 global work visa applications. This development is expected to significantly impact the immigration process worldwide.
+
+SHORT-FORM SCRIPT:
+Canada's immigration process just got a major tech upgrade. With AI-powered application triage and document anomaly detection, the margin for error has vanished. What does this mean for global immigration?
+
+----------------------------------------
+ARTICLE 5: NASA Revolutionizes Climate Research with AI-Powered Earth Observations
+Source: The Economic Times
+URL: https://economictimes.indiatimes.com/ai/ai-insights/nasa-is-training-ai-on-billions-of-earth-observations-and-the-results-could-change-climate-research/articleshow/131746508.cms
+
+SUMMARY:
+NASA is leveraging artificial intelligence and machine learning to analyze billions of Earth observation records, aiming to accelerate climate research, enhance environmental monitoring, and uncover hidden patterns. This initiative combines AI, machine learning, and Earth science to transform satellite data into actionable insights. By doing so, NASA seeks to improve our understanding of the planet and inform decision-making. The agency's expanded AI strategy builds upon decades of Earth observation data, paving the way for groundbreaking discoveries. This innovative approach has the potential to significantly impact climate research and beyond.
+
+SHORT-FORM SCRIPT:
+Imagine billions of Earth observations, analyzed in seconds. NASA's using AI to accelerate climate research, uncover hidden patterns, and transform satellite data into actionable insights. The future of climate research just got a whole lot brighter.
+
