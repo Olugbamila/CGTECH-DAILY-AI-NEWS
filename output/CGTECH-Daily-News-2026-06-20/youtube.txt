@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-06-20
+
+----------------------------------------
+VIDEO TITLE:
+The AI Education Boom: Coursera Sees Surge in Demand
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest trends and insights in AI. Today, we're discussing the surge in demand for AI education on Coursera, with one enrollment every three seconds. This phenomenon is driven by the rapid reshaping of the global skills landscape, and it has significant implications for our professional development. In this video, we'll delve into the details of this trend, what it means for the future of work, and how you can leverage AI to enhance your skills.
+
+REFERENCE LINK:
+https://www.cnbctv18.com/business/coursera-sees-surge-in-ai-course-demand-as-upskilling-race-intensifies-greg-hart-19928971.htm
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest trends in AI education.
+
+----------------------------------------
+VIDEO TITLE:
+IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme
+
+SCRIPT (1–2 MINUTES):
+Welcome to our video on IITM Pravartak's Applied Artificial Intelligence and Deep Learning Programme. As we continue to see the rapid growth of AI technologies across industries, the need for skilled professionals who can drive this transformation is becoming increasingly important. In this video, we'll be discussing the key features of this programme, including its comprehensive curriculum, hands-on experience, and expertise. From machine learning to Generative AI, we'll explore how this programme can help you build the skills needed to succeed in the field of AI. So, let's dive in and learn more about this exciting opportunity.
+
+REFERENCE LINK:
+https://www.newsx.com/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-235411/
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest developments in the field.
+
+----------------------------------------
+VIDEO TITLE:
+IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme
+
+SCRIPT (1–2 MINUTES):
+Introduction to IITM Pravartak's Applied Artificial Intelligence and Deep Learning Programme. As we continue to navigate the rapidly evolving landscape of artificial intelligence, it's essential for professionals to stay updated with the latest skills and knowledge. In this video, we'll explore the programme's comprehensive curriculum, covering machine learning, deep learning, MLOps, cybersecurity, and more. We'll also discuss the importance of building production-grade AI capabilities and how this programme can help you achieve your career goals in AI.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-2-2/
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+AI Model Detects Early Heart Disease in ECGs with 94.2% Accuracy
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and their impact on our world. Today, we're talking about a breakthrough in medical diagnosis. A language-based AI model has been shown to detect early heart disease in ECGs with an accuracy of 94.2%. But how does it work, and what are the implications for healthcare? Let's dive in and find out. The model, based on Transformer architecture, was originally developed for language processing but has been adapted for medical use. This technology has the potential to save countless lives, and we're excited to see how it will be developed and implemented in the years to come.
+
+REFERENCE LINK:
+https://medicalxpress.com/news/2026-06-language-based-ai-early-heart.html
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+Canada Launches AI-Powered Immigration Processing
+
+SCRIPT (1–2 MINUTES):
+Intro: Welcome to our channel, where we explore the latest developments in AI and technology. Today, we're discussing Canada's launch of its official AI strategy for immigration processing. With the use of machine learning models and computer vision tools, the immigration process is about to get a whole lot smarter. Let's dive in and explore what this means for the future of immigration. Scene 1: Canada's AI strategy is a significant step forward in the use of technology to improve the efficiency and accuracy of immigration processing. Scene 2: But what are the implications of this development? How will it affect applicants, immigration officers, and the broader immigration landscape?
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/hyperion-global-launches-strategic-route-assessment-to-fast-track-2026-global-work-visa-applications/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
