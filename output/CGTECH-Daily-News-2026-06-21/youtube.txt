@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-06-21
+
+----------------------------------------
+VIDEO TITLE:
+The AI Education Boom: Coursera Sees Unprecedented Demand
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest trends and innovations in AI. Today, we're discussing the surge in demand for AI courses on Coursera, with one enrollment every 3 seconds. This phenomenon is driven by the rapid reshaping of the global skills landscape, and it has significant implications for individuals, enterprises, and the job market as a whole. In this video, we'll delve into the details of this trend, examine the factors driving it, and discuss what it means for the future of work. Join us as we navigate the exciting and rapidly evolving world of AI.
+
+REFERENCE LINK:
+https://www.cnbctv18.com/business/coursera-sees-surge-in-ai-course-demand-as-upskilling-race-intensifies-greg-hart-19928971.htm
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+IITM Pravartak Launches Applied Artificial Intelligence and Deep Learning Programme
+
+SCRIPT (1–2 MINUTES):
+Introduction to the latest development in AI talent development. IITM Pravartak has launched the third batch of its Applied Artificial Intelligence and Deep Learning Programme, aimed at equipping professionals with production-grade AI capabilities. In this video, we'll explore the key aspects of the programme, including its coverage of machine learning, deep learning, MLOps, cybersecurity, Generative AI, LLMs, and agentic AI systems. We'll also discuss the importance of such initiatives in addressing the growing demand for enterprise-ready AI talent and the potential impact on the industry.
+
+REFERENCE LINK:
+https://www.newsx.com/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-235411/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+IITM Pravartak Launches Applied AI & Deep Learning Programme for Enterprise-Ready Talent
+
+SCRIPT (1–2 MINUTES):
+Introduction to the Applied Artificial Intelligence and Deep Learning Programme by IITM Pravartak. In this video, we'll explore the programme's objectives, curriculum, and benefits. We'll also discuss the growing demand for AI professionals and how this programme can help address the gap. Join us as we delve into the world of AI and discover how it's transforming industries.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-2-2/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered ECG Analysis: A New Era in Heart Disease Detection
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and technology. Today, we're discussing a groundbreaking study that's changing the face of healthcare. Researchers have developed a machine-learning model based on Transformer architecture that can detect early heart disease in ECGs with 94.2% accuracy. But how does it work, and what are the implications for patient care? Let's dive in and find out. From the potential benefits to the challenges and limitations, we'll cover it all.
+
+REFERENCE LINK:
+https://medicalxpress.com/news/2026-06-language-based-ai-early-heart.html
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+Canada Launches AI-Powered Immigration Processing
+
+SCRIPT (1–2 MINUTES):
+Introduction to Canada's AI-powered immigration processing strategy. The Canadian government has launched a new initiative to streamline immigration applications using artificial intelligence. In this video, we'll explore how machine learning models and computer vision tools are being used to detect anomalies and reduce errors in the application process. We'll also discuss the potential impact of this technology on the future of immigration and what it means for individuals and businesses alike.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/hyperion-global-launches-strategic-route-assessment-to-fast-track-2026-global-work-visa-applications/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
