@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-06-22
+
+----------------------------------------
+ARTICLE 1: AI Education Surges: One Enrollment Every 3 Seconds on Coursera
+Source: CNBC TV18
+Link: https://www.cnbctv18.com/business/coursera-sees-surge-in-ai-course-demand-as-upskilling-race-intensifies-greg-hart-19928971.htm
+
+POST:
+Have you heard about the latest trend in AI education? Coursera is seeing a massive surge in demand for AI courses, with one enrollment every three seconds! The company's CEO, Greg Hart, says this is due to the rapid reshaping of the global skills landscape. As AI continues to transform industries, it's clear that specialized training is becoming increasingly important. What does this mean for you and your career? Share your thoughts and let's discuss the implications of this trend. Follow CGTECH for daily AI updates and insights.
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 2: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme
+Source: NewsX
+Link: https://www.newsx.com/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-235411/
+
+POST:
+Exciting news for AI enthusiasts! IITM Pravartak has announced the third batch of its Applied Artificial Intelligence and Deep Learning Programme, designed to equip professionals with the skills needed to build production-grade AI capabilities. This comprehensive programme covers machine learning, deep learning, MLOps, cybersecurity, Generative AI, LLMs, and agentic AI systems. Whether you're an AI professional or an organization looking to leverage AI, this is an opportunity you won't want to miss. Follow CGTECH for daily AI updates and stay informed about the latest developments in the field.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 3: IITM Pravartak Launches Applied Artificial Intelligence and Deep Learning Programme
+Source: The Tribune
+Link: https://www.tribuneindia.com/news/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-2-2/
+
+POST:
+Exciting news! IITM Pravartak has announced the third batch of its Applied Artificial Intelligence and Deep Learning Programme. This comprehensive programme is designed to equip professionals with the skills and knowledge needed to build production-grade AI capabilities. From machine learning to cybersecurity, this programme covers it all. As we move towards a more AI-driven world, it's essential to have skilled professionals who can harness the power of AI. Follow CGTECH for daily AI updates and stay ahead of the curve!
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 4: AI Model Detects Early Heart Disease with 94.2% Accuracy
+Source: Medical Xpress
+Link: https://medicalxpress.com/news/2026-06-language-based-ai-early-heart.html
+
+POST:
+Have you heard about the latest breakthrough in AI and healthcare? Researchers have developed a language-based AI model that can detect early heart disease in ECGs with 94.2% accuracy. This is a huge deal, as it could lead to earlier detection and treatment of heart disease, improving patient outcomes and reducing healthcare costs. At CGTECH, we're excited to see how AI is transforming the medical industry. Follow us for more updates on AI and healthcare innovation, and let us know what you think about this breakthrough in the comments!
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 5: Canada Launches AI-Powered Immigration Processing: What You Need to Know
+Source: The Tribune
+Link: https://www.tribuneindia.com/news/business/hyperion-global-launches-strategic-route-assessment-to-fast-track-2026-global-work-visa-applications/
+
+POST:
+Exciting news in the world of global immigration! Canada has just launched its official AI Strategy for immigration processing, using machine learning and computer vision to enhance application review. This means that applicants will need to ensure their submissions are accurate and complete to avoid being filtered out. At CGTECH, we're committed to helping you stay up-to-date on the latest developments in AI and immigration. Follow us for more news and analysis, and let's discuss the implications of this shift in the comments below!
+
+CTA:
+Follow CGTECH for daily AI updates and analysis.
+

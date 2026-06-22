@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-06-22
+
+----------------------------------------
+ARTICLE 1: AI Education Surges: One Enrollment Every 3 Seconds on Coursera
+Source: CNBC TV18
+URL: https://www.cnbctv18.com/business/coursera-sees-surge-in-ai-course-demand-as-upskilling-race-intensifies-greg-hart-19928971.htm
+
+SUMMARY:
+Coursera is experiencing a significant surge in demand for AI courses, with one enrollment every three seconds. The company's CEO, Greg Hart, attributes this to the rapid reshaping of the global skills landscape due to artificial intelligence. To meet this demand, Coursera is embedding AI tools into learning workflows and focusing on verified assessments and proof of mastery. This trend highlights the intensifying upskilling race as individuals and enterprises seek specialized training. The rise in AI education demand is expected to continue, driving innovation in the ed-tech industry.
+
+SHORT-FORM SCRIPT:
+Imagine one person enrolling in an AI course every three seconds. That's what's happening on Coursera right now. The company's CEO says AI is reshaping the skills landscape, and they're embedding AI tools into learning to meet the surge in demand.
+
+----------------------------------------
+ARTICLE 2: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme
+Source: NewsX
+URL: https://www.newsx.com/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-235411/
+
+SUMMARY:
+IITM Pravartak has announced the third batch of its Applied Artificial Intelligence and Deep Learning Programme, aiming to equip professionals with production-grade AI capabilities. The programme covers various aspects of AI, including machine learning, deep learning, MLOps, cybersecurity, Generative AI, LLMs, and agentic AI systems. This initiative is designed to address the growing demand for enterprise-ready AI talent. The programme is set to enhance the skills of professionals, enabling them to build and implement AI solutions effectively. With this announcement, IITM Pravartak is taking a significant step towards fostering AI adoption in enterprises.
+
+SHORT-FORM SCRIPT:
+Get ready to unlock the power of AI with IITM Pravartak's Applied Artificial Intelligence and Deep Learning Programme. Learn how to build production-grade AI capabilities and stay ahead in the industry.
+
+----------------------------------------
+ARTICLE 3: IITM Pravartak Launches Applied Artificial Intelligence and Deep Learning Programme
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-2-2/
+
+SUMMARY:
+IITM Pravartak has announced the third batch of its Applied Artificial Intelligence and Deep Learning Programme, aiming to equip professionals with production-grade AI capabilities. The programme covers machine learning, deep learning, MLOps, cybersecurity, Generative AI, LLMs, and agentic AI systems. This initiative is crucial as enterprises shift from exploratory AI use cases to building enterprise-ready AI talent. The programme is designed to address the growing need for skilled AI professionals in the industry. By providing hands-on experience and expertise, the programme aims to bridge the gap between AI adoption and implementation.
+
+SHORT-FORM SCRIPT:
+IITM Pravartak is launching its third batch of Applied Artificial Intelligence and Deep Learning Programme. This programme will help professionals build production-grade AI capabilities, covering topics like machine learning, deep learning, and cybersecurity.
+
+----------------------------------------
+ARTICLE 4: AI Model Detects Early Heart Disease with 94.2% Accuracy
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2026-06-language-based-ai-early-heart.html
+
+SUMMARY:
+Researchers have developed a language-based AI model that can detect early heart disease in electrocardiograms (ECGs) with 94.2% accuracy. The model, based on Transformer architecture, was originally developed for language processing but has been adapted for medical use. Tests have shown the model to be effective with data from several well-known medical datasets. This breakthrough has the potential to revolutionize the early detection and treatment of heart disease. The model's high accuracy could lead to improved patient outcomes and reduced healthcare costs.
+
+SHORT-FORM SCRIPT:
+Imagine a world where AI can detect heart disease before symptoms appear. Researchers have developed a language-based AI model that can do just that, with 94.2% accuracy. This breakthrough could revolutionize healthcare and save lives.
+
+----------------------------------------
+ARTICLE 5: Canada Launches AI-Powered Immigration Processing: What You Need to Know
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/hyperion-global-launches-strategic-route-assessment-to-fast-track-2026-global-work-visa-applications/
+
+SUMMARY:
+Canada has launched its official Artificial Intelligence (AI) Strategy for immigration processing, leveraging machine learning models and computer vision tools to enhance application triage and document anomaly detection. This move marks a significant shift in the global immigration landscape, with advanced algorithms instantly scanning datasets to identify inconsistencies and filter out flawed applications. Hyperion Global has also launched a Strategic Route Assessment to fast-track 2026 global work visa applications. The use of AI in immigration processing aims to reduce errors and increase efficiency. As a result, applicants must ensure their submissions are accurate and complete to avoid being filtered out.
+
+SHORT-FORM SCRIPT:
+Canada's immigration process just got a major tech boost. With AI-powered application triage and document scanning, the margin for error has vanished. Get ready to up your application game!
+

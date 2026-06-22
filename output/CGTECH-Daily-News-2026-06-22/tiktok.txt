@@ -1,0 +1,143 @@
+=== CGTECH — TIKTOK/IG/SHORTS PACK ===
+Date: 2026-06-22
+
+----------------------------------------
+ARTICLE 1: AI Education Surges: One Enrollment Every 3 Seconds on Coursera
+
+HOOK:
+Every three seconds, someone is enrolling in an AI course on Coursera. What's driving this surge in demand, and what does it mean for the future of work?
+
+SCRIPT (SPOKEN):
+Imagine one person enrolling in an AI course every three seconds. That's what's happening on Coursera right now. The company's CEO says AI is reshaping the skills landscape, and they're embedding AI tools into learning to meet the surge in demand.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The global skills landscape is undergoing a significant transformation due to artificial intelligence.
+  B-roll: Footage of robots, coding screens, and people working on laptops
+
+Scene 2:
+  Narration: Coursera is embedding AI tools into learning workflows to meet the surge in demand for AI courses.
+  B-roll: Screenshots of Coursera's platform, AI-powered learning tools, and students engaging with course materials
+
+Scene 3:
+  Narration: The future of work is being shaped by AI, and specialized training is becoming increasingly important.
+  B-roll: Footage of professionals working in various industries, with AI-powered tools and technologies integrated into their workflows
+
+HASHTAGS:
+#AI #AITools #EdTech #LearnWithMe
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 2: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme
+
+HOOK:
+Are you ready to unlock the power of AI and take your career to the next level? IITM Pravartak's Applied Artificial Intelligence and Deep Learning Programme is here to help.
+
+SCRIPT (SPOKEN):
+Get ready to unlock the power of AI with IITM Pravartak's Applied Artificial Intelligence and Deep Learning Programme. Learn how to build production-grade AI capabilities and stay ahead in the industry.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The programme aims to equip professionals with production-grade AI capabilities.
+  B-roll: Visuals of professionals working on AI projects, coding, and collaborating.
+
+Scene 2:
+  Narration: With a focus on machine learning, deep learning, MLOps, cybersecurity, Generative AI, LLMs, and agentic AI systems.
+  B-roll: Animated graphics illustrating these AI concepts, with dashboards and data visualizations.
+
+Scene 3:
+  Narration: This initiative is designed to address the growing demand for enterprise-ready AI talent.
+  B-roll: Footage of enterprises, offices, and professionals working together, with AI-powered tools and systems in the background.
+
+HASHTAGS:
+#AI #AITools #DeepLearning
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 3: IITM Pravartak Launches Applied Artificial Intelligence and Deep Learning Programme
+
+HOOK:
+Get ready to revolutionize your career with IITM Pravartak's Applied Artificial Intelligence and Deep Learning Programme! This programme is designed to equip professionals with production-grade AI capabilities, covering topics like machine learning, deep learning, and cybersecurity.
+
+SCRIPT (SPOKEN):
+IITM Pravartak is launching its third batch of Applied Artificial Intelligence and Deep Learning Programme. This programme will help professionals build production-grade AI capabilities, covering topics like machine learning, deep learning, and cybersecurity.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: IITM Pravartak is launching its third batch of Applied Artificial Intelligence and Deep Learning Programme.
+  B-roll: Visuals of the IITM Pravartak campus, AI-related equipment, and professionals working on AI projects.
+
+Scene 2:
+  Narration: The programme covers a wide range of topics, including machine learning, deep learning, and cybersecurity.
+  B-roll: Animations of AI algorithms, cybersecurity systems, and data analytics dashboards.
+
+Scene 3:
+  Narration: As enterprises move towards building enterprise-ready AI talent, the need for skilled professionals is growing.
+  B-roll: Visuals of professionals working in AI-related fields, AI-powered robots, and industry leaders discussing AI adoption.
+
+HASHTAGS:
+#AI #AITools #MachineLearning #DeepLearning #ArtificialIntelligence
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 4: AI Model Detects Early Heart Disease with 94.2% Accuracy
+
+HOOK:
+What if a simple ECG could detect heart disease before symptoms appear? Now, it can, thanks to a revolutionary new AI model.
+
+SCRIPT (SPOKEN):
+Imagine a world where AI can detect heart disease before symptoms appear. Researchers have developed a language-based AI model that can do just that, with 94.2% accuracy. This breakthrough could revolutionize healthcare and save lives.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Researchers have developed a language-based AI model that can detect early heart disease in ECGs.
+  B-roll: Footage of ECG machines, medical professionals reviewing data, and AI dashboards.
+
+Scene 2:
+  Narration: The model, based on Transformer architecture, was originally developed for language processing but has been adapted for medical use.
+  B-roll: Visuals of code, AI algorithms, and language processing diagrams.
+
+Scene 3:
+  Narration: Tests have shown the model to be effective with data from several well-known medical datasets.
+  B-roll: Footage of medical datasets, researchers analyzing data, and graphs showing the model's accuracy.
+
+HASHTAGS:
+#AI #AITools #Healthcare #MedicalInnovation
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 5: Canada Launches AI-Powered Immigration Processing: What You Need to Know
+
+HOOK:
+The future of immigration has arrived, and it's powered by AI. Canada's groundbreaking strategy is just the beginning.
+
+SCRIPT (SPOKEN):
+Canada's immigration process just got a major tech boost. With AI-powered application triage and document scanning, the margin for error has vanished. Get ready to up your application game!
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The global immigration landscape is undergoing a significant transformation, driven by the adoption of Artificial Intelligence.
+  B-roll: Visuals of passports, visas, and immigration documents being processed, with AI-powered systems and algorithms working in the background.
+
+Scene 2:
+  Narration: Canada's AI Strategy for immigration processing is a prime example of this shift, leveraging machine learning models and computer vision tools to enhance application review.
+  B-roll: Footage of Canadian immigration officials working with AI-powered systems, with screens displaying data and algorithms at work.
+
+Scene 3:
+  Narration: The use of AI in immigration processing aims to reduce errors and increase efficiency, but it also means that applicants must ensure their submissions are accurate and complete.
+  B-roll: Visuals of applicants preparing their visa submissions, with a focus on attention to detail and accuracy.
+
+HASHTAGS:
+#AI #AITools #Immigration #Canada
+
+CTA:
+Follow CGTECH for daily AI updates and analysis.
+
