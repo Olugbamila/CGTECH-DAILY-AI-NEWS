@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-06-23
+
+----------------------------------------
+VIDEO TITLE:
+IITM Pravartak Launches Batch 03 of Applied Artificial Intelligence & Deep Learning Programme
+
+SCRIPT (1–2 MINUTES):
+Welcome to our video on the latest development in AI talent development. IITM Pravartak has announced the third batch of its Applied Artificial Intelligence and Deep Learning Programme, aiming to build enterprise-ready AI talent. In this video, we'll explore the key aspects of the programme, including its focus on production-grade AI capabilities and the potential impact on the industry. From machine learning to deep learning, and from MLOps to cybersecurity, we'll discuss the various components of the programme and what they mean for professionals looking to upskill in AI.
+
+REFERENCE LINK:
+https://www.timesnownews.com/education/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-deep-learning-programme-to-build-enterprise-ready-ai-talent-article-154732300
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+The AI Skills Revolution: One Enrollment Every 3 Seconds
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest trends and innovations in AI. Today, we're talking about the surge in demand for AI courses on Coursera. With one enrollment every 3 seconds, it's clear that people are recognizing the importance of AI skills in the modern workforce. But what's driving this demand, and how can you get ahead of the curve? In this video, we'll delve into the implications of this shift and discuss the ways in which you can develop the AI skills you need to succeed. From the integration of AI tools into learning workflows to the emphasis on verified assessments and proof of mastery, we'll cover it all.
+
+REFERENCE LINK:
+https://www.cnbctv18.com/business/coursera-sees-surge-in-ai-course-demand-as-upskilling-race-intensifies-greg-hart-19928971.htm
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+IITM Pravartak Launches Applied Artificial Intelligence and Deep Learning Programme
+
+SCRIPT (1–2 MINUTES):
+Welcome to our video on IITM Pravartak's Applied Artificial Intelligence and Deep Learning Programme. As we explore the growing demand for AI talent, it's clear that initiatives like this are crucial for addressing the skills gap. In this video, we'll delve into the details of the programme, its objectives, and what it means for the future of AI adoption. From machine learning to Generative AI, we'll cover it all. So, let's get started and see how this programme is set to shape the AI landscape.
+
+REFERENCE LINK:
+https://www.newsx.com/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-235411/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme
+
+SCRIPT (1–2 MINUTES):
+Welcome to our video on IITM Pravartak's Applied Artificial Intelligence and Deep Learning Programme. As we explore the latest developments in AI, it's clear that the demand for skilled professionals is on the rise. This programme is designed to address that need, providing hands-on experience and training in areas like machine learning, deep learning, and cybersecurity. In this video, we'll delve into the details of the programme and discuss its potential impact on the AI sector. From the benefits of upskilling in AI to the future of enterprise-ready AI talent, we'll cover it all. So, let's dive in and explore how this programme can help you revolutionize your career.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-2-2/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+AI Model Detects Heart Disease in ECGs with 94.2% Accuracy
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel. Today, we're discussing a groundbreaking development in the field of healthcare technology. Researchers have created a language-based AI model that can detect early heart disease in ECGs with 94.2% accuracy. This model, based on Transformer architecture, has the potential to revolutionize early detection and treatment. In this video, we'll explore how the model works, its potential implications, and what this means for the future of healthcare. Thanks for watching, and don't forget to follow CGTECH for daily AI updates.
+
+REFERENCE LINK:
+https://medicalxpress.com/news/2026-06-language-based-ai-early-heart.html
+
+CTA:
+Follow CGTECH for daily AI updates.
+

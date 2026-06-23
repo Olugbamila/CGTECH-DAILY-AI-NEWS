@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-06-23
+
+----------------------------------------
+ARTICLE 1: IITM Pravartak Launches Batch 03 of Applied Artificial Intelligence & Deep Learning Programme
+Source: Times Now
+URL: https://www.timesnownews.com/education/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-deep-learning-programme-to-build-enterprise-ready-ai-talent-article-154732300
+
+SUMMARY:
+IITM Pravartak has announced the third batch of its Applied Artificial Intelligence and Deep Learning Programme, aiming to build enterprise-ready AI talent. The programme focuses on production-grade AI capabilities across machine learning, deep learning, MLOps, cybersecurity, and more. This initiative is a collaboration between IITM Pravartak and TimesPro. The goal is to equip professionals with the skills needed for scalable AI implementations. As AI adoption grows, the demand for skilled professionals who can develop and deploy AI solutions is increasing.
+
+SHORT-FORM SCRIPT:
+IITM Pravartak is launching its third batch of the Applied Artificial Intelligence and Deep Learning Programme. This programme is designed to build enterprise-ready AI talent, focusing on production-grade AI capabilities.
+
+----------------------------------------
+ARTICLE 2: The AI Skills Revolution: One Enrollment Every 3 Seconds
+Source: CNBC TV18
+URL: https://www.cnbctv18.com/business/coursera-sees-surge-in-ai-course-demand-as-upskilling-race-intensifies-greg-hart-19928971.htm
+
+SUMMARY:
+Coursera is experiencing a significant surge in demand for AI courses, with one enrollment every 3 seconds. The company's CEO, Greg Hart, attributes this to the rapid reshaping of the global skills landscape driven by artificial intelligence. To meet this demand, Coursera is integrating AI tools into its learning workflows and emphasizing verified assessments and proof of mastery. This shift underscores the importance of upskilling and reskilling in the AI era. As a result, the online learning platform is well-positioned to support individuals and enterprises seeking specialized AI training.
+
+SHORT-FORM SCRIPT:
+Imagine one person enrolling in an AI course every 3 seconds. That's what's happening on Coursera right now. The demand for AI skills is skyrocketing, and online learning platforms are at the forefront of this revolution.
+
+----------------------------------------
+ARTICLE 3: IITM Pravartak Launches Applied Artificial Intelligence and Deep Learning Programme
+Source: NewsX
+URL: https://www.newsx.com/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-235411/
+
+SUMMARY:
+IITM Pravartak has announced the third batch of its Applied Artificial Intelligence and Deep Learning Programme, aiming to equip professionals with production-grade AI capabilities. The programme covers machine learning, deep learning, MLOps, cybersecurity, Generative AI, LLMs, and agentic AI systems. This initiative is designed to address the growing demand for enterprise-ready AI talent. The programme is set to enhance the skills of professionals in the field, enabling them to build and implement AI solutions effectively. By doing so, it will contribute to the development of a robust AI ecosystem.
+
+SHORT-FORM SCRIPT:
+Get ready to unlock the power of AI with IITM Pravartak's Applied Artificial Intelligence and Deep Learning Programme. Build production-grade AI capabilities and stay ahead in the industry.
+
+----------------------------------------
+ARTICLE 4: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-2-2/
+
+SUMMARY:
+IITM Pravartak has announced the third batch of its Applied Artificial Intelligence and Deep Learning Programme, aiming to equip professionals with production-grade AI capabilities. The programme covers machine learning, deep learning, MLOps, cybersecurity, Generative AI, LLMs, and agentic AI systems. This move is in line with enterprises shifting from exploratory AI use cases to building enterprise-ready AI talent. The programme is designed to address the growing need for skilled professionals in the AI sector. By providing hands-on experience and training, the programme aims to bridge the gap between academia and industry.
+
+SHORT-FORM SCRIPT:
+Get ready to revolutionize your career with IITM Pravartak's Applied Artificial Intelligence and Deep Learning Programme. Learn production-grade AI capabilities and stay ahead in the industry.
+
+----------------------------------------
+ARTICLE 5: AI Model Detects Heart Disease in ECGs with 94.2% Accuracy
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2026-06-language-based-ai-early-heart.html
+
+SUMMARY:
+Researchers have developed a language-based AI model that can detect early heart disease in ECGs with 94.2% accuracy. The model, based on Transformer architecture, was originally designed for language processing but has been adapted for medical use. Tests have shown its effectiveness with data from several well-known medical datasets. This breakthrough has the potential to improve early detection and treatment of heart disease. The model's high accuracy could lead to better patient outcomes and reduced healthcare costs.
+
+SHORT-FORM SCRIPT:
+Imagine an AI that can detect heart disease from just an ECG. Researchers have created a language-based model that does just that, with 94.2% accuracy. This could revolutionize early detection and treatment.
+
