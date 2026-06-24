@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-06-24
+
+----------------------------------------
+ARTICLE 1: 19-Year-Old Builds Rs 1 Crore a Month AI Business from Scratch
+Source: India Today
+URL: https://www.indiatoday.in/education-today/news/story/how-the-19-year-old-ayush-singh-built-a-rs-1-crore-a-month-ai-education-venture-2932997-2026-06-24
+
+SUMMARY:
+Ayush Singh, a 19-year-old non-IIT student, has built a successful AI education business worth Rs 1 crore a month. He taught himself machine learning at the age of 13 during a family financial crisis. Singh's story highlights the importance of technical skills and innovative thinking in achieving success. His business has become a testament to the fact that with the right skills and mindset, anyone can turn their passion into a commercial venture. This story serves as an inspiration to young entrepreneurs and aspiring AI professionals.
+
+SHORT-FORM SCRIPT:
+Meet Ayush Singh, the 19-year-old who built a Rs 1 crore a month AI business from scratch. He taught himself machine learning at 13 and turned his skills into a successful education venture.
+
+----------------------------------------
+ARTICLE 2: IITM Pravartak Announces Batch 03 of Applied AI & Deep Learning Programme
+Source: Times Now
+URL: https://www.timesnownews.com/education/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-deep-learning-programme-to-build-enterprise-ready-ai-talent-article-154732300
+
+SUMMARY:
+IITM Pravartak has announced the third batch of its Applied Artificial Intelligence and Deep Learning Programme, aimed at building enterprise-ready AI talent. The programme focuses on production-grade AI capabilities, including machine learning, deep learning, MLOps, cybersecurity, and more. This initiative is a response to the growing demand for scalable AI implementations in enterprises. The programme is a collaboration between IITM Pravartak and TimesPro. It aims to equip professionals with the skills needed to develop and implement AI solutions in a production environment.
+
+SHORT-FORM SCRIPT:
+Get ready to unlock the power of AI! IITM Pravartak's Applied Artificial Intelligence and Deep Learning Programme is back with its third batch, focusing on building enterprise-ready AI talent. From machine learning to cybersecurity, this programme has got you covered.
+
+----------------------------------------
+ARTICLE 3: The AI Education Boom: What You Need to Know
+Source: CNBC TV18
+URL: https://www.cnbctv18.com/business/coursera-sees-surge-in-ai-course-demand-as-upskilling-race-intensifies-greg-hart-19928971.htm
+
+SUMMARY:
+Coursera is experiencing a significant surge in demand for AI courses, with one enrollment every 3 seconds. This surge is driven by the rapidly changing global skills landscape, where both individuals and enterprises are seeking specialized training in AI. Coursera CEO Greg Hart highlighted the company's efforts to embed AI tools into learning workflows and provide verified assessments. The demand for AI education is intensifying as companies and individuals aim to upskill and stay competitive. This trend underscores the importance of continuous learning in the age of artificial intelligence.
+
+SHORT-FORM SCRIPT:
+AI is changing the game, and people are taking notice. Every 3 seconds, someone enrolls in an AI course on Coursera. What does this mean for the future of work and education?
+
+----------------------------------------
+ARTICLE 4: IITM Pravartak Launches Applied Artificial Intelligence and Deep Learning Programme
+Source: NewsX
+URL: https://www.newsx.com/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-235411/
+
+SUMMARY:
+IITM Pravartak has announced the third batch of its Applied Artificial Intelligence and Deep Learning Programme, aiming to equip professionals with production-grade AI capabilities. The programme covers machine learning, deep learning, MLOps, cybersecurity, Generative AI, LLMs, and agentic AI systems. This initiative is designed to bridge the gap between industry demands and the availability of skilled AI professionals. The programme is set to enhance the skills of professionals in building enterprise-ready AI solutions. By doing so, it aims to meet the growing need for AI talent in the industry.
+
+SHORT-FORM SCRIPT:
+Get ready to revolutionize your career with IITM Pravartak's Applied Artificial Intelligence and Deep Learning Programme. Learn to build production-grade AI capabilities and stay ahead in the industry.
+
+----------------------------------------
+ARTICLE 5: IITM Pravartak Launches Batch 03 of Applied Artificial Intelligence and Deep Learning Programme
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-2-2/
+
+SUMMARY:
+IITM Pravartak has announced the third batch of its Applied Artificial Intelligence and Deep Learning Programme, aimed at equipping professionals with production-grade AI capabilities. The program covers machine learning, deep learning, MLOps, cybersecurity, Generative AI, LLMs, and agentic AI systems. This initiative is designed to bridge the gap between exploratory AI use cases and enterprise-ready AI solutions. As enterprises increasingly adopt AI, the demand for skilled professionals who can build and implement AI systems is on the rise. The program is set to play a crucial role in building enterprise-ready AI talent.
+
+SHORT-FORM SCRIPT:
+IITM Pravartak is launching its third batch of the Applied Artificial Intelligence and Deep Learning Programme. This program is designed to equip professionals with the skills needed to build production-grade AI capabilities, covering topics like machine learning, deep learning, and cybersecurity.
+
