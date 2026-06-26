@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-06-26
+
+----------------------------------------
+ARTICLE 1: AI-Powered Speech Analysis for Alzheimer's Disease Detection
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001444
+
+POST:
+Exciting news in the world of healthcare technology! Researchers have developed an AI-powered model to detect Alzheimer's Disease through speech patterns. While it's not yet ready for clinical diagnosis, this innovation has the potential to aid in triaging patients and addressing the shortage of specialized physicians. Stay up-to-date with the latest AI news and advancements with CGTECH. What do you think about the future of AI in healthcare?
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: 19-Year-Old Builds Rs 1 Crore/Month AI Business from Scratch
+Source: India Today
+Link: https://www.indiatoday.in/education-today/news/story/how-the-19-year-old-ayush-singh-built-a-rs-1-crore-a-month-ai-education-venture-2932997-2026-06-24
+
+POST:
+Have you heard the incredible story of Ayush Singh, the 19-year-old who built a Rs 1 crore per month AI education business? Singh's journey is a reminder that success is within reach, regardless of our background or education. He taught himself machine learning at 13 and turned his skills into a thriving business. What's your story? What skills are you looking to develop? Share with us in the comments. Follow CGTECH for daily AI updates and inspiring stories like Ayush Singh's.
+
+CTA:
+Follow CGTECH for daily AI updates and inspiring stories like Ayush Singh's.
+
+----------------------------------------
+ARTICLE 3: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence & Deep Learning Programme
+Source: Times Now
+Link: https://www.timesnownews.com/education/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-deep-learning-programme-to-build-enterprise-ready-ai-talent-article-154732300
+
+POST:
+The demand for AI professionals is on the rise, and IITM Pravartak's Applied Artificial Intelligence & Deep Learning Programme is here to address this need. With Batch 03 now open, you can learn production-grade AI capabilities and take your career to the next level. The programme covers a wide range of topics, including machine learning, deep learning, MLOps, and more. Don't miss out on this opportunity to stay ahead in the industry and drive business growth through AI. Follow CGTECH for daily AI updates and learn how to leverage AI for your business.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 4: AI Education Surges: One Enrollment Every 3 Seconds on Coursera
+Source: CNBC TV18
+Link: https://www.cnbctv18.com/business/coursera-sees-surge-in-ai-course-demand-as-upskilling-race-intensifies-greg-hart-19928971.htm
+
+POST:
+The world of AI is moving fast, and the demand for education is keeping pace. Every 3 seconds, someone enrolls in an AI course on Coursera. This surge in demand is driven by the need for individuals and enterprises to upskill and reskill in the era of AI. Coursera's approach to AI education is focused on embedding AI tools into learning workflows and providing verified assessments and proof of mastery. What does this mean for the future of work and education? Share your thoughts in the comments. Follow CGTECH for daily AI updates and analysis.
+
+CTA:
+Follow CGTECH for daily AI updates and analysis.
+
+----------------------------------------
+ARTICLE 5: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme
+Source: NewsX
+Link: https://www.newsx.com/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-235411/
+
+POST:
+The adoption of artificial intelligence is transforming industries around the world, and the demand for skilled professionals is growing rapidly. IITM Pravartak's Applied Artificial Intelligence and Deep Learning Programme is designed to equip professionals with the skills they need to build production-grade AI capabilities. With a focus on machine learning, deep learning, MLOps, cybersecurity, and more, this programme is perfect for those looking to drive innovation in their organization. Follow CGTECH for daily AI updates and learn how you can stay ahead of the curve.
+
+CTA:
+Follow CGTECH for daily AI updates.
+

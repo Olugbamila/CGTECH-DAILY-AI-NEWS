@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-06-26
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Speech Analysis for Alzheimer's Disease Detection
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and technology. Today, we're discussing a breakthrough in AI-powered detection of Alzheimer's Disease. Researchers have developed a hybrid model that can screen spontaneous speech, but what does this mean for the future of healthcare? Let's dive into the details and examine the potential of this technology. From the current limitations to the potential applications, we'll cover it all. Don't forget to subscribe for more content on AI and emerging technologies.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001444
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+19-Year-Old Builds Rs 1 Crore/Month AI Business from Scratch
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel! Today, we're going to talk about an incredible story of a 19-year-old who built a Rs 1 crore per month AI education business from scratch. Ayush Singh's journey is a testament to the power of self-learning and determination. He taught himself machine learning at 13 and turned his skills into a successful business. Let's dive deeper into his story and explore what we can learn from his experiences.
+
+REFERENCE LINK:
+https://www.indiatoday.in/education-today/news/story/how-the-19-year-old-ayush-singh-built-a-rs-1-crore-a-month-ai-education-venture-2932997-2026-06-24
+
+CTA:
+Follow CGTECH for daily AI updates and inspiring stories like Ayush Singh's.
+
+----------------------------------------
+VIDEO TITLE:
+IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence & Deep Learning Programme
+
+SCRIPT (1–2 MINUTES):
+Introduction to the world of AI and its applications. IITM Pravartak's Applied Artificial Intelligence & Deep Learning Programme is now open for Batch 03, and we're excited to explore what this means for professionals and enterprises. In this video, we'll delve into the details of the programme, its curriculum, and the benefits of equipping yourself with production-grade AI capabilities. From machine learning to deep learning, and from MLOps to cybersecurity, we'll cover it all. So, let's get started and discover how AI can drive business growth and innovation.
+
+REFERENCE LINK:
+https://www.timesnownews.com/education/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-deep-learning-programme-to-build-enterprise-ready-ai-talent-article-154732300
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+AI Education Surges: One Enrollment Every 3 Seconds on Coursera
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest trends and developments in AI. Today, we're looking at the surge in demand for AI education, with one enrollment every 3 seconds on Coursera. This shift is driven by the rapid reshaping of the global skills landscape due to artificial intelligence. We'll dive into the details of Coursera's approach to AI education, including the use of AI tools in learning workflows and the importance of verified assessments. Join us as we examine the implications of this trend for individuals, enterprises, and the future of work.
+
+REFERENCE LINK:
+https://www.cnbctv18.com/business/coursera-sees-surge-in-ai-course-demand-as-upskilling-race-intensifies-greg-hart-19928971.htm
+
+CTA:
+Follow CGTECH for daily AI updates and analysis.
+
+----------------------------------------
+VIDEO TITLE:
+IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme
+
+SCRIPT (1–2 MINUTES):
+Welcome to our video on IITM Pravartak's Applied Artificial Intelligence and Deep Learning Programme. As we explore the rapidly evolving landscape of artificial intelligence, it's clear that the demand for skilled professionals is on the rise. In this video, we'll be discussing the key features of the programme, including its focus on building production-grade AI capabilities, and how it can empower professionals to drive meaningful impact in their organizations. From machine learning to deep learning, and from MLOps to cybersecurity, we'll be covering it all. So let's dive in and explore the exciting world of AI.
+
+REFERENCE LINK:
+https://www.newsx.com/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-235411/
+
+CTA:
+Follow CGTECH for daily AI updates.
+

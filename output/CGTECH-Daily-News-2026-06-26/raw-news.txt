@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-06-26
+
+----------------------------------------
+ARTICLE 1: AI-Powered Speech Analysis for Alzheimer's Disease Detection
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001444
+
+SUMMARY:
+Researchers have developed an artificial intelligence model to screen spontaneous speech for detecting Alzheimer's Disease. The hybrid model, combining Term Frequency-Inverse Document Frequency and Large Language Model text embeddings, showed promising results in classifying subjects into Alzheimer's Disease and controls. However, when tested on a separate validation dataset, it was more effective at identifying controls than detecting true AD cases. This approach may have a role in triaging patients, rather than providing a reliable clinical diagnosis. The study highlights the potential of AI in addressing the shortage of physicians trained in specialized care for older adults.
+
+SHORT-FORM SCRIPT:
+Imagine a world where AI can help detect Alzheimer's Disease through speech patterns. Researchers have made a breakthrough in developing a hybrid model that can screen spontaneous speech, but it's not yet perfect. Let's explore how this technology can aid in triaging patients and what it means for the future of healthcare.
+
+----------------------------------------
+ARTICLE 2: 19-Year-Old Builds Rs 1 Crore/Month AI Business from Scratch
+Source: India Today
+URL: https://www.indiatoday.in/education-today/news/story/how-the-19-year-old-ayush-singh-built-a-rs-1-crore-a-month-ai-education-venture-2932997-2026-06-24
+
+SUMMARY:
+Ayush Singh, a 19-year-old non-IIT student, has built a successful AI education business worth Rs 1 crore per month. He taught himself machine learning at the age of 13 during a family financial crisis. Singh's story highlights the importance of technical skills and their potential to become a career and commercial venture. His journey is an inspiration to many, showing that success is not limited to those from elite colleges or with powerful networks. With determination and hard work, anyone can achieve their goals and build a successful business.
+
+SHORT-FORM SCRIPT:
+Meet Ayush Singh, the 19-year-old who built a Rs 1 crore per month AI business from scratch. He taught himself machine learning at 13 and turned his skills into a successful education venture.
+
+----------------------------------------
+ARTICLE 3: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence & Deep Learning Programme
+Source: Times Now
+URL: https://www.timesnownews.com/education/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-deep-learning-programme-to-build-enterprise-ready-ai-talent-article-154732300
+
+SUMMARY:
+IITM Pravartak has announced Batch 03 of its Applied Artificial Intelligence & Deep Learning Programme, aiming to equip professionals with production-grade AI capabilities. The programme covers machine learning, deep learning, MLOps, cybersecurity, Generative AI, LLMs, and agentic AI systems. This initiative is a response to the growing demand for scalable, production-ready AI implementations in enterprises. The programme is a collaboration between IITM Pravartak and TimesPro. It aims to build enterprise-ready AI talent and address the industry's need for skilled professionals.
+
+SHORT-FORM SCRIPT:
+Get ready to unlock the power of AI! IITM Pravartak's Applied Artificial Intelligence & Deep Learning Programme is now open for Batch 03. Learn production-grade AI capabilities and stay ahead in the industry.
+
+----------------------------------------
+ARTICLE 4: AI Education Surges: One Enrollment Every 3 Seconds on Coursera
+Source: CNBC TV18
+URL: https://www.cnbctv18.com/business/coursera-sees-surge-in-ai-course-demand-as-upskilling-race-intensifies-greg-hart-19928971.htm
+
+SUMMARY:
+Coursera is experiencing a significant surge in demand for AI courses, with one enrollment every 3 seconds. The company's CEO, Greg Hart, attributes this to the rapid reshaping of the global skills landscape due to artificial intelligence. As a result, Coursera is embedding AI tools into learning workflows and focusing on verified assessments and proof of mastery. This shift highlights the importance of upskilling and reskilling in the era of AI. The demand for AI education is expected to continue growing as individuals and enterprises seek to stay competitive.
+
+SHORT-FORM SCRIPT:
+Every 3 seconds, someone enrolls in an AI course on Coursera. The demand for AI education is surging, and companies are responding by embedding AI tools into learning workflows.
+
+----------------------------------------
+ARTICLE 5: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme
+Source: NewsX
+URL: https://www.newsx.com/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-235411/
+
+SUMMARY:
+IITM Pravartak has announced the third batch of its Applied Artificial Intelligence and Deep Learning Programme, aiming to equip professionals with production-grade AI capabilities. The programme covers machine learning, deep learning, MLOps, cybersecurity, Generative AI, LLMs, and agentic AI systems. This initiative is crucial as enterprises increasingly adopt AI technologies. The program is designed to build enterprise-ready AI talent, addressing the growing demand for skilled professionals in the field. By providing hands-on experience and expertise, the programme prepares participants to drive AI adoption in their organizations.
+
+SHORT-FORM SCRIPT:
+Get ready to unlock the power of AI with IITM Pravartak's Applied Artificial Intelligence and Deep Learning Programme. Build production-grade AI capabilities and drive innovation in your organization.
+

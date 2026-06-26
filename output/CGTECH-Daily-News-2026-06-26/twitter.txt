@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-06-26
+
+----------------------------------------
+ARTICLE 1: AI-Powered Speech Analysis for Alzheimer's Disease Detection
+TWEET:
+AI-powered speech analysis may help detect #AlzheimersDisease! Researchers develop a hybrid model to screen spontaneous speech, but it's not yet perfect. Follow CGTECH for daily AI updates! #AI #HealthTech
+
+HASHTAGS:
+#AI #HealthTech #AlzheimersDisease
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001444
+
+----------------------------------------
+ARTICLE 2: 19-Year-Old Builds Rs 1 Crore/Month AI Business from Scratch
+TWEET:
+19-year-old Ayush Singh builds Rs 1 crore/month AI business from scratch! He taught himself machine learning at 13 & turned his skills into a successful education venture. #AI #TechNews #Inspiration
+
+HASHTAGS:
+#AI #TechNews #Inspiration
+
+LINK:
+https://www.indiatoday.in/education-today/news/story/how-the-19-year-old-ayush-singh-built-a-rs-1-crore-a-month-ai-education-venture-2932997-2026-06-24
+
+----------------------------------------
+ARTICLE 3: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence & Deep Learning Programme
+TWEET:
+IITM Pravartak announces Batch 03 of its Applied Artificial Intelligence & Deep Learning Programme! Equip yourself with production-grade AI capabilities and stay ahead in the industry. #AI #MachineLearning #DeepLearning
+
+HASHTAGS:
+#AI #MachineLearning #DeepLearning #TechNews
+
+LINK:
+https://www.timesnownews.com/education/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-deep-learning-programme-to-build-enterprise-ready-ai-talent-article-154732300
+
+----------------------------------------
+ARTICLE 4: AI Education Surges: One Enrollment Every 3 Seconds on Coursera
+TWEET:
+Every 3 seconds, someone enrolls in an AI course on Coursera! The demand for AI education is surging. Stay ahead of the curve with the latest AI news and trends. #AI #TechNews
+
+HASHTAGS:
+#AI #TechNews #AIeducation
+
+LINK:
+https://www.cnbctv18.com/business/coursera-sees-surge-in-ai-course-demand-as-upskilling-race-intensifies-greg-hart-19928971.htm
+
+----------------------------------------
+ARTICLE 5: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme
+TWEET:
+IITM Pravartak announces Batch 03 of Applied Artificial Intelligence and Deep Learning Programme! Build enterprise-ready AI talent and drive innovation in your organization. #AI #DeepLearning #MLOps
+
+HASHTAGS:
+#AI #DeepLearning #MLOps #ArtificialIntelligence
+
+LINK:
+https://www.newsx.com/business/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-and-deep-learning-programme-to-build-enterprise-ready-ai-talent-235411/
+
