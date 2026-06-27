@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-06-27
+
+----------------------------------------
+ARTICLE 1: The AI Revolution: How AlexNet Changed the Game in 2012
+Source: Times of India
+URL: https://timesofindia.indiatimes.com/technology/tech-news/in-2012-alex-krizhevsky-trained-alexnet-with-gpus-accelerating-the-rise-of-modern-ai-vision/articleshow/132008870.cms
+
+SUMMARY:
+In 2012, Alex Krizhevsky's AlexNet, powered by GPUs, revolutionized machine vision and deep learning, marking a pivotal moment in AI advancements. This innovation transformed the field of computer vision and paved the way for significant technological progress. The use of GPUs accelerated the training process, enabling faster and more accurate image recognition. This breakthrough has had a lasting impact on the development of modern AI vision. The technology competition was forever changed, and scientists' views on machine vision and processing were altered.
+
+SHORT-FORM SCRIPT:
+Imagine a world where computers can see and understand images like humans. In 2012, Alex Krizhevsky made this a reality with AlexNet, powered by GPUs. This innovation revolutionized machine vision and deep learning, changing the game for AI.
+
+----------------------------------------
+ARTICLE 2: AI-Powered Dementia Diagnosis: A New Frontier in Healthcare
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001444
+
+SUMMARY:
+Researchers have developed an artificial intelligence model to screen spontaneous speech for early detection of Alzheimer's Disease. The hybrid model, combining Term Frequency-Inverse Document Frequency and Large Language Model text embeddings, showed promising results in classifying subjects into Alzheimer's Disease and controls. However, when tested on an independent validation dataset, the model was more effective at identifying controls than detecting true Alzheimer's cases. This approach may have a role in triaging patients, but its reliability for clinical diagnosis is still limited. Further research is needed to improve the model's performance and potential applications.
+
+SHORT-FORM SCRIPT:
+Imagine a world where AI can detect Alzheimer's Disease from the way you speak. Researchers are working on an AI model that can screen spontaneous speech to identify early signs of the disease. While it's not perfect yet, this technology has the potential to revolutionize dementia diagnosis and care.
+
+----------------------------------------
+ARTICLE 3: From Self-Taught to Success: The Story of 19-Year-Old Ayush Singh's Rs 1 Crore-A-Month AI Business
+Source: India Today
+URL: https://www.indiatoday.in/education-today/news/story/how-the-19-year-old-ayush-singh-built-a-rs-1-crore-a-month-ai-education-venture-2932997-2026-06-24
+
+SUMMARY:
+Ayush Singh, a 19-year-old non-IIT student, has built a Rs 1 crore-a-month AI education business. He taught himself machine learning at 13 during a family financial crisis and later packaged his technical skills into a successful commercial venture. Singh's story highlights the potential for self-taught individuals to achieve success in the tech industry. His business has become a notable example of how technical skills can be transformed into a career and a commercial venture. With dedication and hard work, anyone can achieve their goals, regardless of their background or education.
+
+SHORT-FORM SCRIPT:
+Meet Ayush Singh, a 19-year-old who built a Rs 1 crore-a-month AI business from scratch. He taught himself machine learning at 13 and turned his skills into a successful venture.
+
+----------------------------------------
+ARTICLE 4: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence & Deep Learning Programme
+Source: Times Now
+URL: https://www.timesnownews.com/education/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-deep-learning-programme-to-build-enterprise-ready-ai-talent-article-154732300
+
+SUMMARY:
+IITM Pravartak has announced Batch 03 of its Applied Artificial Intelligence & Deep Learning Programme, aiming to equip professionals with production-grade AI capabilities. The programme covers machine learning, deep learning, MLOps, cybersecurity, and more. This initiative is a collaboration between IITM Pravartak and TimesPro. The goal is to build enterprise-ready AI talent, addressing the need for scalable AI implementations in enterprises. The programme is designed to bridge the gap between exploratory AI use cases and production-ready implementations.
+
+SHORT-FORM SCRIPT:
+Get ready to unlock the power of AI! IITM Pravartak's Applied Artificial Intelligence & Deep Learning Programme is now open for Batch 03. Learn production-grade AI capabilities and take your career to the next level.
+
+----------------------------------------
+ARTICLE 5: The AI Education Boom: Why Demand is Surging
+Source: CNBC TV18
+URL: https://www.cnbctv18.com/business/coursera-sees-surge-in-ai-course-demand-as-upskilling-race-intensifies-greg-hart-19928971.htm
+
+SUMMARY:
+Coursera is experiencing a significant surge in demand for AI courses, with one enrollment every three seconds. The company's CEO, Greg Hart, attributes this to the rapid reshaping of the global skills landscape driven by artificial intelligence. As a result, Coursera is embedding AI tools into learning workflows and focusing on verified assessments and proof of mastery. This shift underscores the intensifying need for upskilling and reskilling in the AI domain. The education platform is well-positioned to meet this demand with its specialized training offerings.
+
+SHORT-FORM SCRIPT:
+Every three seconds, someone enrolls in an AI course on Coursera. The demand for AI education is surging, driven by the need for specialized training in a rapidly changing job market. Coursera is meeting this demand by embedding AI tools into its learning workflows.
+

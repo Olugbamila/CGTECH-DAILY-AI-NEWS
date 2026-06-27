@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-06-27
+
+----------------------------------------
+ARTICLE 1: The AI Revolution: How AlexNet Changed the Game in 2012
+Source: Times of India
+Link: https://timesofindia.indiatimes.com/technology/tech-news/in-2012-alex-krizhevsky-trained-alexnet-with-gpus-accelerating-the-rise-of-modern-ai-vision/articleshow/132008870.cms
+
+POST:
+Have you ever wondered how computers can recognize images and understand what's in them? It all started with Alex Krizhevsky's AlexNet in 2012. By using GPUs, AlexNet was able to learn and recognize images at an unprecedented scale, changing the game for AI. This breakthrough has had a lasting impact on the development of modern AI vision. At CGTECH, we're excited to see where AI will go next. Follow us for daily updates on the latest AI news and trends!
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 2: AI-Powered Dementia Diagnosis: A New Frontier in Healthcare
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001444
+
+POST:
+Did you know that AI can potentially detect Alzheimer's Disease from the way you speak? Researchers have developed a hybrid model that combines language processing and machine learning techniques to screen spontaneous speech. While it's not a definitive diagnostic tool yet, this technology has the potential to revolutionize dementia care. Imagine being able to identify early signs of the disease and provide targeted support to those who need it most. The future of healthcare is exciting and full of possibilities! Follow CGTECH for daily AI updates and join the conversation.
+
+CTA:
+Follow CGTECH for daily AI updates and join the conversation on the future of healthcare.
+
+----------------------------------------
+ARTICLE 3: From Self-Taught to Success: The Story of 19-Year-Old Ayush Singh's Rs 1 Crore-A-Month AI Business
+Source: India Today
+Link: https://www.indiatoday.in/education-today/news/story/how-the-19-year-old-ayush-singh-built-a-rs-1-crore-a-month-ai-education-venture-2932997-2026-06-24
+
+POST:
+Have you heard the story of Ayush Singh, the 19-year-old who built a Rs 1 crore-a-month AI education business? It's a truly inspiring tale of self-directed learning and entrepreneurship. Ayush taught himself machine learning at 13 and later turned his skills into a successful venture. His story highlights the potential for anyone to achieve success in the tech industry, regardless of their background or education. Follow CGTECH for daily AI updates and insights, and let's discuss Ayush's story in the comments.
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 4: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence & Deep Learning Programme
+Source: Times Now
+Link: https://www.timesnownews.com/education/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-deep-learning-programme-to-build-enterprise-ready-ai-talent-article-154732300
+
+POST:
+Exciting news for AI enthusiasts! IITM Pravartak has announced Batch 03 of its Applied Artificial Intelligence & Deep Learning Programme, designed to equip professionals with the skills needed to build production-grade AI capabilities. With a focus on machine learning, deep learning, and more, this programme is perfect for those looking to take their career to the next level. Follow CGTECH for daily AI updates and learn how to stay ahead in the industry.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 5: The AI Education Boom: Why Demand is Surging
+Source: CNBC TV18
+Link: https://www.cnbctv18.com/business/coursera-sees-surge-in-ai-course-demand-as-upskilling-race-intensifies-greg-hart-19928971.htm
+
+POST:
+The world of work is changing fast, and artificial intelligence is at the forefront of this transformation. With the demand for AI skills surging, platforms like Coursera are seeing a significant increase in enrollments for AI courses - one every three seconds! This trend highlights the need for continuous learning and upskilling in specialized areas like AI. At CGTECH, we're committed to keeping you updated on the latest developments in AI and how they impact your career and business. Follow us for daily AI updates and insights.
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+

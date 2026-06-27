@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-06-27
+
+----------------------------------------
+VIDEO TITLE:
+The AI Revolution: How AlexNet Changed the Game in 2012
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're going to talk about a pivotal moment in AI history - the development of AlexNet in 2012. Alex Krizhevsky's innovative use of GPUs to power AlexNet revolutionized machine vision and deep learning, enabling faster and more accurate image recognition. This breakthrough has had a lasting impact on the development of modern AI vision. Let's dive into the story behind AlexNet and explore how it changed the world of AI. From its humble beginnings to its current applications, we'll cover it all. So, let's get started!
+
+REFERENCE LINK:
+https://timesofindia.indiatimes.com/technology/tech-news/in-2012-alex-krizhevsky-trained-alexnet-with-gpus-accelerating-the-rise-of-modern-ai-vision/articleshow/132008870.cms
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Dementia Diagnosis: A New Frontier in Healthcare
+
+SCRIPT (1–2 MINUTES):
+Introduction to AI-powered dementia diagnosis. Researchers have developed an innovative approach to detect Alzheimer's Disease from spontaneous speech. In this video, we'll explore the latest study published in PLOS Digital Health and discuss the potential applications and limitations of this technology. From the current state of dementia diagnosis to the future of AI-powered healthcare, we'll dive into the exciting world of machine learning and artificial intelligence.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001444
+
+CTA:
+Follow CGTECH for daily AI updates and join the conversation on the future of healthcare.
+
+----------------------------------------
+VIDEO TITLE:
+From Self-Taught to Success: The Story of 19-Year-Old Ayush Singh's Rs 1 Crore-A-Month AI Business
+
+SCRIPT (1–2 MINUTES):
+Introduction: Welcome to our channel, where we explore the latest developments in AI and entrepreneurship. Today, we're going to talk about the story of Ayush Singh, a 19-year-old who built a Rs 1 crore-a-month AI education business from scratch. Ayush's journey is a testament to the power of self-directed learning and the importance of packaging technical skills in a way that resonates with others. Let's dive into his story and explore what we can learn from his experiences. Scene 1: Ayush's background and early interest in machine learning. Scene 2: How Ayush taught himself machine learning and later built his AI business. Scene 3: The challenges Ayush faced and how he overcame them. Conclusion: Ayush's story is a must-watch for anyone interested in AI and entrepreneurship.
+
+REFERENCE LINK:
+https://www.indiatoday.in/education-today/news/story/how-the-19-year-old-ayush-singh-built-a-rs-1-crore-a-month-ai-education-venture-2932997-2026-06-24
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence & Deep Learning Programme
+
+SCRIPT (1–2 MINUTES):
+Welcome to our latest video on the future of AI talent! Today, we're discussing IITM Pravartak's announcement of Batch 03 of its Applied Artificial Intelligence & Deep Learning Programme. This initiative is a game-changer for professionals looking to build production-grade AI capabilities and stay ahead in the industry. With a focus on machine learning, deep learning, and more, this programme is designed to bridge the gap between exploratory AI use cases and scalable implementations. Let's dive in and explore the details of this exciting programme.
+
+REFERENCE LINK:
+https://www.timesnownews.com/education/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-deep-learning-programme-to-build-enterprise-ready-ai-talent-article-154732300
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+The AI Education Boom: Why Demand is Surging
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel. Today, we're discussing the rapid growth in demand for AI education. With Coursera reporting one enrollment every three seconds in AI courses, it's clear that the skills landscape is undergoing a significant transformation. In this video, we'll explore what's driving this surge, how companies like Coursera are responding, and what it means for individuals and enterprises looking to upskill and reskill in AI.
+
+REFERENCE LINK:
+https://www.cnbctv18.com/business/coursera-sees-surge-in-ai-course-demand-as-upskilling-race-intensifies-greg-hart-19928971.htm
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+

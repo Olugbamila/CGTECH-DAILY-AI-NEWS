@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-06-27
+
+----------------------------------------
+ARTICLE 1: The AI Revolution: How AlexNet Changed the Game in 2012
+TWEET:
+Did you know? In 2012, Alex Krizhevsky's AlexNet, powered by GPUs, revolutionized machine vision and deep learning! This innovation paved the way for modern AI vision. #AI #MachineLearning #TechNews
+
+HASHTAGS:
+#AI #MachineLearning #TechNews
+
+LINK:
+https://timesofindia.indiatimes.com/technology/tech-news/in-2012-alex-krizhevsky-trained-alexnet-with-gpus-accelerating-the-rise-of-modern-ai-vision/articleshow/132008870.cms
+
+----------------------------------------
+ARTICLE 2: AI-Powered Dementia Diagnosis: A New Frontier in Healthcare
+TWEET:
+AI-powered dementia diagnosis is on the horizon! Researchers develop model to detect Alzheimer's from spontaneous speech. Still in early stages, but the potential is huge. #AI #Healthcare #Dementia
+
+HASHTAGS:
+#AI #Healthcare #Dementia #MachineLearning
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001444
+
+----------------------------------------
+ARTICLE 3: From Self-Taught to Success: The Story of 19-Year-Old Ayush Singh's Rs 1 Crore-A-Month AI Business
+TWEET:
+19-year-old Ayush Singh builds Rs 1 crore-a-month AI business from scratch! His story is a must-read for anyone interested in AI and entrepreneurship. #AI #TechNews #Entrepreneurship
+
+HASHTAGS:
+#AI #TechNews #Entrepreneurship
+
+LINK:
+https://www.indiatoday.in/education-today/news/story/how-the-19-year-old-ayush-singh-built-a-rs-1-crore-a-month-ai-education-venture-2932997-2026-06-24
+
+----------------------------------------
+ARTICLE 4: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence & Deep Learning Programme
+TWEET:
+IITM Pravartak announces Batch 03 of its Applied AI & Deep Learning Programme! Build production-grade AI capabilities and stay ahead in the industry. #AI #DeepLearning #AITalent
+
+HASHTAGS:
+#AI #DeepLearning #AITalent
+
+LINK:
+https://www.timesnownews.com/education/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-deep-learning-programme-to-build-enterprise-ready-ai-talent-article-154732300
+
+----------------------------------------
+ARTICLE 5: The AI Education Boom: Why Demand is Surging
+TWEET:
+AI education demand surges! Every 3 seconds, someone enrolls in an AI course on Coursera. The future of work is here, and upskilling in AI is no longer a choice. #AI #FutureOfWork
+
+HASHTAGS:
+#AI #FutureOfWork #Tech
+
+LINK:
+https://www.cnbctv18.com/business/coursera-sees-surge-in-ai-course-demand-as-upskilling-race-intensifies-greg-hart-19928971.htm
+
