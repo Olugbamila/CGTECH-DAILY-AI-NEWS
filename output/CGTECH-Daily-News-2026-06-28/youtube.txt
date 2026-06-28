@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-06-28
+
+----------------------------------------
+VIDEO TITLE:
+Empowering Educators: 'AI in Education' Workshop in Chandigarh
+
+SCRIPT (1–2 MINUTES):
+Introduction to the potential of AI in education, and the recent workshop organized by The Mount Carmel School in Chandigarh. The workshop covered topics such as the practical applications of artificial intelligence, digital tools, and technology integration in education. We'll explore how AI can enhance the learning experience and create a more future-ready education system. With insights from Janhvi Kohli, a certified professional in generative AI and cyber security, we'll delve into the world of AI-powered education.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/schools/workshop-on-ai-in-education-organsied-for-chandigarh-teachers/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+The AI Revolution: How AlexNet Changed Machine Vision Forever
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and their impact on our world. Today, we're going to talk about a pivotal moment in the history of AI: the development of AlexNet in 2012. Powered by GPUs, AlexNet revolutionized machine vision and deep learning, paving the way for modern AI applications. We'll take a closer look at the technology behind AlexNet, its significance, and the impact it's had on the development of modern AI systems. Join us as we dive into the world of AI and discover the exciting possibilities it holds.
+
+REFERENCE LINK:
+https://timesofindia.indiatimes.com/technology/tech-news/in-2012-alex-krizhevsky-trained-alexnet-with-gpus-accelerating-the-rise-of-modern-ai-vision/articleshow/132008870.cms
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Alzheimer's Detection: A New Frontier in Healthcare
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and technology. Today, we're discussing a breakthrough in Alzheimer's detection. Researchers have developed an AI model that can screen spontaneous speech to identify potential cases. But how does it work and what are the implications? Let's dive in. The model uses a hybrid approach, combining Term Frequency-Inverse Document Frequency and Large Language Model text embeddings. We'll break down the study and its findings, and discuss the potential and limitations of AI-powered diagnosis. Join us as we explore the future of healthcare and technology.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001444
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+From Self-Taught to Success: The Ayush Singh Story
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and entrepreneurship. Today, we're going to talk about the incredible story of Ayush Singh, a 19-year-old who built a Rs 1 crore a month AI education business from scratch. Singh's journey is a true inspiration, and his success is a testament to the power of self-directed learning and hard work. Let's dive into his story and explore the lessons we can learn from his experience.
+
+REFERENCE LINK:
+https://www.indiatoday.in/education-today/news/story/how-the-19-year-old-ayush-singh-built-a-rs-1-crore-a-month-ai-education-venture-2932997-2026-06-24
+
+CTA:
+Follow CGTECH for daily AI updates and inspiring stories like this one.
+
+----------------------------------------
+VIDEO TITLE:
+IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence & Deep Learning Programme
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel! Today, we're discussing the latest announcement from IITM Pravartak - Batch 03 of their Applied Artificial Intelligence & Deep Learning Programme. As AI continues to transform industries and revolutionize the way we work, the demand for skilled professionals who can develop and implement production-ready AI solutions is on the rise. In this video, we'll be exploring the key features of the programme, including its focus on machine learning, deep learning, and other critical areas. We'll also be discussing the benefits of joining the programme and how it can help you stay ahead in the game. So, let's dive in and explore the world of AI together!
+
+REFERENCE LINK:
+https://www.timesnownews.com/education/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-deep-learning-programme-to-build-enterprise-ready-ai-talent-article-154732300
+
+CTA:
+Follow CGTECH for daily AI updates.
+

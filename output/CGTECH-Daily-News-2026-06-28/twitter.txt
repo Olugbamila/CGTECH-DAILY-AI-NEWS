@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-06-28
+
+----------------------------------------
+ARTICLE 1: Empowering Educators: 'AI in Education' Workshop in Chandigarh
+TWEET:
+Teachers in Chandigarh learn how to harness #AI in the classroom! A recent workshop focused on empowering educators with modern tech skills and innovative practices. #AIinEducation #EdTech
+
+HASHTAGS:
+#AI #AIinEducation #EdTech
+
+LINK:
+https://www.tribuneindia.com/news/schools/workshop-on-ai-in-education-organsied-for-chandigarh-teachers/
+
+----------------------------------------
+ARTICLE 2: The AI Revolution: How AlexNet Changed Machine Vision Forever
+TWEET:
+Did you know? In 2012, Alex Krizhevsky's AlexNet, powered by GPUs, revolutionized machine vision and deep learning! This breakthrough paved the way for modern AI applications. #AI #MachineLearning #TechNews
+
+HASHTAGS:
+#AI #MachineLearning #TechNews
+
+LINK:
+https://timesofindia.indiatimes.com/technology/tech-news/in-2012-alex-krizhevsky-trained-alexnet-with-gpus-accelerating-the-rise-of-modern-ai-vision/articleshow/132008870.cms
+
+----------------------------------------
+ARTICLE 3: AI-Powered Alzheimer's Detection: A New Frontier in Healthcare
+TWEET:
+AI-powered Alzheimer's detection is here! But how accurate is it? New study reveals the potential and limitations of using speech patterns to identify potential cases. #AI #Alzheimers #Healthcare
+
+HASHTAGS:
+#AI #Alzheimers #Healthcare
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001444
+
+----------------------------------------
+ARTICLE 4: From Self-Taught to Success: The Ayush Singh Story
+TWEET:
+19-year-old Ayush Singh builds Rs 1 crore a month AI business from scratch! His story is a must-read for all aspiring entrepreneurs. #AI #Startup #SuccessStory
+
+HASHTAGS:
+#AI #Startup #SuccessStory #Entrepreneurship
+
+LINK:
+https://www.indiatoday.in/education-today/news/story/how-the-19-year-old-ayush-singh-built-a-rs-1-crore-a-month-ai-education-venture-2932997-2026-06-24
+
+----------------------------------------
+ARTICLE 5: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence & Deep Learning Programme
+TWEET:
+IITM Pravartak announces Batch 03 of its Applied Artificial Intelligence & Deep Learning Programme! Equip yourself with production-grade AI capabilities and stay ahead in the game. #AI #MachineLearning #DeepLearning
+
+HASHTAGS:
+#AI #MachineLearning #DeepLearning
+
+LINK:
+https://www.timesnownews.com/education/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-deep-learning-programme-to-build-enterprise-ready-ai-talent-article-154732300
+

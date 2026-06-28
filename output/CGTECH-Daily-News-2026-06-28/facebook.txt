@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-06-28
+
+----------------------------------------
+ARTICLE 1: Empowering Educators: 'AI in Education' Workshop in Chandigarh
+Source: The Tribune
+Link: https://www.tribuneindia.com/news/schools/workshop-on-ai-in-education-organsied-for-chandigarh-teachers/
+
+POST:
+Have you heard about the exciting workshop on 'AI in Education' that took place in Chandigarh? The Mount Carmel School organized this event to empower teachers with the skills they need to create engaging and effective learning experiences. By exploring the potential of AI and digital innovation, we can create a more future-ready education system. Let's stay ahead of the curve and learn more about the latest developments in AI and education. Follow CGTECH for daily AI updates!
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: The AI Revolution: How AlexNet Changed Machine Vision Forever
+Source: Times of India
+Link: https://timesofindia.indiatimes.com/technology/tech-news/in-2012-alex-krizhevsky-trained-alexnet-with-gpus-accelerating-the-rise-of-modern-ai-vision/articleshow/132008870.cms
+
+POST:
+Have you ever wondered how computers can recognize and process images? It all started with Alex Krizhevsky's AlexNet in 2012, which used GPUs to accelerate machine vision and deep learning. This innovation has had a profound impact on the development of modern AI systems, enabling applications like self-driving cars, facial recognition, and more. At CGTECH, we're excited to explore the latest advancements in AI and their potential to drive meaningful change. Follow us for daily updates on the latest AI news and trends!
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 3: AI-Powered Alzheimer's Detection: A New Frontier in Healthcare
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001444
+
+POST:
+Have you ever wondered if a simple conversation could help detect Alzheimer's Disease? Researchers have been working on an AI model to do just that, using speech patterns to identify potential cases. But how does it work and how accurate is it? Let's break it down. The model uses a hybrid approach, combining Term Frequency-Inverse Document Frequency and Large Language Model text embeddings. While it shows promise, it's not without its limitations. The study highlights the importance of rigorous testing and validation in AI-powered diagnosis. What do you think about the potential of AI in healthcare? Share your thoughts and let's start a conversation. Follow CGTECH for daily AI updates and insights.
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 4: From Self-Taught to Success: The Ayush Singh Story
+Source: India Today
+Link: https://www.indiatoday.in/education-today/news/story/how-the-19-year-old-ayush-singh-built-a-rs-1-crore-a-month-ai-education-venture-2932997-2026-06-24
+
+POST:
+Have you heard the story of Ayush Singh, the 19-year-old who built a successful AI education business worth Rs 1 crore a month? Singh's journey is a true inspiration, and his success is a testament to the power of hard work and determination. He taught himself machine learning at the age of 13 and turned his skills into a commercial venture. Let's learn from his story and explore how we can apply the lessons to our own lives. Follow CGTECH for daily AI updates and inspiring stories like this one.
+
+CTA:
+Follow CGTECH for daily AI updates and inspiring stories like this one.
+
+----------------------------------------
+ARTICLE 5: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence & Deep Learning Programme
+Source: Times Now
+Link: https://www.timesnownews.com/education/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-deep-learning-programme-to-build-enterprise-ready-ai-talent-article-154732300
+
+POST:
+Exciting news for AI enthusiasts! IITM Pravartak has announced Batch 03 of its Applied Artificial Intelligence & Deep Learning Programme, designed to help professionals develop production-grade AI capabilities. With a focus on machine learning, deep learning, MLOps, cybersecurity, and more, this programme is perfect for those looking to take their AI skills to the next level. Join the programme and stay ahead of the curve in the rapidly evolving world of AI. Follow CGTECH for daily AI updates and join the conversation!
+
+CTA:
+Follow CGTECH for daily AI updates.
+

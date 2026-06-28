@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-06-28
+
+----------------------------------------
+ARTICLE 1: Empowering Educators: 'AI in Education' Workshop in Chandigarh
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/schools/workshop-on-ai-in-education-organsied-for-chandigarh-teachers/
+
+SUMMARY:
+The Mount Carmel School in Chandigarh organized a workshop on 'AI in Education' for teachers, focusing on empowering educators with modern technological skills and innovative teaching practices. The workshop covered practical applications of artificial intelligence, digital tools, and technology integration in education. The session aimed to make classroom teaching more engaging, effective, and future-ready. The workshop was conducted by Janhvi Kohli, a certified professional in generative AI and cyber security. The event encouraged teachers to explore learner-centred approaches and creative teaching methodologies.
+
+SHORT-FORM SCRIPT:
+Imagine a classroom where AI enhances the learning experience. A recent workshop in Chandigarh explored the potential of AI in education, empowering teachers with modern tech skills and innovative practices.
+
+----------------------------------------
+ARTICLE 2: The AI Revolution: How AlexNet Changed Machine Vision Forever
+Source: Times of India
+URL: https://timesofindia.indiatimes.com/technology/tech-news/in-2012-alex-krizhevsky-trained-alexnet-with-gpus-accelerating-the-rise-of-modern-ai-vision/articleshow/132008870.cms
+
+SUMMARY:
+In 2012, Alex Krizhevsky's AlexNet, powered by GPUs, revolutionized machine vision and deep learning, marking a pivotal moment in AI advancements. This innovation transformed the field of computer vision, enabling significant breakthroughs in image recognition and processing. The use of GPUs accelerated the training process, making it possible to develop more complex and accurate models. This breakthrough has had a lasting impact on the development of modern AI systems. The significance of AlexNet lies in its ability to demonstrate the potential of deep learning in achieving state-of-the-art results in computer vision tasks.
+
+SHORT-FORM SCRIPT:
+Imagine a world where computers can see and understand images like humans. In 2012, Alex Krizhevsky's AlexNet made this possible, using GPUs to accelerate machine vision and deep learning. This breakthrough revolutionized AI and paved the way for modern applications like self-driving cars and facial recognition.
+
+----------------------------------------
+ARTICLE 3: AI-Powered Alzheimer's Detection: A New Frontier in Healthcare
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001444
+
+SUMMARY:
+Researchers have developed an artificial intelligence model to screen spontaneous speech and detect Alzheimer's Disease. The model utilizes a hybrid approach, combining Term Frequency-Inverse Document Frequency and Large Language Model text embeddings. While the model performed well in initial testing, it was more effective at identifying controls than detecting true Alzheimer's cases when tested on a separate validation dataset. This study highlights the potential of AI in dementia diagnosis, but also emphasizes the need for more robust testing and validation. The findings suggest that the model may be more suitable for triaging patients rather than providing a reliable clinical diagnosis.
+
+SHORT-FORM SCRIPT:
+Imagine if a simple conversation could help detect Alzheimer's Disease. Researchers have developed an AI model to do just that, using speech patterns to identify potential cases. But how accurate is it? Let's dive in and find out.
+
+----------------------------------------
+ARTICLE 4: From Self-Taught to Success: The Ayush Singh Story
+Source: India Today
+URL: https://www.indiatoday.in/education-today/news/story/how-the-19-year-old-ayush-singh-built-a-rs-1-crore-a-month-ai-education-venture-2932997-2026-06-24
+
+SUMMARY:
+Ayush Singh, a 19-year-old non-IIT student, has built a successful AI education business worth Rs 1 crore a month. He taught himself machine learning at the age of 13 during a family financial crisis. Singh's story highlights the potential of technical skills to become a career and a commercial venture. His journey is an inspiration to many young entrepreneurs. With dedication and hard work, Singh has achieved remarkable success in the AI industry.
+
+SHORT-FORM SCRIPT:
+Meet Ayush Singh, a 19-year-old who built a Rs 1 crore a month AI business from scratch. He taught himself machine learning at 13 and turned his skills into a successful education venture.
+
+----------------------------------------
+ARTICLE 5: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence & Deep Learning Programme
+Source: Times Now
+URL: https://www.timesnownews.com/education/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-deep-learning-programme-to-build-enterprise-ready-ai-talent-article-154732300
+
+SUMMARY:
+IITM Pravartak has announced Batch 03 of its Applied Artificial Intelligence & Deep Learning Programme, aiming to equip professionals with production-grade AI capabilities. The programme covers machine learning, deep learning, MLOps, cybersecurity, Generative AI, LLMs, and agentic AI systems. This initiative is a response to the growing demand for enterprise-ready AI talent. The programme is a collaboration between IITM Pravartak and TimesPro. It aims to bridge the gap between exploratory AI use cases and scalable, production-ready implementations.
+
+SHORT-FORM SCRIPT:
+Get ready to unlock the power of AI! IITM Pravartak's Applied Artificial Intelligence & Deep Learning Programme is back with Batch 03, focusing on production-grade AI capabilities. From machine learning to Generative AI, this programme has got you covered.
+

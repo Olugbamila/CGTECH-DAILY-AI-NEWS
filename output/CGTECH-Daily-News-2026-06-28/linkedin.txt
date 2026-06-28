@@ -1,0 +1,73 @@
+=== LINKEDIN PERSONAL BRAND PACK (Chris Gbenlebu) ===
+Date: 2026-06-28
+
+----------------------------------------
+ARTICLE 1: Empowering Educators: 'AI in Education' Workshop in Chandigarh
+Source: The Tribune
+Link: https://www.tribuneindia.com/news/schools/workshop-on-ai-in-education-organsied-for-chandigarh-teachers/
+
+POST (PERSONAL INSIGHT):
+As an advocate for innovative education, I'm excited to see initiatives like the 'AI in Education' workshop organized by The Mount Carmel School in Chandigarh. This workshop is a great example of how schools can empower teachers with the skills they need to create engaging and effective learning experiences. By leveraging AI and digital innovation, we can create a more future-ready education system. Let's continue to explore the potential of AI in education and work together to create a better future for our students. #AI #TechNews #Education
+
+HASHTAGS:
+#AI #TechNews #Education #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: The AI Revolution: How AlexNet Changed Machine Vision Forever
+Source: Times of India
+Link: https://timesofindia.indiatimes.com/technology/tech-news/in-2012-alex-krizhevsky-trained-alexnet-with-gpus-accelerating-the-rise-of-modern-ai-vision/articleshow/132008870.cms
+
+POST (PERSONAL INSIGHT):
+As I reflect on the evolution of AI, I'm reminded of the pivotal moment in 2012 when Alex Krizhevsky's AlexNet, powered by GPUs, transformed the field of machine vision and deep learning. This innovation has had a lasting impact on the development of modern AI systems, enabling significant breakthroughs in image recognition and processing. As we continue to push the boundaries of what's possible with AI, it's essential to appreciate the foundational contributions of pioneers like Alex Krizhevsky. Let's continue the conversation on the future of AI and its potential to drive meaningful change. #AI #TechNews #Innovation
+
+HASHTAGS:
+#AI #TechNews #Innovation #MachineLearning
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 3: AI-Powered Alzheimer's Detection: A New Frontier in Healthcare
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001444
+
+POST (PERSONAL INSIGHT):
+As someone who's passionate about the intersection of technology and healthcare, I'm excited to share this breakthrough in Alzheimer's detection. A new AI model has shown promise in screening spontaneous speech to identify potential cases, but it's not without its limitations. The study highlights the importance of rigorous testing and validation in AI-powered diagnosis. What are your thoughts on the potential of AI in healthcare? Let's start a conversation. Follow me for more updates on AI and tech innovations. #AI #TechNews #Healthcare
+
+HASHTAGS:
+#AI #TechNews #Healthcare #Alzheimers
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 4: From Self-Taught to Success: The Ayush Singh Story
+Source: India Today
+Link: https://www.indiatoday.in/education-today/news/story/how-the-19-year-old-ayush-singh-built-a-rs-1-crore-a-month-ai-education-venture-2932997-2026-06-24
+
+POST (PERSONAL INSIGHT):
+As I reflect on Ayush Singh's remarkable journey, I am reminded of the power of self-directed learning and the importance of packaging technical skills effectively. Singh's story is a testament to the fact that success is not limited to those with elite educational backgrounds or powerful networks. I encourage you all to read about his inspiring story and think about how you can apply the lessons to your own careers. Let's continue to push the boundaries of what is possible with AI and education. #AI #TechNews #Entrepreneurship
+
+HASHTAGS:
+#AI #TechNews #Entrepreneurship #SelfDirectedLearning
+
+CTA:
+Follow CGTECH for daily AI updates and inspiring stories like this one.
+
+----------------------------------------
+ARTICLE 5: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence & Deep Learning Programme
+Source: Times Now
+Link: https://www.timesnownews.com/education/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-deep-learning-programme-to-build-enterprise-ready-ai-talent-article-154732300
+
+POST (PERSONAL INSIGHT):
+As we continue to navigate the rapidly evolving landscape of artificial intelligence, it's clear that the demand for skilled professionals who can develop and implement production-ready AI solutions is on the rise. I'm excited to see initiatives like IITM Pravartak's Applied Artificial Intelligence & Deep Learning Programme, which aims to equip professionals with the skills they need to drive business growth through AI. With a focus on machine learning, deep learning, and other critical areas, this programme is an excellent opportunity for those looking to upskill and reskill in the field of AI. Let's connect and discuss how we can leverage AI to drive innovation and success in our respective industries. Follow CGTECH for daily AI updates.
+
+HASHTAGS:
+#AI #TechNews #ArtificialIntelligence #DeepLearning
+
+CTA:
+Follow CGTECH for daily AI updates.
+

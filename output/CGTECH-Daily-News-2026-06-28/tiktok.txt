@@ -1,0 +1,131 @@
+=== CGTECH — TIKTOK/IG/SHORTS PACK ===
+Date: 2026-06-28
+
+----------------------------------------
+ARTICLE 1: Empowering Educators: 'AI in Education' Workshop in Chandigarh
+
+HOOK:
+What if AI could revolutionize the way we learn? A recent workshop in Chandigarh explored the potential of AI in education, and the results are exciting!
+
+SCRIPT (SPOKEN):
+Imagine a classroom where AI enhances the learning experience. A recent workshop in Chandigarh explored the potential of AI in education, empowering teachers with modern tech skills and innovative practices.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The workshop covered topics such as the practical applications of artificial intelligence, digital tools, and technology integration in education.
+  B-roll: Footage of teachers engaging in the workshop, with laptops and whiteboards displaying AI-powered educational tools.
+
+Scene 2:
+  Narration: The session aimed to make classroom teaching more engaging, effective, and future-ready.
+  B-roll: Visuals of a modern classroom with AI-powered educational tools, such as interactive whiteboards and virtual reality headsets.
+
+HASHTAGS:
+#AI #AITools #EdTech #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: The AI Revolution: How AlexNet Changed Machine Vision Forever
+
+HOOK:
+Imagine a world where computers can see and understand images like humans. This is the world of AI, and it all started with a breakthrough in 2012.
+
+SCRIPT (SPOKEN):
+Imagine a world where computers can see and understand images like humans. In 2012, Alex Krizhevsky's AlexNet made this possible, using GPUs to accelerate machine vision and deep learning. This breakthrough revolutionized AI and paved the way for modern applications like self-driving cars and facial recognition.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: In 2012, Alex Krizhevsky's AlexNet revolutionized machine vision and deep learning.
+  B-roll: Footage of computers, GPUs, and code screens
+
+Scene 2:
+  Narration: The use of GPUs accelerated the training process, making it possible to develop more complex and accurate models.
+  B-roll: Footage of GPUs, data centers, and processing units
+
+Scene 3:
+  Narration: This breakthrough has had a lasting impact on the development of modern AI systems, enabling significant breakthroughs in image recognition and processing.
+  B-roll: Footage of self-driving cars, facial recognition systems, and other AI-powered applications
+
+HASHTAGS:
+#AI #AITools #MachineLearning #Tech
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 3: AI-Powered Alzheimer's Detection: A New Frontier in Healthcare
+
+HOOK:
+What if a simple conversation could change the course of your life? Researchers have developed an AI model to detect Alzheimer's Disease through speech patterns.
+
+SCRIPT (SPOKEN):
+Imagine if a simple conversation could help detect Alzheimer's Disease. Researchers have developed an AI model to do just that, using speech patterns to identify potential cases. But how accurate is it? Let's dive in and find out.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Imagine a world where a simple conversation could help detect Alzheimer's Disease.
+  B-roll: Visuals of a person speaking with a healthcare professional, with a subtle background of brain scans or medical equipment.
+
+Scene 2:
+  Narration: Researchers have developed an AI model to screen spontaneous speech and identify potential cases.
+  B-roll: Visuals of a researcher working on a computer, with code and data visualizations on the screen.
+
+Scene 3:
+  Narration: The model uses a hybrid approach, combining Term Frequency-Inverse Document Frequency and Large Language Model text embeddings.
+  B-roll: Visuals of a complex network or neural network, with nodes and connections representing the AI model.
+
+HASHTAGS:
+#AI #AITools #Healthcare #Alzheimers
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 4: From Self-Taught to Success: The Ayush Singh Story
+
+HOOK:
+What if you could turn your technical skills into a lucrative business? Meet Ayush Singh, the 19-year-old who did just that.
+
+SCRIPT (SPOKEN):
+Meet Ayush Singh, a 19-year-old who built a Rs 1 crore a month AI business from scratch. He taught himself machine learning at 13 and turned his skills into a successful education venture.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Ayush Singh's journey began when he was just 13 years old, teaching himself machine learning during a family financial crisis.
+  B-roll: Suggested B-roll visuals: a young boy sitting in front of a computer, coding and learning.
+
+Scene 2:
+  Narration: Today, Singh's AI education business is worth Rs 1 crore a month, a testament to his hard work and determination.
+  B-roll: Suggested B-roll visuals: a successful business setting, with people working on computers and a cityscape in the background.
+
+HASHTAGS:
+#AI #AITools #MachineLearning #Entrepreneurship
+
+CTA:
+Follow CGTECH for daily AI updates and inspiring stories like this one.
+
+----------------------------------------
+ARTICLE 5: IITM Pravartak Announces Batch 03 of Applied Artificial Intelligence & Deep Learning Programme
+
+HOOK:
+Unlock the power of AI and take your career to the next level! IITM Pravartak's Applied Artificial Intelligence & Deep Learning Programme is here to equip you with production-grade AI capabilities.
+
+SCRIPT (SPOKEN):
+Get ready to unlock the power of AI! IITM Pravartak's Applied Artificial Intelligence & Deep Learning Programme is back with Batch 03, focusing on production-grade AI capabilities. From machine learning to Generative AI, this programme has got you covered.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: As we continue to navigate the rapidly evolving landscape of artificial intelligence, the demand for skilled professionals who can develop and implement production-ready AI solutions is on the rise.
+  B-roll: Footage of robots, coding screens, and AI-related visuals
+
+Scene 2:
+  Narration: IITM Pravartak's Applied Artificial Intelligence & Deep Learning Programme is designed to equip professionals with production-grade AI capabilities, covering areas such as machine learning, deep learning, and MLOps.
+  B-roll: Footage of professionals working on AI projects, coding, and collaborating
+
+HASHTAGS:
+#AI #AITools #MachineLearning
+
+CTA:
+Follow CGTECH for daily AI updates.
+
