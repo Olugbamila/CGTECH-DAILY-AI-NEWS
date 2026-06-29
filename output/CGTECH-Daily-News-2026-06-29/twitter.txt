@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-06-29
+
+----------------------------------------
+ARTICLE 1: Revolutionizing Education: Chandigarh Teachers Learn to Harness AI
+TWEET:
+Teachers in Chandigarh learn how to harness #AI and digital innovation to enhance classroom teaching! The future of education is here. #AIinEducation #EdTech
+
+HASHTAGS:
+#AI #AIinEducation #EdTech
+
+LINK:
+https://www.tribuneindia.com/news/schools/workshop-on-ai-in-education-organsied-for-chandigarh-teachers/
+
+----------------------------------------
+ARTICLE 2: The AlexNet Revolution: How GPUs Accelerated the Rise of Modern AI Vision
+TWEET:
+Did you know? In 2012, Alex Krizhevsky's AlexNet, powered by GPUs, revolutionized machine vision & deep learning! This breakthrough paved the way for modern AI applications. #AI #MachineLearning #TechNews
+
+HASHTAGS:
+#AI #MachineLearning #TechNews
+
+LINK:
+https://timesofindia.indiatimes.com/technology/tech-news/in-2012-alex-krizhevsky-trained-alexnet-with-gpus-accelerating-the-rise-of-modern-ai-vision/articleshow/132008870.cms
+
+----------------------------------------
+ARTICLE 3: AI-Powered Detection of Alzheimer's Disease: A New Frontier in Healthcare
+TWEET:
+AI-powered detection of Alzheimer's Disease is here! Researchers develop a model to screen spontaneous speech, but accuracy varies. What's next for AI in healthcare? #AI #Healthcare #Alzheimers
+
+HASHTAGS:
+#AI #Healthcare #Alzheimers
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001444
+
+----------------------------------------
+ARTICLE 4: From Self-Taught to Success: The Ayush Singh Story
+TWEET:
+19-year-old Ayush Singh builds Rs 1 crore-a-month AI business with self-taught machine learning skills! Inspiration for young entrepreneurs & a reminder that skill-based education can lead to success. #AI #MachineLearning #Entrepreneurship
+
+HASHTAGS:
+#AI #MachineLearning #Entrepreneurship
+
+LINK:
+https://www.indiatoday.in/education-today/news/story/how-the-19-year-old-ayush-singh-built-a-rs-1-crore-a-month-ai-education-venture-2932997-2026-06-24
+
+----------------------------------------
+ARTICLE 5: IITM Pravartak Announces Applied Artificial Intelligence & Deep Learning Programme
+TWEET:
+IITM Pravartak announces Batch 03 of its Applied Artificial Intelligence & Deep Learning Programme! Build enterprise-ready AI talent and stay ahead in the industry. #AI #DeepLearning #ArtificialIntelligence
+
+HASHTAGS:
+#AI #DeepLearning #ArtificialIntelligence
+
+LINK:
+https://www.timesnownews.com/education/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-deep-learning-programme-to-build-enterprise-ready-ai-talent-article-154732300
+

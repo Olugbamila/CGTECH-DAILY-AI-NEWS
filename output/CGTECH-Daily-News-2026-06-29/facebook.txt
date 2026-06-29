@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-06-29
+
+----------------------------------------
+ARTICLE 1: Revolutionizing Education: Chandigarh Teachers Learn to Harness AI
+Source: The Tribune
+Link: https://www.tribuneindia.com/news/schools/workshop-on-ai-in-education-organsied-for-chandigarh-teachers/
+
+POST:
+Exciting news for educators! A recent workshop in Chandigarh showed teachers how to leverage artificial intelligence and digital innovation to create a more engaging and effective learning environment. From practical applications of AI to technology integration, the session covered it all. The goal? To prepare students for the future and make classroom teaching more enjoyable. What are your thoughts on the role of AI in education? Share with us! Follow CGTECH for daily AI updates.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: The AlexNet Revolution: How GPUs Accelerated the Rise of Modern AI Vision
+Source: Times of India
+Link: https://timesofindia.indiatimes.com/technology/tech-news/in-2012-alex-krizhevsky-trained-alexnet-with-gpus-accelerating-the-rise-of-modern-ai-vision/articleshow/132008870.cms
+
+POST:
+The story of AlexNet is a fascinating one! In 2012, Alex Krizhevsky's innovative use of GPUs to train AlexNet marked a major milestone in the development of AI. This breakthrough enabled computers to see and understand images like never before, and it's had a lasting impact on the field of computer vision. What do you think is the most exciting application of AI today? Share your thoughts! Follow CGTECH for daily AI updates.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 3: AI-Powered Detection of Alzheimer's Disease: A New Frontier in Healthcare
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001444
+
+POST:
+Did you know that AI can help detect Alzheimer's Disease from the way we speak? Researchers have made a breakthrough in developing a model that can screen spontaneous speech and identify potential cases. However, the model is not perfect and highlights the need for more research and validation. What do you think about the potential of AI in healthcare? Share your thoughts and let's keep the conversation going. Follow CGTECH for daily AI updates.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 4: From Self-Taught to Success: The Ayush Singh Story
+Source: India Today
+Link: https://www.indiatoday.in/education-today/news/story/how-the-19-year-old-ayush-singh-built-a-rs-1-crore-a-month-ai-education-venture-2932997-2026-06-24
+
+POST:
+Have you heard the story of Ayush Singh, the 19-year-old who turned his passion for machine learning into a Rs 1 crore-a-month AI education business? It's a remarkable tale of dedication, hard work, and the power of self-directed learning. Singh's journey shows that with the right mindset and skills, anyone can achieve their goals and build a successful career. What's your take on his story? Share your thoughts in the comments! Follow CGTECH for more inspiring stories and updates on the latest AI trends.
+
+CTA:
+Follow CGTECH for daily AI updates and inspiring stories of innovation.
+
+----------------------------------------
+ARTICLE 5: IITM Pravartak Announces Applied Artificial Intelligence & Deep Learning Programme
+Source: Times Now
+Link: https://www.timesnownews.com/education/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-deep-learning-programme-to-build-enterprise-ready-ai-talent-article-154732300
+
+POST:
+Exciting news for AI enthusiasts! IITM Pravartak has announced Batch 03 of its Applied Artificial Intelligence & Deep Learning Programme, designed to equip professionals with production-grade AI capabilities. The programme covers a wide range of topics, including machine learning, deep learning, MLOps, cybersecurity, and more. As companies increasingly adopt AI solutions, the demand for skilled AI professionals is on the rise. Stay ahead in the industry by developing your AI skills. Follow CGTECH for daily AI updates and learn more about this programme.
+
+CTA:
+Follow CGTECH for daily AI updates.
+

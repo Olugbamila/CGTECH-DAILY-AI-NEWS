@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-06-29
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Education: Chandigarh Teachers Learn to Harness AI
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the recent workshop on 'AI in Education' held in Chandigarh for teachers. The event aimed to empower educators with modern technological skills and innovative teaching practices. We'll dive into the details of the workshop, exploring the practical applications of artificial intelligence, digital tools, and technology integration in education. Join us as we examine the impact of AI on the future of learning and what it means for educators and students alike.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/schools/workshop-on-ai-in-education-organsied-for-chandigarh-teachers/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+The AlexNet Revolution: How GPUs Accelerated the Rise of Modern AI Vision
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're going to explore the fascinating story of AlexNet and how it revolutionized machine vision and deep learning. In 2012, Alex Krizhevsky's innovative use of GPUs to train AlexNet marked a major milestone in the development of AI. We'll dive into the details of this breakthrough and explore its impact on the field of computer vision. From image classification to object detection, we'll examine the many ways in which AlexNet has enabled computers to see and understand the world around us.
+
+REFERENCE LINK:
+https://timesofindia.indiatimes.com/technology/tech-news/in-2012-alex-krizhevsky-trained-alexnet-with-gpus-accelerating-the-rise-of-modern-ai-vision/articleshow/132008870.cms
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Detection of Alzheimer's Disease: A New Frontier in Healthcare
+
+SCRIPT (1–2 MINUTES):
+Introduction to AI-powered detection of Alzheimer's Disease. Researchers have developed a model that can screen spontaneous speech and identify potential cases. But how does it work and what are the implications for healthcare? In this video, we'll explore the study and its findings, and discuss the potential of AI in addressing the shortage of specialized physicians. We'll also examine the challenges and limitations of the model and what's next for AI in healthcare.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001444
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+From Self-Taught to Success: The Ayush Singh Story
+
+SCRIPT (1–2 MINUTES):
+Introduction to Ayush Singh's story, a 19-year-old non-IIT student who has built a thriving AI education business. We'll explore how he began learning machine learning at 13, the challenges he faced, and the lessons we can learn from his experience. From self-directed learning to entrepreneurial success, Singh's journey is an inspiration to us all. Let's dive in and discover what we can learn from his remarkable story.
+
+REFERENCE LINK:
+https://www.indiatoday.in/education-today/news/story/how-the-19-year-old-ayush-singh-built-a-rs-1-crore-a-month-ai-education-venture-2932997-2026-06-24
+
+CTA:
+Follow CGTECH for daily AI updates and inspiring stories of innovation.
+
+----------------------------------------
+VIDEO TITLE:
+IITM Pravartak Announces Applied Artificial Intelligence & Deep Learning Programme
+
+SCRIPT (1–2 MINUTES):
+Welcome to our video on IITM Pravartak's Applied Artificial Intelligence & Deep Learning Programme. As we explore the increasing adoption of AI in various industries, it's clear that having professionals who can develop and implement production-grade AI solutions is crucial. In this video, we'll discuss the programme's comprehensive curriculum, its potential impact on the industry, and how you can benefit from it. With its focus on building enterprise-ready AI talent, this programme is an exciting opportunity for professionals looking to upskill and stay ahead in the industry.
+
+REFERENCE LINK:
+https://www.timesnownews.com/education/iitm-pravartak-announces-batch-03-of-applied-artificial-intelligence-deep-learning-programme-to-build-enterprise-ready-ai-talent-article-154732300
+
+CTA:
+Follow CGTECH for daily AI updates.
+
