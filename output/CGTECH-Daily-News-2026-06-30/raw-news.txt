@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-06-30
+
+----------------------------------------
+ARTICLE 1: Revolutionizing Education: AI Approach Assesses Learning Processes
+Source: Phys.org
+URL: https://phys.org/news/2026-06-product-ai-approach.html
+
+SUMMARY:
+A new AI approach is being developed to assess learning processes, rather than just final products, in order to truly understand whether students are learning. This approach aims to provide a more comprehensive understanding of student learning, by evaluating the processes and methods used to arrive at a solution, rather than just the final answer. The use of AI in education is becoming increasingly prevalent, with tools supporting students in brainstorming, drafting, and problem-solving. However, current assessment practices often focus solely on the final output, rather than the learning process itself. By assessing the learning process, educators can gain a deeper understanding of student knowledge and skills.
+
+SHORT-FORM SCRIPT:
+What if AI could help us assess not just the final answer, but how students got there? A new approach is changing the game in education, focusing on the learning process, not just the product.
+
+----------------------------------------
+ARTICLE 2: NMIMS Launches Horizon Initiative to Equip 40,000 Students with AI Skills
+Source: Free Press Journal
+URL: https://www.freepressjournal.in/education/nmims-launches-horizon-initiative-with-coursera-to-equip-40000-students-with-ai-skills-and-future-ready-competencies
+
+SUMMARY:
+NMIMS has launched the Horizon Initiative, a partnership with Coursera to equip 40,000 students with AI skills and future-ready competencies. The program integrates AI, machine learning, and data analytics into academic curricula with structured assessments and faculty support. This initiative aims to prepare students for the changing job market. The partnership between NMIMS and Coursera will provide students with access to a wide range of courses and resources. The goal is to make students industry-ready and equipped with the skills required to succeed in an AI-driven world.
+
+SHORT-FORM SCRIPT:
+NMIMS and Coursera are teaming up to bring AI skills to 40,000 students. The Horizon Initiative integrates AI, machine learning, and data analytics into academic curricula, preparing students for the future of work.
+
+----------------------------------------
+ARTICLE 3: Google Employee Quits $1 Million a Year Job Due to FOMO
+Source: Livemint
+URL: https://www.livemint.com/news/trends/google-employee-earning-nearly-1-million-a-year-quits-says-i-felt-some-fomo-11782750463841.html
+
+SUMMARY:
+A Google employee who earned nearly $1 million per year has quit their job, citing feelings of FOMO. The employee, who worked with artificial intelligence and machine-learning technologies, joined Google in 2020 after 15 years in sales. This unexpected move highlights the evolving priorities of high-earning professionals. The employee's decision may spark discussions about work-life balance and job satisfaction. The story was reported by Kanishka Singharia, a Senior Content Producer at Mint.
+
+SHORT-FORM SCRIPT:
+Meet the Google employee who quit their nearly $1 million a year job, citing FOMO. What would make someone leave a job like that? Let's dive in.
+
+----------------------------------------
+ARTICLE 4: America 250: AI and Autonomy - The New Decision Advantage
+Source: WTOP
+URL: https://wtop.com/250-years-of-america/2026/06/america-250-artificial-intelligence-and-autonomy-the-new-decision-advantage/
+
+SUMMARY:
+The US military is leveraging artificial intelligence and autonomy to gain a decision advantage on the battlefield. Project Maven, which applied machine-learning algorithms to analyze full-motion video from drones, is a key example of this effort. By harnessing AI, the military can gather and process information more quickly, enabling faster and more informed decision-making. This technology has the potential to revolutionize military operations and give the US a strategic edge. As the use of AI in the military continues to evolve, it's likely to have significant implications for national security and defense.
+
+SHORT-FORM SCRIPT:
+Imagine a battlefield where decisions are made in seconds, not minutes. Artificial intelligence is changing the game for the US military, enabling faster and more informed decision-making. From drones to autonomous systems, AI is the new decision advantage.
+
+----------------------------------------
+ARTICLE 5: Unlocking the Secrets of Traditional Chinese Medicine with AI
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014461
+
+SUMMARY:
+Researchers have developed a novel contrastive learning framework called GHF-ACL, which utilizes multi-order graph structures to predict herb-disease associations. This framework aims to improve the understanding of Traditional Chinese Medicine by analyzing the complex interactions between herbs and diseases. The model was tested and shown to be more successful than existing methods in identifying meaningful connections between herbs and diseases. For example, it highlighted a possible role for the herb Niuxi in treating skin cancers. This study provides a clearer way to study traditional herbal medicine and connects ancient medical knowledge with modern, data-driven drug discovery.
+
+SHORT-FORM SCRIPT:
+Imagine being able to unlock the secrets of Traditional Chinese Medicine using artificial intelligence. Researchers have developed a new framework that analyzes the complex interactions between herbs and diseases, leading to breakthroughs in understanding how they work together.
+
