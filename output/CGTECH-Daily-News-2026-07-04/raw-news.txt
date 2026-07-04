@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-07-04
+
+----------------------------------------
+ARTICLE 1: Revolutionizing Healthcare: Star Health Partners with Amplify Health to Deploy AI-Led Claims Intelligence
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/star-health-and-amplify-health-partner-to-scale-ai-led-claims-intelligence-across-indias-largest-private-health-insurance-operations/
+
+SUMMARY:
+Star Health, India's largest standalone health insurer, has partnered with Amplify Health to deploy AI-led claims intelligence and healthcare analytics across its operations. This three-year partnership aims to enhance customer experience by making the cashless claims journey faster and less stressful. Amplify Health will bring its AI and analytics capabilities to India, which have been refined across 10 Asian markets. The partnership is part of Star Health's push to invest in digital health technologies, including artificial intelligence and predictive analytics. This move is expected to improve the overall healthcare experience for Star Health's customers.
+
+SHORT-FORM SCRIPT:
+India's largest health insurer, Star Health, is teaming up with Amplify Health to bring AI-powered claims intelligence to its operations. This means faster, more predictable, and less stressful cashless claims for customers.
+
+----------------------------------------
+ARTICLE 2: The Future of AI: Why Interdisciplinary Digital Education Matters
+Source: Times of India
+URL: https://timesofindia.indiatimes.com/business/india-business/ai-is-not-built-by-software-alone-why-the-future-needs-interdisciplinary-digital-education/articleshow/132092975.cms
+
+SUMMARY:
+The future of technology is often associated with Artificial Intelligence, Machine Learning, and Data Science, but experts argue that these fields require an interdisciplinary approach to digital education. This means combining software development with other disciplines like sociology, psychology, and philosophy to create a more comprehensive understanding of AI. The goal is to produce well-rounded professionals who can develop AI systems that are not only technologically advanced but also socially responsible. India is taking steps to address this need by incorporating interdisciplinary digital education into its curriculum. This shift in approach is expected to have a significant impact on the future of AI development.
+
+SHORT-FORM SCRIPT:
+Imagine a future where AI is designed with people, not just code, in mind. That's the goal of interdisciplinary digital education, combining tech with social sciences to create more responsible AI.
+
+----------------------------------------
+ARTICLE 3: CEP IIT Delhi Launches Applied AI, Machine Learning, and Decision Science Programme
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/cep-iit-delhi-launches-applied-ai-machine-learning-and-decision-science-programme-to-help-professionals-move-beyond-models-to-business-impact/
+
+SUMMARY:
+The Centre for Executive Performance (CEP) at IIT Delhi has launched a new programme focused on Applied AI, Machine Learning, and Decision Science. This initiative aims to equip professionals with the skills needed to translate AI models into business decisions that drive measurable outcomes. As AI adoption grows, the ability to move beyond model-building and into strategic decision-making is becoming increasingly important. The programme is designed to address the gap between AI implementation and business impact. By providing professionals with the tools and knowledge necessary to make data-driven decisions, the programme seeks to enhance the overall effectiveness of AI initiatives within organizations.
+
+SHORT-FORM SCRIPT:
+Are you an AI professional looking to drive real business impact? IIT Delhi's new programme in Applied AI, Machine Learning, and Decision Science can help. Learn how to move beyond models and into strategic decision-making.
+
+----------------------------------------
+ARTICLE 4: Revolutionizing Education: AI Approach Assesses Learning Processes
+Source: Phys.org
+URL: https://phys.org/news/2026-06-product-ai-approach.html
+
+SUMMARY:
+A new AI approach is being developed to assess learning processes, rather than just final products, in education. This method aims to help educators understand whether students are truly learning, or just producing polished answers with AI assistance. The approach uses AI to evaluate the steps students take to arrive at their answers, providing a more comprehensive picture of their learning. This innovation has the potential to revolutionize the way we assess student learning and understanding. By focusing on the process, educators can identify areas where students need extra support and provide more effective feedback.
+
+SHORT-FORM SCRIPT:
+Imagine if AI could help teachers see how students think, not just what they produce. A new approach is making this a reality, assessing learning processes to help educators understand their students better.
+
+----------------------------------------
+ARTICLE 5: NMIMS Launches Horizon Initiative to Equip 40,000 Students with AI Skills
+Source: Free Press Journal
+URL: https://www.freepressjournal.in/education/nmims-launches-horizon-initiative-with-coursera-to-equip-40000-students-with-ai-skills-and-future-ready-competencies
+
+SUMMARY:
+NMIMS has launched the Horizon Initiative, a university-wide program in partnership with Coursera, to equip 40,000 students with AI skills and future-ready competencies. The program integrates artificial intelligence, machine learning, and data analytics into academic curricula with structured assessments and faculty support. This initiative aims to prepare students for the changing workforce landscape. By doing so, NMIMS is taking a proactive step towards ensuring its students are well-equipped to thrive in an AI-driven economy. The partnership with Coursera will provide students with access to a wide range of courses and resources.
+
+SHORT-FORM SCRIPT:
+NMIMS is launching the Horizon Initiative to equip 40,000 students with AI skills. In partnership with Coursera, this program integrates AI, machine learning, and data analytics into academic curricula.
+
