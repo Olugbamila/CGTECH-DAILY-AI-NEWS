@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-07-05
+
+----------------------------------------
+ARTICLE 1: Star Health Partners with Amplify Health to Scale AI-Led Claims Intelligence
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/star-health-and-amplify-health-partner-to-scale-ai-led-claims-intelligence-across-indias-largest-private-health-insurance-operations/
+
+SUMMARY:
+Star Health and Allied Insurance Company Limited, India's largest standalone health insurer, has partnered with Amplify Health to deploy AI-led claims intelligence and healthcare analytics capabilities across its operations. This three-year partnership aims to enhance customer experience by making the cashless claims journey faster, more predictable, and less stressful. Amplify Health will bring its AI and analytics capabilities, refined across 10 Asian markets, to India. The partnership is part of Star Health's push to invest in the digital health stack, including artificial intelligence, machine learning, and predictive analytics. This move is expected to benefit Star Health's customers and improve the overall healthcare experience.
+
+SHORT-FORM SCRIPT:
+India's largest health insurer, Star Health, partners with Amplify Health to bring AI-led claims intelligence to its operations, making healthcare more efficient and customer-friendly.
+
+----------------------------------------
+ARTICLE 2: The Future of AI: Why Interdisciplinary Digital Education Matters
+Source: Times of India
+URL: https://timesofindia.indiatimes.com/business/india-business/ai-is-not-built-by-software-alone-why-the-future-needs-interdisciplinary-digital-education/articleshow/132092975.cms
+
+SUMMARY:
+The future of technology relies heavily on Artificial Intelligence, Machine Learning, and Data Science, but experts argue that these fields cannot be advanced by software alone. Interdisciplinary digital education is necessary to unlock the full potential of these technologies. This approach combines technical skills with expertise from other fields, such as social sciences, humanities, and ethics. By adopting an interdisciplinary approach, we can ensure that AI systems are developed with consideration for their social and human impact. As the field continues to evolve, it's essential to prioritize education that fosters collaboration and creativity across disciplines.
+
+SHORT-FORM SCRIPT:
+Imagine a future where AI is not just about code, but about people, ethics, and society. That's the future we need to build, with interdisciplinary digital education.
+
+----------------------------------------
+ARTICLE 3: IIT Delhi Launches Programme to Drive Business Impact with AI
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/cep-iit-delhi-launches-applied-ai-machine-learning-and-decision-science-programme-to-help-professionals-move-beyond-models-to-business-impact/
+
+SUMMARY:
+The Continuing Education Programme (CEP) at IIT Delhi has launched a new programme in Applied AI, Machine Learning, and Decision Science to help professionals move beyond building models and generate insights to driving measurable business outcomes. This programme aims to bridge the gap between AI adoption and business impact. As AI becomes a crucial skill in the modern workforce, organisations are looking for professionals who can translate AI outputs into structured decisions. The programme will focus on decision science and its application in driving business outcomes. With AI adoption maturing, the need for professionals who can drive business impact has never been more pressing.
+
+SHORT-FORM SCRIPT:
+Are you an AI professional looking to drive business impact? IIT Delhi's new programme in Applied AI, Machine Learning, and Decision Science can help. Learn how to move beyond models and generate insights to drive measurable business outcomes.
+
+----------------------------------------
+ARTICLE 4: Revolutionizing Assessment: AI Approach Evaluates Learning Processes
+Source: Phys.org
+URL: https://phys.org/news/2026-06-product-ai-approach.html
+
+SUMMARY:
+A new AI approach is being developed to assess learning processes, rather than just final products, in order to truly understand whether students are learning. This comes as AI tools are increasingly being used to support students in various aspects of their education. The current assessment practices often focus on the final output, which may not accurately reflect a student's learning process. This new approach aims to change that. By using AI to assess the learning process, educators can gain a more comprehensive understanding of how students are learning and where they may need additional support.
+
+SHORT-FORM SCRIPT:
+Imagine if AI could help teachers understand how students learn, not just what they produce. A new approach is making that a reality, assessing the learning process, not just the final product.
+
+----------------------------------------
+ARTICLE 5: NMIMS Launches Horizon Initiative with Coursera to Equip 40,000 Students with AI Skills
+Source: Free Press Journal
+URL: https://www.freepressjournal.in/education/nmims-launches-horizon-initiative-with-coursera-to-equip-40000-students-with-ai-skills-and-future-ready-competencies
+
+SUMMARY:
+NMIMS has launched the Horizon Initiative, a partnership with Coursera to equip 40,000 students with AI skills and future-ready competencies. The program integrates AI, machine learning, and data analytics into academic curricula. This initiative aims to prepare students for the evolving job market. With the rising demand for AI skills, this partnership is a significant step forward. The program includes structured assessments and faculty support to ensure students' success.
+
+SHORT-FORM SCRIPT:
+NMIMS and Coursera are teaming up to bring AI skills to 40,000 students. The Horizon Initiative integrates AI, machine learning, and data analytics into academic curricula, preparing students for the future of work.
+
