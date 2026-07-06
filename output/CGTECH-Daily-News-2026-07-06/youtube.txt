@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-07-06
+
+----------------------------------------
+VIDEO TITLE:
+Drones Use Machine Learning to Predict Mechanical Failures
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in technology and innovation. Today, we're talking about a breakthrough in drone technology that has the potential to revolutionize the industry. Researchers have developed a system that enables drones to detect anomalies and predict mechanical failures in real time, using onboard sensors and machine learning algorithms. In this video, we'll take a closer look at how this technology works and what it means for the future of drones. From the potential applications to the challenges that still need to be overcome, we'll cover it all.
+
+REFERENCE LINK:
+https://www.naturalnews.com/2026-07-06-drones-use-machine-learning-predict-mechanical-failures.html
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Healthcare: Star Health Partners with Amplify Health to Deploy AI-Led Claims Intelligence
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in health tech and their potential to transform the healthcare landscape. Today, we're discussing the exciting partnership between Star Health and Allied Insurance Company Limited and Amplify Health. This collaboration aims to bring AI-powered claims intelligence to India's private health insurance sector, making the claims process faster, more predictable, and less stressful for customers. We'll dive into the details of this partnership and what it means for the future of healthcare in India.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/star-health-and-amplify-health-partner-to-scale-ai-led-claims-intelligence-across-indias-largest-private-health-insurance-operations/
+
+CTA:
+Follow CGTECH for daily updates on the latest developments in AI and health tech.
+
+----------------------------------------
+VIDEO TITLE:
+The Future of AI: Why Interdisciplinary Digital Education Matters
+
+SCRIPT (1–2 MINUTES):
+Introduction: Hello everyone, welcome back to our channel. Today, we're going to talk about the future of technology and why AI is not built by software alone. Segment 1: We'll explore the importance of interdisciplinary digital education in creating a comprehensive AI ecosystem. Segment 2: We'll discuss how India is recognizing the need for this approach and what it means for the future of tech. Conclusion: Let's summarize the key points and talk about what this means for us as we move forward in the world of technology.
+
+REFERENCE LINK:
+https://timesofindia.indiatimes.com/business/india-business/ai-is-not-built-by-software-alone-why-the-future-needs-interdisciplinary-digital-education/articleshow/132092975.cms
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+IIT Delhi Launches Programme to Help Professionals Drive Business Impact with AI
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel! Today, we're talking about the new Applied AI, Machine Learning, and Decision Science programme launched by IIT Delhi's Centre for Executive Education. As AI continues to mature, the ability to drive business impact will become increasingly important. This programme is designed to help professionals develop the skills they need to translate technical insights into business value. We'll be discussing the key features of the programme, as well as how it can help you achieve your career goals. So let's get started!
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/cep-iit-delhi-launches-applied-ai-machine-learning-and-decision-science-programme-to-help-professionals-move-beyond-models-to-business-impact/
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Education: AI Approach Assesses Learning Processes
+
+SCRIPT (1–2 MINUTES):
+Introduction to a new AI approach that's changing the way we assess student learning. For years, we've been focused on evaluating final products, but what if we could assess the steps students take to arrive at an answer? This new approach uses AI to evaluate learning processes, providing a more comprehensive understanding of student learning and identifying areas where students may need additional support. In this video, we'll explore the potential of this approach and what it could mean for the future of education.
+
+REFERENCE LINK:
+https://phys.org/news/2026-06-product-ai-approach.html
+
+CTA:
+Follow CGTECH for daily AI updates
+
