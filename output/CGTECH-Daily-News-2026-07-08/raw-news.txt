@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-07-08
+
+----------------------------------------
+ARTICLE 1: 3i Infotech Subsidiary Wins AED 17.65m Order for IT Consulting
+Source: scanx.trade
+URL: https://scanx.trade/stock-market-news/companies/3i-infotech-unit-wins-aed-17-65m-order-for-it-consulting/45000767
+
+SUMMARY:
+3i Infotech's subsidiary, 3i Infotech Software Solutions L.L.C., has secured a significant order worth AED 17.65m from Vedant Consultancy FZ LLC, UAE, for providing IT consulting services in Robotic Process Automation, Artificial Intelligence, Machine Learning, and Robotics. The engagement is valid for 12 months, starting from May 1, 2026. This order showcases the growing demand for AI and automation services in the UAE. The order is a testament to 3i Infotech's expertise in providing innovative IT solutions. The company is expected to benefit from this significant order, with potential for future collaborations.
+
+SHORT-FORM SCRIPT:
+3i Infotech's subsidiary just landed a massive AED 17.65m order for IT consulting in AI, robotics, and more. What does this mean for the future of tech in the UAE?
+
+----------------------------------------
+ARTICLE 2: Delhi High Court Protects Actor's Personality Rights from AI Misuse
+Source: Deccan Chronicle
+URL: https://www.deccanchronicle.com/entertainment/bollywood/delhi-high-court-protects-ravi-kishans-personality-rights-restrains-ai-and-deepfake-misuse-1968963
+
+SUMMARY:
+The Delhi High Court has granted an injunction to protect actor Ravi Kishan's personality rights, restraining the misuse of his name, image, voice, and other attributes through AI, deepfakes, and other technologies. This decision highlights the growing importance of protecting individual rights in the age of advanced technology. The court's move aims to prevent unauthorized commercial or personal use of Ravi Kishan's public persona. The case underscores the need for legal frameworks to keep pace with technological advancements. As AI and deepfake technologies become more sophisticated, such legal protections will become increasingly crucial.
+
+SHORT-FORM SCRIPT:
+Imagine someone using your face, voice, or name without permission, thanks to AI and deepfakes. That's what happened to actor Ravi Kishan, but the Delhi High Court just granted him protection, setting a precedent for personality rights in the digital age.
+
+----------------------------------------
+ARTICLE 3: Revolutionizing Education: Ashiana Public School Hosts Faculty Development Session on AI
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/schools/ashiana-public-school-chandigarh-hosts-faculty-development-session-on-ai/
+
+SUMMARY:
+Ashiana Public School in Chandigarh hosted a faculty development session on artificial intelligence (AI) and computational learning, introducing teachers to fundamental AI concepts and demonstrating how AI can enhance teaching and learning. The session was led by Ravjot Singh and covered topics such as algorithms, machine learning, and neural networks. The importance of validating AI-generated information through credible sources was also emphasized. The session aimed to prepare teachers to effectively integrate AI into their teaching practices. By doing so, it reaffirmed the significance of teachers in education, highlighting that AI will amplify their role rather than replace it.
+
+SHORT-FORM SCRIPT:
+Imagine a classroom where artificial intelligence enhances teaching and learning. Recently, Ashiana Public School in Chandigarh hosted a faculty development session on AI, introducing teachers to computational learning and fundamental AI concepts. This session demonstrated how AI can thoughtfully enhance education, while underscoring the importance of credible sources and the irreplaceable role of teachers.
+
+----------------------------------------
+ARTICLE 4: Drones Use Machine Learning to Predict Mechanical Failures
+Source: Natural News
+URL: https://www.naturalnews.com/2026-07-06-drones-use-machine-learning-predict-mechanical-failures.html
+
+SUMMARY:
+Researchers have developed a system that enables drones to detect anomalies and predict mechanical failures in real time using onboard sensors and machine learning algorithms. This innovation has the potential to increase the safety and reliability of unmanned aerial vehicles. The system monitors variables such as motor current, vibration, and temperature to identify potential issues before they occur. This technology could have significant implications for industries that rely on drones, such as agriculture, construction, and package delivery. By predicting mechanical failures, drones can be maintained and repaired more efficiently, reducing downtime and improving overall performance.
+
+SHORT-FORM SCRIPT:
+Imagine drones that can predict their own mechanical failures. Researchers have made this a reality using machine learning and onboard sensors. This technology could revolutionize industries like agriculture and construction.
+
+----------------------------------------
+ARTICLE 5: Revolutionizing Healthcare: Star Health Partners with Amplify Health to Bring AI-Led Claims Intelligence to India
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/star-health-and-amplify-health-partner-to-scale-ai-led-claims-intelligence-across-indias-largest-private-health-insurance-operations/
+
+SUMMARY:
+Star Health, India's largest standalone health insurer, has partnered with Amplify Health to deploy AI-led claims intelligence and healthcare analytics across its operations. This partnership aims to enhance customer experience by making the cashless claims journey faster, more predictable, and less stressful. Amplify Health brings its AI and analytics capabilities, refined across 10 Asian markets, to India. The tie-up is part of Star Health's push to invest in the digital health stack, including artificial intelligence, machine learning, and predictive analytics. This collaboration is expected to revolutionize the health insurance industry in India.
+
+SHORT-FORM SCRIPT:
+Imagine a healthcare system where claims are processed quickly and efficiently. Star Health and Amplify Health are making this a reality with their new partnership, bringing AI-led claims intelligence to India's largest private health insurance operations.
+
