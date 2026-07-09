@@ -1,0 +1,139 @@
+=== CGTECH — TIKTOK/IG/SHORTS PACK ===
+Date: 2026-07-09
+
+----------------------------------------
+ARTICLE 1: Large Language Models: The Future of Infectious Disease Forecasting?
+
+HOOK:
+What if we could predict infectious disease outbreaks before they happen? A new study says we can, using large language models.
+
+SCRIPT (SPOKEN):
+Imagine being able to predict infectious disease outbreaks before they happen. A new study shows that large language models can do just that, using public surveillance data to forecast notifiable infectious diseases.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Imagine being able to predict infectious disease outbreaks before they happen.
+  B-roll: Visuals of a globe with disease outbreak hotspots, or a graph showing the rise and fall of disease cases over time.
+
+Scene 2:
+  Narration: A recent study published in PLOS Digital Health found that large language models can be effective predictive engines for forecasting notifiable infectious diseases.
+  B-roll: Visuals of a researcher working on a computer, or a screenshot of the study's findings.
+
+Scene 3:
+  Narration: The models were fine-tuned using public surveillance data from China and the United States, covering 79 infectious diseases.
+  B-roll: Visuals of a map of China and the United States, or a graph showing the diversity of diseases covered in the study.
+
+HASHTAGS:
+#AI #AITools #PublicHealth #InfectiousDiseases
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: Revolutionizing Cancer Care: How Large Language Models Can Improve Patient Outcomes
+
+HOOK:
+What if AI could help doctors predict cancer patient outcomes more accurately? A new study reveals the power of large language models in unlocking prognostic information from clinical records.
+
+SCRIPT (SPOKEN):
+Imagine if doctors could use AI to uncover hidden patterns in patient records, leading to more accurate predictions and personalized care. A new study shows how large language models can extract vital information from clinical notes, improving cancer patient outcomes.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The study applied large language models to the medical records of over 3,500 patients with lung and colon cancer.
+  B-roll: Visuals of a doctor reviewing patient records on a computer, with a dashboard displaying patient data in the background.
+
+Scene 2:
+  Narration: The models extracted patient characteristics such as mobility impairment, pain, and comorbidities.
+  B-roll: Animations of AI algorithms processing data, with icons representing different patient characteristics appearing on screen.
+
+Scene 3:
+  Narration: These features were validated against structured EHR data and expert physician annotations.
+  B-roll: Footage of doctors discussing patient cases, with a whiteboard displaying medical notes and diagrams in the background.
+
+HASHTAGS:
+#AI #AITools #HealthTech #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 3: 3i Infotech Subsidiary Wins Major IT Consulting Deal in UAE
+
+HOOK:
+A 17.65 million dirham deal just changed the game for 3i Infotech in the UAE! But what's behind this massive win?
+
+SCRIPT (SPOKEN):
+Big win for 3i Infotech! Their subsidiary just landed a 17.65 million dirham deal for IT consulting services in AI, robotics, and more. What does this mean for the future of tech in the UAE?
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: 3i Infotech's subsidiary has just secured a significant order worth 17.65 million dirhams for IT consulting services in the UAE.
+  B-roll: Footage of UAE cityscapes, tech hubs, and innovation centers, with visuals of robots, dashboards, and headlines.
+
+Scene 2:
+  Narration: This deal highlights the growing demand for AI, robotics, and automation services in the region.
+  B-roll: Visuals of AI-powered machines, robotics, and automation systems, with footage of professionals working in tech labs and innovation centers.
+
+HASHTAGS:
+#AI #AITools #UAE #TechNews
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 4: Delhi High Court Protects Celebrity Rights from AI Misuse
+
+HOOK:
+The Delhi High Court just made a game-changing decision, protecting one celebrity's rights from AI and deepfake misuse. But what does this mean for the rest of us?
+
+SCRIPT (SPOKEN):
+The Delhi High Court just made a landmark decision, protecting actor Ravi Kishan's personality rights from AI and deepfake misuse. What does this mean for the future of tech and celebrity rights?
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The Delhi High Court has granted an injunction to protect Ravi Kishan's personality rights
+  B-roll: Footage of the Delhi High Court building, followed by a shot of Ravi Kishan
+
+Scene 2:
+  Narration: This decision highlights the growing concern over the potential misuse of emerging technologies
+  B-roll: Visuals of AI and deepfake technology in use, such as robots or computer screens displaying fake videos
+
+Scene 3:
+  Narration: The court's move aims to protect Ravi Kishan's personality rights and sets a precedent for similar cases
+  B-roll: Footage of lawyers or legal experts discussing the implications of the decision
+
+HASHTAGS:
+#AI #AITools #Deepfakes #Tech
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+ARTICLE 5: Enhancing Education with AI: Ashiana Public School Leads the Way
+
+HOOK:
+Imagine a future where AI enhances every classroom, but the heart of teaching remains unchanged. This isn't a dystopian dream; it's the reality being shaped by educators and technologists today.
+
+SCRIPT (SPOKEN):
+Imagine a classroom where AI enhances learning, but doesn't replace the heart of teaching. Ashiana Public School in Chandigarh just hosted a faculty development session on AI and computational learning, showing teachers how to harness AI's power while keeping education human.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Ashiana Public School in Chandigarh is at the forefront of integrating AI into education.
+  B-roll: Footage of the school, classrooms, and teachers engaging with AI tools.
+
+Scene 2:
+  Narration: The faculty development session introduced teachers to computational learning and AI concepts.
+  B-roll: Visuals of the session, with teachers participating and Ravjot Singh presenting.
+
+Scene 3:
+  Narration: Demonstrations of AI tools like Claude and NotebookLM showed how AI can enhance teaching and learning.
+  B-roll: Screen recordings or live demonstrations of these AI tools in action.
+
+HASHTAGS:
+#AI #AITools #EdTech #Learning
+
+CTA:
+Follow CGTECH for daily updates on AI, technology, and education.
+

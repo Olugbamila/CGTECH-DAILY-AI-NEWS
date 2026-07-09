@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-07-09
+
+----------------------------------------
+ARTICLE 1: Large Language Models: The Future of Infectious Disease Forecasting?
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001527
+
+SUMMARY:
+A recent study published in PLOS Digital Health found that large language models can be effective predictive engines for forecasting notifiable infectious diseases. The models were fine-tuned using public surveillance data from China and the United States, covering 79 infectious diseases. The results showed that large language models performed competitively with classical statistical and machine-learning models, particularly for Zoonotic Infectious Diseases and Intestinal Infectious Diseases. This suggests that fine-tuned large language models can be a valuable tool for infectious disease surveillance and public health forecasting. The study provides a methodological foundation for future AI-driven public health forecasting systems.
+
+SHORT-FORM SCRIPT:
+Imagine being able to predict infectious disease outbreaks before they happen. A new study shows that large language models can do just that, using public surveillance data to forecast notifiable infectious diseases.
+
+----------------------------------------
+ARTICLE 2: Revolutionizing Cancer Care: How Large Language Models Can Improve Patient Outcomes
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+
+SUMMARY:
+A recent study published in PLOS Digital Health has demonstrated the potential of large language models (LLMs) to extract prognostic information from unstructured clinical notes, improving machine learning-based survival prediction and patient stratification for cancer patients. The study applied LLMs to the medical records of over 3,500 patients with lung and colon cancer, extracting patient characteristics such as mobility impairment, pain, and comorbidities. These features were validated against structured EHR data and expert physician annotations, and substantially improved survival prediction and patient stratification beyond conventional measures. This breakthrough has significant implications for personalized clinical decision-making. The use of LLMs could unlock prognostic information from clinical records at scale, supporting more informed treatment plans.
+
+SHORT-FORM SCRIPT:
+Imagine if doctors could use AI to uncover hidden patterns in patient records, leading to more accurate predictions and personalized care. A new study shows how large language models can extract vital information from clinical notes, improving cancer patient outcomes.
+
+----------------------------------------
+ARTICLE 3: 3i Infotech Subsidiary Wins Major IT Consulting Deal in UAE
+Source: scanx.trade
+URL: https://scanx.trade/stock-market-news/companies/3i-infotech-unit-wins-aed-17-65m-order-for-it-consulting/45000767
+
+SUMMARY:
+3i Infotech's subsidiary, 3i Infotech Software Solutions L.L.C., has secured a significant order worth AED 17.65m from Vedant Consultancy FZ LLC, UAE, for providing IT consulting services in Robotic Process Automation, Artificial Intelligence, Machine Learning, and Robotics. The engagement is valid for 12 months, starting from May 1, 2026. This deal highlights the growing demand for AI and automation services in the UAE. The order is a testament to 3i Infotech's capabilities in delivering innovative IT solutions. The company is expected to leverage this opportunity to expand its presence in the region.
+
+SHORT-FORM SCRIPT:
+Big win for 3i Infotech! Their subsidiary just landed a 17.65 million dirham deal for IT consulting services in AI, robotics, and more. What does this mean for the future of tech in the UAE?
+
+----------------------------------------
+ARTICLE 4: Delhi High Court Protects Celebrity Rights from AI Misuse
+Source: Deccan Chronicle
+URL: https://www.deccanchronicle.com/entertainment/bollywood/delhi-high-court-protects-ravi-kishans-personality-rights-restrains-ai-and-deepfake-misuse-1968963
+
+SUMMARY:
+The Delhi High Court has granted an ex parte ad interim injunction in favour of actor and BJP MP Ravi Kishan, restraining the unauthorised use of his name, image, voice, and other personality attributes for commercial or personal gain. The court's order specifically prohibits the misuse of AI, Generative AI, Machine Learning, and Deepfakes. This decision highlights the growing concern over the potential misuse of emerging technologies. The court's move aims to protect Ravi Kishan's personality rights and sets a precedent for similar cases. The order is a significant step in regulating the use of AI and deepfakes in India.
+
+SHORT-FORM SCRIPT:
+The Delhi High Court just made a landmark decision, protecting actor Ravi Kishan's personality rights from AI and deepfake misuse. What does this mean for the future of tech and celebrity rights?
+
+----------------------------------------
+ARTICLE 5: Enhancing Education with AI: Ashiana Public School Leads the Way
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/schools/ashiana-public-school-chandigarh-hosts-faculty-development-session-on-ai/
+
+SUMMARY:
+Ashiana Public School in Chandigarh hosted a faculty development session on artificial intelligence (AI) and computational learning. The session, led by Ravjot Singh, introduced teachers to fundamental AI concepts and computational learning approaches. Demonstrations of AI tools like Claude and NotebookLM showcased how AI can enhance teaching and learning. The session emphasized the importance of validating AI-generated information and encouraged students to participate in Olympiads to develop confidence, resilience, and critical thinking. The event highlighted that AI will amplify the role of teachers, not replace them.
+
+SHORT-FORM SCRIPT:
+Imagine a classroom where AI enhances learning, but doesn't replace the heart of teaching. Ashiana Public School in Chandigarh just hosted a faculty development session on AI and computational learning, showing teachers how to harness AI's power while keeping education human.
+

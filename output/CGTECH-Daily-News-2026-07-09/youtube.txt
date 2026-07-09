@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-07-09
+
+----------------------------------------
+VIDEO TITLE:
+Large Language Models: The Future of Infectious Disease Forecasting?
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel. Today, we're discussing a recent study that explores the potential of large language models in forecasting infectious diseases. The study found that these models can be effective predictive engines for forecasting notifiable infectious diseases, using public surveillance data from China and the United States. We'll dive into the details of the study and its findings, and discuss the implications of this technology for public health. From the possibilities of AI-driven forecasting systems to the challenges of implementing this technology in real-world scenarios, we'll cover it all.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001527
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Cancer Care: How Large Language Models Can Improve Patient Outcomes
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and their impact on various industries. Today, we're discussing a recent study that demonstrates the potential of large language models in improving cancer patient outcomes. By analyzing unstructured clinical notes, these models can extract valuable insights that inform more personalized treatment plans. We'll delve into the details of the study, its implications, and what this means for the future of healthcare. Stay tuned for more insightful content, and don't forget to subscribe to our channel for daily AI updates.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+3i Infotech Subsidiary Wins Major IT Consulting Deal in UAE
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the latest news from 3i Infotech, whose subsidiary has just secured a significant order worth 17.65 million dirhams for IT consulting services in the UAE. This deal is a major win for the company and underscores the increasing adoption of AI, robotics, and automation in the region. In this video, we'll be exploring the implications of this deal and what it means for the future of tech in the UAE. So, let's dive in and take a closer look.
+
+REFERENCE LINK:
+https://scanx.trade/stock-market-news/companies/3i-infotech-unit-wins-aed-17-65m-order-for-it-consulting/45000767
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Delhi High Court Protects Celebrity Rights from AI Misuse
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel. Today, we're discussing a significant decision by the Delhi High Court, which has granted an injunction to protect actor and BJP MP Ravi Kishan's personality rights from unauthorised use, including AI and deepfake misuse. This ruling is a landmark moment in the regulation of emerging technologies and has significant implications for the future of tech and celebrity rights. In this video, we'll be exploring the details of the decision, what it means for the industry, and the potential impact on our society. So, let's dive in and take a closer look.
+
+REFERENCE LINK:
+https://www.deccanchronicle.com/entertainment/bollywood/delhi-high-court-protects-ravi-kishans-personality-rights-restrains-ai-and-deepfake-misuse-1968963
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+Enhancing Education with AI: Ashiana Public School Leads the Way
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the exciting intersection of technology and education. Today, we're discussing a recent faculty development session on AI and computational learning at Ashiana Public School in Chandigarh. This session was all about introducing teachers to the basics of AI and showing them how these technologies can be used to enhance learning experiences. From algorithms and machine learning to neural networks and datasets, we'll dive into what was covered and why it matters. But beyond the tech itself, we'll also talk about the importance of validating AI-generated information and the role of teachers in a world where AI is increasingly present. Join us as we delve into the potential of AI to support education and the lessons we can learn from this innovative approach.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/schools/ashiana-public-school-chandigarh-hosts-faculty-development-session-on-ai/
+
+CTA:
+Follow CGTECH for daily updates on AI, technology, and education.
+

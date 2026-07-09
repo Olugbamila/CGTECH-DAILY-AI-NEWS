@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-07-09
+
+----------------------------------------
+ARTICLE 1: Large Language Models: The Future of Infectious Disease Forecasting?
+TWEET:
+New study: Large language models can predict infectious disease outbreaks! Using public surveillance data, these models can forecast notifiable diseases, informing public health interventions. #AI #PublicHealth #Epidemiology
+
+HASHTAGS:
+#AI #PublicHealth #Epidemiology
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001527
+
+----------------------------------------
+ARTICLE 2: Revolutionizing Cancer Care: How Large Language Models Can Improve Patient Outcomes
+TWEET:
+AI-powered prognostics: Large language models can extract vital info from clinical notes, improving cancer patient outcomes! #AI #Healthcare #Innovation
+
+HASHTAGS:
+#AI #Healthcare #MachineLearning
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+
+----------------------------------------
+ARTICLE 3: 3i Infotech Subsidiary Wins Major IT Consulting Deal in UAE
+TWEET:
+3i Infotech's subsidiary wins 17.65m dirham deal for IT consulting in AI, robotics & more! What's next for tech in the UAE? #AI #TechNews #UAE
+
+HASHTAGS:
+#AI #TechNews #UAE
+
+LINK:
+https://scanx.trade/stock-market-news/companies/3i-infotech-unit-wins-aed-17-65m-order-for-it-consulting/45000767
+
+----------------------------------------
+ARTICLE 4: Delhi High Court Protects Celebrity Rights from AI Misuse
+TWEET:
+Delhi High Court grants injunction to protect actor Ravi Kishan's personality rights from AI & deepfake misuse! A significant step in regulating emerging tech. #AI #Deepfakes #TechNews
+
+HASHTAGS:
+#AI #Deepfakes #TechNews
+
+LINK:
+https://www.deccanchronicle.com/entertainment/bollywood/delhi-high-court-protects-ravi-kishans-personality-rights-restrains-ai-and-deepfake-misuse-1968963
+
+----------------------------------------
+ARTICLE 5: Enhancing Education with AI: Ashiana Public School Leads the Way
+TWEET:
+AI in the classroom! Ashiana Public School in Chandigarh hosts faculty development session on AI & computational learning. AI enhances learning, but doesn't replace the heart of teaching. #AI #Education
+
+HASHTAGS:
+#AI #Education #EdTech
+
+LINK:
+https://www.tribuneindia.com/news/schools/ashiana-public-school-chandigarh-hosts-faculty-development-session-on-ai/
+
