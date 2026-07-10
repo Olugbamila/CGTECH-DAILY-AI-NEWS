@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-07-10
+
+----------------------------------------
+ARTICLE 1: MERWACS: The AI-Powered Tool Revolutionizing Kidney Disease Detection
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+SUMMARY:
+Researchers have developed a non-invasive machine learning tool called MERWACS to identify individuals at risk of chronic kidney disease (CKD). The tool uses easily measured factors such as age, weight, blood pressure, and medical history to predict the likelihood of reduced kidney function. MERWACS has been rigorously tested on large datasets from the US and South Korea and is available as a free online application. The goal of MERWACS is to provide an early warning system to identify individuals who should undergo CKD screening, prompting earlier conversations about kidney health. By detecting CKD early, individuals can take steps to slow disease progression and reduce the risk of cardiovascular disease.
+
+SHORT-FORM SCRIPT:
+Imagine a simple tool that can help identify if you're at risk of kidney disease, without needing a lab test. Meet MERWACS, a non-invasive machine learning tool that uses factors like age, weight, and blood pressure to predict kidney health.
+
+----------------------------------------
+ARTICLE 2: AI Powers Bangkok's Smart City Upgrade
+Source: Bangkok Post
+URL: https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+SUMMARY:
+Nuvola Media, a Singapore-based tech company, is expanding its AI and machine learning solutions to Thailand, aiming to make Bangkok a smarter and more resilient city. The company's digital twin and AI solutions will be used to improve safety and efficiency in the city. This move is part of Bangkok's smart city initiative, which aims to leverage technology to enhance the quality of life for its citizens. The use of AI and machine learning is expected to have a significant impact on the city's infrastructure and services. By leveraging data and analytics, the city can optimize its operations and make more informed decisions.
+
+SHORT-FORM SCRIPT:
+Imagine a city that's safer, more efficient, and more sustainable. That's the vision for Bangkok, thanks to a new partnership with Nuvola Media, a company that specializes in AI and machine learning. Their digital twin and AI solutions will help make Bangkok a smarter city, improving the lives of its citizens.
+
+----------------------------------------
+ARTICLE 3: Large Language Models: The Future of Infectious Disease Forecasting
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001527
+
+SUMMARY:
+A recent study published in PLOS Digital Health explores the potential of large language models as predictive engines for forecasting notifiable infectious diseases. The research evaluated a fine-tuned large language model using public surveillance data from China and the United States, covering 111 forecasting tasks across 79 infectious diseases. The model demonstrated competitive performance compared to classical statistical and machine-learning models, particularly for Zoonotic Infectious Diseases and Intestinal Infectious Diseases. This suggests that large language models can be a valuable tool for infectious disease surveillance and public health forecasting. The study provides a methodological foundation for future AI-driven public health forecasting systems.
+
+SHORT-FORM SCRIPT:
+Imagine having a powerful tool to predict infectious disease outbreaks. A new study shows that large language models can be just that, outperforming traditional models in some cases. This could revolutionize public health forecasting and save lives.
+
+----------------------------------------
+ARTICLE 4: AI Breakthrough in Cancer Research: Large Language Models Improve Patient Outcomes
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+
+SUMMARY:
+Researchers have used large language models to extract prognostic information from clinical notes, improving machine learning-based survival prediction and patient stratification for cancer patients. The study analyzed medical records of over 3,500 patients with lung and colon cancer, extracting patient characteristics such as mobility impairment and comorbidities. The LLM-extracted features substantially improved predictions beyond conventional measures like tumor stage. This breakthrough demonstrates the potential of AI in unlocking prognostic information from clinical records, supporting more informed decision-making. The findings have significant implications for personalized medicine and cancer treatment.
+
+SHORT-FORM SCRIPT:
+Imagine if doctors could predict cancer patient outcomes more accurately, using information that's already available in medical records. Researchers have made a breakthrough using large language models to extract prognostic information from clinical notes, improving survival predictions and patient stratification.
+
+----------------------------------------
+ARTICLE 5: 3i Infotech Subsidiary Wins 17.65m Dirham Deal for IT Consulting
+Source: scanx.trade
+URL: https://scanx.trade/stock-market-news/companies/3i-infotech-unit-wins-aed-17-65m-order-for-it-consulting/45000767
+
+SUMMARY:
+3i Infotech's subsidiary, 3i Infotech Software Solutions L.L.C., has secured a significant order worth AED 17.65m from Vedant Consultancy FZ LLC, UAE, for providing IT consulting services in Robotic Process Automation, Artificial Intelligence, Machine Learning, and Robotics. The engagement is valid for 12 months, starting from May 1, 2026. This deal highlights the growing demand for AI and automation services in the UAE. The order is expected to contribute to the growth of 3i Infotech's revenue. The company's expertise in AI and automation will help Vedant Consultancy FZ LLC to streamline its operations and improve efficiency.
+
+SHORT-FORM SCRIPT:
+Big news in the AI world! 3i Infotech's subsidiary just landed a massive 17.65 million dirham deal for IT consulting services in the UAE. They'll be providing expertise in robotic process automation, artificial intelligence, machine learning, and robotics.
+

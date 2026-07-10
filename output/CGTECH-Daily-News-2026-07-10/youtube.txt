@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-07-10
+
+----------------------------------------
+VIDEO TITLE:
+MERWACS: The AI-Powered Tool Revolutionizing Kidney Disease Detection
+
+SCRIPT (1–2 MINUTES):
+Introduction to MERWACS, a non-invasive machine learning tool that's changing the game in kidney disease detection. In this video, we'll explore how MERWACS uses artificial intelligence to analyze health information and provide a personalized predicted probability of reduced kidney function. We'll also discuss the implications of this technology and how it can be used to promote earlier conversations about kidney health. With the potential to identify individuals at risk of CKD without the need for a lab test, MERWACS is an exciting development in the field of healthcare.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+CTA:
+Follow CGTECH for daily AI updates and learn more about the latest innovations in healthcare.
+
+----------------------------------------
+VIDEO TITLE:
+AI Powers Bangkok's Smart City Upgrade
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and tech. Today, we're talking about the exciting new partnership between Nuvola Media and the city of Bangkok. The company's digital twin and AI solutions are set to make a significant impact on the city, from improving safety and efficiency to enhancing the overall quality of life for its citizens. In this video, we'll be taking a closer look at what this means for the city, and how it could be a model for other urban areas around the world.
+
+REFERENCE LINK:
+https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Large Language Models: The Future of Infectious Disease Forecasting
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and technology. Today, we're discussing a recent study on large language models as predictive engines for infectious disease forecasting. The research shows that these models can be a powerful tool for public health forecasting, and could even help prevent the spread of disease. We'll dive into the details of the study, and discuss the potential implications for public health. Join us as we explore the intersection of technology and healthcare, and let us know what you think about the role of AI in public health.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001527
+
+CTA:
+Follow CGTECH for daily AI updates and insights into the latest research and advancements in the field.
+
+----------------------------------------
+VIDEO TITLE:
+AI Breakthrough in Cancer Research: Large Language Models Improve Patient Outcomes
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and its applications in various fields. Today, we're discussing a groundbreaking study that uses large language models to extract prognostic information from clinical notes, improving cancer patient outcomes. The researchers analyzed medical records of over 3,500 patients with lung and colon cancer, extracting valuable features such as mobility impairment and comorbidities. The results show that LLM-extracted features substantially improved machine learning-based survival prediction and patient stratification beyond conventional measures like tumor stage. This breakthrough has significant implications for personalized medicine and cancer treatment. We'll dive deeper into the study, exploring the methodology, results, and potential applications of this innovative approach.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest advancements in healthcare and technology.
+
+----------------------------------------
+VIDEO TITLE:
+3i Infotech Subsidiary Wins 17.65m Dirham Deal for IT Consulting
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the latest news in the AI world. 3i Infotech's subsidiary has just secured a significant order worth 17.65 million dirhams for IT consulting services in the UAE. This deal highlights the growing demand for AI and automation services in the region. We'll be exploring the details of this deal and what it means for the future of AI and automation. So, let's dive in!
+
+REFERENCE LINK:
+https://scanx.trade/stock-market-news/companies/3i-infotech-unit-wins-aed-17-65m-order-for-it-consulting/45000767
+
+CTA:
+Follow CGTECH for daily AI updates
+

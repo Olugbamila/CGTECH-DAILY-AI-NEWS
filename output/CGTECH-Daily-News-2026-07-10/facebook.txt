@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-07-10
+
+----------------------------------------
+ARTICLE 1: MERWACS: The AI-Powered Tool Revolutionizing Kidney Disease Detection
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+POST:
+Did you know that chronic kidney disease (CKD) often has no early symptoms, putting millions of people at risk? That's why researchers have developed MERWACS, a non-invasive machine learning tool that can help identify individuals who should undergo CKD screening. By using factors like age, weight, blood pressure, and medical history, MERWACS provides a personalized predicted probability of reduced kidney function. This tool has the potential to make a significant impact in the early detection and prevention of CKD. Follow CGTECH for more updates on AI in healthcare and share with someone who might benefit from this information!
+
+CTA:
+Follow CGTECH for daily AI updates and learn more about the latest innovations in healthcare.
+
+----------------------------------------
+ARTICLE 2: AI Powers Bangkok's Smart City Upgrade
+Source: Bangkok Post
+Link: https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+POST:
+Have you heard about the exciting new partnership between Nuvola Media and the city of Bangkok? The company's AI and machine learning solutions are going to be used to make the city a better place to live, with a focus on safety, efficiency, and sustainability. From improving traffic flow to enhancing public services, the potential impact is huge. Follow CGTECH for more updates on AI and tech news, and let us know what you think about this initiative in the comments!
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 3: Large Language Models: The Future of Infectious Disease Forecasting
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001527
+
+POST:
+Have you ever wondered how we can use technology to predict and prevent the spread of infectious diseases? A recent study published in PLOS Digital Health explores the potential of large language models as predictive engines for forecasting notifiable infectious diseases. The research shows that these models can be a valuable tool for public health forecasting, and could even help save lives. Follow CGTECH for more updates on the latest AI news and research, and let us know what you think about the role of AI in public health.
+
+CTA:
+Follow CGTECH for daily AI updates and insights into the latest research and advancements in the field.
+
+----------------------------------------
+ARTICLE 4: AI Breakthrough in Cancer Research: Large Language Models Improve Patient Outcomes
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+
+POST:
+A recent study has made a significant breakthrough in cancer research, using large language models to analyze clinical notes and extract prognostic information. This innovation has the potential to improve survival predictions and patient stratification, leading to more personalized treatment plans. The study analyzed medical records of over 3,500 patients with lung and colon cancer, demonstrating the power of AI in unlocking valuable insights from unstructured data. Follow CGTECH for more updates on AI in healthcare and its potential to transform the medical field.
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest advancements in healthcare and technology.
+
+----------------------------------------
+ARTICLE 5: 3i Infotech Subsidiary Wins 17.65m Dirham Deal for IT Consulting
+Source: scanx.trade
+Link: https://scanx.trade/stock-market-news/companies/3i-infotech-unit-wins-aed-17-65m-order-for-it-consulting/45000767
+
+POST:
+Exciting news in the world of AI and automation! 3i Infotech's subsidiary has just landed a massive deal worth 17.65 million dirhams for IT consulting services in the UAE. This is a huge opportunity for the company to showcase its expertise and contribute to the growth of the UAE's tech ecosystem. Follow CGTECH for daily AI updates and let's discuss the implications of this deal on the future of AI and automation.
+
+CTA:
+Follow CGTECH for daily AI updates
+
