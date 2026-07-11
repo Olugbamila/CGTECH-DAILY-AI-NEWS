@@ -1,0 +1,58 @@
+=== CGTECH — FACEBOOK PACK ===
+Date: 2026-07-11
+
+----------------------------------------
+ARTICLE 1: MERWACS: The AI-Powered Tool Revolutionizing Kidney Health
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+POST:
+Did you know that chronic kidney disease often has no early symptoms, leaving millions of people unaware they're at risk? That's why researchers have developed MERWACS, a non-invasive machine learning tool that uses AI to analyze your health information and provide a personalized risk score. This innovative tool has been rigorously tested and is available as a free online application. Learn more about MERWACS and how it can help you take control of your kidney health. Follow CGTECH for daily AI updates!
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: Bangkok's Smart Upgrade: How AI is Transforming the City
+Source: Bangkok Post
+Link: https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+POST:
+Have you heard about Bangkok's smart upgrade? The city is partnering with Nuvola Media to use AI and machine learning to make it a better place to live and work. From optimizing traffic flow to improving public safety, this technology has the potential to make a big impact. Let us know what you think about the use of AI in urban planning! Follow CGTECH for daily AI updates.
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 3: Large Language Models: The Future of Infectious Disease Forecasting
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001527
+
+POST:
+Did you know that large language models can be used to forecast infectious disease outbreaks? A recent study published in PLOS Digital Health found that these models can outperform traditional statistical and machine-learning models in some cases. This technology has the potential to revolutionize public health forecasting and help us stay ahead of epidemics. Learn more about the study and its implications for global health. Follow CGTECH for daily AI updates and insights into the latest tech trends.
+
+CTA:
+Follow CGTECH for daily AI updates and insights into the latest tech trends.
+
+----------------------------------------
+ARTICLE 4: Large Language Models Revolutionize Cancer Patient Prognosis
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+
+POST:
+Exciting news in the field of cancer research! A recent study has shown that large language models can be used to extract valuable information from doctors' notes, improving our ability to predict patient outcomes and provide personalized care. This breakthrough has the potential to transform the way we approach healthcare, and we're eager to see where this technology takes us. Follow CGTECH for daily updates on the latest AI news and research.
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 5: 3i Infotech Subsidiary Wins AED 17.65m Order for IT Consulting
+Source: scanx.trade
+Link: https://scanx.trade/stock-market-news/companies/3i-infotech-unit-wins-aed-17-65m-order-for-it-consulting/45000767
+
+POST:
+Exciting news in the world of AI and automation! 3i Infotech's subsidiary has just secured a massive order worth AED 17.65m for IT consulting services in Robotic Process Automation, Artificial Intelligence, Machine Learning, and Robotics. This deal is a testament to the growing demand for innovative solutions in the region. Want to stay updated on the latest AI trends and news? Follow CGTECH for daily updates and insights!
+
+CTA:
+Follow CGTECH for daily AI updates.
+

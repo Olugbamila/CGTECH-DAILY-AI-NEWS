@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-07-11
+
+----------------------------------------
+ARTICLE 1: MERWACS: The AI-Powered Tool Revolutionizing Kidney Health
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+SUMMARY:
+Researchers have developed a non-invasive machine learning tool called MERWACS to identify individuals at risk of chronic kidney disease (CKD) without requiring an initial lab test. The tool uses artificial intelligence to analyze easily measured factors such as age, weight, blood pressure, and medical history. MERWACS generates a personalized predicted probability of having reduced kidney function and has been rigorously tested on large datasets from the US and South Korea. The goal of MERWACS is to provide an early warning for individuals who should undergo CKD screening, prompting earlier conversations about kidney health. The tool is available as a free, interactive online application.
+
+SHORT-FORM SCRIPT:
+Imagine a simple tool that can help identify if you're at risk of kidney disease without needing a lab test. Meet MERWACS, a non-invasive machine learning tool that uses AI to analyze your health information and provide a personalized risk score.
+
+----------------------------------------
+ARTICLE 2: Bangkok's Smart Upgrade: How AI is Transforming the City
+Source: Bangkok Post
+URL: https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+SUMMARY:
+Nuvola Media, a Singapore-based tech company, is expanding its AI and machine learning solutions to Thailand, aiming to make Bangkok a safer and more resilient smart city. The company's digital twin and AI solutions will be used to upgrade the city's infrastructure. This move is expected to improve the quality of life for Bangkok's residents and make the city more attractive to businesses and tourists. The use of AI in urban planning is becoming increasingly popular, and Bangkok is one of the latest cities to adopt this technology. By leveraging AI, Bangkok can optimize its resources, reduce costs, and enhance the overall urban experience.
+
+SHORT-FORM SCRIPT:
+Imagine a city where traffic flows smoothly, energy is used efficiently, and public safety is always a top priority. Welcome to Bangkok's smart upgrade, powered by AI. Nuvola Media is bringing its digital twin and AI solutions to the city, making it a safer, more resilient place to live and work.
+
+----------------------------------------
+ARTICLE 3: Large Language Models: The Future of Infectious Disease Forecasting
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001527
+
+SUMMARY:
+A recent study published in PLOS Digital Health explores the potential of large language models as predictive engines for forecasting notifiable infectious diseases. The research evaluated a fine-tuned large language model using public surveillance data from China and the United States, covering 79 infectious diseases. The model showed competitive performance compared to traditional statistical and machine-learning models, particularly for Zoonotic Infectious Diseases and Intestinal Infectious Diseases. This study provides evidence for the use of large language models in public health forecasting. The findings suggest that fine-tuned large language models can be a valuable tool for infectious disease surveillance and epidemic control.
+
+SHORT-FORM SCRIPT:
+Imagine being able to predict infectious disease outbreaks before they happen. A new study shows that large language models can be used to forecast notifiable infectious diseases, outperforming traditional models in some cases.
+
+----------------------------------------
+ARTICLE 4: Large Language Models Revolutionize Cancer Patient Prognosis
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+
+SUMMARY:
+Researchers have used large language models to extract prognostic information from clinical notes, improving machine learning-based survival prediction and patient stratification for cancer patients. The study analyzed medical records of over 3,500 patients with lung and colon cancer, extracting patient characteristics such as mobility impairment and comorbidities. The extracted features were validated against structured EHR data and expert physician annotations, demonstrating the potential of AI to unlock prognostic information from clinical records. This approach can support more informed and personalized clinical decision-making. The findings highlight the potential of large language models in healthcare.
+
+SHORT-FORM SCRIPT:
+Imagine being able to unlock life-saving information from doctors' notes. Researchers just made a breakthrough using large language models to predict cancer patient outcomes, improving survival predictions and personalized care.
+
+----------------------------------------
+ARTICLE 5: 3i Infotech Subsidiary Wins AED 17.65m Order for IT Consulting
+Source: scanx.trade
+URL: https://scanx.trade/stock-market-news/companies/3i-infotech-unit-wins-aed-17-65m-order-for-it-consulting/45000767
+
+SUMMARY:
+3i Infotech's subsidiary has secured a significant order worth AED 17.65m for IT consulting services in Robotic Process Automation, Artificial Intelligence, Machine Learning, and Robotics. The order is valid for 12 months and was received from Vedant Consultancy FZ LLC, UAE. This deal highlights the growing demand for AI and automation solutions in the region. The engagement is expected to drive business growth for 3i Infotech. The company's expertise in emerging technologies has led to this major win.
+
+SHORT-FORM SCRIPT:
+Big news in the AI world! 3i Infotech's subsidiary just landed a massive AED 17.65m order for IT consulting in robotics, AI, and machine learning. What does this mean for the future of automation?
+
