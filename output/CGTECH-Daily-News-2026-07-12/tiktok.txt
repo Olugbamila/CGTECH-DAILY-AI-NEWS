@@ -1,0 +1,139 @@
+=== CGTECH — TIKTOK/IG/SHORTS PACK ===
+Date: 2026-07-12
+
+----------------------------------------
+ARTICLE 1: MERWACS: The AI-Powered Tool for Early CKD Detection
+
+HOOK:
+What if a simple online tool could predict your risk of chronic kidney disease? Meet MERWACS, the machine learning innovation that's changing the game for public health.
+
+SCRIPT (SPOKEN):
+Imagine a simple, non-invasive tool that can help identify if you're at risk for chronic kidney disease. Researchers have developed MERWACS, a machine learning tool that uses factors like age and blood pressure to predict your risk. It's free, online, and could save lives.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Chronic kidney disease is a growing public health concern, particularly in aging populations.
+  B-roll: Footage of older adults, hospital settings, and medical professionals
+
+Scene 2:
+  Narration: MERWACS uses machine learning to analyze health information and generate a personalized predicted probability of having reduced kidney function.
+  B-roll: Visuals of code, algorithms, and data analysis
+
+Scene 3:
+  Narration: The tool has been rigorously tested on large datasets from the US and South Korea and is available as a free online application.
+  B-roll: Footage of computers, online platforms, and people using MERWACS
+
+HASHTAGS:
+#AI #AITools #HealthTech #CKD #MachineLearning
+
+CTA:
+Follow CGTECH for daily AI updates and explore the latest advancements in healthcare technology.
+
+----------------------------------------
+ARTICLE 2: Bangkok's Smart City Revolution: How AI is Transforming the City
+
+HOOK:
+Imagine a city where traffic flows smoothly, crime rates drop, and public services are always available. This is the promise of AI-powered smart cities, and Bangkok is leading the way.
+
+SCRIPT (SPOKEN):
+Imagine a city where technology makes life easier and safer. Bangkok is getting a smart upgrade thanks to AI-powered solutions from Nuvola Media. From improved traffic management to enhanced public safety, AI is set to transform the city.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Bangkok, a city of over 8 million people, is getting a smart upgrade thanks to AI-powered solutions.
+  B-roll: Aerial footage of Bangkok's cityscape, with a mix of modern and traditional buildings
+
+Scene 2:
+  Narration: Nuvola Media's digital twin and AI solutions are being used to improve safety and efficiency in the city.
+  B-roll: Footage of traffic management systems, surveillance cameras, and other smart city infrastructure
+
+Scene 3:
+  Narration: The implementation of AI-powered solutions is expected to have a significant impact on the city's infrastructure and services.
+  B-roll: Footage of city officials and technicians working on smart city projects, with screens and dashboards displaying data and analytics
+
+HASHTAGS:
+#AI #AITools #SmartCity #Tech
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+ARTICLE 3: Large Language Models: A New Tool for Infectious Disease Forecasting
+
+HOOK:
+What if we could predict infectious disease outbreaks before they happen? A new study says it's possible with large language models.
+
+SCRIPT (SPOKEN):
+Imagine being able to predict infectious disease outbreaks before they happen. Researchers have made a breakthrough using large language models to forecast notifiable infectious diseases, outperforming traditional models in some cases.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Imagine being able to predict infectious disease outbreaks before they happen.
+  B-roll: Visuals of a globe with disease hotspots, or a graph showing the spread of a disease
+
+Scene 2:
+  Narration: Researchers have made a breakthrough using large language models to forecast notifiable infectious diseases.
+  B-roll: Visuals of a researcher working on a computer, or a lab with scientists analyzing data
+
+Scene 3:
+  Narration: The study used public surveillance data from China and the US to fine-tune a large language model.
+  B-roll: Visuals of a map of China and the US, or a graph showing the data used in the study
+
+HASHTAGS:
+#AI #AITools #PublicHealth #InfectiousDisease #HealthTech
+
+CTA:
+Follow CGTECH for daily AI updates and learn more about the latest advancements in AI and healthcare.
+
+----------------------------------------
+ARTICLE 4: Large Language Models Revolutionize Cancer Treatment with Clinical Note Analysis
+
+HOOK:
+What if doctors could unlock life-saving information from their notes? A new study reveals how large language models are making this possible, revolutionizing cancer treatment and patient care.
+
+SCRIPT (SPOKEN):
+Imagine being able to unlock life-saving information from doctors' notes. A new study shows how large language models can extract vital details from clinical records, improving cancer patient prognosis and treatment.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: The study applied large language models to over 3,500 patient records, extracting features such as mobility impairment and comorbidities.
+  B-roll: Footage of doctors reviewing patient records, with animations of language models analyzing text in the background.
+
+Scene 2:
+  Narration: The LLM-extracted features substantially improved machine learning-based survival prediction and patient stratification beyond conventional measures.
+  B-roll: Visuals of machine learning algorithms processing data, with graphs and charts showing improved prediction accuracy.
+
+HASHTAGS:
+#AI #HealthTech #CancerAwareness #MedicalBreakthroughs
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 5: 3i Infotech Subsidiary Wins 17.65m Dollar Order for IT Consulting
+
+HOOK:
+A 17.65 million dollar deal that's changing the game for AI and automation! What's behind this massive order and what does it mean for the future of tech?
+
+SCRIPT (SPOKEN):
+Big win for 3i Infotech! Their subsidiary just landed a 17.65 million dollar order for IT consulting in AI, robotics, and more. What does this mean for the future of automation?
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: 3i Infotech's subsidiary has secured a significant order for IT consulting services
+  B-roll: Footage of robots, coding screens, and futuristic dashboards
+
+Scene 2:
+  Narration: The order is worth 17.65 million dollars and is valid for 12 months
+  B-roll: Footage of financial charts, calendars, and clocks
+
+Scene 3:
+  Narration: This deal highlights the growing demand for AI and automation solutions
+  B-roll: Footage of industrial automation, self-driving cars, and smart homes
+
+HASHTAGS:
+#AI #AITools #Robotics #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates
+

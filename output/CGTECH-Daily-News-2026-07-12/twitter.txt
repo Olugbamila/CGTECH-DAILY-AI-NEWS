@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-07-12
+
+----------------------------------------
+ARTICLE 1: MERWACS: The AI-Powered Tool for Early CKD Detection
+TWEET:
+New machine learning tool MERWACS helps identify individuals at risk for chronic kidney disease! Free, online, and non-invasive. Could this be a game-changer for public health? #AI #CKD #Healthcare
+
+HASHTAGS:
+#AI #CKD #Healthcare #MachineLearning
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+----------------------------------------
+ARTICLE 2: Bangkok's Smart City Revolution: How AI is Transforming the City
+TWEET:
+Bangkok is getting a smart upgrade! Nuvola Media's AI-powered solutions are set to transform the city, making it safer and more efficient. #AI #SmartCity #Thailand
+
+HASHTAGS:
+#AI #SmartCity #Thailand
+
+LINK:
+https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+----------------------------------------
+ARTICLE 3: Large Language Models: A New Tool for Infectious Disease Forecasting
+TWEET:
+Breakthrough in infectious disease forecasting! Large language models outperform traditional models in predicting outbreaks. #AI #PublicHealth #Epidemiology
+
+HASHTAGS:
+#AI #PublicHealth #Epidemiology #InfectiousDisease
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001527
+
+----------------------------------------
+ARTICLE 4: Large Language Models Revolutionize Cancer Treatment with Clinical Note Analysis
+TWEET:
+Breakthrough in cancer treatment! Large language models can now extract vital info from clinical notes, improving patient prognosis and personalized care. #AI #Healthcare #CancerResearch
+
+HASHTAGS:
+#AI #Healthcare #CancerTreatment
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+
+----------------------------------------
+ARTICLE 5: 3i Infotech Subsidiary Wins 17.65m Dollar Order for IT Consulting
+TWEET:
+3i Infotech subsidiary wins 17.65m dollar order for IT consulting in AI, robotics & more! #AI #Automation #TechNews
+
+HASHTAGS:
+#AI #Automation #TechNews
+
+LINK:
+https://scanx.trade/stock-market-news/companies/3i-infotech-unit-wins-aed-17-65m-order-for-it-consulting/45000767
+

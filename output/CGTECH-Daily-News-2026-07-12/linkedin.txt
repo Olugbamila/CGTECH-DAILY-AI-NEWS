@@ -1,0 +1,73 @@
+=== LINKEDIN PERSONAL BRAND PACK (Chris Gbenlebu) ===
+Date: 2026-07-12
+
+----------------------------------------
+ARTICLE 1: MERWACS: The AI-Powered Tool for Early CKD Detection
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+POST (PERSONAL INSIGHT):
+As someone who's passionate about the intersection of technology and healthcare, I'm excited to share the development of MERWACS, a non-invasive machine learning tool for identifying individuals at risk for chronic kidney disease. By leveraging AI and machine learning, we can improve health outcomes and save lives. I encourage you to learn more about MERWACS and explore its potential applications in your own work. Let's continue the conversation about how technology can transform healthcare. #AI #Healthcare #CKD
+
+HASHTAGS:
+#AI #Healthcare #CKD #MachineLearning #PublicHealth
+
+CTA:
+Follow CGTECH for daily AI updates and explore the latest advancements in healthcare technology.
+
+----------------------------------------
+ARTICLE 2: Bangkok's Smart City Revolution: How AI is Transforming the City
+Source: Bangkok Post
+Link: https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+POST (PERSONAL INSIGHT):
+As we continue to see the rise of smart cities, it's exciting to witness the impact of AI and machine learning on urban development. The recent expansion of Nuvola Media's digital twin and AI solutions to Bangkok is a great example of how technology can be leveraged to create safer, more resilient cities. As someone who's passionate about the intersection of technology and urban planning, I'm eager to see the positive changes that this initiative will bring to the city. What are your thoughts on the role of AI in shaping the future of our cities? Let's connect and discuss. Follow me for more insights on AI and tech news.
+
+HASHTAGS:
+#AI #TechNews #SmartCity #UrbanDevelopment
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+ARTICLE 3: Large Language Models: A New Tool for Infectious Disease Forecasting
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001527
+
+POST (PERSONAL INSIGHT):
+As someone who's passionate about the intersection of technology and public health, I'm excited to share a recent study that highlights the potential of large language models in forecasting infectious diseases. The findings suggest that these models can be a valuable tool in our efforts to control epidemics and inform public health interventions. I believe this technology has the potential to save lives and improve healthcare outcomes. Let's continue to explore the possibilities of AI in public health and work together to create a healthier future. #AI #TechNews #PublicHealth
+
+HASHTAGS:
+#AI #TechNews #PublicHealth #InfectiousDisease #Epidemiology
+
+CTA:
+Follow CGTECH for daily AI updates and learn more about the latest advancements in AI and healthcare.
+
+----------------------------------------
+ARTICLE 4: Large Language Models Revolutionize Cancer Treatment with Clinical Note Analysis
+Source: PLOS (Public Library of Science)
+Link: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+
+POST (PERSONAL INSIGHT):
+As someone who's passionate about the intersection of technology and healthcare, I'm excited to share a recent study that highlights the potential of large language models in improving cancer patient outcomes. By analyzing clinical notes, these models can extract valuable information that informs personalized treatment decisions. This is a significant step forward in leveraging AI for better healthcare outcomes. What are your thoughts on the role of AI in healthcare? Let's discuss. Follow me for more insights on AI and tech trends.
+
+HASHTAGS:
+#AI #Healthcare #CancerResearch #MedicalInnovation
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 5: 3i Infotech Subsidiary Wins 17.65m Dollar Order for IT Consulting
+Source: scanx.trade
+Link: https://scanx.trade/stock-market-news/companies/3i-infotech-unit-wins-aed-17-65m-order-for-it-consulting/45000767
+
+POST (PERSONAL INSIGHT):
+I'm excited to see 3i Infotech's subsidiary secure a significant order for IT consulting services in AI, robotics, and automation. This deal underscores the increasing importance of these technologies in driving business growth. As we continue to navigate the rapidly evolving tech landscape, it's essential to stay ahead of the curve and invest in innovative solutions. What are your thoughts on the growing demand for AI and automation? Let's connect and discuss the implications of this deal. Follow me for more insights on the latest tech trends.
+
+HASHTAGS:
+#AI #TechNews #Innovation #Automation
+
+CTA:
+Follow CGTECH for daily AI updates
+
