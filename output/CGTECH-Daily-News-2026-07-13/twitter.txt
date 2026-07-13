@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-07-13
+
+----------------------------------------
+ARTICLE 1: MERWACS: The AI-Powered Tool Revolutionizing Kidney Disease Diagnosis
+TWEET:
+New AI tool MERWACS can identify kidney disease risk without a lab test! Using machine learning & easily measured factors, MERWACS generates a personalized predicted probability of reduced kidney function. #AI #Healthcare #CKD
+
+HASHTAGS:
+#AI #Healthcare #CKD
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+----------------------------------------
+ARTICLE 2: Bangkok Gets a Smart Upgrade: AI-Powered Digital Twin Solutions
+TWEET:
+Bangkok is getting a smart upgrade! Nuvola Media is bringing AI-powered digital twin solutions to the city, making it safer, more resilient, and efficient. #AI #SmartCity #Thailand
+
+HASHTAGS:
+#AI #SmartCity #Thailand
+
+LINK:
+https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+----------------------------------------
+ARTICLE 3: Large Language Models: The Future of Infectious Disease Forecasting
+TWEET:
+Breakthrough in disease forecasting! Large language models outperform traditional methods in predicting infectious diseases. #AI #Healthcare #InfectiousDiseases
+
+HASHTAGS:
+#AI #Healthcare #InfectiousDiseases
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001527
+
+----------------------------------------
+ARTICLE 4: AI Breakthrough: Large Language Models Improve Cancer Patient Outcomes
+TWEET:
+AI can now help doctors predict cancer patient outcomes more accurately! A new study shows that large language models can extract valuable info from clinical notes, improving survival predictions. #AI #Healthcare #CancerResearch
+
+HASHTAGS:
+#AI #Healthcare #CancerResearch
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+
+----------------------------------------
+ARTICLE 5: 3i Infotech Subsidiary Wins AED 17.65m Order for IT Consulting
+TWEET:
+Big win for 3i Infotech's subsidiary! AED 17.65m deal for IT consulting services in AI, ML, and robotics. What's next for tech in the UAE? #AI #TechNews
+
+HASHTAGS:
+#AI #TechNews #UAE
+
+LINK:
+https://scanx.trade/stock-market-news/companies/3i-infotech-unit-wins-aed-17-65m-order-for-it-consulting/45000767
+

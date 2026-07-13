@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-07-13
+
+----------------------------------------
+VIDEO TITLE:
+MERWACS: The AI-Powered Tool Revolutionizing Kidney Disease Diagnosis
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're exploring the development of MERWACS, a non-invasive machine learning tool for identifying individuals at risk of chronic kidney disease. We'll dive into the details of how MERWACS works, its potential impact on healthcare, and what this means for the future of kidney disease diagnosis and treatment. From the use of artificial intelligence to the importance of early interventions, we'll cover it all. So let's get started!
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Bangkok Gets a Smart Upgrade: AI-Powered Digital Twin Solutions
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and technology. Today, we're talking about Nuvola Media's innovative digital twin solutions, which are set to revolutionize the city of Bangkok. With the help of AI and machine learning, the company is creating a digital replica of the city, enabling real-time monitoring and data-driven decision-making. This technology has far-reaching implications for urban planning, public safety, and environmental sustainability. Let's dive into the details of this exciting project and what it means for the future of smart cities.
+
+REFERENCE LINK:
+https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Large Language Models: The Future of Infectious Disease Forecasting
+
+SCRIPT (1–2 MINUTES):
+Introduction to the topic of disease forecasting and the challenges associated with it. Discussion of the study published in PLOS Digital Health, highlighting the use of large language models for forecasting notifiable infectious diseases. Analysis of the results and implications for public health interventions. Conclusion and future directions for research in this area.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001527
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest technological advancements.
+
+----------------------------------------
+VIDEO TITLE:
+AI Breakthrough: Large Language Models Improve Cancer Patient Outcomes
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and healthcare. Today, we're discussing a groundbreaking study that demonstrates the potential of large language models in improving cancer patient outcomes. By analyzing unstructured clinical notes, these models can extract critical information that enhances conventional prognostic measures. In this video, we'll delve into the details of the study, its implications for the healthcare industry, and the potential applications of this technology. Join us as we examine the intersection of AI and healthcare, and discover how this innovation can shape the future of patient care.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest healthcare innovations.
+
+----------------------------------------
+VIDEO TITLE:
+3i Infotech Subsidiary Wins AED 17.65m Order for IT Consulting
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel! Today, we're discussing the latest news in the tech world. 3i Infotech's subsidiary has just secured a significant order worth AED 17.65m from Vedant Consultancy FZ LLC, UAE, for providing IT consulting services in Robotic Process Automation, Artificial Intelligence, Machine Learning, and Robotics. In this video, we'll be exploring the details of this deal and what it means for the future of tech in the UAE. From the growing demand for AI and automation services to the implications for businesses and individuals, we'll cover it all. So, let's get started!
+
+REFERENCE LINK:
+https://scanx.trade/stock-market-news/companies/3i-infotech-unit-wins-aed-17-65m-order-for-it-consulting/45000767
+
+CTA:
+Follow CGTECH for daily AI updates
+
