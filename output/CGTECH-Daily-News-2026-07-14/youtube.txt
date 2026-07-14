@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-07-14
+
+----------------------------------------
+VIDEO TITLE:
+AICFDPRO: Revolutionizing Intelligent Automation
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and tech. Today, we're talking about AICFDPRO and their innovative approach to intelligent automation. By combining artificial intelligence, machine learning, and advanced analytics, they're helping companies transition to a more efficient and adaptive future. But what does this mean for businesses, and how can you get started on your own journey to intelligent automation? In this video, we'll dive into the world of AICFDPRO and explore the possibilities of intelligent automation.
+
+REFERENCE LINK:
+https://techbullion.com/how-aicfdpro-helps-companies-transition-to-intelligent-automation/
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+MERWACS: The AI-Powered Tool Revolutionizing Chronic Kidney Disease Screening
+
+SCRIPT (1–2 MINUTES):
+Introduction to MERWACS, a non-invasive machine learning tool that's changing the game for chronic kidney disease screening. In this video, we'll explore how MERWACS uses AI to analyze health data and provide a personalized risk assessment, and discuss its potential applications in healthcare. From the developers' goals to the tool's rigorous testing and validation, we'll dive into the details of MERWACS and what it means for the future of healthcare.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest advancements in healthcare technology.
+
+----------------------------------------
+VIDEO TITLE:
+Bangkok's Smart City Revolution: How AI is Transforming the Urban Landscape
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and tech. Today, we're talking about Nuvola Media's AI-powered smart city solutions and how they're set to transform Bangkok. From digital twins to intelligent public services, we'll take a closer look at the technology behind this innovative project. We'll also examine the potential benefits and challenges of implementing AI in urban planning, and what it means for the future of our cities.
+
+REFERENCE LINK:
+https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest tech trends.
+
+----------------------------------------
+VIDEO TITLE:
+Large Language Models: The Future of Infectious Disease Forecasting
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and healthcare. Today, we're talking about a recent study that found large language models can be used to forecast notifiable infectious diseases. This technology has the potential to revolutionize public health, and we're excited to dive into the details. From the study's methodology to its findings and implications, we'll cover it all. So let's get started.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001527
+
+CTA:
+Follow CGTECH for daily AI updates and insights into the latest developments in tech and healthcare.
+
+----------------------------------------
+VIDEO TITLE:
+Large Language Models Improve Cancer Treatment Outcomes by Analyzing Clinical Notes
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and healthcare. Today, we're discussing a groundbreaking study that uses large language models to extract prognostic information from clinical notes. This technology has the potential to improve cancer treatment outcomes and create more personalized care plans. We'll dive into the details of the study and explore the implications of this research for the future of healthcare.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+
+CTA:
+Follow CGTECH for daily AI updates and insights into the latest advancements in healthcare technology.
+

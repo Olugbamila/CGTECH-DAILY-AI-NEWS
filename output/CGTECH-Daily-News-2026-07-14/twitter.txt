@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-07-14
+
+----------------------------------------
+ARTICLE 1: AICFDPRO: Revolutionizing Intelligent Automation
+TWEET:
+AICFDPRO is revolutionizing intelligent automation by combining AI, machine learning, and advanced analytics! Learn how they're helping companies transition to a more efficient and adaptive future. #AI #IntelligentAutomation
+
+HASHTAGS:
+#AI #IntelligentAutomation #Automation
+
+LINK:
+https://techbullion.com/how-aicfdpro-helps-companies-transition-to-intelligent-automation/
+
+----------------------------------------
+ARTICLE 2: MERWACS: The AI-Powered Tool Revolutionizing Chronic Kidney Disease Screening
+TWEET:
+New AI-powered tool MERWACS can help identify individuals at risk of chronic kidney disease without requiring a lab test! #AI #CKD #HealthcareInnovation
+
+HASHTAGS:
+#AI #CKD #HealthcareInnovation
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+----------------------------------------
+ARTICLE 3: Bangkok's Smart City Revolution: How AI is Transforming the Urban Landscape
+TWEET:
+Bangkok is getting a smart upgrade! Nuvola Media's AI solutions are set to make the city safer, more efficient, and more sustainable. #AI #SmartCity #Thailand
+
+HASHTAGS:
+#AI #SmartCity #Thailand #TechNews
+
+LINK:
+https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+----------------------------------------
+ARTICLE 4: Large Language Models: The Future of Infectious Disease Forecasting
+TWEET:
+New study: Large language models can predict infectious disease outbreaks! This tech could help public health officials prepare & respond to epidemics. #AI #PublicHealth #InfectiousDiseases
+
+HASHTAGS:
+#AI #PublicHealth #InfectiousDiseases
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001527
+
+----------------------------------------
+ARTICLE 5: Large Language Models Improve Cancer Treatment Outcomes by Analyzing Clinical Notes
+TWEET:
+Breakthrough in cancer treatment! Researchers use large language models to extract prognostic info from clinical notes, improving survival prediction & patient stratification. #AI #Healthcare #CancerResearch
+
+HASHTAGS:
+#AI #Healthcare #CancerResearch #MachineLearning
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+

@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-07-14
+
+----------------------------------------
+ARTICLE 1: AICFDPRO: Revolutionizing Intelligent Automation
+Source: TechBullion
+URL: https://techbullion.com/how-aicfdpro-helps-companies-transition-to-intelligent-automation/
+
+SUMMARY:
+AICFDPRO is helping companies transition to intelligent automation by combining artificial intelligence, machine learning, advanced analytics, and modern digital platforms. This unified ecosystem enables organizations to move beyond simple automation and build intelligent systems that can learn and adapt. With AICFDPRO, companies can streamline their operations, improve efficiency, and make data-driven decisions. The transition to intelligent automation is a key aspect of digital transformation, and AICFDPRO is at the forefront of this movement. By leveraging these technologies, businesses can stay competitive and drive innovation.
+
+SHORT-FORM SCRIPT:
+Imagine a world where automation is not just about replacing manual work, but about building intelligent systems that can learn and adapt. AICFDPRO is making this a reality by combining AI, machine learning, and advanced analytics to help companies transition to intelligent automation.
+
+----------------------------------------
+ARTICLE 2: MERWACS: The AI-Powered Tool Revolutionizing Chronic Kidney Disease Screening
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+SUMMARY:
+Researchers have developed a non-invasive machine learning tool called MERWACS to identify individuals at risk of chronic kidney disease (CKD) without requiring an initial lab test. The tool uses artificial intelligence to analyze easily measured factors like age, weight, blood pressure, and self-reported medical history. MERWACS generates a personalized predicted probability of having reduced kidney function and has been rigorously tested on large datasets from the US and South Korea. The goal of MERWACS is to provide an early warning that helps identify which adults and elderly individuals should undergo CKD screening. The tool is available as a free, interactive online application.
+
+SHORT-FORM SCRIPT:
+Imagine a simple, non-invasive tool that can help identify your risk of chronic kidney disease. Meet MERWACS, a machine learning tool that uses AI to analyze your health data and provide a personalized risk assessment.
+
+----------------------------------------
+ARTICLE 3: Bangkok's Smart City Revolution: How AI is Transforming the Urban Landscape
+Source: Bangkok Post
+URL: https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+SUMMARY:
+Nuvola Media, a Singapore-based tech company, is expanding its AI and machine learning solutions to Thailand, aiming to make Bangkok a safer and more resilient smart city. The company's digital twin and AI solutions will be used to upgrade the city's infrastructure. This move is expected to improve the quality of life for Bangkok's residents and visitors. The use of AI in urban planning is becoming increasingly popular, and Bangkok is the latest city to adopt this technology. By leveraging AI, Bangkok can become a model for other cities in the region.
+
+SHORT-FORM SCRIPT:
+Imagine a city that's safer, more efficient, and more sustainable. That's what Nuvola Media is bringing to Bangkok with its AI-powered smart city solutions. From smart traffic management to intelligent public services, AI is transforming the way cities are run.
+
+----------------------------------------
+ARTICLE 4: Large Language Models: The Future of Infectious Disease Forecasting
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001527
+
+SUMMARY:
+A recent study published in PLOS Digital Health found that large language models can be effective predictive engines for forecasting notifiable infectious diseases. The study evaluated a fine-tuned large language model using public surveillance data from China and the United States, covering 111 forecasting tasks and 79 infectious diseases. The model showed competitive performance compared to classical statistical and machine-learning models, particularly for Zoonotic Infectious Diseases and Intestinal Infectious Diseases. This suggests that large language models can be a valuable tool for public health forecasting. The study provides evidence and a methodological foundation for future AI-driven public health forecasting systems.
+
+SHORT-FORM SCRIPT:
+Imagine being able to predict infectious disease outbreaks before they happen. A new study shows that large language models can be used to forecast notifiable infectious diseases, helping public health officials prepare and respond to epidemics.
+
+----------------------------------------
+ARTICLE 5: Large Language Models Improve Cancer Treatment Outcomes by Analyzing Clinical Notes
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+
+SUMMARY:
+Researchers have used large language models to extract prognostic information from clinical notes, improving machine learning-based survival prediction and patient stratification for cancer patients. The study analyzed over 3,500 patient records with lung and colon cancer, extracting features such as mobility impairment, pain, and comorbidities. These features were validated against structured EHR data and expert physician annotations, demonstrating the potential of AI to unlock prognostic information from clinical records. The findings support more informed and personalized clinical decision-making. This breakthrough has significant implications for the field of oncology and the use of AI in healthcare.
+
+SHORT-FORM SCRIPT:
+Imagine being able to unlock hidden insights from patient records to improve cancer treatment outcomes. Researchers are using large language models to extract prognostic information from clinical notes, and the results are promising.
+
