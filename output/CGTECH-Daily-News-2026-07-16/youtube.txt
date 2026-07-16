@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-07-16
+
+----------------------------------------
+VIDEO TITLE:
+Intelligent Automation with AICFDPRO: Streamlining Business Operations
+
+SCRIPT (1–2 MINUTES):
+Welcome to our video on intelligent automation with AICFDPRO. In this video, we'll explore how companies can transition to a unified ecosystem that combines artificial intelligence, machine learning, and advanced analytics. We'll discuss the benefits of adopting intelligent automation, including improved efficiency, streamlined operations, and data-driven decision making. Join us as we dive into the world of AI and automation and learn how AICFDPRO's solutions can help your business thrive.
+
+REFERENCE LINK:
+https://techbullion.com/how-aicfdpro-helps-companies-transition-to-intelligent-automation/
+
+CTA:
+Follow CGTECH for daily AI updates and industry insights.
+
+----------------------------------------
+VIDEO TITLE:
+MERWACS: The AI-Powered Tool Revolutionizing Kidney Health
+
+SCRIPT (1–2 MINUTES):
+Introduction to MERWACS, a groundbreaking machine learning tool that's changing the way we approach kidney health. In this video, we'll explore how MERWACS uses artificial intelligence to analyze easily measured factors such as age, weight, and blood pressure, and provide a personalized predicted probability of having reduced kidney function. We'll also discuss the potential impact of MERWACS on the healthcare industry and how it can help identify individuals at risk of kidney disease. Join us as we delve into the world of AI-powered healthcare innovation.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+CTA:
+Follow CGTECH for daily AI updates and insights on how technology is transforming the healthcare industry.
+
+----------------------------------------
+VIDEO TITLE:
+Bangkok's Smart Upgrade: How AI is Transforming the City
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and machine learning. Today, we're talking about the smart city initiative in Bangkok, Thailand. Nuvola Media, a Singapore-based tech company, is expanding its digital twin and AI solutions to the city, aiming to make it safer, more efficient, and more resilient. From smart traffic management to predictive maintenance, we'll dive into the details of this technology and its potential impact on urban development. Join us as we explore the future of smart cities and the role that AI will play in shaping our urban landscapes.
+
+REFERENCE LINK:
+https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+CTA:
+Follow CGTECH for daily AI updates and join the conversation on the future of smart cities.
+
+----------------------------------------
+VIDEO TITLE:
+Large Language Models: The Future of Infectious Disease Forecasting
+
+SCRIPT (1–2 MINUTES):
+Introduction to the topic of infectious disease forecasting and the role of large language models. The video will delve into the study's methodology, results, and implications for public health. It will also explore the potential of artificial intelligence in epidemiology and the future of disease surveillance. The script will be approximately 1-2 minutes long, with visuals and graphics to support the narration.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001527
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Cancer Patient Care: How Large Language Models Can Improve Outcomes
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and healthcare. Today, we're discussing a groundbreaking study that demonstrates the potential of large language models to improve cancer patient outcomes. The study analyzed medical records of over 3,500 patients with lung and colon cancer, extracting patient characteristics such as mobility impairment, pain, and comorbidities. We'll dive into the details of the study and its implications for the use of AI in healthcare, and discuss what this means for the future of patient care.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+
+CTA:
+Follow CGTECH for daily AI updates
+
