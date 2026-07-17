@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-07-17
+
+----------------------------------------
+VIDEO TITLE:
+AICFDPRO: Revolutionizing Business Operations with Intelligent Automation
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest trends and innovations in AI and tech. Today, we're talking about AICFDPRO and their intelligent automation solutions. From combining AI and machine learning to building intelligent systems, we'll dive into the details of how AICFDPRO is helping companies achieve their digital transformation goals. With expert insights and real-world examples, you'll learn how to leverage the power of intelligent automation for your business. So, let's get started!
+
+REFERENCE LINK:
+https://techbullion.com/how-aicfdpro-helps-companies-transition-to-intelligent-automation/
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+MERWACS: The AI Tool Revolutionizing Kidney Disease Detection
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and healthcare. Today, we're discussing MERWACS, a non-invasive machine learning tool that can help identify individuals at risk of chronic kidney disease. We'll dive into how MERWACS works, its potential impact on healthcare, and what this means for the future of preventative medicine. Join us as we examine the intersection of technology and healthcare and how it's changing the way we approach disease prevention and treatment.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+CTA:
+Follow CGTECH for daily AI updates and the latest news on healthcare technology.
+
+----------------------------------------
+VIDEO TITLE:
+AI Powers Bangkok's Smart Upgrade
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and technology. Today, we're talking about the exciting plans to make Bangkok a smarter city. Nuvola Media, a Singapore-based tech company, is expanding its digital twin and AI solutions to Thailand, aiming to create a safer, more resilient, and more efficient city. In this video, we'll take a closer look at how AI and machine learning can be used to upgrade urban infrastructure, and what this means for the residents and visitors of Bangkok. From reducing congestion to improving public safety, we'll examine the potential benefits and challenges of this approach. So, let's dive in and explore the future of smart cities.
+
+REFERENCE LINK:
+https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+CTA:
+Follow CGTECH for daily AI updates and news.
+
+----------------------------------------
+VIDEO TITLE:
+Large Language Models: The Future of Infectious Disease Forecasting
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and their applications in various fields. Today, we're talking about a recent study that demonstrates the potential of large language models in forecasting infectious diseases. The study's findings suggest that these models can be a valuable tool for public health officials, enabling them to prepare for and respond to outbreaks more effectively. We'll be discussing the details of the study, its implications, and the potential future developments in this field. So, let's dive in and explore how AI is changing the game in public health.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001527
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+Large Language Models Improve Cancer Patient Outcomes by Analyzing Clinical Notes
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and healthcare. Today, we're discussing a recent study that highlights the potential of large language models in improving cancer patient outcomes. By analyzing unstructured clinical notes, researchers were able to extract valuable prognostic information, substantially improving machine learning-based survival prediction and patient stratification. This breakthrough demonstrates the power of AI in unlocking new insights from existing data, and has significant implications for the future of personalized medicine. In this video, we'll take a closer look at the study's findings and what they mean for the use of AI in healthcare.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+
+CTA:
+Follow CGTECH for daily AI updates and learn more about the latest advancements in AI and healthcare.
+

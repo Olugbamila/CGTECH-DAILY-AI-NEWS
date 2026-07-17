@@ -1,0 +1,143 @@
+=== CGTECH — TIKTOK/IG/SHORTS PACK ===
+Date: 2026-07-17
+
+----------------------------------------
+ARTICLE 1: AICFDPRO: Revolutionizing Business Operations with Intelligent Automation
+
+HOOK:
+What if you could automate tasks, make data-driven decisions, and improve efficiency all at once? AICFDPRO is making this a reality with their intelligent automation solutions.
+
+SCRIPT (SPOKEN):
+Imagine a world where businesses can automate tasks, make data-driven decisions, and improve efficiency all at once. AICFDPRO is making this a reality with their intelligent automation solutions.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Imagine a world where businesses can automate tasks, make data-driven decisions, and improve efficiency all at once.
+  B-roll: Robots, dashboards, and headlines on screens
+
+Scene 2:
+  Narration: AICFDPRO is making this a reality with their intelligent automation solutions.
+  B-roll: Company logos, infographics, and animations of AI systems
+
+Scene 3:
+  Narration: By combining AI, machine learning, and advanced analytics, they're helping organizations build intelligent systems that can drive real business value.
+  B-roll: Data visualizations, coding screens, and innovation labs
+
+HASHTAGS:
+#AI #AITools #IntelligentAutomation #Tech
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 2: MERWACS: The AI Tool Revolutionizing Kidney Disease Detection
+
+HOOK:
+What if a simple online tool could predict your risk of kidney disease? Introducing MERWACS, the AI-powered solution that's changing the game.
+
+SCRIPT (SPOKEN):
+Imagine a simple tool that can help identify if you're at risk of kidney disease, without needing a lab test. Meet MERWACS, a non-invasive machine learning tool that uses factors like age and blood pressure to predict your risk.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Chronic kidney disease is a growing public health concern, particularly in aging populations.
+  B-roll: Footage of elderly individuals, healthcare professionals, and medical equipment
+
+Scene 2:
+  Narration: MERWACS uses machine learning to analyze health information from thousands of adults, focusing on easily measured factors like age, weight, and blood pressure.
+  B-roll: Visuals of data analysis, machine learning algorithms, and healthcare professionals reviewing patient data
+
+Scene 3:
+  Narration: The tool generates a personalized predicted probability of having reduced kidney function, providing an early warning for CKD.
+  B-roll: Footage of the MERWACS online application, with animations illustrating the tool's functionality
+
+HASHTAGS:
+#AI #AITools #Healthcare #CKD #MachineLearning
+
+CTA:
+Follow CGTECH for daily AI updates and the latest news on healthcare technology.
+
+----------------------------------------
+ARTICLE 3: AI Powers Bangkok's Smart Upgrade
+
+HOOK:
+Imagine a city where technology and innovation come together to create a better quality of life for all residents. Welcome to the future of Bangkok, where AI and machine learning are being used to create a smarter, more resilient city.
+
+SCRIPT (SPOKEN):
+Imagine a city where traffic flows smoothly, crime rates are low, and public services are efficient. This is the vision for Bangkok, thanks to a new partnership with Nuvola Media, a company that specializes in AI and machine learning. With their digital twin and AI solutions, Bangkok is set to become a safer, more resilient smart city.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Bangkok, a city of over 8 million people, is getting a smart upgrade.
+  B-roll: Aerial footage of Bangkok's cityscape, with a mix of old and new buildings, traffic, and pedestrians.
+
+Scene 2:
+  Narration: Nuvola Media's digital twin and AI solutions will be used to create a safer, more resilient city.
+  B-roll: Visuals of the company's digital twin platform, with 3D models of the city and real-time data analytics.
+
+Scene 3:
+  Narration: The use of AI in urban planning is becoming increasingly popular, and Bangkok is joining a growing list of cities that are leveraging technology to create smarter communities.
+  B-roll: Footage of other smart cities around the world, with examples of AI-powered solutions in action, such as smart traffic management and public safety systems.
+
+HASHTAGS:
+#AI #AITools #SmartCity #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates and news.
+
+----------------------------------------
+ARTICLE 4: Large Language Models: The Future of Infectious Disease Forecasting
+
+HOOK:
+What if we could predict infectious disease outbreaks before they happen? A new study says we can, using large language models.
+
+SCRIPT (SPOKEN):
+Imagine being able to predict infectious disease outbreaks before they happen. A new study shows that large language models can do just that, using public surveillance data to forecast cases and deaths.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Imagine being able to predict infectious disease outbreaks before they happen.
+  B-roll: Visuals of a person looking at a computer screen with a graph of disease outbreaks, or a public health official looking at a map of affected areas
+
+Scene 2:
+  Narration: A recent study published in PLOS Digital Health found that large language models can be effective predictive engines for forecasting notifiable infectious diseases.
+  B-roll: Visuals of a researcher looking at a computer screen with code, or a graph of disease outbreaks with a red line indicating predictions
+
+Scene 3:
+  Narration: The study used public surveillance data from China and the United States, covering 79 infectious diseases, and found that the models performed competitively with traditional statistical and machine-learning models.
+  B-roll: Visuals of a map of China and the United States with markers indicating affected areas, or a graph of disease outbreaks with multiple lines indicating different models
+
+HASHTAGS:
+#AI #AITools #PublicHealth #InfectiousDiseases
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+ARTICLE 5: Large Language Models Improve Cancer Patient Outcomes by Analyzing Clinical Notes
+
+HOOK:
+What if doctors could predict cancer patient outcomes more accurately, using information that's already available in medical records? A new study reveals how large language models are making this possible.
+
+SCRIPT (SPOKEN):
+Imagine if doctors could predict cancer patient outcomes more accurately, using information that's already available in medical records. Researchers have made a breakthrough using large language models to extract prognostic information from unstructured clinical notes, improving survival prediction and patient stratification.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Researchers have made a breakthrough in cancer research, using large language models to extract prognostic information from unstructured clinical notes.
+  B-roll: Footage of doctors reviewing medical records, with animations of language models analyzing text in the background.
+
+Scene 2:
+  Narration: The study analyzed medical records of over 3,500 patients with lung and colon cancer, extracting patient characteristics such as mobility impairment and comorbidities.
+  B-roll: Footage of medical records being scanned, with animations of data being extracted and analyzed.
+
+Scene 3:
+  Narration: The LLM-extracted features substantially improved machine learning-based survival prediction and patient stratification, demonstrating the power of AI in unlocking new insights from existing data.
+  B-roll: Footage of doctors discussing patient outcomes, with animations of AI models predicting survival rates and patient stratification.
+
+HASHTAGS:
+#AI #HealthTech #CancerAwareness
+
+CTA:
+Follow CGTECH for daily AI updates and learn more about the latest advancements in AI and healthcare.
+
