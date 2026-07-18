@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-07-18
+
+----------------------------------------
+ARTICLE 1: PumpKin: The AI-Powered Pipeline Revolutionizing Neuroscience Research
+TWEET:
+Introducing PumpKin: an AI-powered pipeline that tracks the tiny movements of C. elegans worms! This breakthrough is revolutionizing neuroscience research. Follow CGTECH for daily AI updates. #AI #Neuroscience
+
+HASHTAGS:
+#AI #Neuroscience #MachineLearning
+
+LINK:
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014489
+
+----------------------------------------
+ARTICLE 2: Revolutionizing Digital Transformation: How AICFDPRO Enables Intelligent Automation
+TWEET:
+Intelligent automation is the future! AICFDPRO is leading the charge, combining AI, machine learning, and analytics to create a unified ecosystem. #AI #IntelligentAutomation #DigitalTransformation
+
+HASHTAGS:
+#AI #IntelligentAutomation #DigitalTransformation
+
+LINK:
+https://techbullion.com/how-aicfdpro-helps-companies-transition-to-intelligent-automation/
+
+----------------------------------------
+ARTICLE 3: MERWACS: The AI-Powered Kidney Disease Risk Assessment Tool
+TWEET:
+New machine learning tool MERWACS identifies kidney disease risk without lab tests! This innovation could save lives through early detection. #AI #Healthcare #CKD
+
+HASHTAGS:
+#AI #Healthcare #CKD #KidneyDisease
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+----------------------------------------
+ARTICLE 4: Bangkok's Smart Upgrade: How AI is Transforming the City
+TWEET:
+Bangkok is getting a smart upgrade thanks to Nuvola Media's AI solutions! The city is set to become safer, more efficient, and sustainable. #AI #SmartCity #Bangkok
+
+HASHTAGS:
+#AI #SmartCity #Bangkok
+
+LINK:
+https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+----------------------------------------
+ARTICLE 5: AI-Powered Cancer Prognosis: How Large Language Models Are Revolutionizing Patient Care
+TWEET:
+Breakthrough in cancer care! Large language models can extract prognostic info from clinical notes, improving survival predictions & patient stratification. #AI #Healthcare #CancerResearch
+
+HASHTAGS:
+#AI #Healthcare #CancerResearch
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+

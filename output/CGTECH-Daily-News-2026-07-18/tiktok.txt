@@ -1,0 +1,143 @@
+=== CGTECH — TIKTOK/IG/SHORTS PACK ===
+Date: 2026-07-18
+
+----------------------------------------
+ARTICLE 1: PumpKin: The AI-Powered Pipeline Revolutionizing Neuroscience Research
+
+HOOK:
+Imagine being able to track the tiny movements of a worm that's smaller than a human hair. Sounds like science fiction, right? But thanks to PumpKin, a revolutionary machine-learning pipeline, this is now a reality.
+
+SCRIPT (SPOKEN):
+Meet PumpKin, a game-changing machine-learning pipeline that tracks the tiny movements of C. elegans worms. This open-source tool is revolutionizing neuroscience research by measuring the worm's pumping rate with unprecedented accuracy.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Meet PumpKin, the machine-learning pipeline that's changing the game in neuroscience research.
+  B-roll: Footage of C. elegans worms under a microscope, with animations of the PumpKin pipeline tracking their movements.
+
+Scene 2:
+  Narration: The PumpKin pipeline is designed to track the localized kinematics of C. elegans worms with remarkable precision.
+  B-roll: Visuals of the PumpKin interface, with graphs and charts illustrating the pipeline's accuracy and efficiency.
+
+Scene 3:
+  Narration: By leveraging AI and machine learning, researchers can now gain deeper insights into the complex behaviors of C. elegans worms.
+  B-roll: Footage of scientists working in a lab, with shots of the worms and the PumpKin pipeline in action.
+
+HASHTAGS:
+#AI #AITools #Neuroscience #Science
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+ARTICLE 2: Revolutionizing Digital Transformation: How AICFDPRO Enables Intelligent Automation
+
+HOOK:
+What if your business could run smarter, not harder? Intelligent automation is making that a reality.
+
+SCRIPT (SPOKEN):
+Imagine your business running smarter, not harder. AICFDPRO is making that a reality with intelligent automation, combining AI, machine learning, and advanced analytics. Say goodbye to manual work and hello to a unified, efficient ecosystem.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Intelligent automation is changing the game for businesses.
+  B-roll: Visuals of robots, dashboards, and futuristic cityscapes.
+
+Scene 2:
+  Narration: AICFDPRO's approach combines AI, machine learning, and advanced analytics.
+  B-roll: Screenshots of code, data analytics platforms, and AI models.
+
+Scene 3:
+  Narration: The result is a more efficient and adaptive operational framework.
+  B-roll: Images of efficient workflows, happy employees, and growing businesses.
+
+HASHTAGS:
+#AI #AITools #Innovation #Tech
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+ARTICLE 3: MERWACS: The AI-Powered Kidney Disease Risk Assessment Tool
+
+HOOK:
+What if a simple online tool could predict your risk of kidney disease? Meet MERWACS, the AI-powered innovation that's making this a reality.
+
+SCRIPT (SPOKEN):
+Imagine a simple, non-invasive tool that can identify your risk of kidney disease. Meet MERWACS, a machine learning innovation that's changing the game for early detection and intervention.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Chronic kidney disease is a growing public health concern, often progressing silently until its advanced stages.
+  B-roll: Visuals of kidney illustrations, doctors consulting with patients, and people undergoing medical tests.
+
+Scene 2:
+  Narration: MERWACS uses machine learning to analyze health information and provide a personalized risk assessment.
+  B-roll: Footage of computers, coding, and data analysis, alongside animations of how MERWACS works.
+
+Scene 3:
+  Narration: The tool has been rigorously tested on large datasets from the US and South Korea, ensuring its reliability and effectiveness.
+  B-roll: Images of researchers working, diverse patient populations, and maps of the US and South Korea to represent the datasets.
+
+HASHTAGS:
+#AI #AITools #HealthTech #Innovation
+
+CTA:
+Follow CGTECH for daily AI updates and insights into the latest healthcare innovations.
+
+----------------------------------------
+ARTICLE 4: Bangkok's Smart Upgrade: How AI is Transforming the City
+
+HOOK:
+Imagine a city that's always one step ahead. With AI-powered solutions, Bangkok is set to become a model for smart cities around the world.
+
+SCRIPT (SPOKEN):
+Imagine a city that's safer, more efficient, and sustainable. Nuvola Media is making this a reality in Bangkok with its AI-powered digital twin and machine learning solutions.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Bangkok, a city of over 8 million people, is getting a smart upgrade thanks to Nuvola Media's AI solutions.
+  B-roll: Aerial footage of Bangkok's cityscape, with a mix of modern and traditional architecture.
+
+Scene 2:
+  Narration: The company's digital twin and machine learning technology are set to make the city a safer, more efficient, and sustainable place.
+  B-roll: Visuals of the digital twin platform, with 3D models of the city's infrastructure and data analytics dashboards.
+
+Scene 3:
+  Narration: From smart traffic management to enhanced public services, AI is going to have a significant impact on the quality of life for residents.
+  B-roll: Footage of traffic management systems, public transportation, and other city services, with a mix of real-world and CGI elements.
+
+HASHTAGS:
+#AI #AITools #SmartCity #Tech
+
+CTA:
+Follow CGTECH for daily AI updates and learn more about the latest tech trends.
+
+----------------------------------------
+ARTICLE 5: AI-Powered Cancer Prognosis: How Large Language Models Are Revolutionizing Patient Care
+
+HOOK:
+What if your doctor could predict your cancer outcome with greater accuracy? A new study reveals how AI is making this possible.
+
+SCRIPT (SPOKEN):
+Imagine if doctors could predict cancer patient outcomes more accurately, using information hidden in clinical notes. A new study shows how large language models can extract vital details, improving survival predictions and patient care.
+
+B-ROLL SUGGESTIONS:
+Scene 1:
+  Narration: Imagine a future where doctors can predict cancer patient outcomes with greater accuracy.
+  B-roll: Footage of doctors reviewing patient records, with AI-powered dashboards and graphs displaying patient data.
+
+Scene 2:
+  Narration: A recent study published in PLOS Digital Health explores the use of large language models to extract prognostic information from clinical notes.
+  B-roll: Footage of researchers working with large language models, with code and data visualizations on screen.
+
+Scene 3:
+  Narration: The study analyzed medical records of over 3,500 patients with lung and colon cancer, extracting patient characteristics such as mobility impairment, pain, and comorbidities.
+  B-roll: Footage of medical records and clinical notes, with AI-powered tools extracting relevant information.
+
+HASHTAGS:
+#AI #AITools #HealthTech #CancerAwareness
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve.
+

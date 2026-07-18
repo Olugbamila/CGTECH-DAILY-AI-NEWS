@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-07-18
+
+----------------------------------------
+VIDEO TITLE:
+PumpKin: The AI-Powered Pipeline Revolutionizing Neuroscience Research
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're exploring the fascinating world of neuroscience research and the latest breakthrough that's making waves in the field. Say hello to PumpKin, a machine-learning pipeline that's enabling scientists to track the localized kinematics of C. elegans worms with remarkable precision. In this video, we'll delve into the details of PumpKin and its potential applications in understanding behavioral patterns and decision-making. From the challenges of tracking high-speed, localized behaviors to the innovative solutions that are emerging, we'll cover it all. So, let's dive in and explore the exciting world of PumpKin!
+
+REFERENCE LINK:
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014489
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Digital Transformation: How AICFDPRO Enables Intelligent Automation
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and tech. Today, we're discussing AICFDPRO and their innovative approach to intelligent automation. By integrating artificial intelligence, machine learning, and advanced analytics into a unified ecosystem, businesses can unlock new levels of productivity and competitiveness. Let's dive into the details of how this technology works and what it means for the future of digital transformation.
+
+REFERENCE LINK:
+https://techbullion.com/how-aicfdpro-helps-companies-transition-to-intelligent-automation/
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+MERWACS: The AI-Powered Kidney Disease Risk Assessment Tool
+
+SCRIPT (1–2 MINUTES):
+Introduction to MERWACS, a revolutionary machine learning tool designed to identify individuals at risk of chronic kidney disease without the need for initial lab tests. In this video, we'll explore how MERWACS works, its development, and the potential impact on healthcare. From the use of artificial intelligence to analyze health information to its rigorous testing on diverse datasets, we'll dive into the details of this innovative technology. Join us as we discuss the future of kidney disease detection and the role of AI in improving healthcare outcomes.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+CTA:
+Follow CGTECH for daily AI updates and insights into the latest healthcare innovations.
+
+----------------------------------------
+VIDEO TITLE:
+Bangkok's Smart Upgrade: How AI is Transforming the City
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're talking about the exciting news of Nuvola Media's AI solutions being implemented in Bangkok. The company's digital twin and machine learning technology are set to make the city a safer, more efficient, and sustainable place. Let's dive into the details of this initiative and explore the potential of AI in urban development. From smart traffic management to enhanced public services, we'll be discussing the various ways in which AI can improve the quality of life for urban residents.
+
+REFERENCE LINK:
+https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+CTA:
+Follow CGTECH for daily AI updates and learn more about the latest tech trends.
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Cancer Prognosis: How Large Language Models Are Revolutionizing Patient Care
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and healthcare. Today, we're discussing a groundbreaking study that uses large language models to extract prognostic information from clinical notes. This technology has the potential to revolutionize cancer care, enabling doctors to make more accurate predictions about patient outcomes. We'll dive into the details of the study, exploring how the models work and what this means for the future of healthcare. Join us as we examine the intersection of AI and medicine, and discover how this technology is changing lives.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve.
+

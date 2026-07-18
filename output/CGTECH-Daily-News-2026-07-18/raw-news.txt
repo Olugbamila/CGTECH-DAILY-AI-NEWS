@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-07-18
+
+----------------------------------------
+ARTICLE 1: PumpKin: The AI-Powered Pipeline Revolutionizing Neuroscience Research
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014489
+
+SUMMARY:
+Researchers have developed PumpKin, a machine-learning pipeline for tracking localized kinematics in freely moving C. elegans, a microscopic nematode worm. This open-source package can reliably measure the pumping rate of the worm's pharyngeal organ, which is crucial for understanding its behavior and decision-making. The pipeline addresses the challenge of tracking high-speed, localized behaviors that are sensitive to noise. PumpKin has the potential to advance studies in neuroscience and behavioral biology. By leveraging AI and machine learning, scientists can now gain deeper insights into the complex behaviors of C. elegans.
+
+SHORT-FORM SCRIPT:
+Meet PumpKin, a game-changing machine-learning pipeline that tracks the tiny movements of C. elegans worms. This open-source tool is revolutionizing neuroscience research by measuring the worm's pumping rate with unprecedented accuracy.
+
+----------------------------------------
+ARTICLE 2: Revolutionizing Digital Transformation: How AICFDPRO Enables Intelligent Automation
+Source: TechBullion
+URL: https://techbullion.com/how-aicfdpro-helps-companies-transition-to-intelligent-automation/
+
+SUMMARY:
+AICFDPRO is revolutionizing the way companies approach digital transformation by integrating artificial intelligence, machine learning, and advanced analytics into a unified ecosystem. This enables businesses to transition beyond simple automation and into intelligent automation. The goal is to create a more efficient and adaptive operational framework. By leveraging these technologies, organizations can unlock new levels of productivity and competitiveness. AICFDPRO's approach is designed to help companies navigate this complex transition effectively.
+
+SHORT-FORM SCRIPT:
+Imagine your business running smarter, not harder. AICFDPRO is making that a reality with intelligent automation, combining AI, machine learning, and advanced analytics. Say goodbye to manual work and hello to a unified, efficient ecosystem.
+
+----------------------------------------
+ARTICLE 3: MERWACS: The AI-Powered Kidney Disease Risk Assessment Tool
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+SUMMARY:
+Researchers have developed a non-invasive machine learning tool called MERWACS to identify individuals at risk of chronic kidney disease (CKD) without requiring an initial lab test. The tool uses easily measured factors like age, weight, blood pressure, and medical history to generate a personalized predicted probability of having reduced kidney function. MERWACS has been rigorously tested on large datasets from the US and South Korea and is available as a free online application. The goal is to provide an early warning to identify individuals who should undergo CKD screening, prompting earlier conversations about kidney health. This innovation has the potential to save lives by enabling early detection and intervention.
+
+SHORT-FORM SCRIPT:
+Imagine a simple, non-invasive tool that can identify your risk of kidney disease. Meet MERWACS, a machine learning innovation that's changing the game for early detection and intervention.
+
+----------------------------------------
+ARTICLE 4: Bangkok's Smart Upgrade: How AI is Transforming the City
+Source: Bangkok Post
+URL: https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+SUMMARY:
+Nuvola Media, a Singapore-based tech company, is expanding its artificial intelligence (AI) and machine learning solutions to Thailand, with the goal of making Bangkok a safer and more resilient smart city. The company's digital twin and AI solutions aim to improve the city's infrastructure and services. This expansion is a significant step towards leveraging AI for urban development. Bangkok is set to benefit from enhanced safety, efficiency, and sustainability. The city's smart upgrade is expected to improve the quality of life for its residents.
+
+SHORT-FORM SCRIPT:
+Imagine a city that's safer, more efficient, and sustainable. Nuvola Media is making this a reality in Bangkok with its AI-powered digital twin and machine learning solutions.
+
+----------------------------------------
+ARTICLE 5: AI-Powered Cancer Prognosis: How Large Language Models Are Revolutionizing Patient Care
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+
+SUMMARY:
+A recent study published in PLOS Digital Health explores the use of large language models (LLMs) to extract prognostic information from clinical notes, enabling more accurate stratification of cancer patients. The study analyzed medical records of over 3,500 patients with lung and colon cancer, extracting patient characteristics such as mobility impairment, pain, and comorbidities. The LLM-extracted features significantly improved machine learning-based survival prediction and patient stratification beyond conventional measures. This breakthrough demonstrates the potential of AI in unlocking prognostic information from clinical records, supporting more informed and personalized clinical decision-making. The study's findings have significant implications for the future of cancer treatment and patient care.
+
+SHORT-FORM SCRIPT:
+Imagine if doctors could predict cancer patient outcomes more accurately, using information hidden in clinical notes. A new study shows how large language models can extract vital details, improving survival predictions and patient care.
+
