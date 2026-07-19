@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-07-19
+
+----------------------------------------
+VIDEO TITLE:
+PumpKin: The AI Pipeline Revolutionizing Neuroscience Research
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and tech. Today, we're talking about PumpKin, a revolutionary new pipeline that's enabling the detailed study of localized behaviors in C. elegans. This open-source technology has the potential to significantly advance our understanding of neuroscience and behavioral patterns. In this video, we'll dive into the details of PumpKin and explore its potential implications. So let's get started!
+
+REFERENCE LINK:
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014489
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+AICFDPRO: Revolutionizing Digital Transformation with Intelligent Automation
+
+SCRIPT (1–2 MINUTES):
+Welcome to our video on AICFDPRO and the future of intelligent automation. In this video, we'll be exploring how the company's innovative approach is changing the game for businesses around the world. From the combination of AI, machine learning, and analytics to the creation of a unified ecosystem, we'll dive into the details of AICFDPRO's strategy and what it means for the future of industry. So let's get started and see how AICFDPRO is shaping the world of digital transformation.
+
+REFERENCE LINK:
+https://techbullion.com/how-aicfdpro-helps-companies-transition-to-intelligent-automation/
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+MERWACS: The AI-Powered Tool Revolutionizing Chronic Kidney Disease Screening
+
+SCRIPT (1–2 MINUTES):
+Introduction to MERWACS, a machine learning tool that's changing the way we approach chronic kidney disease screening. In this video, we'll explore how MERWACS uses artificial intelligence to analyze health information and provide a personalized predicted probability of having reduced kidney function. We'll also discuss the potential impact of this innovation on public health and the future of healthcare. Join us as we dive into the world of AI and healthcare innovation!
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+CTA:
+Follow CGTECH for daily AI updates and learn more about the latest innovations in healthcare.
+
+----------------------------------------
+VIDEO TITLE:
+Bangkok Gets a Smart Upgrade: AI-Powered Solutions for a Better City
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're talking about the exciting news that Nuvola Media is bringing its AI and machine learning solutions to Bangkok. The company's digital twin and AI solutions will be used to upgrade the city's infrastructure, making it a safer, more resilient smart city. We'll explore the potential benefits of this initiative, from improved public services to enhanced quality of life for residents. Join us as we dive into the world of smart cities and AI-powered urban planning.
+
+REFERENCE LINK:
+https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest tech trends.
+
+----------------------------------------
+VIDEO TITLE:
+AI Breakthrough in Cancer Patient Outcomes: Large Language Models Unlock Prognostic Information
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and healthcare. Today, we're discussing a groundbreaking study that uses large language models to extract prognostic information from clinical notes, improving cancer patient outcomes. We'll delve into the details of the study, its findings, and the potential implications for healthcare. Join us as we examine the role of AI in enhancing patient care and stay tuned for more updates on this exciting topic.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest advancements in healthcare technology.
+

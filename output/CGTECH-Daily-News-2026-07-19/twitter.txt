@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-07-19
+
+----------------------------------------
+ARTICLE 1: PumpKin: The AI Pipeline Revolutionizing Neuroscience Research
+TWEET:
+Introducing PumpKin: an open-source AI pipeline that tracks the tiny movements of C. elegans! This tech is revolutionizing neuroscience research. #AI #Neuroscience #TechNews
+
+HASHTAGS:
+#AI #Neuroscience #TechNews
+
+LINK:
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014489
+
+----------------------------------------
+ARTICLE 2: AICFDPRO: Revolutionizing Digital Transformation with Intelligent Automation
+TWEET:
+AICFDPRO is leading the charge in intelligent automation! By combining AI, machine learning, and analytics, companies can drive innovation and growth. #AI #IntelligentAutomation #DigitalTransformation
+
+HASHTAGS:
+#AI #IntelligentAutomation #DigitalTransformation
+
+LINK:
+https://techbullion.com/how-aicfdpro-helps-companies-transition-to-intelligent-automation/
+
+----------------------------------------
+ARTICLE 3: MERWACS: The AI-Powered Tool Revolutionizing Chronic Kidney Disease Screening
+TWEET:
+New machine learning tool MERWACS uses AI to identify individuals at risk of chronic kidney disease without needing a lab test! #AI #CKD #HealthcareInnovation
+
+HASHTAGS:
+#AI #CKD #HealthcareInnovation
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+----------------------------------------
+ARTICLE 4: Bangkok Gets a Smart Upgrade: AI-Powered Solutions for a Better City
+TWEET:
+Bangkok is getting a smart upgrade! Nuvola Media is bringing AI and machine learning to the city to make it safer, more resilient, and more efficient. #AI #SmartCity #Bangkok
+
+HASHTAGS:
+#AI #SmartCity #Bangkok
+
+LINK:
+https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+----------------------------------------
+ARTICLE 5: AI Breakthrough in Cancer Patient Outcomes: Large Language Models Unlock Prognostic Information
+TWEET:
+Breakthrough in cancer patient outcomes! Researchers use large language models to extract prognostic info from clinical notes, improving survival prediction & patient stratification. #AI #Healthcare #CancerResearch
+
+HASHTAGS:
+#AI #Healthcare #CancerResearch #MachineLearning
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+
