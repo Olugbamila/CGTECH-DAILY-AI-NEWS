@@ -1,0 +1,58 @@
+=== CGTECH — TWITTER PACK ===
+Date: 2026-07-20
+
+----------------------------------------
+ARTICLE 1: PumpKin: The AI-Powered Tool Revolutionizing Neuroscience Research
+TWEET:
+Meet PumpKin, the AI-powered tool tracking the tiny movements of C. elegans! This breakthrough is revolutionizing neuroscience research and our understanding of behavior. #AI #Neuroscience #C_elegans
+
+HASHTAGS:
+#AI #Neuroscience #C_elegans #MachineLearning
+
+LINK:
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014489
+
+----------------------------------------
+ARTICLE 2: How AICFDPRO is Revolutionizing Business with Intelligent Automation
+TWEET:
+AICFDPRO is revolutionizing business with intelligent automation! Combine AI, machine learning, and analytics for a unified ecosystem that drives efficiency and innovation. #AI #IntelligentAutomation #DigitalTransformation
+
+HASHTAGS:
+#AI #IntelligentAutomation #DigitalTransformation
+
+LINK:
+https://techbullion.com/how-aicfdpro-helps-companies-transition-to-intelligent-automation/
+
+----------------------------------------
+ARTICLE 3: Revolutionizing Kidney Health: The MERWACS AI Tool
+TWEET:
+New AI tool MERWACS can identify individuals at risk of kidney disease using simple factors like age & blood pressure! This innovation could save lives. #AI #Healthcare #CKD
+
+HASHTAGS:
+#AI #Healthcare #CKD #MERWACS
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+----------------------------------------
+ARTICLE 4: AI Powers Bangkok's Smart Upgrade
+TWEET:
+Bangkok is getting a smart upgrade thanks to @NuvolaMedia's AI and machine learning solutions! The city is set to become a model for others in the region. #AI #SmartCity #Innovation
+
+HASHTAGS:
+#AI #SmartCity #Innovation
+
+LINK:
+https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+----------------------------------------
+ARTICLE 5: Revolutionizing Cancer Treatment: How Large Language Models Can Improve Patient Outcomes
+TWEET:
+Breakthrough in cancer treatment! Large language models can extract prognostic info from clinical notes, improving patient outcomes. #AI #Healthcare #CancerTreatment
+
+HASHTAGS:
+#AI #Healthcare #CancerTreatment
+
+LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+

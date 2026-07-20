@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-07-20
+
+----------------------------------------
+ARTICLE 1: PumpKin: The AI-Powered Tool Revolutionizing Neuroscience Research
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014489
+
+SUMMARY:
+Researchers have developed PumpKin, a machine-learning pipeline for tracking localized kinematics in freely moving C. elegans, a microscopic nematode worm. This tool enables the detailed study of behaviors that are difficult to measure, such as the pumping rate of the pharyngeal organ. PumpKin uses AI to remove noise from measured positions and provide reliable measurements. This breakthrough has significant implications for neuroscience research, particularly in understanding the connection between neural representations and behavioral responses. The open-source package is designed to be widely accessible to the scientific community.
+
+SHORT-FORM SCRIPT:
+Imagine a tiny worm, barely visible to the naked eye, with an organ that moves at five times the speed of the human heart. Meet C. elegans and its pharyngeal grinder. Researchers have created PumpKin, an AI-powered tool to track this worm's behavior, revolutionizing our understanding of neuroscience and behavior.
+
+----------------------------------------
+ARTICLE 2: How AICFDPRO is Revolutionizing Business with Intelligent Automation
+Source: TechBullion
+URL: https://techbullion.com/how-aicfdpro-helps-companies-transition-to-intelligent-automation/
+
+SUMMARY:
+AICFDPRO is helping companies transition to intelligent automation by combining artificial intelligence, machine learning, advanced analytics, and modern digital platforms. This unified ecosystem enables organizations to move beyond simple automation and build intelligent systems that can learn and adapt. With AICFDPRO, companies can streamline their operations, improve efficiency, and make data-driven decisions. The goal is to create a seamless and automated workflow that drives business growth and innovation. By leveraging intelligent automation, organizations can stay ahead of the competition and achieve their digital transformation goals.
+
+SHORT-FORM SCRIPT:
+Imagine a world where artificial intelligence, machine learning, and analytics work together to automate your business. AICFDPRO is making this a reality with their intelligent automation solutions. Learn how you can streamline your operations and drive growth with AICFDPRO.
+
+----------------------------------------
+ARTICLE 3: Revolutionizing Kidney Health: The MERWACS AI Tool
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+SUMMARY:
+Researchers have developed a non-invasive machine learning tool called MERWACS to identify individuals at risk of chronic kidney disease (CKD). The tool uses easily measured factors like age, weight, and blood pressure to generate a personalized predicted probability of having reduced kidney function. MERWACS has been rigorously tested on large datasets from the US and South Korea and is available as a free online application. The goal is to provide an early warning for CKD screening, prompting earlier conversations about kidney health. This innovation has the potential to save lives by identifying those at risk of CKD earlier.
+
+SHORT-FORM SCRIPT:
+Imagine a simple, non-invasive tool that can identify if you're at risk of kidney disease. Meet MERWACS, a machine learning innovation that uses factors like age and blood pressure to predict kidney function. It's free, online, and could save lives.
+
+----------------------------------------
+ARTICLE 4: AI Powers Bangkok's Smart Upgrade
+Source: Bangkok Post
+URL: https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+SUMMARY:
+Nuvola Media, a Singapore-based tech company, is expanding its AI and machine learning solutions to Thailand, with the goal of making Bangkok a safer and more resilient smart city. The company's digital twin and AI solutions aim to improve the city's infrastructure and services. This move is part of a larger effort to upgrade Bangkok's technology and make it a more attractive place to live and work. The use of AI and machine learning is expected to have a significant impact on the city's development. Bangkok is set to become a model for other cities in the region.
+
+SHORT-FORM SCRIPT:
+Imagine a city where AI powers every aspect of life, from transportation to public safety. That's the vision for Bangkok, thanks to Nuvola Media's innovative digital twin and AI solutions.
+
+----------------------------------------
+ARTICLE 5: Revolutionizing Cancer Treatment: How Large Language Models Can Improve Patient Outcomes
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001546
+
+SUMMARY:
+A recent study published in PLOS Digital Health explores the use of large language models (LLMs) to extract prognostic information from clinical notes, enabling better cancer patient stratification. The study found that LLMs can substantially improve machine learning-based survival prediction and patient stratification beyond conventional measures. By analyzing over 3,500 patient records, researchers were able to extract patient characteristics such as mobility impairment, pain, and comorbidities, which were validated against structured EHR data and expert physician annotations. This breakthrough demonstrates the potential of AI in unlocking prognostic information from clinical records, supporting more informed and personalized clinical decision-making. The study's findings have significant implications for the future of cancer treatment and patient care.
+
+SHORT-FORM SCRIPT:
+Imagine if doctors could use AI to uncover hidden patterns in patient records, leading to more accurate predictions and better treatment plans. A new study shows that large language models can do just that, extracting valuable information from clinical notes to improve cancer patient outcomes.
+
