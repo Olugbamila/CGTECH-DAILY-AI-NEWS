@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-07-21
+
+----------------------------------------
+ARTICLE 1: ITM University Gwalior Partners with MP Online Limited to Enhance Tech Education
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/itm-university-gwalior-signs-mou-with-mp-online-limited-to-integrate-b-tech-cse-ai-machine-learning-with-tcs-ion-industry-honors-programme/
+
+SUMMARY:
+ITM University Gwalior has signed a Memorandum of Understanding (MoU) with MP Online Limited to integrate its B.Tech Computer Science Engineering (Artificial Intelligence & Machine Learning) programme with the TCS iON Industry Honors Programme. This partnership aims to provide students with industry-oriented learning, practical exposure, and future-ready skills. The collaboration is expected to strengthen industry-academia collaboration and enhance the quality of technical education. The programme will focus on providing students with hands-on experience and skills required by the industry. This initiative is a significant step towards preparing students for the rapidly evolving tech industry.
+
+SHORT-FORM SCRIPT:
+ITM University Gwalior is taking a giant leap in tech education by partnering with MP Online Limited to integrate AI and machine learning with the TCS iON Industry Honors Programme. This means students will get hands-on experience and skills required by the industry, making them future-ready.
+
+----------------------------------------
+ARTICLE 2: PumpKin: The AI-Powered Pipeline Revolutionizing Neuroscience Research
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014489
+
+SUMMARY:
+Researchers have developed PumpKin, an open-source machine learning pipeline for tracking localized kinematics in freely moving C. elegans, a microscopic nematode worm. This pipeline aims to accurately measure the pumping rate of the worm's pharyngeal organ, which is crucial for understanding its behavior and decision-making. The pipeline uses AI to remove noise from the measured position of the organ, allowing for reliable tracking. This breakthrough has significant implications for neuroscience research, enabling the detailed study of localized behaviors. By leveraging PumpKin, scientists can gain a deeper understanding of the neural representations of sensory information and their corresponding behavioral responses.
+
+SHORT-FORM SCRIPT:
+Meet PumpKin, the AI-powered pipeline that's revolutionizing the way we study microscopic worms. With its advanced tracking capabilities, PumpKin is helping scientists unlock the secrets of localized behaviors and decision-making.
+
+----------------------------------------
+ARTICLE 3: How AICFDPRO is Revolutionizing Business with Intelligent Automation
+Source: TechBullion
+URL: https://techbullion.com/how-aicfdpro-helps-companies-transition-to-intelligent-automation/
+
+SUMMARY:
+AICFDPRO is helping companies transition to intelligent automation by combining artificial intelligence, machine learning, advanced analytics, and modern digital platforms. This unified ecosystem enables organizations to move beyond simple automation and build intelligent systems that can learn and adapt. The goal is to create a more efficient and effective business operation. AICFDPRO's approach is focused on digital transformation and prioritizes building intelligent systems over simple automation. By leveraging these technologies, companies can unlock new levels of productivity and innovation.
+
+SHORT-FORM SCRIPT:
+Imagine a world where machines can learn and adapt to your business needs. AICFDPRO is making this a reality with intelligent automation, combining AI, machine learning, and advanced analytics to create a unified ecosystem.
+
+----------------------------------------
+ARTICLE 4: Revolutionizing Kidney Health: The MERWACS AI Tool
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+SUMMARY:
+Researchers have developed a non-invasive machine learning tool called MERWACS to identify individuals at risk of chronic kidney disease (CKD). The tool uses easily measured factors such as age, weight, blood pressure, and medical history to generate a personalized predicted probability of having reduced kidney function. MERWACS has been rigorously tested on large datasets from the US and South Korea and is available as a free online application. The goal of MERWACS is to provide an early warning for individuals who may benefit from CKD screening, prompting earlier conversations about kidney health. This innovation has the potential to improve public health outcomes by identifying at-risk individuals earlier.
+
+SHORT-FORM SCRIPT:
+Meet MERWACS, a new AI tool that helps identify people at risk of chronic kidney disease using just a few simple factors like age and blood pressure. This non-invasive tool could revolutionize kidney health screening and save lives.
+
+----------------------------------------
+ARTICLE 5: Bangkok's Smart City Upgrade: How AI is Transforming Urban Development
+Source: Bangkok Post
+URL: https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+SUMMARY:
+Nuvola Media, a Singapore-based tech company, is expanding its AI and machine learning solutions to Thailand, aiming to make Bangkok a smarter and more resilient city. The company's digital twin and AI solutions will be used to improve safety and efficiency in the city. This move is part of Bangkok's smart city initiative, which aims to leverage technology to enhance the quality of life for its citizens. The use of AI and machine learning is expected to have a significant impact on the city's infrastructure and services. By leveraging data and analytics, the city can optimize its operations and make more informed decisions.
+
+SHORT-FORM SCRIPT:
+Imagine a city where traffic flows smoothly, crime rates are low, and public services are efficient. This is the vision for Bangkok's smart city initiative, powered by AI and machine learning. Nuvola Media is bringing its digital twin and AI solutions to Thailand to make this vision a reality.
+

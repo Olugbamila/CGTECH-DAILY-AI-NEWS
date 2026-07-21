@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-07-21
+
+----------------------------------------
+VIDEO TITLE:
+ITM University Gwalior Partners with MP Online Limited to Enhance Tech Education
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the recent partnership between ITM University Gwalior and MP Online Limited. This collaboration aims to integrate the B.Tech Computer Science Engineering programme with the TCS iON Industry Honors Programme, providing students with industry-oriented learning and future-ready skills. We'll be exploring the details of this partnership and what it means for the future of tech education. So, let's dive in and take a closer look.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/itm-university-gwalior-signs-mou-with-mp-online-limited-to-integrate-b-tech-cse-ai-machine-learning-with-tcs-ion-industry-honors-programme/
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest developments in the tech industry.
+
+----------------------------------------
+VIDEO TITLE:
+PumpKin: The AI-Powered Pipeline Revolutionizing Neuroscience Research
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and neuroscience. Today, we're discussing PumpKin, the open-source machine learning pipeline that's enabling the accurate tracking of localized kinematics in freely moving C. elegans. With its advanced tracking capabilities, PumpKin is helping scientists unlock the secrets of localized behaviors and decision-making. In this video, we'll delve into the details of PumpKin and its potential applications in neuroscience research.
+
+REFERENCE LINK:
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014489
+
+CTA:
+Follow CGTECH for daily AI updates and learn more about the latest advancements in the field.
+
+----------------------------------------
+VIDEO TITLE:
+How AICFDPRO is Revolutionizing Business with Intelligent Automation
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and digital transformation. Today, we're talking about intelligent automation and how AICFDPRO is helping companies make the transition. By combining AI, machine learning, and advanced analytics, organizations can build intelligent systems that drive efficiency and innovation. Let's dive in and explore the possibilities. From the basics of intelligent automation to the latest success stories, we'll cover it all. So, let's get started!
+
+REFERENCE LINK:
+https://techbullion.com/how-aicfdpro-helps-companies-transition-to-intelligent-automation/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Kidney Health: The MERWACS AI Tool
+
+SCRIPT (1–2 MINUTES):
+Introduction to MERWACS, a groundbreaking machine learning tool that's changing the way we approach kidney health screening. In this video, we'll explore how MERWACS uses artificial intelligence to identify individuals at risk of chronic kidney disease, and what this means for the future of healthcare. From the development process to the potential impact on public health outcomes, we'll dive into the details of this innovative tool. Join us as we examine the role of AI in healthcare and the exciting possibilities that MERWACS represents.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+CTA:
+Follow CGTECH for daily AI updates and stay ahead of the curve on the latest innovations in healthcare.
+
+----------------------------------------
+VIDEO TITLE:
+Bangkok's Smart City Upgrade: How AI is Transforming Urban Development
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and tech. Today, we're talking about Bangkok's smart city initiative and how AI and machine learning are being used to create a safer, more resilient city. From digital twins to predictive analytics, we'll dive into the innovative solutions that are being used to transform urban development. Join us as we explore the future of smart cities and the role that AI will play in shaping our urban landscapes.
+
+REFERENCE LINK:
+https://www.bangkokpost.com/business/general/3283360/ai-to-power-bangkoks-smart-upgrade
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest tech trends.
+
