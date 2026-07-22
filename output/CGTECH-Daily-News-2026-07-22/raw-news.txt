@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-07-22
+
+----------------------------------------
+ARTICLE 1: Pharma 4.0 Market to Reach USD 90.71 Billion by 2034
+Source: The Manila Times
+URL: https://www.manilatimes.net/2026/07/21/tmt-newswire/globenewswire/latest-pharma-40-market-size-expected-to-reach-usd-9071-billion-by-2034-with-1980-cagr-digital-transformation-initiatives-regulatory-data-integrity-mandates-and-smart-manufacturing-needs-to-propel-market-growth/2388680
+
+SUMMARY:
+The Pharma 4.0 market is expected to reach USD 90.71 billion by 2034, with a Compound Annual Growth Rate (CAGR) of 19.80%. This growth is driven by digital transformation initiatives, regulatory data integrity mandates, and the need for smart manufacturing. The market is segmented by technology, application, end-user, deployment mode, and region. Key technologies driving this growth include Artificial Intelligence and Machine Learning, Internet of Things, Big Data Analytics, Cloud Computing, and Robotics and Automation. The pharmaceutical industry is undergoing significant changes with the adoption of Pharma 4.0 technologies.
+
+SHORT-FORM SCRIPT:
+Imagine a future where medicines are developed and manufactured faster, cheaper, and more efficiently. Welcome to Pharma 4.0, where AI, IoT, and big data are revolutionizing the pharmaceutical industry. With a projected market size of USD 90.71 billion by 2034, Pharma 4.0 is set to change the game.
+
+----------------------------------------
+ARTICLE 2: ITM University Gwalior Partners with MP Online Limited to Integrate AI & Machine Learning into Computer Science Program
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/itm-university-gwalior-signs-mou-with-mp-online-limited-to-integrate-b-tech-cse-ai-machine-learning-with-tcs-ion-industry-honors-programme/
+
+SUMMARY:
+ITM University Gwalior has signed a Memorandum of Understanding (MoU) with MP Online Limited to integrate its B.Tech Computer Science Engineering (Artificial Intelligence & Machine Learning) programme with the TCS iON Industry Honors Programme. This partnership aims to provide students with industry-oriented learning, practical exposure, and future-ready skills. The collaboration is a significant step towards strengthening industry-academia collaboration and enhancing the quality of technical education. The programme will offer students a unique opportunity to gain hands-on experience and develop skills that are in high demand in the industry. This move is expected to have a positive impact on the employability of students and the overall quality of education in the region.
+
+SHORT-FORM SCRIPT:
+ITM University Gwalior has partnered with MP Online Limited to integrate AI and machine learning into their computer science program. This collaboration will provide students with industry-oriented learning and practical exposure, making them future-ready.
+
+----------------------------------------
+ARTICLE 3: PumpKin: Revolutionizing Neuroscience with AI-Powered Movement Tracking
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014489
+
+SUMMARY:
+Researchers have developed PumpKin, an open-source machine learning pipeline for tracking localized kinematics in freely moving C. elegans, a microscopic nematode. The pipeline is designed to measure the pumping rate of the pharyngeal organ, also known as the grinder, which is less than 30 μm wide and moves at a speed of 5 pumps per second. This technology has the potential to enhance our understanding of behavioral patterns and decision-making in neuroscience. PumpKin uses artificial intelligence to remove noise from the measured position of the grinder, allowing for accurate tracking of this localized behavior. The development of PumpKin addresses a significant need in the field of neuroscience, where tracking certain behaviors can be challenging due to their high sensitivity to noise.
+
+SHORT-FORM SCRIPT:
+Meet PumpKin, a machine learning pipeline that tracks the tiny movements of C. elegans, a microscopic nematode. This open-source technology is revolutionizing our understanding of behavioral patterns and decision-making in neuroscience.
+
+----------------------------------------
+ARTICLE 4: Revolutionizing Business Operations: The Power of Intelligent Automation with AICFDPRO
+Source: TechBullion
+URL: https://techbullion.com/how-aicfdpro-helps-companies-transition-to-intelligent-automation/
+
+SUMMARY:
+AICFDPRO is helping companies transition to intelligent automation by combining artificial intelligence, machine learning, advanced analytics, and modern digital platforms. This unified ecosystem enables organizations to move beyond simple automation and build intelligent systems that can learn and adapt. With AICFDPRO, businesses can streamline operations, improve efficiency, and make data-driven decisions. The company's approach to intelligent automation is revolutionizing the way organizations operate and compete in the digital age. By leveraging AICFDPRO's expertise, companies can unlock the full potential of intelligent automation and stay ahead of the curve.
+
+SHORT-FORM SCRIPT:
+Imagine a world where machines can learn and adapt on their own. With AICFDPRO, that world is now a reality. Their intelligent automation platform combines AI, machine learning, and advanced analytics to help companies streamline operations and make data-driven decisions.
+
+----------------------------------------
+ARTICLE 5: MERWACS: The AI-Powered Tool Revolutionizing Kidney Disease Screening
+Source: PLOS (Public Library of Science)
+URL: https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+SUMMARY:
+Researchers have developed MERWACS, a non-invasive machine learning tool that identifies individuals who may benefit from screening for chronic kidney disease (CKD). The tool uses easily measured factors like age, weight, and blood pressure to generate a personalized predicted probability of having reduced kidney function. MERWACS was rigorously tested on large datasets from the US and South Korea and is available as a free online application. The goal is to provide an early warning for kidney health issues, prompting earlier conversations about treatment. By using artificial intelligence, MERWACS can help identify at-risk individuals without requiring an initial lab test.
+
+SHORT-FORM SCRIPT:
+Imagine a simple tool that can identify if you're at risk for kidney disease without needing a lab test. Meet MERWACS, a non-invasive machine learning tool that uses factors like age and blood pressure to predict kidney function.
+

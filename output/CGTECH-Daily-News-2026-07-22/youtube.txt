@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-07-22
+
+----------------------------------------
+VIDEO TITLE:
+Pharma 4.0 Market to Reach USD 90.71 Billion by 2034
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest trends and innovations in AI and technology. Today, we're talking about Pharma 4.0, the revolutionary new approach to pharmaceutical development and manufacturing. With the use of AI, IoT, big data, and other digital technologies, Pharma 4.0 is set to transform the industry and improve patient outcomes. In this video, we'll be discussing the key drivers of this growth, including digital transformation initiatives, regulatory data integrity mandates, and smart manufacturing needs. We'll also be exploring the opportunities and challenges of Pharma 4.0 and how we can work together to shape its future.
+
+REFERENCE LINK:
+https://www.manilatimes.net/2026/07/21/tmt-newswire/globenewswire/latest-pharma-40-market-size-expected-to-reach-usd-9071-billion-by-2034-with-1980-cagr-digital-transformation-initiatives-regulatory-data-integrity-mandates-and-smart-manufacturing-needs-to-propel-market-growth/2388680
+
+CTA:
+Follow CGTECH for daily AI updates
+
+----------------------------------------
+VIDEO TITLE:
+ITM University Gwalior Partners with MP Online Limited to Integrate AI & Machine Learning into Computer Science Program
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel! Today, we're discussing the recent partnership between ITM University Gwalior and MP Online Limited to integrate the B.Tech Computer Science Engineering (Artificial Intelligence & Machine Learning) programme with the TCS iON Industry Honors Programme. This collaboration is a significant step towards strengthening industry-academia collaboration and enhancing the quality of technical education. We'll be exploring the details of this partnership and what it means for students and the tech industry as a whole. So, let's dive in and take a closer look.
+
+REFERENCE LINK:
+https://www.tribuneindia.com/news/business/itm-university-gwalior-signs-mou-with-mp-online-limited-to-integrate-b-tech-cse-ai-machine-learning-with-tcs-ion-industry-honors-programme/
+
+CTA:
+Follow CGTECH for daily AI updates and insights on the latest developments in the tech industry.
+
+----------------------------------------
+VIDEO TITLE:
+PumpKin: Revolutionizing Neuroscience with AI-Powered Movement Tracking
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and neuroscience. Today, we're discussing PumpKin, an open-source machine learning pipeline that's revolutionizing our understanding of behavioral patterns and decision-making. PumpKin is designed to track the localized kinematics of freely moving C. elegans, a microscopic nematode, and has the potential to significantly enhance our understanding of neuroscience. In this video, we'll take a closer look at PumpKin and its potential applications, and discuss what this means for the future of neuroscience research.
+
+REFERENCE LINK:
+https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014489
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Business Operations: The Power of Intelligent Automation with AICFDPRO
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest trends and innovations in AI and tech. Today, we're talking about intelligent automation and how AICFDPRO is helping companies transition to a unified ecosystem. From combining AI and machine learning to leveraging advanced analytics, we'll dive into the details of this revolutionary approach. Join us as we discuss the potential of intelligent automation and what it means for the future of business.
+
+REFERENCE LINK:
+https://techbullion.com/how-aicfdpro-helps-companies-transition-to-intelligent-automation/
+
+CTA:
+Follow CGTECH for daily AI updates and insights.
+
+----------------------------------------
+VIDEO TITLE:
+MERWACS: The AI-Powered Tool Revolutionizing Kidney Disease Screening
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel! Today, we're discussing the development of MERWACS, a machine learning tool that can help identify individuals at risk for chronic kidney disease. Using artificial intelligence to analyze easily measured factors, MERWACS provides a personalized predicted probability of having reduced kidney function. We'll explore how this innovative approach can enhance healthcare outcomes and make a significant impact on public health. From the research behind MERWACS to its potential applications, we'll dive into the details of this groundbreaking tool.
+
+REFERENCE LINK:
+https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0001486
+
+CTA:
+Follow CGTECH for daily AI updates and learn more about the latest innovations in healthcare technology.
+
