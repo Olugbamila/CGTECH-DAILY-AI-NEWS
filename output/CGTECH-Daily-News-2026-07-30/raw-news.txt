@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-07-30
+
+----------------------------------------
+ARTICLE 1: Applied Digital Reports Strong Fiscal Q4 and Full Year 2026 Results
+Source: The Manila Times
+URL: https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/applied-digital-reports-fiscal-fourth-quarter-and-full-year-2026-results/2392514
+
+SUMMARY:
+Applied Digital Corporation reported its fiscal fourth quarter and full year 2026 results, highlighting its progress in designing, developing, and operating large-scale data centers for high-performance computing workloads, including artificial intelligence and machine learning. The company provided operational updates and financial results for the quarter ended May 31, 2026. Applied Digital's focus on supporting AI and accelerated-compute applications positions it for growth in the rapidly evolving tech industry. The company's purpose-built data centers are engineered to meet the increasing demand for high-performance computing. As the tech industry continues to advance, companies like Applied Digital are playing a crucial role in supporting innovation.
+
+SHORT-FORM SCRIPT:
+Applied Digital Corporation just released its fiscal fourth quarter and full year 2026 results, showcasing its progress in the high-performance computing space, including AI and machine learning. Let's dive into the details and explore what this means for the future of tech.
+
+----------------------------------------
+ARTICLE 2: Revolutionizing Education: How AI is Changing the Classroom
+Source: The National
+URL: https://www.thenationalnews.com/news/uae/2026/07/24/anthropic-claude-for-teachers-ai-llm-education/
+
+SUMMARY:
+Anthropic has launched Claude for Teachers, a specialized AI assistant designed to revolutionize the way children are taught. This large language model aims to support teachers in the classroom, potentially transforming the education sector. The introduction of AI in education raises questions about its impact on traditional teaching methods. As AI technology advances, it's likely to have a significant effect on the future of learning. The role of AI in the classroom is expected to grow, with many experts believing it will enhance the education experience.
+
+SHORT-FORM SCRIPT:
+Imagine a classroom where AI assists teachers, making learning more efficient and fun. Anthropic's Claude for Teachers is making this a reality. With its advanced language model, Claude can help with tasks such as grading and lesson planning, freeing up teachers to focus on what matters most - their students.
+
+----------------------------------------
+ARTICLE 3: A Busy Parent's Guide to Students Using AI
+Source: ABC17News.com
+URL: https://abc17news.com/stacker-ai/2026/07/22/a-busy-parents-guide-to-students-using-ai/
+
+SUMMARY:
+A recent guide highlights the importance of parents understanding how artificial intelligence (AI) is used by their children in everyday tools such as search engines, virtual assistants, and homework help. The guide emphasizes the need for kids to learn how to use these tools effectively and critically evaluate the information provided. With AI becoming increasingly prevalent, it's crucial for parents to be aware of its role in their children's lives. The guide provides valuable insights for busy parents to navigate this new landscape. By doing so, parents can help their children develop essential skills in using AI-powered tools responsibly and effectively.
+
+SHORT-FORM SCRIPT:
+Hey there, have you ever wondered how your kids are using AI in their daily lives? From search engines to homework help, AI is everywhere. But it's crucial to teach them how to use these tools effectively and critically evaluate the information provided.
+
+----------------------------------------
+ARTICLE 4: AI-Powered Sleep Analysis for Early Alzheimer's Diagnosis
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2026-07-ai-analysis-early-diagnosis-alzheimer.html
+
+SUMMARY:
+Researchers from Universidad Carlos III de Madrid have developed an AI-powered methodology to analyze brain electrical activity during sleep, facilitating early diagnosis of Alzheimer's. This non-invasive approach uses machine learning to identify early neural alterations and classify patients into distinct biological subgroups. The study, published in GeroScience, demonstrates the potential of AI in revolutionizing Alzheimer's diagnosis. By leveraging sleep analysis, this technology could lead to earlier interventions and improved patient outcomes. The methodology has the potential to significantly impact the field of neurology and improve the lives of those affected by Alzheimer's.
+
+SHORT-FORM SCRIPT:
+Imagine being able to diagnose Alzheimer's earlier, using just your sleep patterns. Researchers have developed an AI-powered tool to analyze brain activity during sleep, paving the way for non-invasive and early diagnosis.
+
+----------------------------------------
+ARTICLE 5: Pharma 4.0 Market to Reach USD 90.71 Billion by 2034
+Source: The Manila Times
+URL: https://www.manilatimes.net/2026/07/21/tmt-newswire/globenewswire/latest-pharma-40-market-size-expected-to-reach-usd-9071-billion-by-2034-with-1980-cagr-digital-transformation-initiatives-regulatory-data-integrity-mandates-and-smart-manufacturing-needs-to-propel-market-growth/2388680
+
+SUMMARY:
+The Pharma 4.0 market is expected to reach USD 90.71 billion by 2034, with a compound annual growth rate (CAGR) of 19.80%. This growth is driven by digital transformation initiatives, regulatory data integrity mandates, and the need for smart manufacturing. The market is segmented by technology, application, end-user, deployment mode, and region. Artificial intelligence and machine learning, internet of things, and big data analytics are key technologies driving the market. The pharmaceutical industry is undergoing significant changes with the adoption of Pharma 4.0, which is expected to improve efficiency, quality, and innovation.
+
+SHORT-FORM SCRIPT:
+Imagine a future where pharmaceuticals are developed, manufactured, and distributed with unprecedented speed and precision. Welcome to Pharma 4.0, where AI, IoT, and big data analytics are revolutionizing the industry. With a projected market size of USD 90.71 billion by 2034, the future of pharma is looking brighter than ever.
+
