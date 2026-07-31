@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-07-31
+
+----------------------------------------
+ARTICLE 1: Applied Digital Corporation Reports Fiscal Q4 and Full Year 2026 Results
+Source: The Manila Times
+URL: https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/applied-digital-reports-fiscal-fourth-quarter-and-full-year-2026-results/2392514
+
+SUMMARY:
+Applied Digital Corporation reported its fiscal fourth quarter and full year 2026 results, providing insights into its financial performance and operational updates. The company, which designs and operates large-scale data centers for high-performance computing workloads, including AI and machine learning, shared its progress in supporting accelerated-compute applications. As a key player in the data center industry, Applied Digital's results offer a glimpse into the growing demand for high-performance computing infrastructure. The company's focus on purpose-built data centers highlights the importance of specialized infrastructure for AI and other compute-intensive workloads. With its fiscal year 2026 results, Applied Digital demonstrates its commitment to supporting the evolving needs of the tech industry.
+
+SHORT-FORM SCRIPT:
+Applied Digital Corporation just released its fiscal fourth quarter and full year 2026 results. The company designs and operates large-scale data centers for high-performance computing workloads, including AI and machine learning. Let's dive into the key takeaways from their report.
+
+----------------------------------------
+ARTICLE 2: Revolutionizing Education: How AI is Changing the Classroom
+Source: The National
+URL: https://www.thenationalnews.com/news/uae/2026/07/24/anthropic-claude-for-teachers-ai-llm-education/
+
+SUMMARY:
+Anthropic has launched Claude for Teachers, a specialized version of its AI assistant and large language model, aimed at revolutionizing the way children are taught. This development brings the role of artificial intelligence in the classroom into sharp focus. The programme has the potential to significantly impact education, but its effectiveness and implications are yet to be fully understood. As AI technology continues to advance, its integration into educational settings is becoming increasingly prominent. The future of learning may be shaped by such innovations, prompting both excitement and concern among educators and parents.
+
+SHORT-FORM SCRIPT:
+Imagine a classroom where AI assistants help teachers create personalized lesson plans, grade assignments, and even provide real-time feedback to students. This is the future of education, and it's arriving sooner than you think. With Anthropic's Claude for Teachers, the possibilities are endless.
+
+----------------------------------------
+ARTICLE 3: A Busy Parent's Guide to Students Using AI
+Source: ABC17News.com
+URL: https://abc17news.com/stacker-ai/2026/07/22/a-busy-parents-guide-to-students-using-ai/
+
+SUMMARY:
+As AI becomes increasingly integrated into daily life, parents are faced with the challenge of teaching their children how to effectively use these tools. From search engines and virtual assistants to chatbots and homework help, AI-powered tools are now a common part of a student's daily routine. However, it's essential for parents to understand the limitations of these tools and teach their children to critically evaluate the information they provide. By doing so, parents can help their children develop the skills they need to navigate an AI-driven world. This guide provides valuable insights for busy parents to support their children in using AI responsibly.
+
+SHORT-FORM SCRIPT:
+Hey there, are you a busy parent trying to keep up with your kid's AI-powered homework help? Let's break down how to use these tools effectively and understand their limitations.
+
+----------------------------------------
+ARTICLE 4: AI-Powered Sleep Analysis: A Breakthrough in Alzheimer's Diagnosis
+Source: Medical Xpress
+URL: https://medicalxpress.com/news/2026-07-ai-analysis-early-diagnosis-alzheimer.html
+
+SUMMARY:
+Researchers from Universidad Carlos III de Madrid have developed a methodology using AI to analyze brain electrical activity during sleep, facilitating early diagnosis of Alzheimer's. The study, published in GeroScience, demonstrates that machine learning techniques can noninvasively identify early neural alterations. This breakthrough could lead to more effective treatment and care for patients. The methodology classifies patients into three distinct biological subgroups, enabling personalized approaches. Early diagnosis is crucial for improving the quality of life for Alzheimer's patients.
+
+SHORT-FORM SCRIPT:
+Imagine being able to diagnose Alzheimer's earlier, using just your brain waves during sleep. Researchers have made a breakthrough using AI to analyze sleep patterns, paving the way for more effective treatment and care.
+
+----------------------------------------
+ARTICLE 5: Pharma 4.0 Market to Reach $90.71 Billion by 2034
+Source: The Manila Times
+URL: https://www.manilatimes.net/2026/07/21/tmt-newswire/globenewswire/latest-pharma-40-market-size-expected-to-reach-usd-9071-billion-by-2034-with-1980-cagr-digital-transformation-initiatives-regulatory-data-integrity-mandates-and-smart-manufacturing-needs-to-propel-market-growth/2388680
+
+SUMMARY:
+The Pharma 4.0 market is expected to reach USD 90.71 billion by 2034, growing at a CAGR of 19.80%. This growth is driven by digital transformation initiatives, regulatory data integrity mandates, and the need for smart manufacturing. The market is segmented by technology, application, end-user, deployment mode, and region. Artificial Intelligence and Machine Learning, Internet of Things, and Big Data Analytics are key technologies driving this growth. Pharmaceutical companies, contract research organizations, and academic institutions are among the primary end-users.
+
+SHORT-FORM SCRIPT:
+Imagine a future where pharmaceuticals are developed and manufactured with precision and speed, thanks to AI and machine learning. The Pharma 4.0 market is booming, expected to reach 90 billion dollars by 2034.
+

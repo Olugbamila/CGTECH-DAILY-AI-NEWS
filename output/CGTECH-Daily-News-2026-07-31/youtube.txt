@@ -1,0 +1,68 @@
+=== CGTECH — YOUTUBE SCRIPTS (1–2 MINUTES) ===
+Date: 2026-07-31
+
+----------------------------------------
+VIDEO TITLE:
+Applied Digital Corporation Reports Fiscal Q4 and Full Year 2026 Results
+
+SCRIPT (1–2 MINUTES):
+Hello and welcome to our channel! Today, we're discussing the latest news from Applied Digital Corporation, which just released its fiscal fourth quarter and full year 2026 results. As a company that designs and operates large-scale data centers for high-performance computing workloads, Applied Digital is at the forefront of supporting the growth of AI and machine learning. In this video, we'll dive into the key takeaways from their report and explore what this means for the future of tech. From the growing demand for specialized infrastructure to the company's commitment to delivering high-performance computing solutions, we'll cover it all.
+
+REFERENCE LINK:
+https://www.manilatimes.net/2026/07/28/tmt-newswire/globenewswire/applied-digital-reports-fiscal-fourth-quarter-and-full-year-2026-results/2392514
+
+CTA:
+Follow CGTECH for daily AI updates and analysis.
+
+----------------------------------------
+VIDEO TITLE:
+Revolutionizing Education: How AI is Changing the Classroom
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and their impact on our world. Today, we're talking about Anthropic's Claude for Teachers, a revolutionary new tool that's set to change the face of education. From personalized learning to automated grading, we'll dive into the features and benefits of this innovative technology. But we'll also examine the potential drawbacks and challenges that come with integrating AI into the classroom. Join us as we discuss the future of learning and what it means for teachers, students, and society as a whole.
+
+REFERENCE LINK:
+https://www.thenationalnews.com/news/uae/2026/07/24/anthropic-claude-for-teachers-ai-llm-education/
+
+CTA:
+Follow CGTECH for daily AI updates and join the conversation on the future of education.
+
+----------------------------------------
+VIDEO TITLE:
+A Busy Parent's Guide to Students Using AI
+
+SCRIPT (1–2 MINUTES):
+Introduction: As AI becomes increasingly integrated into our daily lives, it's essential for parents to understand how to teach their children to use these tools effectively. Segment 1: Overview of AI-powered tools used by students. Segment 2: Teaching children to critically evaluate information provided by AI tools. Segment 3: Tips for busy parents to support their children in using AI responsibly. Conclusion: By working together, we can ensure the next generation is equipped with the skills they need to thrive in an AI-driven world.
+
+REFERENCE LINK:
+https://abc17news.com/stacker-ai/2026/07/22/a-busy-parents-guide-to-students-using-ai/
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+AI-Powered Sleep Analysis: A Breakthrough in Alzheimer's Diagnosis
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest advancements in AI and its applications. Today, we're discussing a recent breakthrough in Alzheimer's diagnosis using AI-powered sleep analysis. Researchers have developed a methodology that uses machine learning to identify early neural alterations during sleep, enabling noninvasive diagnosis and potentially leading to more effective treatment. This innovation has significant implications for the future of healthcare, and we're excited to dive deeper into the details.
+
+REFERENCE LINK:
+https://medicalxpress.com/news/2026-07-ai-analysis-early-diagnosis-alzheimer.html
+
+CTA:
+Follow CGTECH for daily AI updates.
+
+----------------------------------------
+VIDEO TITLE:
+Pharma 4.0 Market to Reach $90.71 Billion by 2034
+
+SCRIPT (1–2 MINUTES):
+Welcome to our channel, where we explore the latest developments in AI and technology. Today, we're discussing the Pharma 4.0 market, which is expected to reach USD 90.71 billion by 2034. We'll delve into the key drivers of this growth, including digital transformation, regulatory data integrity mandates, and smart manufacturing. From artificial intelligence and machine learning to the Internet of Things and Big Data Analytics, we'll examine the technologies shaping the future of pharmaceutical development and manufacturing.
+
+REFERENCE LINK:
+https://www.manilatimes.net/2026/07/21/tmt-newswire/globenewswire/latest-pharma-40-market-size-expected-to-reach-usd-9071-billion-by-2034-with-1980-cagr-digital-transformation-initiatives-regulatory-data-integrity-mandates-and-smart-manufacturing-needs-to-propel-market-growth/2388680
+
+CTA:
+Follow CGTECH for daily AI updates and in-depth analysis of the latest tech trends.
+
