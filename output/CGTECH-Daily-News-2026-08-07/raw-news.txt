@@ -1,0 +1,58 @@
+=== CGTECH DAILY AI NEWS RAW FEED ===
+Date: 2026-08-07
+
+----------------------------------------
+ARTICLE 1: Tamil Nadu Government Launches 'Uzhavar AI Scheme' to Revolutionize Agriculture
+Source: ThePrint
+URL: https://theprint.in/india/tn-agri-budget-govt-bets-on-ai-machine-learning-to-deliver-real-time-assistance-to-farmers/3007032/
+
+SUMMARY:
+The Tamil Nadu government has launched the 'Uzhavar AI scheme' as part of its Agriculture Budget for 2026-27, aiming to provide real-time, data-driven advisories to farmers across the state using Artificial Intelligence and Machine Learning. This initiative seeks to improve farming practices and increase crop yields. The government believes that AI can play a crucial role in revolutionizing the agriculture sector. The 'Uzhavar AI scheme' is a significant step towards leveraging technology to empower farmers. By providing real-time assistance, the government hopes to enhance the overall efficiency of farming operations.
+
+SHORT-FORM SCRIPT:
+Imagine having real-time advice on farming practices, courtesy of AI. The Tamil Nadu government's 'Uzhavar AI scheme' is making this a reality for farmers across the state.
+
+----------------------------------------
+ARTICLE 2: AI-ML Jobs Surge 33% in India's White-Collar Hiring Market
+Source: Devdiscourse
+URL: https://www.devdiscourse.com/article/business/3958867-white-collar-hiring-rises-5-in-july-ai-ml-jobs-surge-33-naukri-jobspeak
+
+SUMMARY:
+India's white-collar hiring market saw a 5% year-on-year increase in July, driven by strong demand for artificial intelligence and machine learning talent. AI-ML jobs surged by 33% during the same period. The IT recruitment sector also returned to positive growth, contributing to the overall momentum in the hiring market. This growth indicates a significant shift towards technology-driven roles in the industry. As companies continue to adopt AI and ML technologies, the demand for skilled professionals is expected to rise.
+
+SHORT-FORM SCRIPT:
+India's white-collar hiring is on the rise, with a 5% increase in July. But what's really surging is AI and ML jobs, up by 33%!
+
+----------------------------------------
+ARTICLE 3: India's White-Collar Hiring Market Sees 5% Growth in July, Driven by AI and ML Demand
+Source: The Tribune
+URL: https://www.tribuneindia.com/news/business/white-collar-hiring-rises-5-in-july-ai-ml-jobs-surge-33-naukri-jobspeak/
+
+SUMMARY:
+India's white-collar hiring market saw a 5% year-on-year increase in July, driven by strong demand for artificial intelligence and machine learning talent. The Naukri JobSpeak Index reported a surge in hiring, with IT recruitment returning to positive growth. This growth is a positive sign for the job market, indicating a strong demand for skilled professionals in the tech industry. The increase in AI and ML jobs is particularly notable, with a 33% surge in these roles. As the tech industry continues to evolve, it's likely that we'll see even more demand for professionals with expertise in these areas.
+
+SHORT-FORM SCRIPT:
+India's white-collar hiring market is on the rise, with a 5% increase in July. AI and machine learning jobs are surging, with a 33% increase in these roles. What does this mean for the future of work?
+
+----------------------------------------
+ARTICLE 4: India's White-Collar Hiring Sees 5% Increase, AI-ML Jobs Surge 33%
+Source: ANI (Asian News International)
+URL: https://www.aninews.in/news/business/white-collar-hiring-rises-5-in-july-ai-ml-jobs-surge-33-naukri-jobspeak20260803170044/
+
+SUMMARY:
+India's white-collar hiring market saw a 5% year-on-year increase in July, driven by strong demand for artificial intelligence and machine learning talent. AI-ML jobs surged by 33% according to the Naukri JobSpeak Index. The IT recruitment sector also returned to positive growth. This trend indicates a growing need for skilled professionals in the AI and ML fields. As technology continues to advance, the demand for experts in these areas is expected to rise further.
+
+SHORT-FORM SCRIPT:
+India's white-collar hiring is on the rise, with a 5% increase in July. But what's really surging is AI-ML jobs, up by 33%. The future of work is here, and it's looking tech-heavy.
+
+----------------------------------------
+ARTICLE 5: Digital Academy 360 Revolutionizes Digital Marketing Education with AI-Powered Learning
+Source: ANI (Asian News International)
+URL: https://www.aninews.in/news/business/digital-academy-360-sets-a-new-benchmark-in-digital-marketing-education-with-ai-powered-learning-and-global-career-success20260731143833/
+
+SUMMARY:
+Digital Academy 360 is revolutionizing digital marketing education with AI-powered learning, setting a new benchmark in the industry. The academy's innovative approach focuses on solving real business problems, rather than just operating marketing tools. This shift is crucial, as the digital marketing landscape is rapidly evolving with the integration of artificial intelligence, changing consumer behavior, and the need for stronger digital-first strategies. The academy's AI-powered learning platform enables students to gain practical experience and achieve global career success. By leveraging AI, Digital Academy 360 is bridging the gap between education and industry needs.
+
+SHORT-FORM SCRIPT:
+Imagine a digital marketing education that's powered by AI and focused on solving real business problems. Welcome to Digital Academy 360, where students gain practical experience and achieve global career success.
+
